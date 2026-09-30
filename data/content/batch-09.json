@@ -1,0 +1,1339 @@
+{
+ "concepts": [
+  {
+   "id": "flying-too-high",
+   "summary": "Someone gets the means to rise, whether wings, an eagle, a chariot or a throne, and rises past the height a mortal may hold. The fall that follows is the point: heaven has a ceiling, and the sky itself enforces it. The pattern turns up from Babylonian clay to Persian epic and Welsh-British pseudo-history. Some of these stories are clearly related (Isaiah's taunt draws on Canaanite myth; Geoffrey of Monmouth knew Ovid), but the core image hardly needs borrowing. Anyone who has watched a bird can imagine flight, and any society with kings has reasons to tell stories about overreach.",
+   "versions": [
+    {
+     "culture": "mesopotamian",
+     "title": "Etana on the Eagle",
+     "teaser": "A childless king rides an eagle toward heaven, and the earth shrinks beneath him.",
+     "text": "Etana, king of Kish, has no son, and the plant of birth grows only in heaven. The sun god Shamash sends him to a pit where an eagle lies with broken wings, thrown there by a serpent whose young it devoured. Etana nurses the bird back to health, and in gratitude it carries him upward on its back.\n\nThe poem stops to look down. At each stage the eagle asks Etana to look at the land, and each time the land is smaller: a mountain becomes a hill, the sea becomes a tub, and at last the earth is no bigger than a garden plot. In one version Etana loses his nerve, cries that he cannot go on, and eagle and king plunge back toward the ground.\n\nThe ending of the tablets is lost. The Sumerian King List, though, calls Etana 'the one who ascended to heaven' and names his son Balih as his successor. The flight may have worked after all.",
+     "names": [
+      "Etana",
+      "Shamash",
+      "Balih"
+     ],
+     "sources": [
+      "Etana Epic (Old Babylonian and Neo-Assyrian versions)",
+      "Sumerian King List"
+     ],
+     "caveat": "The text is fragmentary; the fall is attested in one version, and whether Etana finally succeeded is inferred from the King List.",
+     "image": {
+      "file": "File:Cylinder seal Akkadian 1931.114 Etana.jpg",
+      "caption": "Akkadian cylinder seal and modern impression from Kish, showing Etana on the eagle's back; Ashmolean Museum"
+     }
+    },
+    {
+     "culture": "levantine",
+     "title": "The Fallen Day Star",
+     "teaser": "'How you are fallen from heaven, O Day Star, son of Dawn!'",
+     "text": "Isaiah's taunt against the king of Babylon uses an older story. 'How you are fallen from heaven, O Day Star, son of Dawn!' the prophet sings. 'You said in your heart, I will ascend to heaven; above the stars of God I will set my throne on high; I will sit on the mount of assembly in the far reaches of the north; I will make myself like the Most High.' The answer is Sheol, the pit, and corpses looking up in wonder at the fallen tyrant.\n\nThe Hebrew name, Hêlēl ben Šaḥar, points to Canaanite myth, and Zaphon, 'the north', is the name of Baal's mountain. At Ugarit a god called Athtar is set on Baal's throne while Baal is dead, but his feet do not reach the footstool and his head does not reach the top. He climbs down and rules the earth instead.\n\nLatin translators rendered the Day Star as Lucifer, and a king's comeuppance became the fall of Satan.",
+     "names": [
+      "Hêlēl ben Šaḥar",
+      "Athtar",
+      "Baal"
+     ],
+     "sources": [
+      "Isaiah 14:12–15",
+      "Baal Cycle (KTU 1.6 I)"
+     ],
+     "caveat": "The mythic background is a scholarly reconstruction; the Athtar episode is a failed enthronement rather than a flight, and the Lucifer reading is later Christian interpretation."
+    },
+    {
+     "culture": "greek",
+     "title": "Icarus",
+     "teaser": "Wings of feathers and wax, a father's warning, and the sea below.",
+     "text": "Daedalus, the Athenian craftsman, is trapped on Crete by King Minos. Minos controls land and sea, so Daedalus takes to the air. He lays out feathers in order of size, binds the middle with thread and the ends with wax, and bends them into a gentle curve, as real wings are curved. He fits a pair to his son Icarus and warns him to fly the middle course: too low and the spray will weigh the feathers down, too high and the sun will scorch them.\n\nThey rise. Ovid gives us the watchers below, an angler with his rod, a shepherd on his crook, a ploughman at his plough, who see them pass and take them for gods. Then the boy, delighted, leaves his guide and climbs. The wax softens, the feathers scatter, and Icarus beats bare arms, calling his father's name, until the dark water closes over him. The sea still bears his name, and Daedalus buries him on the island of Icaria.",
+     "names": [
+      "Daedalus",
+      "Icarus",
+      "Minos"
+     ],
+     "sources": [
+      "Ovid, Metamorphoses 8",
+      "Apollodorus, Epitome 1.12–13"
+     ],
+     "image": {
+      "file": "File:Pieter Bruegel de Oude - De val van Icarus.jpg",
+      "caption": "Landscape with the Fall of Icarus, copy after Pieter Bruegel the Elder; Royal Museums of Fine Arts, Brussels"
+     }
+    },
+    {
+     "culture": "greek",
+     "title": "Phaethon's Ride",
+     "teaser": "A boy borrows the sun's chariot for a single day.",
+     "text": "Phaethon is mocked by a friend who says he is not really the son of the Sun. So he travels east to the palace of Helios and asks for proof. The god swears by the Styx to grant any wish, and Phaethon asks to drive the sun chariot for one day. Helios regrets the oath at once. Not even Jupiter, he says, could manage those horses.\n\nThe horses feel the light weight in the car and bolt from the track. They climb so high that the constellations shrink back from the heat, then drop so low that the earth catches fire. In Ovid's account the Libyan desert and the dark skin of the Ethiopians date from that day. Earth herself, her hair singed, begs Jupiter to act. He hurls a thunderbolt, and Phaethon falls blazing into the river Eridanus. His sisters mourn him on the bank until they turn into poplars, and their tears harden into amber.",
+     "names": [
+      "Phaethon",
+      "Helios",
+      "Jupiter",
+      "Heliades"
+     ],
+     "sources": [
+      "Ovid, Metamorphoses 1–2",
+      "Euripides, Phaethon (fragments)"
+     ],
+     "image": {
+      "file": "File:Peter Paul Rubens - The Fall of Phaeton (National Gallery of Art).jpg",
+      "caption": "The Fall of Phaeton, Peter Paul Rubens, c. 1604–1605; National Gallery of Art, Washington"
+     }
+    },
+    {
+     "culture": "indian",
+     "people": "Sanskrit epic",
+     "title": "Sampāti's Burnt Wings",
+     "teaser": "Two vulture brothers race the sun; one shields the other and falls.",
+     "text": "When they were young, the vulture brothers Sampāti and Jaṭāyu made a wager and flew up toward the sun. As they came near its disc, Jaṭāyu began to faint in the heat. Sampāti spread his own wings over his younger brother. His feathers burned away, and he fell onto the Vindhya mountains, where he lived for ages without flight.\n\nA sage told him that he would get his wings back by doing a service to Rāma. Long afterward, the monkey army searching for Sītā sits on that same mountain, ready to starve, and talks about the death of Jaṭāyu, killed fighting Rāvaṇa. Sampāti hears his brother's name. With his far-seeing eyes he tells them that Sītā is held in Laṅkā across the sea. As he speaks, new wings sprout from his body.\n\nIn this version of the story, the one who flew too high did it out of love for his brother, not pride.",
+     "names": [
+      "Sampāti",
+      "Jaṭāyu",
+      "Rāma",
+      "Sītā"
+     ],
+     "sources": [
+      "Vālmīki, Rāmāyaṇa, Kiṣkindhā Kāṇḍa"
+     ],
+     "image": {
+      "file": "File:Hanuman with Jambavan and Angada Meet Sampati, the Elder Brother of Jatayu - 1700-1800.jpg",
+      "caption": "Hanuman, Jambavan and Angada meet Sampāti, Indian painting, 18th century"
+     }
+    },
+    {
+     "culture": "persian",
+     "title": "Kay Kāvus's Flying Throne",
+     "teaser": "A shah harnesses hungry eagles to his throne and aims for the heavens.",
+     "text": "Kay Kāvus, the most headstrong of the Kayanian shahs, has conquered the earth, and a demon sent by Iblis whispers that the heavens remain. Why should the king not learn the secrets of the sun and moon?\n\nKāvus has eaglets raised on meat until they are strong. He makes a throne of aloe-wood and gold and sets spears at its corners with legs of lamb tied to their tips. The four eagles are bound to the throne, and they strain upward toward meat they can never reach. The throne rises into the clouds.\n\nIn the end hunger and exhaustion beat ambition. The eagles tire and the throne crashes down in a wilderness. Rostam and the nobles search until they find their shah, humiliated and unhurt, and the old counsellor Gudarz tells him that he should be kept in a madhouse. Kāvus repents with tears. For a while.",
+     "names": [
+      "Kay Kāvus",
+      "Iblis",
+      "Rostam",
+      "Gudarz"
+     ],
+     "sources": [
+      "Ferdowsi, Shāhnāmeh"
+     ],
+     "image": {
+      "file": "File:Kay Kāvus on his flying throne.jpg",
+      "caption": "Kay Kāvus borne aloft by eagles, illumination from a Shāhnāmeh manuscript, 1674"
+     }
+    },
+    {
+     "culture": "celtic",
+     "people": "British (Geoffrey of Monmouth)",
+     "title": "Bladud's Wings",
+     "teaser": "A British king who founded Bath fits himself with wings over London.",
+     "text": "Geoffrey of Monmouth's history of the kings of Britain includes Bladud, a king skilled in strange arts. He builds the city of Kaerbadum, later Bath, builds hot baths there for the healing of the sick, and he teaches necromancy throughout the kingdom.\n\nThen he goes too far. Bladud makes himself a pair of wings and tries to fly through the upper air. He comes down on the temple of Apollo in Trinovantum, the old name for London, and is dashed to pieces. His son Leir, the same Leir whom Shakespeare later made Lear, succeeds him.\n\nGeoffrey tells the story in a few flat sentences. Later antiquarians added more, including a tale in which Bladud, as a leprous prince, is cured when he follows his pigs into the healing mud of Bath.",
+     "names": [
+      "Bladud",
+      "Leir"
+     ],
+     "sources": [
+      "Geoffrey of Monmouth, Historia Regum Britanniae 2.10"
+     ],
+     "caveat": "Geoffrey's history (c. 1136) is largely invented pseudo-history, and the flight may echo classical Daedalus stories rather than native Brittonic myth; the pig legend is much later.",
+     "image": {
+      "file": "File:Bladud (MS Roll 1066).jpg",
+      "caption": "Bladud in a genealogical chronicle of the kings of England, c. 1461 (University of Pennsylvania, MS Roll 1066)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sacrifice-of-a-child",
+   "summary": "A parent is asked, or bound by a vow, to give a child to a god. The stories split along one line: in some the knife is stopped and a substitute is found, and in others the vow is kept. Many scholars read the substitution stories as memories of real practice, or of a turn away from it, and tie them to arguments about vows, kingship and what gods may rightly ask. The parallels are mostly independent. What they share is the worry, but the answers differ: a ram, a deer, a hymn, a pot of gold, or nothing at all.",
+   "versions": [
+    {
+     "culture": "levantine",
+     "title": "The Binding of Isaac",
+     "teaser": "'God will provide the lamb,' says Abraham, as they climb the mountain.",
+     "text": "'Take your son, your only son, whom you love, Isaac,' God says, and tells Abraham to offer him as a burnt offering on a mountain in the land of Moriah. Abraham rises early, saddles his donkey and splits the wood. After three days' journey he sees the place far off.\n\nThe story is told with great restraint. Isaac carries the wood and his father carries the fire and the knife. 'Here is the fire and the wood, but where is the lamb?' the boy asks. 'God will provide the lamb, my son.' Abraham builds the altar, binds Isaac, lays him on the wood and takes the knife.\n\nAn angel calls from heaven: do not lay your hand on the boy. Abraham looks up and sees a ram caught in a thicket by its horns, and offers it instead. He names the place 'YHWH will provide.' In Jewish tradition the episode is called the Akedah, 'the binding', and it is read every year at the New Year.",
+     "names": [
+      "Abraham",
+      "Isaac"
+     ],
+     "sources": [
+      "Genesis 22"
+     ],
+     "image": {
+      "file": "File:Sacrifice of Isaac-Caravaggio (Uffizi).jpg",
+      "caption": "The Sacrifice of Isaac, Caravaggio, c. 1603; Uffizi, Florence"
+     }
+    },
+    {
+     "culture": "indian",
+     "people": "Vedic",
+     "title": "Śunaḥśepa at the Stake",
+     "teaser": "A boy sold to be sacrificed sings the gods until his bonds fall away.",
+     "text": "King Hariścandra has no son, and he promises Varuṇa that if one is born he will sacrifice him to the god. Rohita is born, and the king keeps putting off the offering: when the boy has teeth, when he has lost them, when he can bear arms. Once Rohita is grown he takes his bow and goes to the forest. Varuṇa strikes the father with dropsy.\n\nAfter six years of wandering, Rohita buys a substitute. A starving Brahmin named Ajīgarta sells him his middle son, Śunaḥśepa, for a hundred cows. When no one will bind the boy to the stake, Ajīgarta does it for another hundred, and for another hundred he sharpens the knife.\n\nŚunaḥśepa turns to the gods one after another and praises them in verse. With each verse a fetter loosens and the king's swollen belly shrinks, until with the last verse he is free and Hariścandra is well. The sage Viśvāmitra adopts him. His own father has sold him for three hundred cows.",
+     "names": [
+      "Hariścandra",
+      "Rohita",
+      "Śunaḥśepa",
+      "Ajīgarta",
+      "Varuṇa",
+      "Viśvāmitra"
+     ],
+     "sources": [
+      "Aitareya Brāhmaṇa 7.13–18",
+      "Rigveda 1.24–30 (hymns ascribed to Śunaḥśepa)"
+     ]
+    },
+    {
+     "culture": "levantine",
+     "title": "Jephthah's Daughter",
+     "teaser": "A victorious general's vow meets his only child dancing at the door.",
+     "text": "Before battle with the Ammonites, the Gileadite war leader Jephthah makes a vow: if God gives him victory, whatever comes out of his house to meet him when he returns will be offered up as a burnt offering. He wins. When he comes home to Mizpah, his daughter comes out to meet him with timbrels and dancing. She is his only child.\n\nJephthah tears his clothes, but the vow stands, and she tells him to keep it. She asks for two months to go up into the hills with her companions and mourn that she will die unmarried. Then she returns, and her father 'did with her according to his vow.' The text does not say more.\n\nShe is never given a name. According to the book, the daughters of Israel went out four days every year to lament her. No ram appears, and no angel stops him.",
+     "names": [
+      "Jephthah",
+      "Jephthah's daughter"
+     ],
+     "sources": [
+      "Judges 11:29–40"
+     ],
+     "caveat": "Some medieval commentators argued that she was dedicated to lifelong celibacy rather than killed; the plain sense of the text is sacrifice.",
+     "image": {
+      "file": "File:Degas - The Daughter of Jephthah, 1859-1860.jpg",
+      "caption": "The Daughter of Jephthah, Edgar Degas, 1859–1860"
+     }
+    },
+    {
+     "culture": "greek",
+     "title": "Iphigenia at Aulis",
+     "teaser": "The fleet cannot sail for Troy until the king's daughter dies.",
+     "text": "The Greek fleet is gathered at Aulis, but the winds are against it. Artemis is angry with Agamemnon; in the Cypria because he killed a sacred deer and boasted that he was a better hunter than the goddess. The prophet Calchas says the only remedy is Agamemnon's daughter Iphigenia.\n\nIn Euripides' play she is lured to camp with the lie that she will marry Achilles. In Aeschylus' Agamemnon the chorus remembers the scene: her saffron robe falling, her mouth gagged so that she cannot curse the house, and her eyes appealing to each man. Clytemnestra does not forgive it, and ten years later she kills Agamemnon.\n\nAn older tradition, already present in the Cypria, lets the goddess relent at the last moment. Artemis puts a deer on the altar in the girl's place and carries Iphigenia off to the Taurians, where she serves as priestess at a temple that sacrifices strangers.",
+     "names": [
+      "Iphigenia",
+      "Agamemnon",
+      "Artemis",
+      "Calchas",
+      "Clytemnestra"
+     ],
+     "sources": [
+      "Cypria (Proclus' summary)",
+      "Aeschylus, Agamemnon",
+      "Euripides, Iphigenia at Aulis"
+     ],
+     "image": {
+      "file": "File:MANNapoli 9112 Sacrifice Iphigenia painting.jpg",
+      "caption": "Iphigenia carried to sacrifice as Agamemnon veils his face, wall painting from Pompeii, 1st century CE; Naples Archaeological Museum"
+     }
+    },
+    {
+     "culture": "indian",
+     "people": "Vedic (Upaniṣadic)",
+     "title": "Naciketas Given to Death",
+     "teaser": "A father's angry words send his son to wait at Death's door.",
+     "text": "Vājaśravasa is making a great sacrifice in which he gives away everything he owns. His young son Naciketas watches the cows being led off. They are old and barren, cows that 'have drunk their water, eaten their grass, given their milk'. Gifts like that earn no merit. So the boy asks, 'Father, to whom will you give me?' He asks a second time and a third, and at the third his father snaps: 'To Death I give you!'\n\nNaciketas takes him at his word. He goes to the house of Yama and waits there three nights without food, because the god is away. When Yama returns he is troubled at having left a Brahmin guest unfed and offers three boons. Naciketas asks for his father's calm, for knowledge of a sacred fire, and then for the answer to one question: when a man dies, does he go on existing? Yama offers him wealth, long life and dancing girls instead. The boy says he will keep his question.",
+     "names": [
+      "Naciketas",
+      "Vājaśravasa",
+      "Yama"
+     ],
+     "sources": [
+      "Kaṭha Upaniṣad 1",
+      "Taittirīya Brāhmaṇa 3.11.8"
+     ]
+    },
+    {
+     "culture": "greek",
+     "title": "Phrixus and the Golden Ram",
+     "teaser": "A stepmother forges an oracle; a flying ram answers it.",
+     "text": "Athamas, king of Orchomenus in Boeotia, has two children by the cloud-goddess Nephele, Phrixus and Helle. His second wife, Ino, plots against them. She persuades the women of the land to parch the seed-corn in secret, so the fields bear nothing. When Athamas sends to Delphi, she bribes the messengers to bring back the answer that the famine will end only if Phrixus is sacrificed to Zeus.\n\nThe boy is standing at the altar when Nephele snatches both children away and puts them on a ram with a golden fleece, a gift from Hermes. The ram flies east over the sea. Helle slips off and drowns in the strait named after her, the Hellespont. Phrixus reaches Colchis, where he sacrifices the ram to Zeus and gives the fleece to King Aeëtes, who hangs it in a grove under a sleepless dragon. The fleece will eventually bring Jason and the Argonauts to Colchis.",
+     "names": [
+      "Phrixus",
+      "Helle",
+      "Athamas",
+      "Ino",
+      "Nephele",
+      "Aeëtes"
+     ],
+     "sources": [
+      "Apollodorus, Library 1.9.1"
+     ],
+     "image": {
+      "file": "File:Phrixos und Helle.jpg",
+      "caption": "Phrixus and Helle on the golden ram, Roman fresco from Pompeii (book reproduction)"
+     }
+    },
+    {
+     "culture": "chinese",
+     "title": "Guo Ju Buries His Son",
+     "teaser": "A poor man digs a grave for his child and strikes gold.",
+     "text": "Guo Ju is so poor that his old mother gives part of her own small meals to her grandson, a boy of three. Guo Ju tells his wife that they cannot feed both. 'We can have another child,' he says, 'but a mother cannot be had again.' They decide to bury the boy alive so that the grandmother will eat.\n\nGuo Ju digs the grave. Three feet down his spade strikes a pot of gold with an inscription: 'Heaven grants this to the filial son Guo Ju. Officials may not seize it; others may not take it.' The child lives, and so does the grandmother.\n\nThe story became one of the Twenty-Four Filial Exemplars and was printed and painted across East Asia for centuries. It was also argued over. Lu Xun remembered that as a child the tale left him afraid his family might grow poor, and that he would be the one in the grave.",
+     "names": [
+      "Guo Ju"
+     ],
+     "sources": [
+      "Gan Bao, Soushen ji",
+      "Twenty-Four Filial Exemplars (Yuan dynasty)"
+     ],
+     "image": {
+      "file": "File:Guo Ju from 24 Paragons of Filial Piety by Okumura Masanobu.JPG",
+      "caption": "Guo Ju, from the Twenty-four Paragons of Filial Piety, woodblock print by Okumura Masanobu, early 1730s"
+     },
+     "caveat": "This retelling follows the Yuan-dynasty Twenty-Four Filial Exemplars; Gan Bao's earlier Soushen ji version is plainer, and its inscription simply grants the filial son Guo Ju a pot of gold."
+    },
+    {
+     "culture": "norse",
+     "title": "Aun's Sons Given to Odin",
+     "teaser": "At Uppsala a king offers Odin a son every tenth year.",
+     "text": "Aun the Old, king of the Swedes, is sixty when he holds a great sacrifice for long life and gives his own son to Odin. The god's answer comes back: sixty more years. (How the bargain stretches out his life is told on the cheating-death page.) When those years have run out, Aun holds another sacrifice and offers a second son. Now Odin sets terms: Aun will live as long as he gives him a son every tenth year, and a district of the land is to be named after the number of sons he offers.\n\nSo the offering becomes a calendar. Son after son goes to Odin while the father's body fails around him, until he lies in bed drinking from a horn like an infant. When Aun means to give the tenth, Egil, the Swedes will not allow it, and the king dies.\n\nNo ram appears here, and no god stays the hand. The child is the price, and the price is paid nine times.",
+     "names": [
+      "Aun",
+      "Odin",
+      "Egil"
+     ],
+     "sources": [
+      "Snorri Sturluson, Ynglinga saga 25",
+      "Ynglingatal"
+     ],
+     "caveat": "Snorri wrote in Christian Iceland around 1230; the tale may reflect learned ideas about pagan sacrifice more than living tradition."
+    }
+   ]
+  },
+  {
+   "id": "gods-in-disguise",
+   "summary": "A stranger comes to the door, dusty and unannounced, and the household's response decides its fate. In story after story the stranger is a god, and the visit turns out to be a test. The humble host who kills the last goose, or bakes cakes in the heat of the day, is rewarded. The proud one who turns the traveller away, or tortures him, is destroyed. The motif (Stith Thompson's K1811, 'gods in disguise visit mortals') is found widely. Scholars usually tie it to the ancient laws of hospitality, which protected strangers in societies without inns or police, and not to any single original tale.",
+   "versions": [
+    {
+     "culture": "levantine",
+     "title": "Abraham's Three Visitors",
+     "teaser": "Three men appear at noon; Sarah laughs behind the tent flap.",
+     "text": "Abraham is sitting at the entrance of his tent by the oaks of Mamre in the heat of the day when he looks up and sees three men standing nearby. He runs to meet them, bows to the ground and asks them not to pass by. He offers a little water and a morsel of bread, then brings a feast: cakes baked by Sarah from three measures of fine flour, a tender calf, curds and milk. He stands under the tree while they eat.\n\n'Where is Sarah your wife?' they ask, and one promises that by this time next year she will have a son. Sarah, listening at the tent door, laughs to herself. She is old and past childbearing. 'Is anything too wonderful for YHWH?'\n\nThe text moves between 'three men', 'angels' and the LORD himself. Two go on to Sodom, where only Lot takes them in. By morning the city's treatment of strangers has sealed its fate.",
+     "names": [
+      "Abraham",
+      "Sarah",
+      "Lot"
+     ],
+     "sources": [
+      "Genesis 18–19"
+     ],
+     "image": {
+      "file": "File:Rembrandt Abraham Serving the Three Angels.jpg",
+      "caption": "Abraham Serving the Three Angels, Rembrandt, 1646"
+     }
+    },
+    {
+     "culture": "greek",
+     "title": "Demeter at Eleusis",
+     "teaser": "A grieving goddess, disguised as an old nurse, sits down beside a well.",
+     "text": "While searching for her stolen daughter, Demeter takes the form of an old woman past childbearing and sits by the Maiden's Well at Eleusis. She tells the king's daughters that she is Doso, escaped from pirates, and they take her home to their mother Metaneira. The goddess enters and her head touches the roof beam, and a divine light fills the doorway. Metaneira is struck with awe, though she does not know why.\n\nShe will not sit or drink wine until the servant Iambe's joking makes her laugh. She asks instead for barley water mixed with pennyroyal. Metaneira gives her the baby Demophon to nurse, and at night Demeter anoints him with ambrosia and lays him in the fire to burn away his mortality. Metaneira spies on her and screams.\n\nThen the disguise falls away. The goddess is tall and fragrant, and the house fills with light. She scolds the foolishness of mortals and orders a temple to be built. The Eleusinian Mysteries are said to begin here.",
+     "names": [
+      "Demeter",
+      "Metaneira",
+      "Keleos",
+      "Iambe",
+      "Demophon"
+     ],
+     "sources": [
+      "Homeric Hymn to Demeter"
+     ],
+     "image": {
+      "file": "File:Varrese Painter - RVAp 13-30d - Metaneira receiving Demeter - Berlin AS 1984-46 - 01.jpg",
+      "caption": "Apulian red-figure hydria attributed to the Varrese Painter, with Metaneira receiving Demeter; Antikensammlung Berlin"
+     }
+    },
+    {
+     "culture": "greek",
+     "title": "Lycaon's Table",
+     "teaser": "Jupiter visits Arcadia as a traveller and is served human flesh.",
+     "text": "Rumours of human wickedness reach Olympus, and Jupiter goes down to see for himself, a god in human form. In Arcadia he enters the house of King Lycaon and gives a sign of his divinity. The common people begin to pray, but Lycaon laughs and resolves to test whether his guest is really a god.\n\nHe plans to murder him in his sleep. First he cuts the throat of a hostage, boils part of the flesh and roasts the rest, and sets it before the god as dinner. Jupiter's fire brings the house down on its master. Lycaon runs out into the silent fields and tries to speak, but only howls. His clothes turn to fur and his arms to legs, and he becomes a wolf, still grey, still savage, still with the same fierce eyes. What Jupiter saw on that visit is his reason for sending the Flood.",
+     "names": [
+      "Jupiter",
+      "Lycaon"
+     ],
+     "sources": [
+      "Ovid, Metamorphoses 1",
+      "Apollodorus, Library 3.8.1"
+     ]
+    },
+    {
+     "culture": "greek",
+     "title": "Baucis and Philemon",
+     "teaser": "A thousand doors are shut in Phrygia; one poor cottage opens.",
+     "text": "Jupiter and Mercury, disguised as mortals, wander through Phrygia looking for a place to rest. A thousand houses shut their doors. At last they come to a small hut thatched with reeds and marsh grass, where an old couple, Baucis and Philemon, have grown old together in poverty and without shame.\n\nOvid enjoys every detail of the meal. Baucis props the table's short leg with a potsherd. There are olives, cherries pickled in wine lees, radishes, cheese and eggs roasted in the ashes. The wine bowl keeps filling itself. Frightened, the couple try to catch their only goose to kill it for the guests, but the goose runs to the gods for protection.\n\nThe gods reveal themselves and lead the couple up a hill. Below them a flood drowns the valley, and their hut becomes a marble temple. Their one wish is to die together. In extreme old age, on the temple steps, each sees the other putting out leaves, and they become an oak and a linden.",
+     "names": [
+      "Baucis",
+      "Philemon",
+      "Jupiter",
+      "Mercury"
+     ],
+     "sources": [
+      "Ovid, Metamorphoses 8.611–724"
+     ],
+     "image": {
+      "file": "File:Workshop of Peter Paul Rubens - Jupiter and Mercury at Philemon and Baucis.jpg",
+      "caption": "Jupiter and Mercury with Philemon and Baucis, workshop of Peter Paul Rubens, c. 1620–1625"
+     }
+    },
+    {
+     "culture": "indian",
+     "people": "Buddhist Jātaka",
+     "title": "The Hare in the Moon",
+     "teaser": "Offered a meal by a hungry Brahmin, the hare offers itself.",
+     "text": "In one of his former lives the Bodhisatta is a hare living in a forest with three friends: a monkey, a jackal and an otter. The hare teaches them that on holy days one should give alms. Sakka, king of the gods, decides to test them and appears as a hungry Brahmin. The otter brings fish it has found, the jackal brings a lizard and a pot of curds, and the monkey brings mangoes.\n\nThe hare eats only grass, and grass is no gift for a man. So he tells the Brahmin to build a fire and leaps into it, shaking himself first so that no small creature in his fur will burn with him. The flames feel cool as snow. Sakka reveals himself, and so that the hare's virtue will be remembered for the whole aeon, he squeezes a mountain and paints the shape of a hare on the face of the moon with its essence.",
+     "names": [
+      "Bodhisatta",
+      "Sakka"
+     ],
+     "sources": [
+      "Sasa Jātaka (Jātaka 316)",
+      "Āryaśūra, Jātakamālā 6"
+     ]
+    },
+    {
+     "culture": "japanese",
+     "title": "Somin Shōrai",
+     "teaser": "A god turned away by the rich brother is fed by the poor one.",
+     "text": "A god from the northern sea is travelling to woo a wife when night falls. He asks for lodging from Kotan Shōrai, a rich man with a hundred storehouses, and is refused. His poor brother, Somin Shōrai, takes him in, seats him on a mat of millet straw and feeds him millet.\n\nYears later the god comes back with his eight sons. He tells Somin to tie a small ring of reeds around the waist of each of his own people. That night he destroys every other person in the house, leaving only those wearing the ring. Then he gives his name: Haya-Susa-no-wo. From now on, he says, whenever plague comes, anyone who says they are a descendant of Somin Shōrai and wears a reed ring will be spared.\n\nShrines all over Japan still hand out Somin Shōrai charms. The great reed rings people walk through at the midsummer purification are said to come from this story.",
+     "names": [
+      "Somin Shōrai",
+      "Kotan Shōrai",
+      "Susanoo"
+     ],
+     "sources": [
+      "Bingo no kuni fudoki (fragment quoted in the Shaku Nihongi)"
+     ],
+     "caveat": "The fudoki passage survives only as a quotation in a 13th-century commentary, and its date and authenticity are debated.",
+     "image": {
+      "file": "File:Sominshorai.jpg",
+      "caption": "A Somin Shōrai charm (omamori) from a Gion shrine in Kobe"
+     }
+    },
+    {
+     "culture": "norse",
+     "title": "Odin as Grímnir",
+     "teaser": "A stingy king tortures a cloaked stranger between two fires.",
+     "text": "Frigg taunts Odin that his foster son, King Geirröðr, is so stingy that he tortures guests if too many arrive. Odin goes to see for himself, wearing a blue cloak and calling himself Grímnir, 'the masked one'. Frigg, meanwhile, has warned the king that a sorcerer is coming. Geirröðr's dogs will not attack the stranger. Grímnir will say nothing but his name, so the king sets him between two fires for eight nights without food.\n\nOnly the king's ten-year-old son Agnarr pities him and brings him a full horn to drink. Then the stranger begins to speak. Heat scorches his cloak as he recites the halls of the gods, the rivers, the world-tree and his own many names, until he names himself Odin. Geirröðr jumps up to pull him from the fire, and his sword slips from his hand. He falls on it and dies, and Agnarr becomes king.",
+     "names": [
+      "Odin",
+      "Grímnir",
+      "Geirröðr",
+      "Agnarr",
+      "Frigg"
+     ],
+     "sources": [
+      "Grímnismál (prose prologue and epilogue)"
+     ],
+     "image": {
+      "file": "File:Grímnir and Agnar by George Wright.jpg",
+      "caption": "Agnarr offers a drink to Odin as Grímnir, illustration by George Wright, 1908"
+     }
+    },
+    {
+     "culture": "norse",
+     "title": "Rígr Walks the Roads",
+     "teaser": "A wandering god sleeps in three houses and fathers three kinds of people.",
+     "text": "A god calling himself Rígr walks the green roads, 'strong and wise'. The prose preface says he is Heimdallr. He stops at three houses in turn and is welcomed at each.\n\nIn the first, great-grandfather Ái and great-grandmother Edda give him coarse bread, heavy with husks, and broth. In the second, grandfather Afi is shaping a loom-beam, and grandmother Amma is spinning. In the third, Father and Mother live in a fine hall, with a white tablecloth, silver dishes, pork and wine. At each house Rígr gives advice and sleeps three nights in the middle of the bed, between husband and wife.\n\nNine months later each house has a son. Edda bears Þræll, 'thrall', sun-burnt and gnarl-handed. Amma bears Karl, the free farmer. Mother bears Jarl, bright-haired, who learns runes and war, and whose line leads to kings. The god takes the hospitality of each house and leaves a social order behind.",
+     "names": [
+      "Rígr",
+      "Heimdallr",
+      "Þræll",
+      "Karl",
+      "Jarl"
+     ],
+     "sources": [
+      "Rígsþula"
+     ],
+     "caveat": "Rígsþula is preserved only in Codex Wormianus, and its date (anything from the 10th to the 13th century) and possible Irish influence (rí, 'king') are debated.",
+     "image": {
+      "file": "File:Heimdall i Rigs skepnad.jpg",
+      "caption": "Heimdallr in the guise of Rígr, Swedish book illustration"
+     }
+    }
+   ]
+  },
+  {
+   "id": "bound-one",
+   "summary": "Some enemies are too strong or too important to kill, so they are bound instead. They are chained to a rock, fettered with a magic cord or nailed inside a mountain until the world ends. The bound one is often a rebel against the gods, and his captivity often explains something: earthquakes, the working of the cosmos, or the violence expected at the end. The idea is widespread in Eurasia, and some cases may be related, since the Caucasus stories of Prometheus and the Georgian Amirani share details. Others likely arose independently. When a story needs a threat that is postponed but never removed, a prisoner is an obvious choice.",
+   "versions": [
+    {
+     "culture": "egyptian",
+     "title": "Apep in Chains",
+     "teaser": "Each night the chaos serpent is caught, cut and fettered, but never killed.",
+     "text": "Every night the sun god sails through the underworld in his barque, and every night the great serpent Apep, or Apophis, lies in wait to swallow him and return the world to darkness. Apep cannot be destroyed, because he belongs to the chaos that existed before creation. He can only be stopped.\n\nThe New Kingdom books of the underworld show how. In the Amduat the scorpion goddess Serqet and her helper hold the serpent while knives are driven into his coils. In the Book of Gates, a line of gods holds him with ropes and chains, and he is pinned down at the neck. Temple priests recited spells to help, and in the Books of Overthrowing Apep they made wax figures of the snake, then spat on them, speared them and burned them.\n\nThe binding is never final. The next night Apep is waiting again.",
+     "names": [
+      "Apep",
+      "Ra",
+      "Serqet",
+      "Set"
+     ],
+     "sources": [
+      "Amduat, Seventh Hour",
+      "Book of Gates",
+      "Papyrus Bremner-Rhind (Books of Overthrowing Apep)"
+     ],
+     "caveat": "Apep's bondage is repeated nightly rather than lasting until the end of time, so it is a variant of the motif."
+    },
+    {
+     "culture": "greek",
+     "title": "Prometheus on the Rock",
+     "teaser": "An eagle eats the fire-thief's liver each day, and it grows back each night.",
+     "text": "Prometheus, the Titan, twice tricks Zeus on behalf of humankind. First he arranges the sacrifice so that people keep the meat and the gods get the bones wrapped in fat. Then he steals fire back in a hollow fennel stalk after Zeus has hidden it. Hesiod tells how Zeus binds him with unbreakable fetters driven through a pillar and sends a long-winged eagle to eat his immortal liver. Each night the liver grows back as much as the bird ate during the day.\n\nIn Aeschylus' Prometheus Bound, Hephaestus, reluctantly, and Might and Violence fasten him to a crag at the edge of the world, with a wedge driven through his chest. Prometheus does not give in. He knows a secret that could bring down Zeus. Later tradition places the rock in the Caucasus. In Hesiod, Heracles eventually shoots the eagle with Zeus's approval, so that his own fame will grow.",
+     "names": [
+      "Prometheus",
+      "Zeus",
+      "Hephaestus",
+      "Heracles"
+     ],
+     "sources": [
+      "Hesiod, Theogony 521–616",
+      "Aeschylus, Prometheus Bound"
+     ],
+     "image": {
+      "file": "File:Rubens - Prometheus Bound.jpg",
+      "caption": "Prometheus Bound, Peter Paul Rubens and Frans Snyders, c. 1611–1618; Philadelphia Museum of Art"
+     }
+    },
+    {
+     "culture": "levantine",
+     "people": "Second Temple Jewish",
+     "title": "Azazel in Dudael",
+     "teaser": "A fallen Watcher is thrown into a desert pit and buried under jagged rocks.",
+     "text": "In the Book of the Watchers, angels called Watchers come down to earth, take human wives and father giants. Their leader in teaching is Azazel, who shows men how to forge swords and shields and shows women bracelets, cosmetics and precious stones. Violence spreads across the earth.\n\nGod tells the archangel Raphael: 'Bind Azazel hand and foot and cast him into the darkness.' An opening is made in the desert at Dudael, and Azazel is thrown into it. Rough, jagged stones are piled on top of him, and his face is covered so that he will not see the light. He is to stay there until the great day of judgment, when he will be thrown into the fire. The other Watchers are bound under the hills for seventy generations.\n\nThe name Azazel comes from the scapegoat ritual in Leviticus 16, in which a goat is sent 'to Azazel' in the wilderness.",
+     "names": [
+      "Azazel",
+      "Raphael",
+      "Watchers"
+     ],
+     "sources": [
+      "1 Enoch 8–10 (Book of the Watchers)",
+      "Leviticus 16"
+     ],
+     "caveat": "1 Enoch is not part of the Hebrew Bible (it is canonical only in the Ethiopian Orthodox churches); its oldest part, the Book of the Watchers, dates to around the 3rd century BCE."
+    },
+    {
+     "culture": "persian",
+     "title": "Zahhāk in Mount Damāvand",
+     "teaser": "The serpent-shouldered tyrant is nailed inside a mountain until the last days.",
+     "text": "Zahhāk, the Arab prince who took the throne of Iran, has two black serpents growing from his shoulders where Iblis kissed him. They are fed each day on the brains of two young men. After a thousand years of tyranny the smith Kāveh raises his leather apron as a banner, and the young hero Fereydun strikes Zahhāk down with an ox-headed mace.\n\nBut Fereydun does not kill him. The angel Sorush tells him that the time for Zahhāk's death has not yet come. So he is bound fast and carried to Mount Damāvand, where he is chained in a deep cave and nailed to the rock.\n\nThe older Zoroastrian books explain why. If the dragon Aži Dahāka were cut open, snakes, scorpions and other vermin would pour out and fill the world. At the end of time he will break free and devour a third of creation, and the hero Kərəsāspa will be woken to kill him with a club.",
+     "names": [
+      "Zahhāk",
+      "Aži Dahāka",
+      "Fereydun",
+      "Kāveh",
+      "Sorush",
+      "Kərəsāspa"
+     ],
+     "sources": [
+      "Ferdowsi, Shāhnāmeh",
+      "Bundahišn",
+      "Dēnkard"
+     ],
+     "image": {
+      "file": "File:Baysonghori Shahnameh 6 The tyrant Zahhak is nailed to the walls of a cave in Mount Damavand.jpg",
+      "caption": "Zahhāk nailed in a cave of Mount Damāvand, Shāhnāmeh illustration, 17th century"
+     }
+    },
+    {
+     "culture": "chinese",
+     "title": "Wuzhiqi under Tortoise Mountain",
+     "teaser": "Yu the Great chains a water monster at the bottom of the Huai river.",
+     "text": "When Yu the Great is taming the floods, three times he reaches Tongbai mountain and three times thunder and wind stop the work. The cause is the spirit of the Huai and Guo rivers, Wuzhiqi. It is shaped like an ape, with a snub nose and a high forehead, a green body and a white head, golden eyes and snow-white teeth. Its neck can stretch a hundred feet, and it is stronger than nine elephants.\n\nYu's helper Gengchen finally subdues it. A great chain is locked around its neck, a gold bell is hung through its nose, and it is fixed at the foot of Guishan, Tortoise Mountain, so that the Huai can flow quietly to the sea.\n\nThe tale is told within a Tang-dynasty story. In that story fishermen find a chain in the river and haul it up with a team of oxen. A huge ape-like beast rises out of the water, looks around with blazing eyes and then drags the chain and the oxen back down.",
+     "names": [
+      "Wuzhiqi",
+      "Yu the Great",
+      "Gengchen"
+     ],
+     "sources": [
+      "Taiping guangji (tale of Li Tang, quoting the 'Gu Yue du jing')"
+     ],
+     "caveat": "This is a Tang literary tale presenting itself as ancient lore, not part of the early Yu legends; scholars have linked Wuzhiqi to the later Monkey King."
+    },
+    {
+     "culture": "norse",
+     "title": "The Binding of Fenrir",
+     "teaser": "A ribbon made of six impossible things holds the wolf until the world ends.",
+     "text": "The gods raise the wolf Fenrir, Loki's son, among themselves, and only Týr dares to feed him. He grows so quickly, and the prophecies are so dark, that the gods decide to bind him. He snaps the fetter Læðingr, then Drómi, which is twice as strong.\n\nSo the dwarves make Gleipnir. It is as soft as a silk ribbon, and it is made of six things: the sound of a cat's footfall, a woman's beard, the roots of a mountain, a bear's sinews, a fish's breath and a bird's spittle. That, says Snorri, is why none of these things exist anymore. The wolf suspects a trick and agrees to be bound only if one god puts a hand in his mouth as a pledge. Týr does. The ribbon holds, and Týr loses his hand.\n\nFenrir is tied to a rock deep in the earth with a sword propped between his jaws. His slaver becomes the river Ván. At Ragnarök he will break loose and swallow Odin.",
+     "names": [
+      "Fenrir",
+      "Týr",
+      "Gleipnir",
+      "Odin"
+     ],
+     "sources": [
+      "Snorri Sturluson, Gylfaginning 34, 51"
+     ],
+     "image": {
+      "file": "File:SÁM 66, 78v, Fenrir and Týr.jpg",
+      "caption": "Fenrir bites off Týr's hand, Icelandic manuscript SÁM 66, 1765–1766"
+     }
+    },
+    {
+     "culture": "norse",
+     "title": "Loki Bound",
+     "teaser": "Tied with his son's entrails, Loki makes the earth shake as the venom drips.",
+     "text": "After Baldr's death Loki flees and hides as a salmon in the waterfall of Fránangr. The gods sweep the river with a net he invented himself, and Thor catches him by the tail as he leaps. That, Snorri says, is why the salmon narrows at the tail.\n\nThey take him to a cave and stand three stones on edge. Loki's son Váli is turned into a wolf and tears his brother Narfi apart, and the gods bind Loki with Narfi's guts, which then turn to iron. The giantess Skaði hangs a venomous snake above his face. His wife Sigyn stands by him with a bowl to catch the venom. When the bowl is full and she turns to empty it, the poison drips onto his face, and his writhing shakes the whole earth. People call that an earthquake.\n\nThere he will lie until Ragnarök. The seeress of Völuspá has already seen him there, 'the lover of harm'.",
+     "names": [
+      "Loki",
+      "Sigyn",
+      "Skaði",
+      "Narfi",
+      "Váli",
+      "Thor"
+     ],
+     "sources": [
+      "Snorri Sturluson, Gylfaginning 50",
+      "Lokasenna (closing prose)",
+      "Völuspá 35"
+     ],
+     "image": {
+      "file": "File:Loki und Sigyn by Johannes Gehrts.jpg",
+      "caption": "Sigyn holds the bowl over the bound Loki, Johannes Gehrts, 1901"
+     }
+    }
+   ]
+  },
+  {
+   "id": "world-serpent",
+   "summary": "A serpent large enough to hold the world appears in several forms. It may coil around the earth, lie in the cosmic ocean, or support the ground on its hoods. It may guard the order of things or threaten it, and often the same coils do both. The image of a snake biting its own tail, the ouroboros, goes back to Egypt and reached late antique magic and alchemy. Beyond such traceable lines of influence, the parallels are best explained by a common logic. The snake sheds its skin and seems to renew itself, it lives in water and underground, and a coiled body makes an obvious boundary.",
+   "versions": [
+    {
+     "culture": "egyptian",
+     "title": "Mehen and the Tail-Biter",
+     "teaser": "A serpent coils around the sun god, and another encircles the world.",
+     "text": "In Egyptian thought the ordered world is a bubble within the dark waters of Nun, and serpents mark its edges. On the gilded shrines of Tutankhamun, a mummified figure is surrounded at head and feet by two serpents, each with its tail in its mouth. It is the oldest known ouroboros. The accompanying text, the so-called Enigmatic Book of the Netherworld, is written in deliberately obscure script.\n\nIn the underworld books the serpent Mehen, 'the Coiled One', wraps itself around the shrine of the sun god in his night barque, protecting him from Apep. The same kind of body that threatens the sun is used to shield it.\n\nIn Book of the Dead spell 175, Atum tells Osiris that at the end he will destroy everything he made and the world will return to the primeval waters. Only he and Osiris will remain, in the form of serpents that no one knows.",
+     "names": [
+      "Mehen",
+      "Ra",
+      "Atum",
+      "Osiris",
+      "Apep"
+     ],
+     "sources": [
+      "Enigmatic Book of the Netherworld (shrine of Tutankhamun)",
+      "Amduat",
+      "Book of the Dead, spell 175"
+     ],
+     "caveat": "The encircling serpent is attested mainly in iconography and brief texts; there is no single Egyptian myth of a world-girdling snake.",
+     "image": {
+      "file": "File:Ra-Osiris in the Enigmatic Book.JPG",
+      "caption": "The united Ra-Osiris encircled by tail-biting serpents, from the second gilded shrine of Tutankhamun"
+     }
+    },
+    {
+     "culture": "levantine",
+     "title": "Leviathan",
+     "teaser": "The twisting serpent of the sea, crushed at creation and slain at the end.",
+     "text": "The Hebrew Bible remembers a sea dragon that God defeated at the beginning. 'You crushed the heads of Leviathan,' says Psalm 74, among the acts of creation. Job's Leviathan cannot be caught with a hook, 'out of his mouth go flaming torches', and 'he makes the deep boil like a pot'. Psalm 104, by contrast, has God create Leviathan to play in the sea.\n\nIsaiah moves the battle to the end of time: 'On that day YHWH with his hard and great and strong sword will punish Leviathan the fleeing serpent, Leviathan the twisting serpent, and he will slay the dragon that is in the sea.' The words match Ugaritic texts almost exactly. There Baal smites Lotan, 'the fleeing serpent, the twisting serpent, the mighty one with seven heads'.\n\nThe rabbis of the Talmud added that the flesh of Leviathan would be served to the righteous at a banquet in the world to come.",
+     "names": [
+      "Leviathan",
+      "Lotan",
+      "YHWH",
+      "Baal"
+     ],
+     "sources": [
+      "Isaiah 27:1",
+      "Psalm 74:13–14",
+      "Psalm 104:26",
+      "Job 41",
+      "Baal Cycle (KTU 1.5 I)",
+      "Babylonian Talmud, Bava Batra 74b–75a"
+     ],
+     "caveat": "Leviathan is a cosmic sea monster rather than a serpent literally encircling the world; that image appears only in some later Jewish and Christian writers.",
+     "image": {
+      "file": "File:Destruction of Leviathan.png",
+      "caption": "The Destruction of Leviathan, engraving by Gustave Doré, 1865"
+     }
+    },
+    {
+     "culture": "indian",
+     "people": "Sanskrit epic and Purāṇic",
+     "title": "Śeṣa, the Remainder",
+     "teaser": "The thousand-hooded serpent holds up the earth and serves as Vishnu's bed.",
+     "text": "Śeṣa is the eldest son of Kadrū, mother of serpents. He is disgusted by the spite of his brothers and leaves them to practise austerities, living on air on mountains and at sacred fords. Brahmā is pleased with him and gives him a task. He is to go beneath the earth, which trembles on its mountains and forests, and hold it steady on his head.\n\nHis other name is Ananta, 'Endless'. In the Purāṇas he floats on the cosmic ocean between world-ages, and Vishnu lies asleep on his coils, sheltered by his many hoods. From Vishnu's navel a lotus grows, and Brahmā sits on it, ready to begin creation again. Śeṣa means 'remainder': what is left when a cycle ends. At the dissolution, fire pours from his mouths and burns the worlds.",
+     "names": [
+      "Śeṣa",
+      "Ananta",
+      "Kadrū",
+      "Brahmā",
+      "Vishnu"
+     ],
+     "sources": [
+      "Mahābhārata, Ādi Parva (Āstīka)",
+      "Viṣṇu Purāṇa",
+      "Bhāgavata Purāṇa"
+     ],
+     "image": {
+      "file": "File:Anantashayana Vishnu.jpg",
+      "caption": "Vishnu reclining on the serpent Śeṣa, rock relief, 9th century"
+     }
+    },
+    {
+     "culture": "norse",
+     "title": "Jörmungandr",
+     "teaser": "Loki's son grows around the world, and Thor hooks him once.",
+     "text": "Loki and the giantess Angrboða have three monstrous children. Odin throws the serpent into the deep sea, and there it grows until it lies around all the lands and bites its own tail. Its name is Jörmungandr, the 'mighty staff', and it is also called the Midgard Serpent.\n\nThor meets it three times. Once, in the hall of Útgarða-Loki, he fails to lift a grey cat, which turns out to be the serpent itself. Later he goes fishing with the giant Hymir and baits a great hook with the head of an ox. The serpent takes it, and Thor pulls so hard that his feet break through the boat onto the sea floor. The serpent's head rises, spitting venom, and Thor raises his hammer. Then Hymir, terrified, cuts the line.\n\nAt Ragnarök they meet for the last time. Thor kills the serpent, walks nine steps and falls dead from its poison.",
+     "names": [
+      "Jörmungandr",
+      "Thor",
+      "Hymir",
+      "Loki",
+      "Angrboða"
+     ],
+     "sources": [
+      "Snorri Sturluson, Gylfaginning 34, 46–48, 51",
+      "Hymiskviða",
+      "Völuspá 56",
+      "Ragnarsdrápa"
+     ],
+     "image": {
+      "file": "File:NKS 1867 4to, 93v, Thor and Jörmungandr.jpg",
+      "caption": "Thor hooks Jörmungandr while fishing with Hymir, Icelandic manuscript NKS 1867 4to, 1760"
+     }
+    },
+    {
+     "culture": "west-african",
+     "people": "Fon",
+     "title": "The Serpent Under the Earth",
+     "teaser": "Coiled beneath the world, the serpent holds it up, and must never go hungry.",
+     "text": "Among the Fon of Dahomey (present-day Benin) the serpent vodun Da takes the form of Aido-Hwedo, whose rainbow aspect has its own page. Here what matters is where the serpent lies now.\n\nIn accounts recorded in the twentieth century, the serpent carried the creator Mawu in its mouth while the world was being made. When the work was done, the earth was too heavy, with its mountains, trees and people, and the creator feared it would sink. So the serpent was asked to coil itself beneath it and hold it up, its tail in its mouth, resting in the cool waters under the world.\n\nThe arrangement is not quite safe. In a widely repeated telling, the serpent is fed on iron bars forged for it by red monkeys in the sea. When the iron runs out, it will begin to eat its own tail, its coils will loosen, and the overburdened earth will slide into the sea. The world is held up by a hunger that is only postponed.",
+     "names": [
+      "Aido-Hwedo",
+      "Da",
+      "Mawu"
+     ],
+     "sources": [
+      "Melville J. Herskovits, Dahomey: An Ancient West African Kingdom (1938)"
+     ],
+     "caveat": "The iron-eating serpent and the fear that it will swallow its tail are known mainly from popular reference works citing Herskovits, and how closely they follow his fieldwork is uncertain."
+    }
+   ]
+  },
+  {
+   "id": "giants-before-us",
+   "summary": "Many traditions say the world was not built for us first. Before human beings there were giants: Titans, frost giants, Nephilim, or huge people made in the dark before the sun. They were destroyed by flood, stone, fire or combat, and their bones and ruins remain. Cyclopean walls, fossil bones and huge standing stones gave such stories physical evidence, as the historian Adrienne Mayor has shown for Greece. The motif is almost certainly independent in many places. In the Americas, however, it was written down by colonial chroniclers who sometimes shaped it to match Genesis.",
+   "versions": [
+    {
+     "culture": "greek",
+     "title": "Titans and Giants",
+     "teaser": "Two generations of Earth's huge children are defeated so that Zeus can rule.",
+     "text": "Before the Olympians, Hesiod says, the world belonged to the Titans, the twelve children of Earth and Sky, led by Kronos, who castrated his father with a sickle. Zeus and his siblings fought them for ten years. The Olympians won with the help of the Hundred-Handers, who threw three hundred boulders at a time. The Titans were chained in Tartarus behind bronze gates, as far below the earth as the sky is above it.\n\nFrom the blood of Sky's wound, Earth had also borne the Giants. In later tradition they rise against the gods, piling mountains and hurling oak trees, and an oracle says the gods can win only with a mortal's help. Heracles joins the battle. Athena buries Enceladus under Sicily, and Poseidon crushes Polybotes under a piece of the island of Kos.\n\nThe Greeks found huge bones in the ground and sometimes took them for the bones of these beings.",
+     "names": [
+      "Titans",
+      "Kronos",
+      "Zeus",
+      "Gigantes",
+      "Heracles",
+      "Enceladus"
+     ],
+     "sources": [
+      "Hesiod, Theogony",
+      "Apollodorus, Library 1.6.1–2"
+     ],
+     "image": {
+      "file": "File:Athena and Nike fight Alkyoneus, Gaia rises up from the ground (5336871341).jpg",
+      "caption": "Athena fights the giant Alkyoneus as Gaia rises from the ground, Gigantomachy frieze of the Pergamon Altar, 2nd century BCE"
+     }
+    },
+    {
+     "culture": "levantine",
+     "title": "The Nephilim",
+     "teaser": "'There were giants in the earth in those days.'",
+     "text": "'The Nephilim were on the earth in those days, and also afterward, when the sons of God came in to the daughters of men, and they bore children to them. These were the mighty men who were of old, the men of renown.' The four verses in Genesis come just before the Flood, and they leave nearly everything unexplained.\n\nThe memory remains in later stories. Moses' spies come back from Canaan saying they saw the Nephilim, the sons of Anak: 'We seemed to ourselves like grasshoppers, and so we seemed to them.' Deuteronomy says Og, king of Bashan, was the last of the Rephaim. His iron bed, nine cubits long, could still be seen at Rabbah of the Ammonites.\n\nThe Greek translators called them gigantes, and the King James Bible followed them with 'giants in the earth'. The Book of the Watchers made them the monstrous offspring of fallen angels.",
+     "names": [
+      "Nephilim",
+      "Anakim",
+      "Og",
+      "Rephaim"
+     ],
+     "sources": [
+      "Genesis 6:1–4",
+      "Numbers 13:33",
+      "Deuteronomy 3:11",
+      "1 Enoch 6–7"
+     ]
+    },
+    {
+     "culture": "celtic",
+     "people": "British (Geoffrey of Monmouth)",
+     "title": "Gogmagog's Leap",
+     "teaser": "Brutus finds Britain held by giants, and Corineus wrestles their chief.",
+     "text": "When the Trojan exile Brutus lands in Albion, Geoffrey of Monmouth says, the island is inhabited by only a few giants. The Trojans drive them into the mountain caves. Brutus's companion Corineus, who takes Cornwall as his share, especially enjoys fighting giants.\n\nDuring a festival at the harbour of Totnes, twenty giants attack. Only one is taken alive: their leader Goemagot, twelve cubits tall and able to pull up an oak as if it were a hazel wand. Brutus orders him to wrestle Corineus. The giant hugs Corineus so hard that he breaks three of his ribs. Corineus, enraged, lifts him onto his shoulders, runs to the cliff edge and throws him onto the rocks. The sea turns red with his blood, and the place is called Goemagot's Leap.\n\nLater, as Gog and Magog, the giant ended up as the wooden guardian figures of the City of London.",
+     "names": [
+      "Brutus",
+      "Corineus",
+      "Goemagot"
+     ],
+     "sources": [
+      "Geoffrey of Monmouth, Historia Regum Britanniae 1.16"
+     ],
+     "caveat": "Geoffrey's 12th-century history is pseudo-history; the giant's name comes from the biblical Gog and Magog, not from attested Brittonic myth.",
+     "image": {
+      "file": "File:Gogmagog the Giant in Guildhall 1859.png",
+      "caption": "The wooden Gogmagog figure in London's Guildhall (carved 1709), engraving by F. W. Fairholt, 1859"
+     }
+    },
+    {
+     "culture": "norse",
+     "title": "Ymir and the Frost Giants",
+     "teaser": "The first being is a giant, and the world is built from his body.",
+     "text": "In the beginning there is Ginnungagap, the yawning void, with ice to the north and fire to the south. Where the rime meets the heat, drops of melt come alive, and the giant Ymir is formed. As he sleeps, he sweats. A man and a woman grow under his left arm, and one foot begets a son with the other. These are the frost giants.\n\nThe cow Auðumbla feeds Ymir with her milk and licks the salty ice until a man emerges, Búri. His grandsons are Odin, Vili and Vé. They kill Ymir, and so much blood flows from his wounds that all the frost giants drown except Bergelmir, who escapes with his wife and becomes the ancestor of all later giants.\n\nThe gods carry the body into the middle of the void and build the world from it. His flesh becomes earth, his bones rocks, his blood the sea, his skull the sky, and his brains the clouds.",
+     "names": [
+      "Ymir",
+      "Auðumbla",
+      "Búri",
+      "Odin",
+      "Bergelmir"
+     ],
+     "sources": [
+      "Snorri Sturluson, Gylfaginning 5–8",
+      "Vafþrúðnismál 21, 29–35",
+      "Grímnismál 40–41"
+     ],
+     "caveat": "Snorri's flood of blood, and Bergelmir's escape in a lúðr (perhaps a boat, perhaps a mill-frame), may be shaped by the biblical Flood.",
+     "image": {
+      "file": "File:Ymir gets killed by Froelich.jpg",
+      "caption": "Odin and his brothers kill Ymir, Lorenz Frølich, 1895"
+     }
+    },
+    {
+     "culture": "aztec",
+     "title": "The Giants of the First Sun",
+     "teaser": "In the first age, people were giants, and jaguars devoured them.",
+     "text": "The Nahua peoples of central Mexico counted the present world as the fifth Sun. Each earlier age ended in catastrophe. In the account of the Historia de los mexicanos por sus pinturas, Tezcatlipoca made himself the first sun, and the people who lived then were giants, so strong that they could uproot trees with their hands. They ate acorns and wild fruit. The age ended when Quetzalcoatl struck Tezcatlipoca down from the sky. Tezcatlipoca fell into the water, rose up as a jaguar, and jaguars devoured the giants.\n\nOther sources give the same fate to the Sun called 4-Jaguar. The chroniclers also recorded that the Nahua sometimes found huge bones in the ground and said they belonged to the quinametzin, the giants of old. Diego Durán heard from elders in Cholula that giants had built the great pyramid there.",
+     "names": [
+      "Tezcatlipoca",
+      "Quetzalcoatl",
+      "quinametzin"
+     ],
+     "sources": [
+      "Historia de los mexicanos por sus pinturas",
+      "Leyenda de los Soles",
+      "Diego Durán, Historia de las Indias de Nueva España"
+     ],
+     "caveat": "The sources were recorded after the Spanish conquest, disagree on the order and content of the Suns, and may be influenced by biblical giants."
+    },
+    {
+     "culture": "maya",
+     "people": "K'iche'",
+     "title": "Seven Macaw and His Sons",
+     "teaser": "Before the true sun, a vain bird and his mountain-sized sons rule.",
+     "text": "Before the dawn of the present world, while the face of the earth is still dim, Seven Macaw (Vucub Caquix) claims to be the sun and the moon. His eyes are of metal and his teeth of jewels, and he says their glitter lights the world. His sons are just as proud. Zipacna heaps up mountains, and Earthquake (Cabracan) knocks them down.\n\nThe Hero Twins, Hunahpu and Xbalanque, bring them down one by one. A blowgun dart breaks Seven Macaw's jaw, and two old healers, in on the plot, replace his jewel teeth with white maize. His face collapses and he dies. Zipacna, who has already killed the Four Hundred Boys by bringing their house down on them, is lured under a mountain by a false crab and turned to stone. Earthquake is fed a bird roasted in a coating of earth, loses his strength and is buried.\n\nOnly after these overweening beings are gone can humans be made, and the sun rise.",
+     "names": [
+      "Seven Macaw",
+      "Zipacna",
+      "Cabracan",
+      "Hunahpu",
+      "Xbalanque"
+     ],
+     "sources": [
+      "Popol Vuh"
+     ],
+     "caveat": "The Popol Vuh does not call them giants as such; they are titanic, pre-solar beings whose defeat clears the way for humanity."
+    },
+    {
+     "culture": "andean",
+     "people": "Inca",
+     "title": "Viracocha's Stone Giants",
+     "teaser": "Before the sun, the creator makes giants, then turns them to stone.",
+     "text": "Spanish chroniclers of the Inca recorded that the creator Con Tiki Viracocha first came out of Lake Titicaca and made a world without sun, moon or stars. He peopled it with giants, or in some accounts with men and women of ordinary size, and ordered them to live and serve him.\n\nThey disobeyed. Some were turned to stone, and others were destroyed in a great flood, which Sarmiento de Gamboa calls by its Quechua name, unu pachakuti, 'the water that overturns the world'. Viracocha then made the sun, moon and stars rise from the lake, and he shaped new peoples out of stone or clay, painting on them the clothes of each nation, before sending them into the earth to emerge from caves and springs.\n\nThe great carved stone figures at Tiwanaku were pointed out as the petrified first people.",
+     "names": [
+      "Viracocha",
+      "Titicaca",
+      "Tiwanaku"
+     ],
+     "sources": [
+      "Juan de Betanzos, Suma y narración de los Incas (1551)",
+      "Pedro Sarmiento de Gamboa, Historia de los Incas (1572)",
+      "Cristóbal de Molina, Relación de las fábulas y ritos de los Incas"
+     ],
+     "caveat": "These are colonial Spanish records; the flood and the sinful first race may have been shaped to echo Genesis."
+    }
+   ]
+  },
+  {
+   "id": "one-eyed-giant",
+   "summary": "A huge being with a single eye is a creature of folklore across Europe and western Asia. Its eye makes it both terrible and easy to defeat: one well-aimed stake, stone or ladle of molten lead is enough. The escape from the blinded giant's cave (Aarne–Thompson–Uther type 1137) was recorded from Ireland to Central Asia. It is one of the clearest cases where folklorists argue over whether Homer drew on an older folktale or a widely told tale descends from Homer. A separate idea, of skilled one-eyed smiths, may reflect the eye-patch or squint of real forge workers, but that remains a guess.",
+   "versions": [
+    {
+     "culture": "greek",
+     "title": "The Cyclopes of the Forge",
+     "teaser": "Three storm-giants with one round eye make Zeus's thunderbolt.",
+     "text": "In Hesiod the Cyclopes are sons of Earth and Sky: Brontes, Steropes and Arges, Thunder, Lightning and Flash. They are like the gods in every way except that 'a single round eye was set in the middle of their foreheads'. That, Hesiod says, is what their name means. Strength, force and skill are in their work.\n\nTheir father hides them inside the earth. Zeus frees them, and in gratitude they give him thunder and the lightning bolt, the weapons with which he wins the war against the Titans. In later poets they become the smith-workers of Hephaestus, hammering in forges under Etna or on the Lipari islands. Callimachus says that goddess-mothers threatened unruly daughters with them. The Greeks also gave their name to the huge-stoned walls of Mycenae and Tiryns, which only Cyclopes could have built.",
+     "names": [
+      "Brontes",
+      "Steropes",
+      "Arges",
+      "Zeus",
+      "Hephaestus"
+     ],
+     "sources": [
+      "Hesiod, Theogony 139–146",
+      "Callimachus, Hymn to Artemis"
+     ]
+    },
+    {
+     "culture": "greek",
+     "title": "Polyphemus and Nobody",
+     "teaser": "Odysseus blinds a cannibal shepherd and gives his name as 'Nobody'.",
+     "text": "Odysseus and twelve men enter a cave full of cheeses and lambs and wait for the owner. Polyphemus, a Cyclops and son of Poseidon, drives in his flocks, closes the entrance with a boulder that twenty-two wagons could not move, and eats two of the men for supper.\n\nOdysseus gives him unmixed wine from Maron. The giant asks his name, and he answers, 'Nobody' (Outis). Polyphemus promises to eat Nobody last. When he falls into a drunken sleep, the Greeks heat a sharpened olive stake in the fire and drive it into his eye. Homer compares the hiss to a smith quenching an axe. The other Cyclopes come to help, but when he shouts that Nobody is killing him, they go away.\n\nThe men escape tied under the rams, and Odysseus clings to the lead ram's fleece. Once at sea, he cannot resist shouting his real name, which lets Polyphemus call down his father Poseidon's curse on him.",
+     "names": [
+      "Polyphemus",
+      "Odysseus",
+      "Poseidon",
+      "Maron"
+     ],
+     "sources": [
+      "Homer, Odyssey 9"
+     ],
+     "image": {
+      "file": "File:Polyphemus amphora (detail).jpg",
+      "caption": "Odysseus and his men blind Polyphemus, the Eleusis amphora, 7th century BCE"
+     }
+    },
+    {
+     "culture": "celtic",
+     "people": "Irish",
+     "title": "Balor of the Evil Eye",
+     "teaser": "The Fomorian king's eye kills whatever it looks upon, until a slingstone turns it.",
+     "text": "Balor, king of the Fomorians, has an eye that is opened only on the battlefield. It takes four men to lift its lid with a polished handle passed through it, and any army it looks at cannot stand against a few warriors. The poison, the saga says, came when his father's druids were brewing spells, and the fumes rose into the boy's eye.\n\nAt the second battle of Mag Tuired, Balor meets Lug of the Túatha Dé Danann, who is his own grandson. As the lid is being lifted, Lug casts a slingstone that drives the eye through the back of Balor's head, and it looks on his own host instead.\n\nIrish folklore of Tory Island later added a prophecy that Balor would be killed by his grandson, a daughter shut in a tower, and a rescued baby, much like the Greek story of Perseus.",
+     "names": [
+      "Balor",
+      "Lug",
+      "Fomorians",
+      "Túatha Dé Danann"
+     ],
+     "sources": [
+      "Cath Maige Tuired (The Second Battle of Mag Tuired)"
+     ],
+     "caveat": "Balor's single eye is poisonous rather than a sign of gigantism, and the tower-and-grandson story is recorded only in later folklore."
+    },
+    {
+     "culture": "slavic",
+     "people": "East Slavic (Russian)",
+     "title": "Likho the One-Eyed",
+     "teaser": "A smith goes looking for Misfortune, and pays with a hand.",
+     "text": "A blacksmith who has never known trouble decides he would like to meet Likho, Misfortune. He sets out with a tailor. In a dark forest they come to a great hut where a tall, gaunt woman with one eye lives. She is Likho, and she cooks the tailor and eats him.\n\nThe smith offers to forge her a second eye. He ties her down, sets a red-hot awl to the one eye she has, and drives it in with a blow of his axe. Blind, she lets her sheep out of the hut one by one, and the smith escapes in his sheepskin coat turned wool side out, crawling among the flock. In the forest he sees a golden-handled axe stuck in a tree and grasps it. His hand sticks fast, Likho comes after him, and he frees himself only by cutting off his own hand.\n\nHe comes home one-handed and shows the stump: that is what it costs to meet Likho.",
+     "names": [
+      "Likho",
+      "the smith",
+      "the tailor"
+     ],
+     "sources": [
+      "Alexander Afanasyev, Narodnye russkie skazki, no. 302 ('Likho odnoglazoe')"
+     ],
+     "caveat": "A local form of the international Polyphemus tale type (ATU 1137), recorded in the 19th century; details vary between versions."
+    }
+   ]
+  },
+  {
+   "id": "many-headed-serpent",
+   "summary": "A serpent or dragon with many heads, often seven, three or eight, is the champion's opponent in myths stretching from Sumer to Japan. It usually lives in water, hoards it, or poisons it, and killing it releases water, cattle or a young woman. The multiplying heads make the fight hard: cut one off and another grows back. The Near Eastern chain is well documented, running from a seven-headed serpent on Mesopotamian seals to Ugaritic Lotan and biblical Leviathan. Many Indo-Europeanists also reconstruct a shared myth of a hero slaying a three-headed serpent. The Japanese Orochi has likely independent roots, though some scholars suggest continental ties.",
+   "versions": [
+    {
+     "culture": "mesopotamian",
+     "title": "Ninurta's Seven-Headed Serpent",
+     "teaser": "Among the war god's trophies hangs a serpent with seven heads.",
+     "text": "Ninurta, the warrior son of Enlil, returns in triumph to Nippur with the monsters he has killed. The Sumerian poem of his homecoming lists them like trophies on a chariot: the Six-Headed Wild Ram, the Palm-Tree King, the Anzû bird, the Bison, the Mermaid, the Dragon, and the Seven-Headed Serpent, among others. Each was defeated in the mountains, and each now hangs from his chariot as proof of his power.\n\nNo surviving poem describes the fight with the serpent. Artists had already depicted it centuries earlier. A cylinder seal of the Akkadian period, and a shell plaque from the Early Dynastic period, show a god pinning or spearing a serpent that has seven heads rising from one body, with flames coming from its back. Some of its heads already hang limp.",
+     "names": [
+      "Ninurta",
+      "Enlil",
+      "Seven-Headed Serpent"
+     ],
+     "sources": [
+      "Angim (Ninurta's Return to Nippur)",
+      "Lugale"
+     ],
+     "caveat": "The serpent is known from lists and images; the story of the combat itself is not preserved."
+    },
+    {
+     "culture": "levantine",
+     "title": "Lotan, the Seven-Headed",
+     "teaser": "At Ugarit, Baal and Anat claim the death of a seven-headed sea dragon.",
+     "text": "In the Baal Cycle from Ugarit, Death himself taunts Baal with his greatest deed: 'When you smote Lotan, the fleeing serpent, finished off the twisting serpent, the tyrant with seven heads...' The goddess Anat also boasts that she muzzled the dragon, destroyed the twisting serpent and silenced 'the tyrant with seven heads', along with Yamm, the Sea.\n\nThe Hebrew Bible uses these words for its own God. Psalm 74 praises him who 'broke the heads of the dragons on the waters' and 'crushed the heads of Leviathan', giving him as food to desert creatures. Isaiah 27:1 uses almost the same phrases as Ugarit, 'the fleeing serpent, the twisting serpent'. The plural 'heads' shows that the seven-headed beast was still remembered.\n\nThe seven-headed dragon of the book of Revelation continues the same line of monsters.",
+     "names": [
+      "Lotan",
+      "Baal",
+      "Anat",
+      "Mot",
+      "Leviathan"
+     ],
+     "sources": [
+      "Baal Cycle (KTU 1.5 I; 1.3 III)",
+      "Psalm 74:13–14",
+      "Isaiah 27:1"
+     ]
+    },
+    {
+     "culture": "indian",
+     "people": "Vedic",
+     "title": "Viśvarūpa, the Three-Headed",
+     "teaser": "Trita and Indra slay Tvaṣṭṛ's three-headed son and free the cows.",
+     "text": "The Rigveda speaks briefly of a three-headed monster, Viśvarūpa ('Having All Forms'), son of the craftsman god Tvaṣṭṛ. The hero Trita Āptya, urged on by Indra, kills 'the three-headed, seven-bridled one' with the weapons of his fathers and drives away his cows. Indra, lord of heroes, cuts off the heads of the proud monster.\n\nLater texts expand the story. In the Brāhmaṇas, Viśvarūpa is the gods' own priest, secretly loyal to the demons, and his three heads drink soma, drink wine and eat food. Indra cuts them off and they fly away as birds. The killing is so grave that Indra has to be purified of it.\n\nTrita Āptya has a close Iranian counterpart, Thraētaona, son of Āthwya, the slayer of the three-headed Aži Dahāka. Many scholars take this as a sign of an old shared Indo-Iranian story.",
+     "names": [
+      "Viśvarūpa",
+      "Trita Āptya",
+      "Indra",
+      "Tvaṣṭṛ"
+     ],
+     "sources": [
+      "Rigveda 10.8.8–9",
+      "Taittirīya Saṃhitā 2.5.1"
+     ]
+    },
+    {
+     "culture": "persian",
+     "people": "Avestan",
+     "title": "Aži Dahāka, Three-Mouthed",
+     "teaser": "A three-headed, six-eyed dragon of a thousand tricks falls to Thraētaona.",
+     "text": "In the Avesta, Aži Dahāka is the worst of all dragons created by the Evil Spirit against the world of truth. He is 'three-mouthed, three-headed, six-eyed, with a thousand skills', and he is enormously strong. He prays to the goddess Anāhitā for the power to empty the seven continents of people, and his prayers are refused.\n\nThe hero who defeats him is Thraētaona, son of Āthwya, the second man to press haoma. He takes the dragon's two beautiful wives, Saŋhavāci and Arənavāci, as his prize.\n\nIn later Persian literature the dragon becomes a man. Ferdowsi's Zahhāk is a tyrant king, and his many heads have become two serpents growing from his shoulders. The old three-headed dragon is still visible behind the figure of the Arab king.",
+     "names": [
+      "Aži Dahāka",
+      "Thraētaona",
+      "Āthwya",
+      "Angra Mainyu"
+     ],
+     "sources": [
+      "Yasna 9.7–8",
+      "Yasht 5",
+      "Ferdowsi, Shāhnāmeh"
+     ]
+    },
+    {
+     "culture": "greek",
+     "title": "The Lernaean Hydra",
+     "teaser": "Cut off one head and two grow back, unless someone brings a torch.",
+     "text": "Hesiod names the Hydra of Lerna as a child of Typhon and Echidna, raised by Hera 'in her unappeasable anger against Heracles'. As his second labour, Heracles drives it out of its lair by the spring of Amymone with burning arrows.\n\nApollodorus gives the details. The Hydra has nine heads, eight mortal and the middle one immortal. When Heracles smashes one head with his club, two grow in its place. A giant crab comes out of the swamp to bite his foot. So he calls his nephew Iolaus, who sets fire to a grove and uses burning brands to sear the necks as each head falls. Heracles cuts off the immortal head, buries it under a heavy rock beside the road, and dips his arrows in the monster's poisonous gall.\n\nEurystheus refuses to count the labour, because Heracles had help. Later writers say Hera set the crab in the sky as Cancer.",
+     "names": [
+      "Hydra",
+      "Heracles",
+      "Iolaus",
+      "Hera",
+      "Eurystheus"
+     ],
+     "sources": [
+      "Hesiod, Theogony 313–318",
+      "Apollodorus, Library 2.5.2"
+     ],
+     "image": {
+      "file": "File:Hercules vs the Hydra vase - Athens Archaeological Museum.jpg",
+      "caption": "Heracles fights the Hydra, Greek vase; National Archaeological Museum, Athens"
+     }
+    },
+    {
+     "culture": "indian",
+     "people": "Purāṇic",
+     "title": "Krishna Dances on Kāliya",
+     "teaser": "The boy god leaps into a poisoned pool and dances on the serpent's hoods.",
+     "text": "The serpent Kāliya lives in a pool of the Yamunā near Vrindavan, and his venom is so strong that the water boils and birds flying over it fall dead. When the cowherds and cattle drink there and collapse, the child Krishna climbs a kadamba tree and jumps into the pool.\n\nKāliya wraps him in his coils while the village watches in terror. Krishna slips free, climbs onto the serpent's many raised hoods and dances on them, stamping down each head that tries to rise, until Kāliya vomits blood and is nearly crushed. The serpent's wives come with folded hands and praise the god, pleading for their husband's life.\n\nKrishna spares him and sends him and his family away to the sea island of Ramaṇaka. The mark of Krishna's feet on his hoods will protect him there from Garuḍa, the enemy of serpents. The river is clean again.",
+     "names": [
+      "Krishna",
+      "Kāliya",
+      "Garuḍa"
+     ],
+     "sources": [
+      "Bhāgavata Purāṇa 10.16–17",
+      "Harivaṃśa"
+     ],
+     "image": {
+      "file": "File:Krishna Overcomes Kaliya, Prambanan 1076.jpg",
+      "caption": "Krishna and Balarama subdue Kāliya, relief from the Vishnu temple at Prambanan, 9th century"
+     }
+    },
+    {
+     "culture": "japanese",
+     "title": "Yamata no Orochi",
+     "teaser": "Eight heads, eight tails, and a sword hidden in the middle tail.",
+     "text": "Susanoo, banished from heaven, comes down beside the Hi river in Izumo and finds an old couple weeping over their daughter, Kushinada-hime. They had eight daughters, and every year the Eight-Forked Serpent of Koshi has come and eaten one. Its eyes are red as winter cherries. It has one body with eight heads and eight tails, moss and cypress and cedar grow on its back, and it is long enough to stretch over eight valleys and eight hills. Its belly is always oozing blood.\n\nSusanoo changes the girl into a comb and puts it in his hair. He has the parents brew strong sake, eight times refined, and set it out in eight vats behind a fence with eight gates. The serpent comes, dips a head into each vat, drinks, and falls asleep. Susanoo cuts it to pieces, and the Hi river runs red.\n\nIn the middle tail his blade chips on a great sword, later called Kusanagi, which becomes one of the imperial regalia.",
+     "names": [
+      "Susanoo",
+      "Yamata no Orochi",
+      "Kushinada-hime",
+      "Kusanagi"
+     ],
+     "sources": [
+      "Kojiki",
+      "Nihon Shoki"
+     ],
+     "image": {
+      "file": "File:Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png",
+      "caption": "Susanoo slays Yamata no Orochi in Izumo, woodblock print by Tsukioka Yoshitoshi, 1887"
+     }
+    },
+    {
+     "culture": "slavic",
+     "people": "East Slavic (Russian)",
+     "title": "Dobrynya and Zmey Gorynych",
+     "teaser": "A Kievan hero bathing in a forbidden river is attacked by the many-headed dragon.",
+     "text": "The Russian heroic songs (byliny) tell how Dobrynya Nikitich, one of Prince Vladimir's champions, goes against his mother's warning to bathe in the Puchai river. The dragon Zmey Gorynych, 'the serpent of the mountains', swoops down on him. In most versions it has many heads, sometimes three, sometimes twelve. Dobrynya is unarmed, so in some versions he fights it off with his heavy 'Greek hat' filled with sand. The dragon begs for mercy and swears never again to fly to Holy Russia, and Dobrynya lets it go.\n\nIt breaks its oath at once and carries off Zabava Putyatichna, the prince's niece. Dobrynya follows it to its caves in the Sorochinsk mountains and fights for three days. When the dragon is dead, the earth refuses to drink its blood, and the hero is nearly drowned until he strikes the ground with his spear and commands it to open. He frees the captives and brings the princess home.",
+     "names": [
+      "Dobrynya Nikitich",
+      "Zmey Gorynych",
+      "Prince Vladimir",
+      "Zabava Putyatichna"
+     ],
+     "sources": [
+      "Russian byliny of the Kievan cycle ('Dobrynya and the Dragon')"
+     ],
+     "caveat": "Byliny were recorded mainly in the 18th–19th centuries from northern singers, and details such as the number of heads vary widely.",
+     "image": {
+      "file": "File:Змей-Горыныч, или Бой Добрыни Никитича с семиглавым Змеем-Горынычем.jpg",
+      "caption": "Dobrynya Nikitich fights the seven-headed Zmey Gorynych, Viktor Vasnetsov, 1913–1918"
+     }
+    }
+   ]
+  },
+  {
+   "id": "great-bird",
+   "summary": "A bird whose wings darken the sky, whose flight makes the wind, or who carries off elephants is one of the oldest images of power. The great bird is sometimes a thief of divine secrets, sometimes a foster-parent or a god's mount, and it often lives at the top of the world-tree or the world-mountain. There are clear lines of descent in the Iranian Simurgh and the Persian and Arabic rukh, and in Garuḍa's spread across Buddhist Asia. Elsewhere the resemblance is probably convergent, since eagles and storms are found everywhere.",
+   "versions": [
+    {
+     "culture": "mesopotamian",
+     "title": "Anzû Steals the Tablet",
+     "teaser": "A lion-headed eagle snatches the Tablet of Destinies while Enlil bathes.",
+     "text": "Anzû is a huge bird with the head of a lion, born on a mountain. Enlil makes him the guard of his inner chamber. Watching the god's power every day, Anzû begins to want it. One morning, while Enlil is bathing and has taken off his crown, the bird seizes the Tablet of Destinies, the power that controls the fate of the universe, and flies off to his mountain.\n\nThe divine rites stop, and the gods are afraid. One after another the champions refuse to go against him. At last, on Ea's advice, the mother goddess sends her son Ninurta. Anzû holds the Tablet, so his words have power, and Ninurta's arrows break apart in the air when the bird calls, 'Reed, return to your canebrake!' Ea sends new advice: tire him out, cut off his wing feathers, and shoot as he calls for them. Ninurta does this and cuts Anzû's throat. He returns with the Tablet, and the gods give him many names.",
+     "names": [
+      "Anzû",
+      "Enlil",
+      "Ninurta",
+      "Ea"
+     ],
+     "sources": [
+      "Epic of Anzû (Old Babylonian and Standard Babylonian versions)"
+     ],
+     "image": {
+      "file": "File:Frieze of Imdugud (Anzu) grasping a pair of deer, from Tell Al-Ubaid..JPG",
+      "caption": "The lion-headed eagle Imdugud (Anzû) grasping two deer, copper frieze from Tell al-Ubaid, Early Dynastic period"
+     }
+    },
+    {
+     "culture": "egyptian",
+     "title": "The Bennu of Heliopolis",
+     "teaser": "A heron-like bird cries out on the first mound and opens time.",
+     "text": "At Heliopolis the Egyptians honoured the Bennu, a great heron with a long two-feathered crest. It was the soul (ba) of the sun god. At the beginning, when the first hill of land rose from the waters of Nun, the Bennu is said to have settled on the pyramid-shaped benben stone, and its cry started the course of time.\n\nThe Book of the Dead gives spells for becoming a Bennu. 'I am that great Bennu which is in Heliopolis,' the dead person says, 'who oversees all that exists.' Its return with the sun each day made it a symbol of renewal.\n\nThe Greeks heard about it and imagined a phoenix. Herodotus was told at Heliopolis that the phoenix visited every five hundred years, carrying its dead father in an egg of myrrh. Herodotus himself says he did not believe it.",
+     "names": [
+      "Bennu",
+      "Ra",
+      "Atum"
+     ],
+     "sources": [
+      "Book of the Dead, spells 17 and 83",
+      "Herodotus, Histories 2.73"
+     ],
+     "caveat": "The self-burning phoenix is a later Greco-Roman development and is not Egyptian."
+    },
+    {
+     "culture": "indian",
+     "people": "Sanskrit epic",
+     "title": "Garuḍa Steals the Nectar",
+     "teaser": "A bird bright as fire fights the gods to free his mother.",
+     "text": "Vinatā and Kadrū, two wives of the sage Kaśyapa, bet on the colour of the tail of the horse Uccaiḥśravas. Kadrū's serpent sons cheat by hanging from the tail like black hairs, and Vinatā becomes her sister's slave. Her son Garuḍa hatches from his egg blazing so brightly that the gods take him for the fire god Agni. The serpents name his mother's ransom: the amṛta, the nectar of immortality.\n\nGaruḍa flies to heaven. On the way he eats an elephant and a tortoise and scatters the gods. He shrinks to slip through a spinning wheel of blades and kills the two serpents that guard the nectar. When Indra strikes with his thunderbolt, Garuḍa lets go of a single feather to honour the weapon, and is otherwise unharmed.\n\nHe sets the amṛta on kuśa grass, and his mother is freed. Indra takes the nectar back before the serpents can drink it. They lick the sharp grass, and their tongues are split forever. Vishnu takes Garuḍa as his mount.",
+     "names": [
+      "Garuḍa",
+      "Vinatā",
+      "Kadrū",
+      "Indra",
+      "Vishnu"
+     ],
+     "sources": [
+      "Mahābhārata, Ādi Parva (Āstīka)"
+     ],
+     "image": {
+      "file": "File:Vishnu on Garuda MET DP-18171-001.jpg",
+      "caption": "Vishnu riding Garuḍa, attributed to Sajnu of Mandi, c. 1810–1820; Metropolitan Museum of Art"
+     }
+    },
+    {
+     "culture": "chinese",
+     "title": "The Peng",
+     "teaser": "A fish thousands of li long becomes a bird that flies ninety thousand li.",
+     "text": "'In the northern darkness there is a fish called the Kun. Its size is who knows how many thousand li.' So begins the first chapter of the Zhuangzi. The Kun changes into a bird called the Peng. Its back measures who knows how many thousand li, and when it rises in flight, its wings are like clouds hanging from the sky. When the sea moves, it sets off for the southern darkness, the Lake of Heaven.\n\nIt beats the water for three thousand li, rises on a whirlwind ninety thousand li high, and flies for six months before it rests. The cicada and the little dove laugh at it. 'When we exert ourselves we reach the elm or sandalwood tree, and sometimes we fall short and drop to the ground. What's the use of going up ninety thousand li?'\n\nZhuangzi's comment is brief. Small understanding cannot match great understanding.",
+     "names": [
+      "Peng",
+      "Kun",
+      "Zhuangzi"
+     ],
+     "sources": [
+      "Zhuangzi, ch. 1 'Xiaoyao you' (Free and Easy Wandering)"
+     ]
+    },
+    {
+     "culture": "persian",
+     "title": "The Simurgh's Foster-Son",
+     "teaser": "A great bird on Mount Alborz raises a child abandoned by his father.",
+     "text": "The hero Sām has a son, Zāl, who is born with white hair, and Sām is ashamed. He has the baby left on the slopes of Mount Alborz, where the Simurgh has her nest. The great bird comes down to find food for her young, sees the crying infant, and on a divine prompting carries him up and raises him with her chicks.\n\nYears later Sām has a dream, repents, and climbs the mountain. The Simurgh gives the young man back to his father with one of her feathers: 'If ever trouble comes, burn it, and I will come.'\n\nShe comes twice. When Zāl's wife Rudābeh cannot give birth, the Simurgh shows how to cut the child, Rostam, from her side. When Rostam is badly wounded by Esfandiyār, she heals him and shows him the tamarisk branch that will kill his enemy. In the Avesta her forerunner, the Saēna bird, sits on a tree in the middle of the world sea.",
+     "names": [
+      "Simurgh",
+      "Zāl",
+      "Sām",
+      "Rudābeh",
+      "Rostam",
+      "Esfandiyār"
+     ],
+     "sources": [
+      "Ferdowsi, Shāhnāmeh",
+      "Rashn Yasht (Yasht 12.17)"
+     ],
+     "image": {
+      "file": "File:Zal Rescued by the Simurgh.jpg",
+      "caption": "The Simurgh rescues the infant Zāl, attributed to Sadiqi Beg, Shāhnāmeh of Shah Abbas I, c. 1590s"
+     }
+    },
+    {
+     "culture": "norse",
+     "title": "Hræsvelgr, Corpse-Swallower",
+     "teaser": "A giant eagle at heaven's edge makes the wind with his wings.",
+     "text": "'Tell me where the wind comes from,' Odin asks the giant Vafþrúðnir, 'that passes over the sea but is never seen.' The answer: 'Hræsvelgr he is called, who sits at the end of heaven, a giant in eagle's shape. From his wings, they say, the wind comes over all men.' Snorri adds that he sits at the northern edge of the sky, and that when he spreads his wings to fly, the winds rise.\n\nAnother eagle sits in the branches of the world-tree Yggdrasil. It knows many things, and a hawk called Veðrfölnir perches between its eyes. A squirrel, Ratatoskr, runs up and down the trunk carrying insults between the eagle at the top and the dragon Níðhöggr gnawing the roots below.\n\nThe name Hræsvelgr means 'corpse-swallower'. The eagle that makes the wind is also the eater of the dead on the battlefield.",
+     "names": [
+      "Hræsvelgr",
+      "Odin",
+      "Vafþrúðnir",
+      "Veðrfölnir",
+      "Ratatoskr"
+     ],
+     "sources": [
+      "Vafþrúðnismál 36–37",
+      "Snorri Sturluson, Gylfaginning 16, 18",
+      "Grímnismál 32"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "shapeshifters",
+   "summary": "Some beings can change form: gods who become animals, tricksters who take whatever shape they need, and people who put on a skin and become wolves or foxes. Changing shape can be a way to escape or to trick someone, a punishment, or a sign of power over nature. Shape-changing contests, in which one form answers another, are among the most widely told folk motifs. So are animal brides. Some links are clear. Chinese fox lore shaped Japanese kitsune stories, and Norse and Slavic wolf-warrior traditions may share old roots. Much of the rest reflects a common human sense that the boundary between animal and person can be crossed.",
+   "versions": [
+    {
+     "culture": "greek",
+     "title": "Proteus, Old Man of the Sea",
+     "teaser": "Hold him fast through every shape, and he will tell the truth.",
+     "text": "Menelaus, returning from Troy, is stuck on the island of Pharos off Egypt for twenty days without wind. A sea nymph, Eidothea, takes pity on him. Her father, Proteus, the Old Man of the Sea, knows every road and every fate, but he will only tell if someone catches him and holds on.\n\nShe hides Menelaus and three men under freshly flayed sealskins on the beach. The stink is terrible, so she puts ambrosia under their noses. At noon Proteus comes out of the sea, counts his seals, men included, and lies down to sleep. They grab him. He becomes a bearded lion, then a snake, a leopard, a huge boar, running water, and a tall leafy tree. They hold on through every change.\n\nAt last, exhausted, the old god takes his own shape and answers. Menelaus must go back and sacrifice to the gods. Agamemnon has been murdered at home. Odysseus is held on Calypso's island.",
+     "names": [
+      "Proteus",
+      "Menelaus",
+      "Eidothea"
+     ],
+     "sources": [
+      "Homer, Odyssey 4.351–570"
+     ],
+     "image": {
+      "file": "File:Game Piece with Menelaus and Companions Battling Proteus MET DP228476.jpg",
+      "caption": "Menelaus and his companions wrestle Proteus, walrus-ivory game piece, northern France, c. 1125–1150; Metropolitan Museum of Art"
+     }
+    },
+    {
+     "culture": "indian",
+     "people": "Sanskrit epic",
+     "title": "Mārīca, the Golden Deer",
+     "teaser": "A demon becomes a golden deer to lure Rāma away from Sītā.",
+     "text": "Rāvaṇa, king of Laṅkā, wants to abduct Sītā and orders the rākṣasa Mārīca to help him. Mārīca has already been hurt by Rāma's arrows once and begs to be excused, but Rāvaṇa threatens to kill him. So he goes to the forest hermitage at Pañcavaṭī as a golden deer, its coat spotted with silver, its horns tipped with gems, grazing among the trees.\n\nSītā sees it and wants it. Lakṣmaṇa suspects a rākṣasa trick, but Rāma follows the deer deep into the forest, and it keeps leading him farther away. At last he shoots it. As Mārīca dies, he takes back his demon form and cries out in Rāma's own voice, 'Ah Sītā! Ah Lakṣmaṇa!'\n\nSītā, hearing it, forces Lakṣmaṇa to go to him. Once she is alone, Rāvaṇa arrives, himself in disguise as a wandering holy man.",
+     "names": [
+      "Mārīca",
+      "Rāvaṇa",
+      "Rāma",
+      "Sītā",
+      "Lakṣmaṇa"
+     ],
+     "sources": [
+      "Vālmīki, Rāmāyaṇa, Araṇya Kāṇḍa"
+     ],
+     "image": {
+      "file": "File:Rama stalks the demon Maricha, who has assumed the form of a golden deer.jpg",
+      "caption": "Rāma stalks Mārīca in the form of a golden deer, Mughal painting from Akbar's Rāmāyaṇa"
+     }
+    },
+    {
+     "culture": "chinese",
+     "title": "The Fox Who Became a Woman",
+     "teaser": "At fifty a fox can become a woman; at a thousand it reaches Heaven.",
+     "text": "Chinese lore gives the fox a career. 'When a fox is fifty years old,' says a fourth-century text attributed to Guo Pu, 'it can change into a woman. At a hundred it becomes a beautiful girl, or a shaman, or a man who sleeps with women. It can know things a thousand li away, and it can bewitch people until they lose their wits. At a thousand years it communicates with Heaven and becomes a heavenly fox.'\n\nGan Bao's collection of strange tales from the same period includes the soldier Wang Lingxiao, who deserts and cannot be found. He is at last discovered in an empty grave, having taken on the look of a fox. He says that a beautiful woman named A Zi kept calling to him. 'The fox,' says an old book Gan Bao quotes, 'was a lewd woman of ancient times, and her name was A Zi.'\n\nThese foxes are still frightening. The affectionate, clever fox-women of Pu Songling's Liaozhai came more than a thousand years later.",
+     "names": [
+      "A Zi",
+      "Wang Lingxiao",
+      "huli jing"
+     ],
+     "sources": [
+      "Guo Pu (attrib.), Xuanzhong ji",
+      "Gan Bao, Soushen ji",
+      "Pu Songling, Liaozhai zhiyi"
+     ]
+    },
+    {
+     "culture": "japanese",
+     "title": "The Fox Wife of Mino",
+     "teaser": "A man's wife is revealed as a fox; he asks her back.",
+     "text": "In the reign of Emperor Kinmei, a man of Mino province rides out looking for a good wife. In a wide field he meets a lovely woman who is willing to marry him. They wed, and she bears him a son. But their dog, which gave birth at the same time, hates her, and its puppy barks at her whenever she passes.\n\nOne day the dog goes for her. She is terrified, turns back into a fox, and jumps up onto the fence. Her husband calls after her: 'You and I have a child together, and I cannot forget you. Come and sleep with me always.' So she keeps coming back to sleep with him. Because of this she is called kitsu-ne, 'come and sleep', and that is why the fox is called kitsune.\n\nTheir son, named Kitsune-no-atai, grows immensely strong and swift, and his line are known in Mino as the foxes' descendants.",
+     "names": [
+      "Kinmei",
+      "Kitsune-no-atai"
+     ],
+     "sources": [
+      "Nihon ryōiki 1.2"
+     ],
+     "caveat": "The 'come and sleep' etymology is a folk etymology the text itself offers."
+    },
+    {
+     "culture": "slavic",
+     "people": "East Slavic",
+     "title": "Vseslav the Wolf-Prince",
+     "teaser": "By day he judged men; by night he ran as a wolf.",
+     "text": "Prince Vseslav of Polotsk was a historical ruler of the eleventh century, and he was famous for his sorcery. The Primary Chronicle says his mother bore him through enchantment, with a caul over his head, and that the magicians told her to bind it on him to wear for life.\n\nThe Tale of Igor's Campaign turns him into a werewolf. 'Prince Vseslav judged the people, he ruled cities for princes, but in the night he prowled as a wolf. From Kiev he raced before the cocks crowed to Tmutarakan, and as a wolf he crossed the path of great Khors.' When the bells rang for matins at St Sophia in Polotsk, he heard them in Kiev.\n\nThe folk hero of the byliny, Volkh Vseslavyevich, has the same name and gift. He turns into a falcon, a grey wolf, a golden-horned aurochs and even an ant to lead his army.",
+     "names": [
+      "Vseslav of Polotsk",
+      "Khors",
+      "Volkh Vseslavyevich"
+     ],
+     "sources": [
+      "Tale of Igor's Campaign (Slovo o polku Igoreve)",
+      "Primary Chronicle (entry for 1044)",
+      "Bylina of Volkh Vseslavyevich"
+     ],
+     "caveat": "The authenticity of the Tale of Igor's Campaign, known only from a manuscript lost in 1812, has been disputed, though most scholars accept it as medieval."
+    },
+    {
+     "culture": "norse",
+     "title": "Sigmund and Sinfjötli in Wolfskins",
+     "teaser": "Father and son put on enchanted wolfskins and cannot take them off.",
+     "text": "Sigmund, the Völsung, is training his son Sinfjötli in the forest to take revenge. One day they find a house where two men lie asleep wearing thick gold rings, with wolfskins hanging above them. The men are under a spell and can leave the skins only every tenth day.\n\nSigmund and Sinfjötli put the skins on and cannot take them off. They howl like wolves and understand each other's howling. They split up, agreeing that each will howl for help if he meets more than seven men. Sinfjötli meets eleven and kills them all without calling. In a rage, Sigmund bites him in the throat, then carries him home grieving. He sees a weasel bite another and heal it with a leaf, and a raven brings Sigmund the same leaf, which cures his son.\n\nWhen the tenth day comes, they take off the skins and burn them, so that they can do no further harm.",
+     "names": [
+      "Sigmund",
+      "Sinfjötli"
+     ],
+     "sources": [
+      "Völsunga saga 8"
+     ],
+     "caveat": "The saga dates from the 13th century; the episode is often linked to wolf-warrior (úlfheðnar) traditions, but that link is inferred."
+    },
+    {
+     "culture": "celtic",
+     "people": "Welsh",
+     "title": "Gwion Bach and Ceridwen",
+     "teaser": "A chase through every shape ends with a hen swallowing a grain of wheat.",
+     "text": "Ceridwen, a sorceress living by Llyn Tegid, has a son so ugly that she decides to give him the gift of knowledge. She boils a cauldron of herbs for a year and a day, and sets the boy Gwion Bach to stir it. Near the end, three scalding drops land on his finger, and he sucks it. At once he knows everything, including that Ceridwen will kill him. The cauldron cracks and the rest of the brew turns to poison.\n\nHe runs as a hare, and she follows as a greyhound. He jumps into a river as a fish, and she pursues as an otter. He becomes a bird, and she a hawk. At last he drops into a heap of winnowed wheat as a single grain. She becomes a black hen and swallows him.\n\nNine months later she gives birth to him. Unable to kill so beautiful a baby, she sets him adrift in a leather bag. He is found at a fish-weir and named Taliesin, 'radiant brow'.",
+     "names": [
+      "Ceridwen",
+      "Gwion Bach",
+      "Taliesin",
+      "Elffin"
+     ],
+     "sources": [
+      "Hanes Taliesin (Elis Gruffydd's chronicle, 16th century)"
+     ],
+     "caveat": "The prose tale is first recorded in the 16th century, though the poems ascribed to Taliesin that allude to his many shapes are earlier.",
+     "image": {
+      "file": "File:Pair Ceridwen 00.JPG",
+      "caption": "Ceridwen's cauldron, print by J. E. C. Williams in Y Mabinogion (Wrexham, 1901)"
+     }
+    },
+    {
+     "culture": "polynesian",
+     "people": "Māori",
+     "title": "Māui as a Pigeon",
+     "teaser": "The trickster puts on a pigeon's form to follow his mother below the earth.",
+     "text": "Every night Māui's mother Taranga sleeps with her children, and every dawn she vanishes. Māui, the youngest, wants to know where she goes. He blocks the gaps in the house so no daylight gets in. Then, when she slips away at sunrise, he watches her pull up a clump of rushes and disappear down a hole into the earth.\n\nMāui takes the form of a kererū, the wood pigeon. In Grey's account, his mother's belt becomes the white feathers on the bird's breast. He flies down the hole into the underworld and perches in a tree above a group of people sitting on the grass. He drops berries on them until his mother and father look up and recognize him. His father takes him to the water for a naming rite, but the words are said wrongly. The mistake will cost Māui his life when he later tries to win immortality.",
+     "names": [
+      "Māui",
+      "Taranga",
+      "Makeatutara"
+     ],
+     "sources": [
+      "George Grey, Polynesian Mythology (1855)"
+     ],
+     "caveat": "Grey's text is an edited compilation from Māori manuscripts, and details such as the pigeon's colouring vary between tellings."
+    }
+   ]
+  }
+ ]
+}

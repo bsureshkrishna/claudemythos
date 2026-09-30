@@ -1,0 +1,1271 @@
+{
+  "concepts": [
+    {
+      "id": "hound-of-the-underworld",
+      "summary": "Where the dead go, a dog is often waiting. It may guard the gate so that no one leaves, inspect those who arrive, or guide the soul over dangerous ground. The motif is strikingly dense in the Indo-European world: Yama's four-eyed dogs, Cerberus, the Zoroastrian dogs of the bridge, Norse Garmr. Bruce Lincoln and others have argued for an inherited image, though the old etymology linking Kerberos with Sanskrit śabala, 'spotted', remains disputed. The Aztec dog that swims the dead across a river is a reminder that any people who live with dogs may make them escorts of the dead.",
+      "versions": [
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Yama's Four-Eyed Dogs",
+          "teaser": "Two brindled, four-eyed dogs watch the road to the fathers.",
+          "text": "In the Rigveda's funeral hymn the dead walk the ancient paths to Yama, the first mortal to die and so the king of the dead. On the way lies a danger. \"Run past the two dogs, the sons of Saramā, four-eyed and brindled, on the good path,\" the hymn urges the departing soul, \"then go to the kindly fathers who feast with Yama.\"\n\nThe dogs are Yama's guardians, \"four-eyed, watchers of the road, watchers of men.\" Broad-nosed and life-stealing, they also roam among the living as Yama's messengers, and the mourners pray that they will give back good breath, so that the living may go on seeing the sun. The four eyes may be pale spots above the eyes, as some dogs have; the hymn does not explain.\n\nLater texts turn the colour words into names, Śyāma and Śabala, the dark one and the spotted one. Two dogs, one road, and no soul passing unseen.",
+          "names": [
+            "Yama",
+            "Saramā",
+            "Śyāma",
+            "Śabala"
+          ],
+          "sources": [
+            "Rigveda 10.14.10–12"
+          ],
+          "caveat": "The two dogs as named individuals, Śyāma and Śabala, belong to later texts; the Rigveda uses the words as descriptions.",
+          "image": {
+            "file": "File:Rigveda MS2097.jpg",
+            "caption": "A Rigveda manuscript in Devanagari script, early 19th century"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Cerberus at the Gate",
+          "teaser": "He fawns on those who enter and devours those who leave.",
+          "text": "Hesiod gives Cerberus a pedigree fit for a monster: son of Typhon and Echidna, \"the flesh-eating, bronze-voiced hound of Hades, fifty-headed, shameless and strong.\" Later writers settle on three heads, often with a serpent's tail and a mane of snakes.\n\nHis job is precise. Hesiod says he greets those who come in with a wag of tail and ears, but lets no one out again; whoever tries to slip back through the gates, he catches and eats. The underworld is easy to enter. The dog makes sure it stays that way.\n\nThe heroes who pass him do so by cunning, music or muscle. In Virgil the Sibyl throws him a honey-cake laced with sleeping drugs, and he sprawls across his cave. Orpheus lulls him with song, and Heracles, in his last labour, chokes him into submission and drags him into the daylight. Ovid says the dog, maddened by the sun, flecked the ground with foam, and from it sprang the poison aconite.",
+          "names": [
+            "Cerberus",
+            "Typhon",
+            "Echidna",
+            "Hades",
+            "Heracles"
+          ],
+          "sources": [
+            "Hesiod, Theogony 310–312, 769–774",
+            "Virgil, Aeneid 6",
+            "Apollodorus, Library 2.5.12",
+            "Ovid, Metamorphoses 7.406–419"
+          ],
+          "image": {
+            "file": "File:Herakles Kerberos Louvre F204.jpg",
+            "caption": "Heracles and Cerberus on an Attic bilingual amphora by the Andokides Painter, c. 530–520 BCE, Louvre"
+          }
+        },
+        {
+          "culture": "persian",
+          "title": "The Dogs of the Chinvat Bridge",
+          "teaser": "Four-eyed dogs look on the dead and guard the bridge beyond.",
+          "text": "Zoroastrian law gives dogs a place of honour, and part of the reason lies at the edge of death. When someone dies, the Vendidad prescribes that a dog be brought to look at the corpse, preferably \"a yellow dog with four eyes, or a white dog with yellow ears\"; its gaze drives off the corpse-demon. The rite, called sagdīd, \"dog-sight\", is still remembered among Parsis.\n\nThe dead meet dogs again at the Chinvat bridge. In the Vendidad the radiant maiden who comes for the righteous soul appears \"with the dogs at her sides\" and leads it over the bridge. Whoever kills a dog, the same book warns, will find no one to help his soul on that crossing: \"nor will the dogs that keep the Chinvat bridge help his departing soul.\"\n\nThe four-eyed dog of Iran and the four-eyed dogs of Yama are one of the neatest Indo-Iranian parallels on record.",
+          "names": [
+            "Chinvat bridge",
+            "Daēnā",
+            "sagdīd"
+          ],
+          "sources": [
+            "Vendidad 8.16",
+            "Vendidad 13.9",
+            "Vendidad 19.30"
+          ]
+        },
+        {
+          "culture": "norse",
+          "title": "Garmr Bays Before Gnipahellir",
+          "teaser": "A hound howls at the cave-mouth, and the end of the world begins.",
+          "text": "Three times in Völuspá the seeress breaks off with the same grim refrain: \"Garmr bays loudly before Gnipahellir; the fetter will break and the wolf run free.\" Grímnismál calls Garmr the best of hounds, as Yggdrasil is the best of trees.\n\nIn Baldrs draumar, Odin rides down toward Niflhel to learn his son's fate and meets a dog coming out of Hel, its chest spattered with blood. It bays at him for a long while as he rides past to the eastern door of Hel's hall. The poem does not name it, but readers have long connected it with Garmr.\n\nSnorri gives the hound his last scene. At Ragnarök Garmr, \"who was bound before Gnipahellir,\" breaks loose and fights the god Týr, and the two kill each other: a one-handed god and a dog who has waited all history for this fight.",
+          "names": [
+            "Garmr",
+            "Gnipahellir",
+            "Odin",
+            "Týr",
+            "Hel"
+          ],
+          "sources": [
+            "Völuspá",
+            "Grímnismál 44",
+            "Baldrs draumar 2–3",
+            "Gylfaginning 51"
+          ],
+          "caveat": "No source explicitly calls Garmr the guardian of Hel; that role is inferred from Baldrs draumar, and some scholars identify Garmr with the wolf Fenrir instead."
+        },
+        {
+          "culture": "aztec",
+          "people": "Nahua (Mexica)",
+          "title": "The Yellow Dog of Mictlan",
+          "teaser": "A dog waits at the ninefold river to carry its master across.",
+          "text": "According to the Nahua elders who informed Bernardino de Sahagún, the ordinary dead travelled for four years, past clashing mountains, deserts and a wind of obsidian knives, before reaching Mictlantecuhtli, lord of Mictlan. On the way they came to a broad river, the Chiconahuapan.\n\nFor this crossing a dog was killed and cremated with the dead, a cotton thread tied around its neck. At the river bank the dog would recognise its master and swim him across on its back. Not any dog would do. The elders said a white dog would refuse, saying \"I have just washed myself,\" and a black one, \"I have just blackened myself\"; only a yellow dog would carry the dead.\n\nThe god Xolotl, often shown with a dog's head, was associated with this dark crossing, and the Mexican hairless dog still bears his name: xoloitzcuintli.",
+          "names": [
+            "Mictlan",
+            "Mictlantecuhtli",
+            "Chiconahuapan",
+            "Xolotl"
+          ],
+          "sources": [
+            "Florentine Codex, Book 3, Appendix"
+          ],
+          "caveat": "Recorded in the sixteenth century, after the Conquest, by Sahagún and his Nahua collaborators.",
+          "image": {
+            "file": "File:Xolotl.jpg",
+            "caption": "The dog-headed god Xolotl, from a sixteenth-century central Mexican codex"
+          }
+        }
+      ]
+    },
+    {
+      "id": "river-of-the-dead",
+      "summary": "Water is the oldest frontier. Many traditions place a river, lake or sea between the living and the dead, crossed by ferry, on a dog's back, by clinging to a cow's tail, or not at all. Ferrymen demand fares or passwords; some waters make the dead forget. Common descent is unlikely to explain it all: boats in graves, cemeteries across rivers, and the simple fact that a river marks a one-way border for the drowned make this an image easily reinvented. Some forms did travel, though: the Buddhist rivers of hell passed from India to China to Japan.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "The Waters of Death",
+          "teaser": "Every punting pole may touch the deadly water only once.",
+          "text": "Grieving for Enkidu, Gilgamesh goes to the edge of the world to find Utnapishtim, the one man who escaped death. The tavern-keeper Shiduri warns him that no one but the sun has ever crossed the sea beyond, for in its midst lie the Waters of Death.\n\nThere is one way: Urshanabi, Utnapishtim's boatman. But Gilgamesh, in a fury, has smashed the mysterious \"Stone Ones\" that crewed the boat. So Urshanabi sets him to cutting three hundred punting poles, for no hand may touch the Waters of Death. Each pole is used once and let go. When the last is spent, Gilgamesh strips off his garment and holds it up as a sail with his own arms.\n\nOn the far shore Utnapishtim watches the boat come in and wonders who this stranger is. The answer is: a man who has crossed death's water without dying, and still cannot keep his life.",
+          "names": [
+            "Gilgamesh",
+            "Shiduri",
+            "Urshanabi",
+            "Utnapishtim"
+          ],
+          "sources": [
+            "Epic of Gilgamesh, Tablet X"
+          ],
+          "caveat": "These waters guard the home of the one immortal man rather than the ordinary route of the dead; the Mesopotamian netherworld river, Hubur, is only rarely described."
+        },
+        {
+          "culture": "egyptian",
+          "title": "The Ferryman Who Asks Questions",
+          "teaser": "To board the ferry, the dead must name every plank and rope.",
+          "text": "Egyptian funerary texts often imagine the afterlife as a journey across water, and at the landing stands a surly ferryman. In the Pyramid Texts he is \"He-whose-face-is-behind-him,\" who must be persuaded to bring his boat to the dead king.\n\nIn the Book of the Dead, Spell 99 turns the crossing into an examination. The deceased calls on the ferryman Mahaf to wake Aqen, who keeps the boat. Then the boat itself begins to question him: every part of it, from the mast and the rudder to the ropes and the planks, demands, \"Tell me my name.\" The dead must answer each with its secret, mythological name, and only a passenger who knows them all may board.\n\nIt is a very Egyptian idea of danger: not a monster, but a test of knowledge, with the correct answers conveniently written out and buried with you.",
+          "names": [
+            "Mahaf",
+            "Aqen"
+          ],
+          "sources": [
+            "Pyramid Texts",
+            "Coffin Texts",
+            "Book of the Dead, Spell 99"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Charon's Fare",
+          "teaser": "An old boatman takes the dead across, for an obol.",
+          "text": "The Greek underworld is laced with rivers: Styx, on which the gods swear their oaths; Acheron, the river of woe; Cocytus, of wailing; Pyriphlegethon, of fire. Plato adds the plain of Lethe and the river of Heedlessness, whose water makes souls forget before rebirth.\n\nAt the crossing waits Charon, the grim old ferryman. Virgil describes his filthy cloak and eyes like flame, and the crowd of souls on the bank stretching out their hands \"in longing for the farther shore.\" The unburied must wander there a hundred years before he takes them.\n\nHe did not work for free. Many Greeks placed a coin with the dead, and Aristophanes' Frogs has Charon charge the god Dionysus two obols and make him row, to the croaking of a chorus of frogs. Even a god, it seems, pays the fare and pulls an oar.",
+          "names": [
+            "Charon",
+            "Styx",
+            "Acheron",
+            "Lethe",
+            "Dionysus"
+          ],
+          "sources": [
+            "Homer, Odyssey 10.513–514",
+            "Aristophanes, Frogs",
+            "Plato, Republic 10",
+            "Virgil, Aeneid 6"
+          ],
+          "image": {
+            "file": "File:Charon by Patenier.jpg",
+            "caption": "Landscape with Charon Crossing the Styx, Joachim Patinir, c. 1515–1524, Prado"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic",
+          "title": "The Vaitaraṇī",
+          "teaser": "A river of blood and pus, crossed by holding a cow's tail.",
+          "text": "On the road to Yama's city, according to the Garuḍa Purāṇa, the dead reach the Vaitaraṇī, a vast and terrible river. It flows with blood and pus, is choked with hair and bones, and swarms with crocodiles and flesh-eating creatures. Sinners who reach its banks cry out, and many sink.\n\nThere is a remedy, and it must be arranged in life. Whoever has given a cow to a Brahmin, the text says, will find a cow waiting on the bank, and by holding on to its tail will be pulled safely across. The gift is called vaitaraṇī-dāna after the river, and it is still made in many Hindu families for someone who is dying.\n\nThe cow that crosses the river is an old and friendly idea: in death, as in the village, the safest thing to hold on to is a cow.",
+          "names": [
+            "Vaitaraṇī",
+            "Yama"
+          ],
+          "sources": [
+            "Garuḍa Purāṇa, Pretakhaṇḍa"
+          ],
+          "caveat": "The Garuḍa Purāṇa is a late and textually fluid work; the details of the river vary between recensions."
+        },
+        {
+          "culture": "japanese",
+          "people": "Japanese Buddhist",
+          "title": "The River of Three Crossings",
+          "teaser": "An old woman strips the dead of their clothes at the riverbank.",
+          "text": "In Japanese Buddhist tradition the dead reach the Sanzu-no-kawa, the River of Three Crossings, a few days after death. A popular explanation of the name says there are three ways over: a bridge for the good, a shallow ford for lesser sinners, and a deep torrent full of serpents for the wicked.\n\nOn the bank, under a great tree, sits Datsue-ba, the old woman who strips the clothes off the dead. Her companion Ken'eō hangs them on the branches, and how far the branch bends shows the weight of the soul's sins.\n\nThe dead were long buried with six coins, rokumonsen, as the ferry fare. On the riverbank, too, the souls of children who died before their parents pile up little towers of stones, which demons knock down, until the bodhisattva Jizō comes to shelter them in his sleeves.",
+          "names": [
+            "Sanzu-no-kawa",
+            "Datsue-ba",
+            "Ken'eō",
+            "Jizō"
+          ],
+          "sources": [
+            "Jizō jūō kyō (Sutra of Jizō and the Ten Kings)"
+          ],
+          "caveat": "A medieval Japanese Buddhist development of Chinese apocryphal scriptures; details and explanations of the river vary widely.",
+          "image": {
+            "file": "File:Datsue-ba and Keneō, beside the Sanzu River bridge at Lake Usori - Mount Osore - Mutsu, Aomori - DSC00213.jpg",
+            "caption": "Statues of Datsue-ba and Ken'eō beside the Sanzu River bridge at Mount Osore, Aomori"
+          }
+        },
+        {
+          "culture": "north-american",
+          "people": "Ojibwe (Chippewa)",
+          "title": "The White Stone Canoe",
+          "teaser": "Lovers paddle stone canoes across a lake where the wicked sink.",
+          "text": "In a story published by Henry Rowe Schoolcraft, a young Ojibwe man loses his bride on the eve of their marriage. Unable to bear it, he follows the path the dead are said to take, south through forests and over hills, until an old man in a lodge tells him he has reached the edge of the land of souls. He must leave his body behind.\n\nBeyond lies a wide lake, and on the far side an island of light. On the shore waits a canoe of white stone, and beside it he finds his bride, with a canoe of her own. They paddle side by side. Storms rise and waves swallow other travellers, those whose lives were evil, while the canoes of little children glide through untouched.\n\nOn the island a voice tells him that his time has not come; he must return and live well. He wakes, alone again, in the world he left.",
+          "names": [
+            "Ojibwe",
+            "Master of Life"
+          ],
+          "sources": [
+            "Henry Rowe Schoolcraft, Algic Researches (1839), 'The White Stone Canoe'"
+          ],
+          "caveat": "Schoolcraft freely rewrote the stories he collected, often with his Ojibwe wife Jane Johnston Schoolcraft's help, so this literary version cannot be taken as a verbatim tradition."
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish/Karelian",
+          "title": "Tuonela's Black River",
+          "teaser": "Death's daughter will not ferry a man who has not died.",
+          "text": "In the Kalevala, Väinämöinen needs three magic words to finish a boat, and goes to seek them in Tuonela, the land of death. Its black river blocks the way. On the far bank Tuoni's daughter, small and stunted, is washing clothes, and he calls for a boat.\n\nShe asks what killed him. Iron, he says; then water; then fire. She sees through each lie: iron would have left blood, water would drip from his clothes, fire would have singed his hair. Only when he admits he is alive does she ferry him, warning that many come to Tuonela and few go home.\n\nTuonela's mistress gives him beer crawling with frogs and worms, and he sleeps. Meanwhile Tuoni's son stretches a net of iron across the river to trap him. Väinämöinen turns himself into an iron serpent and slips through the mesh, and goes home warning others never to try it.",
+          "names": [
+            "Väinämöinen",
+            "Tuonela",
+            "Tuoni",
+            "Tuonen tytti"
+          ],
+          "sources": [
+            "Kalevala, runo 16"
+          ],
+          "caveat": "The Kalevala is Elias Lönnrot's 1849 compilation, which combines and reshapes songs from many singers.",
+          "image": {
+            "file": "File:Pekka Halonen - Väinämöinen in Tuonela.jpg",
+            "caption": "Väinämöinen in Tuonela, Pekka Halonen, c. 1895–1910"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bridge-of-the-dead",
+      "summary": "A bridge turns the journey of the dead into a trial. It may widen for the righteous and narrow to a blade for the wicked, or be guarded by someone who demands your name. The Zoroastrian Chinvat bridge is the oldest well-documented example, reaching back to Zarathustra's own hymns, and many scholars think it influenced later Islamic and Christian images of a perilous bridge over hell. Elsewhere, as in Norse and Chinese tradition, the bridge is less an ordeal than a landmark on a long road. A narrow span over dark water is an image hard not to reinvent.",
+      "versions": [
+        {
+          "culture": "persian",
+          "people": "Zoroastrian",
+          "title": "The Chinvat Bridge",
+          "teaser": "The bridge widens for the good and narrows to a blade for the wicked.",
+          "text": "Zarathustra himself mentions the Chinvat bridge, the \"Bridge of the Separator,\" in his hymns: he will lead the faithful across it, while the wicked will be tormented there by their own souls and consciences.\n\nLater texts fill in the scene. On the fourth dawn after death, the soul meets its daēnā, the embodiment of its own conduct. For the righteous she is a radiant young woman, sweet-smelling, who says, \"I am your own good thoughts, good words and good deeds.\" For the wicked she is a hideous hag. Then comes the bridge. The Pahlavi books say it has many sides: for the righteous it turns its broad face upward, many spear-lengths wide, but for the wicked it turns on its edge, narrow as a razor, and they fall into hell.\n\nIt is a judgement that needs no judge. You meet yourself, and you cross, or don't.",
+          "names": [
+            "Chinvat bridge",
+            "Zarathustra",
+            "Daēnā"
+          ],
+          "sources": [
+            "Yasna 46.10–11",
+            "Hādōxt Nask 2",
+            "Vendidad 19",
+            "Dādestān ī Dēnīg"
+          ],
+          "image": {
+            "file": "File:Drawing of the Eastern Wall of the Sogdian Wirkak’s Sarcophagus.jpg",
+            "caption": "Line drawing of the eastern wall of the Sogdian Wirkak's sarcophagus, Xi'an, c. 580 CE, a scene often read as the crossing of the Chinvat bridge"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Gjallarbrú",
+          "teaser": "The golden bridge thunders under one living rider.",
+          "text": "When Hermóðr rides to Hel to ransom his brother Baldr, Snorri describes the road. For nine nights he rides through valleys so dark and deep that he sees nothing, until he comes to the river Gjöll and rides onto the Gjallarbrú, the bridge over Gjöll, roofed with shining gold.\n\nA maiden named Móðguðr guards it. She asks his name and family, and remarks that only the day before, five troops of dead men rode over her bridge, yet it thunders no less under him alone. Besides, he does not have the colour of a dead man. Why is he riding on the road to Hel?\n\nHe tells her, and she points the way: down and to the north. It is one of the most atmospheric scenes in Snorri, and one of the few places where the bridge of the dead has a keeper with a sense of observation.",
+          "names": [
+            "Gjallarbrú",
+            "Gjöll",
+            "Móðguðr",
+            "Hermóðr",
+            "Baldr"
+          ],
+          "sources": [
+            "Gylfaginning 49"
+          ],
+          "caveat": "Known only from Snorri Sturluson, writing in Christian Iceland around 1220; the bridge is named in the eddic poems only indirectly, if at all."
+        },
+        {
+          "culture": "chinese",
+          "title": "The Bridge of Helplessness",
+          "teaser": "Before rebirth, an old woman serves the soup of forgetting.",
+          "text": "In Chinese popular religion, the dead who have passed through the courts of the underworld must eventually be reborn, and to reach rebirth they cross the Naihe Qiao, the Bridge of No Recourse, or of Helplessness, over a river of the underworld. In some temple depictions the virtuous take bridges of gold and silver while the rest crowd onto the Naihe bridge, from which sinners tumble into the water below.\n\nNear the end of the road stands Meng Po, Lady Meng, an old woman who serves every soul a bowl of her broth. Whoever drinks it forgets everything: family, deeds, the torments of the courts. Only then can the soul be born again with a clean slate.\n\nThe late-imperial Jade Record places her pavilion at the tenth and last court. The soup explains, the storytellers say, why no one remembers their past lives.",
+          "names": [
+            "Naihe Qiao",
+            "Meng Po"
+          ],
+          "sources": [
+            "Yuli baochao (Jade Record)"
+          ],
+          "caveat": "A feature of late imperial popular religion; the Jade Record dates from the nineteenth century, and descriptions of the bridge vary between temples and texts.",
+          "image": {
+            "file": "File:Meng Po at Pavilion of Forgetfulness, Haw Par Villa (14793853145).jpg",
+            "caption": "Meng Po at the Pavilion of Forgetfulness, Haw Par Villa, Singapore"
+          }
+        }
+      ]
+    },
+    {
+      "id": "judgement-of-the-dead",
+      "summary": "Judgement after death is not universal. Many early afterlives, Mesopotamian, early Hebrew and Homeric, send nearly everyone to the same dim place. Where moral judgement does appear, it takes recurring forms: a scale, a written record, a bench of judges, a confession. Egypt's weighing of the heart is the earliest fully illustrated example. Zoroastrian, Indian, Greek and Chinese Buddhist systems developed their own courts, sometimes influencing one another; the Chinese Ten Kings, modelled closely on the imperial magistrate's court, fuse Indian Buddhist ideas with native Chinese bureaucracy. What they share is the conviction that the account must balance somewhere.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "The Weighing of the Heart",
+          "teaser": "The heart goes on the scale against the feather of Truth.",
+          "text": "In the Hall of the Two Truths, the dead face Osiris and forty-two divine assessors, each with a terrifying name. To each one the deceased declares an innocence: I have not stolen, I have not killed, I have not caused tears, I have not stopped the water in its season. Modern scholars call this the \"negative confession.\"\n\nThen the heart is placed on a scale opposite the feather of Maat, truth and order. Anubis tends the balance; Thoth, the scribe of the gods, records the result. Beside them crouches Ammit, the Devourer, part crocodile, part lion, part hippopotamus, ready to swallow a heart that fails.\n\nThe Egyptians took precautions. A spell inscribed on heart scarabs begs the heart itself: \"do not stand up as a witness against me.\" The ideal was honesty; the fallback was an amulet.",
+          "names": [
+            "Osiris",
+            "Maat",
+            "Anubis",
+            "Thoth",
+            "Ammit"
+          ],
+          "sources": [
+            "Book of the Dead, Spells 30B and 125"
+          ],
+          "image": {
+            "file": "File:The judgement of the dead in the presence of Osiris.jpg",
+            "caption": "The weighing of the heart, from the Book of the Dead of Hunefer, c. 1275 BCE, British Museum"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Judged Naked by the Dead",
+          "teaser": "Zeus decrees that souls be judged stripped of body and rank.",
+          "text": "In Homer, Minos sits among the dead with a golden sceptre, giving judgements, but the Odyssey says little about who is rewarded or punished. Plato gives the idea its sharpest form.\n\nIn the myth that closes the Gorgias, Socrates says that in the age of Cronus people were judged on the day they were to die, while still alive and clothed, by living judges. The wicked, dressed in fine bodies and wealth and with witnesses to speak for them, fooled the court. So Zeus changed the rules: men would be judged after death, naked, by judges who were dead themselves, soul looking at soul.\n\nHis sons Rhadamanthys and Aeacus judge at the fork in the road, one road leading to the Isles of the Blessed, the other to Tartarus, and Minos hears appeals. A tyrant's soul, stripped bare, is seen to be covered in scars and weals from its crimes.",
+          "names": [
+            "Minos",
+            "Rhadamanthys",
+            "Aeacus",
+            "Zeus",
+            "Tartarus"
+          ],
+          "sources": [
+            "Homer, Odyssey 11.568–571",
+            "Plato, Gorgias 523a–527a",
+            "Plato, Republic 10"
+          ]
+        },
+        {
+          "culture": "levantine",
+          "people": "Hebrew Bible",
+          "title": "Awakening from the Dust",
+          "teaser": "Some wake to everlasting life, some to everlasting contempt.",
+          "text": "For most of the Hebrew Bible, the dead go down to Sheol, a silent place where, as a psalmist says, no one praises God. Ecclesiastes is blunter: \"the dead know nothing.\" There is no court and no reward.\n\nThe Book of Daniel breaks with this. In its final vision, written during the Maccabean crisis of the 160s BCE, an angel promises that at a time of unprecedented distress, \"many of those who sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.\" Those who are wise will shine like the brightness of the sky, and those who lead many to righteousness, like the stars forever.\n\nIt is the Hebrew Bible's clearest statement of resurrection and judgement, and it would shape Jewish, Christian and Islamic thought for two thousand years.",
+          "names": [
+            "Sheol",
+            "Daniel",
+            "Michael"
+          ],
+          "sources": [
+            "Daniel 12:1–3",
+            "Psalm 6:5",
+            "Ecclesiastes 9:5–10"
+          ],
+          "caveat": "Whether Persian ideas of resurrection and judgement influenced this late text is debated."
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic",
+          "title": "Yama and Citragupta's Ledger",
+          "teaser": "A divine scribe reads out the account of every deed.",
+          "text": "In the Rigveda, Yama is a benign king presiding over a happy world of ancestors. By the time of the Purāṇas he has become Dharmarāja, king of justice, and his realm has a court.\n\nThe Garuḍa Purāṇa describes the journey: Yama's messengers bind the dead and drag them along a harrowing road to Yama's city. There Citragupta, Yama's scribe, reads out the record of the soul's deeds, good and bad, from his ledger. Yama appears to the righteous as a gracious god, and to sinners as a fearsome figure, huge and dark, with a noose and a staff, seated on his buffalo. Then he assigns each soul its hells or its heavens, until the time comes for rebirth.\n\nCitragupta has admirers of his own: the Kāyastha communities of north India, traditionally scribes and clerks, honour him as their divine ancestor. It is fitting that the keepers of records should claim descent from the keeper of the final one.",
+          "names": [
+            "Yama",
+            "Dharmarāja",
+            "Citragupta"
+          ],
+          "sources": [
+            "Garuḍa Purāṇa, Pretakhaṇḍa"
+          ],
+          "image": {
+            "file": "File:Yama's Court and Hell.jpg",
+            "caption": "Yama's court and hell, painting on cloth, 17th century"
+          }
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian",
+          "title": "Rashnu's Golden Scales",
+          "teaser": "A just god weighs the soul, favouring no one by a hair.",
+          "text": "Zoroastrian tradition sets the judgement of the soul at the Chinvat bridge, and staffs it with divine officials. Mithra presides; Sraosha protects the soul; and Rashnu, whose name means something like \"the just,\" holds the scales.\n\nAccording to the Pahlavi book Mēnōg ī Xrad, Rashnu weighs the soul's good and evil deeds with a golden balance and does not tilt it by a hair's breadth for anyone, rich or poor, lord or commoner. Where good outweighs evil, the soul crosses to paradise; where evil prevails, it falls into hell.\n\nThere is a third possibility, a rare mercy in these systems. A soul whose good and evil deeds weigh exactly the same goes to Hamēstagān, \"the place of the mixed,\" where it waits, suffering only heat and cold, until the final judgement at the end of time.",
+          "names": [
+            "Rashnu",
+            "Mithra",
+            "Sraosha",
+            "Hamēstagān"
+          ],
+          "sources": [
+            "Mēnōg ī Xrad 2",
+            "Ardā Wirāz Nāmag"
+          ],
+          "caveat": "The Pahlavi books were written down in the ninth century CE, though they draw on older tradition."
+        },
+        {
+          "culture": "chinese",
+          "people": "Chinese Buddhist",
+          "title": "The Ten Kings",
+          "teaser": "The dead pass through ten courts, one after another.",
+          "text": "From about the tenth century, Chinese Buddhists read the Scripture of the Ten Kings, which sends every soul through a series of underworld courts. The dead appear before one king on each of the first seven weeks after death, then at a hundred days, one year and three years. Each king is dressed as an imperial magistrate, with clerks, registers and guards.\n\nKing Yama, borrowed from India as Yanluo Wang, presides over the fifth court. In later images he sits beside a mirror that shows the soul its deeds, so that no one can deny them.\n\nThe schedule was not arbitrary. It matched the memorial rites that families performed for the dead, and the scripture promised that offerings made on those days would ease each hearing. The living, in effect, could send gifts to the court. Bureaucracy in heaven and bureaucracy in hell were both, after all, run on petitions.",
+          "names": [
+            "Ten Kings",
+            "Yanluo Wang (Yama)"
+          ],
+          "sources": [
+            "Scripture of the Ten Kings (Shiwang jing)",
+            "Yuli baochao (Jade Record)"
+          ],
+          "image": {
+            "file": "File:Jin Chushi. Yama the Fifth King of Hell, late 12 century. Metmuseum.jpg",
+            "caption": "Yama, the Fifth King of Hell, by Jin Chushi, late 12th century, Metropolitan Museum of Art"
+          }
+        }
+      ]
+    },
+    {
+      "id": "blessed-otherworld",
+      "summary": "Against the grey common house of the dead, many traditions imagine somewhere better: a field of endless harvest, an island at the edge of the world, a hall of eternal feasting. Access is the revealing part. It may be earned by virtue, secured by ritual, won by a warrior's death, granted by divine favour, or decided simply by how one died. Some of these places are for the dead; others are for a chosen few taken away alive. The shared features, western islands, abundant food, no sickness or age, reflect common human wishes more than borrowing, though the Irish voyage tales were written down by Christian monks.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Sumerian",
+          "title": "Dilmun, Where the Lion Does Not Kill",
+          "teaser": "A pure land where no one says 'I am old'.",
+          "text": "The Sumerian poem of Enki and Ninhursag opens in Dilmun, a land \"pure, clean and bright.\" There the raven does not croak, the lion does not kill, the wolf does not snatch the lamb. No one with sore eyes says \"my eye hurts,\" no old woman says \"I am an old woman,\" no old man says \"I am an old man.\"\n\nDilmun is also where the gods place the one mortal who escaped the flood. In the Sumerian flood story, Ziusudra, having saved living things, is granted \"life like a god\" and settled in Dilmun, \"where the sun rises.\" His Babylonian counterpart, Utnapishtim, lives far away \"at the mouth of the rivers.\"\n\nIt is not a heaven for the good dead. Ordinary Mesopotamians expected the dusty House of Darkness. Paradise was for gods, and for one very lucky man.",
+          "names": [
+            "Dilmun",
+            "Enki",
+            "Ninhursag",
+            "Ziusudra"
+          ],
+          "sources": [
+            "Enki and Ninhursag",
+            "Sumerian Flood Story",
+            "Epic of Gilgamesh, Tablet XI"
+          ],
+          "caveat": "Dilmun was also a real place, usually identified with Bahrain, and it is a paradise of gods and an immortal survivor rather than an afterlife for the dead."
+        },
+        {
+          "culture": "egyptian",
+          "title": "The Field of Reeds",
+          "teaser": "Endless harvests, and little figurines to do the work.",
+          "text": "The blessed Egyptian dead hoped to reach the Field of Reeds, Sekhet Aaru, an idealised Egypt of canals and fields where the barley grows taller than a man. The Book of the Dead shows the deceased ploughing, sowing and reaping there, sailing on its waterways and worshipping its gods.\n\nFarming, of course, is work, and the afterlife, like Egypt, might demand labour for the state. For this the Egyptians invented a solution. They buried the dead with small figurines, shabtis, inscribed with Spell 6 of the Book of the Dead: if the deceased is called on to cultivate the fields, irrigate the banks or carry sand, \"Here I am!\" the shabti will answer, and go in his place.\n\nSome wealthy burials included one for every day of the year, and overseers with whips to keep them at it.",
+          "names": [
+            "Sekhet Aaru",
+            "Osiris",
+            "shabti"
+          ],
+          "sources": [
+            "Book of the Dead, Spells 6 and 110",
+            "Coffin Texts"
+          ],
+          "image": {
+            "file": "File:Maler der Grabkammer des Sennudem 001.jpg",
+            "caption": "Sennedjem ploughing in the Field of Reeds, from his burial chamber at Deir el-Medina, c. 1200 BCE"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Where the Inexhaustible Light Is",
+          "teaser": "A world of light and joy where every wish is granted.",
+          "text": "Near the end of the Rigveda's ninth book, a hymn to Soma turns into a prayer for immortality. \"Where the inexhaustible light is, the world where the sun is placed, there place me, O purifying one, in the immortal, unfading world.\"\n\nThe refrain builds, verse by verse: where Vivasvat's son is king, that is Yama; where the waters of heaven flow; where one may move as one wishes, in the third vault of heaven; where there are desires and their fulfilment, food and satisfaction; where there are joys, delights and pleasures. After each, the same plea: \"make me immortal there.\"\n\nThe funeral hymns agree. The dead, well sent off, go to join the fathers and Yama in the highest heaven, taking on bodies free of blemish. The earliest Indian afterlife is not a grim underworld at all, but a banquet in the light.",
+          "names": [
+            "Yama",
+            "Soma",
+            "Vivasvat"
+          ],
+          "sources": [
+            "Rigveda 9.113.7–11",
+            "Rigveda 10.14"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Elysium and the Isles of the Blessed",
+          "teaser": "At the ends of the earth, no snow, no storms, no dying.",
+          "text": "In the Odyssey the sea-god Proteus tells Menelaus that he will not die in Argos. Because he is married to Helen, and so is Zeus's son-in-law, the gods will send him to the Elysian plain at the ends of the earth, where fair-haired Rhadamanthys lives, where life is easiest for men: no snow, no heavy storms, no rain, only the West Wind blowing soft from Ocean.\n\nHesiod has something similar for the heroes of the age of Troy. Some of them Zeus settled at the edge of the world, on the Isles of the Blessed beside deep-swirling Ocean, where the grain-giving earth bears a honey-sweet harvest three times a year.\n\nPindar makes it moral: those who keep their souls from wrong through three lives in this world and the next travel the road of Zeus to the tower of Cronus, on the island where ocean breezes blow and golden flowers blaze.",
+          "names": [
+            "Elysium",
+            "Menelaus",
+            "Rhadamanthys",
+            "Isles of the Blessed",
+            "Cronus"
+          ],
+          "sources": [
+            "Homer, Odyssey 4.561–569",
+            "Hesiod, Works and Days 167–173",
+            "Pindar, Olympian 2"
+          ]
+        },
+        {
+          "culture": "chinese",
+          "title": "The Islands of the Immortals",
+          "teaser": "Seen from afar like clouds, they sink when ships draw near.",
+          "text": "In the Records of the Grand Historian, Sima Qian reports that out in the Bohai Sea lie three sacred mountain-islands: Penglai, Fangzhang and Yingzhou. They are not far from the coast, but whenever a ship comes close, a wind drives it back. Those who have reached them say that the immortals live there, and the elixir of deathlessness; the birds and beasts are all white, and the palaces are made of gold and silver.\n\nSeen from a distance, the islands look like clouds. Come nearer, and they appear to lie beneath the water. Come closer still, and the wind carries you away.\n\nThe First Emperor of Qin, hungry for immortality, sent the magician Xu Fu to sea with thousands of young men and women to find them. The expedition, as Sima Qian notes with some dryness, did not return with the drug.",
+          "names": [
+            "Penglai",
+            "Fangzhang",
+            "Yingzhou",
+            "Xu Fu",
+            "Qin Shi Huang"
+          ],
+          "sources": [
+            "Sima Qian, Shiji 6",
+            "Sima Qian, Shiji 28"
+          ],
+          "caveat": "A paradise of the immortals (xian), reached alive, not a destination for the ordinary dead.",
+          "image": {
+            "file": "File:Penglai scene in a copy of a painting by Leng Qian (Li Sixun's follower).jpg",
+            "caption": "A scene of Penglai, Ming-dynasty copy of a painting attributed to Leng Qian"
+          }
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "The Voyage of Bran",
+          "teaser": "He jumps ashore in Ireland and crumbles into ash.",
+          "text": "One day Bran son of Febal hears sweet music and falls asleep. When he wakes, a silver branch with white blossoms lies beside him. A woman from an unknown land appears and sings of Emain, an island held up on pillars of white bronze, where there is no grief, no sickness, no death, only music and games.\n\nBran sets out with twenty-seven companions. On the sea he meets the god Manannán mac Lir riding his chariot over the waves, which to him are a flowering plain. Bran passes the Island of Joy, where everyone only laughs, and reaches the Land of Women, where every day's feast seems endless.\n\nIt feels like a year. When homesickness brings them back, one companion leaps ashore and turns to ashes, as if he had lain in the earth for centuries. Bran calls out his story to the people on the beach, and sails away again.",
+          "names": [
+            "Bran mac Febail",
+            "Manannán mac Lir",
+            "Emain",
+            "Tír na mBan"
+          ],
+          "sources": [
+            "Immram Brain (The Voyage of Bran)"
+          ],
+          "caveat": "An otherworld of the living rather than of the dead, preserved by Christian monastic scribes of the seventh or eighth century."
+        },
+        {
+          "culture": "norse",
+          "title": "Valhalla",
+          "teaser": "Fight all day, feast all night, and wait for the wolf.",
+          "text": "Odin's hall Valhalla, in the poem Grímnismál, gleams gold in Glaðsheimr. Its rafters are spear-shafts, its roof is made of shields, and mail-coats lie on its benches. It has five hundred and forty doors, and eight hundred warriors will march out of each at once when they go to fight the wolf at the end of the world.\n\nThe warriors, the einherjar, are the chosen slain, brought by valkyries. Every day they arm themselves and fight in the courtyard; the fallen rise again and ride home to feast. The cook Andhrímnir boils the boar Sæhrímnir in the cauldron Eldhrímnir, and the boar is whole again each evening. The goat Heiðrún, grazing on the tree Læraðr, gives mead instead of milk.\n\nIt is paradise for a very particular clientele. Freyja claims half the slain for her own hall, and most of the dead go to Hel.",
+          "names": [
+            "Valhalla",
+            "Odin",
+            "einherjar",
+            "Sæhrímnir",
+            "Heiðrún",
+            "Freyja"
+          ],
+          "sources": [
+            "Grímnismál 8–26",
+            "Gylfaginning"
+          ],
+          "caveat": "Our picture is largely poetic and Snorri's; how widely ordinary Norse people expected any of this is uncertain.",
+          "image": {
+            "file": "File:Walhall by Emil Doepler.jpg",
+            "caption": "Einherjar served by valkyries in Valhalla, Emil Doepler, c. 1905"
+          }
+        },
+        {
+          "culture": "aztec",
+          "people": "Nahua (Mexica)",
+          "title": "Tlalocan and the House of the Sun",
+          "teaser": "Where you went depended on how you died.",
+          "text": "For the Mexica, as Sahagún's Nahua informants explained, one's afterlife depended less on how one lived than on how one died. Most people went to Mictlan. But others were chosen.\n\nThose who died by water, by lightning, or of certain diseases like dropsy or skin sores were claimed by the rain god Tlaloc. They were buried rather than burned, and went to Tlalocan, a place of endless summer, always green, rich with maize, squash, amaranth, chilli and flowers.\n\nWarriors who fell in battle or on the sacrificial stone went to the House of the Sun in the east. Each dawn they escorted the sun, shouting and clashing their shields, as far as noon. After four years they became hummingbirds and butterflies, sipping the flowers of the earth. Women who died in childbirth, honoured as warriors, carried the sun from noon to its setting.",
+          "names": [
+            "Tlalocan",
+            "Tlaloc",
+            "Tonatiuh",
+            "Mictlan"
+          ],
+          "sources": [
+            "Florentine Codex, Book 3, Appendix",
+            "Florentine Codex, Book 6"
+          ],
+          "caveat": "Recorded in the sixteenth century, after the Conquest, by Sahagún and his Nahua collaborators."
+        }
+      ]
+    },
+    {
+      "id": "realms-of-punishment",
+      "summary": "Hells built for punishment are younger and rarer than the underworld itself. The earliest lands of the dead are gloomy rather than penal; torment fitted to the sinner grows alongside ideas of moral judgement, in Egyptian royal tombs, Greek poetry and philosophy, Zoroastrian and Indian texts, and Buddhist cosmology, which carried its hells across Asia. The favourite device is poetic justice: the punishment mirrors the crime. Borrowing is real in places (Indian Buddhist hells shaped Chinese Diyu; Christian vision literature may colour late Norse sources), but the wish to see justice completed after death needs no single origin.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "The Fiery Pits of the Duat",
+          "teaser": "The enemies of the sun are boiled, burned and unmade.",
+          "text": "The great royal books of the underworld, painted on the walls of New Kingdom tombs, follow the sun god through the hours of the night. Along the way the sun passes the places where his enemies are punished.\n\nThe Book of Caverns shows them in stark rows: bound, headless, upside down, their hearts torn out. In its lowest register, fire-breathing goddesses and serpents guard pits of flame, and great cauldrons, heated from below, hold heads, hearts, bodies and souls. In the Book of Gates and the Amduat, the damned are cast into lakes of fire and chopped into pieces by knife-wielding demons.\n\nThe point is not eternal torment in the Christian sense but annihilation. The Egyptians feared ceasing to exist more than pain; the wicked are destroyed in body, soul, name and shadow. Hell, in Egypt, was the place where you were thoroughly unmade.",
+          "names": [
+            "Duat",
+            "Ra"
+          ],
+          "sources": [
+            "Book of Caverns",
+            "Book of Gates",
+            "Amduat"
+          ],
+          "image": {
+            "file": "File:Book of caverns (KV9) fifth division.jpg",
+            "caption": "The fifth division of the Book of Caverns, tomb of Ramesses V/VI (KV9), 12th century BCE"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "The Famous Sinners",
+          "teaser": "Water that recedes, fruit that flies, a stone that rolls back.",
+          "text": "At the end of his visit to the dead, Odysseus sees three great sinners. Tityos, who assaulted Leto, lies stretched over nine acres while two vultures tear at his liver. Tantalus stands in a pool up to his chin; whenever he stoops to drink, the water drains away, and whenever he reaches for the fruit hanging overhead, the wind whips it out of reach. Sisyphus pushes a huge stone up a hill, and each time, just before the top, \"the shameless stone\" rolls back down.\n\nBelow Hades lies Tartarus, where the defeated Titans are penned; Hesiod says a bronze anvil dropped from earth would fall nine days and nights before it landed.\n\nLater writers add Ixion bound to his wheel and the Danaids filling a leaky jar, and Plato makes Tartarus the prison of the incurable. But Homer's three remain the classic picture: punishment as eternal frustration.",
+          "names": [
+            "Tityos",
+            "Tantalus",
+            "Sisyphus",
+            "Tartarus"
+          ],
+          "sources": [
+            "Homer, Odyssey 11.576–600",
+            "Hesiod, Theogony 720–725",
+            "Plato, Gorgias 525"
+          ],
+          "image": {
+            "file": "File:Titian - Tityus - Madrid - Prado.jpg",
+            "caption": "Tityus, Titian, 16th century, Prado"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic",
+          "title": "The Hells of Naraka",
+          "teaser": "Each of the many hells is fitted to a particular sin.",
+          "text": "The Bhāgavata Purāṇa lists the hells in methodical detail. They lie in the south, below the earth and above the waters, ruled by Yama, and each receives a particular kind of sinner.\n\nThose who steal another's wife, children or wealth are dragged to Tāmisra, a place of utter darkness, and beaten. Those who harm living creatures for their own gain go to Raurava, where the beings they hurt return as fierce creatures called rurus, more cruel than serpents, to torment them. Those who cook living animals and birds are themselves boiled in oil in Kumbhīpāka. The list runs on through hells of red-hot iron, of razor-leaved forests, and of pus, blood and filth.\n\nNo hell in this system is final. When the soul's debt of karma is paid, it is reborn. The Indian hells are less a prison than a penal colony with release dates.",
+          "names": [
+            "Naraka",
+            "Yama",
+            "Tāmisra",
+            "Raurava",
+            "Kumbhīpāka"
+          ],
+          "sources": [
+            "Bhāgavata Purāṇa 5.26",
+            "Garuḍa Purāṇa"
+          ],
+          "image": {
+            "file": "File:Hindu hell.jpg",
+            "caption": "Scenes of punishment in the hells, colour lithograph, Chore Bagan Art Studio, Calcutta, c. 1895"
+          }
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian",
+          "title": "Ardā Wirāz's Tour of Hell",
+          "teaser": "Packed as close as ear to eye, each soul believes it is alone.",
+          "text": "In the Pahlavi Book of Ardā Wirāz, the Zoroastrian community chooses one righteous priest to go and see the other world for them. Wirāz drinks wine mixed with hemp, and his soul leaves his body for seven days, guided by the angel Srōš and the fire-god Ādur.\n\nAfter the joys of paradise he is shown hell, and it is ghastly: freezing and burning, rank with stench, and so dark that the darkness can be grasped with the hand. The damned are packed as close together as the ear to the eye, yet each one believes himself alone. Three days there feel like nine thousand years.\n\nWirāz then tours the torments of specific sinners, each punishment matched to its offence, from liars and adulterers to those who polluted water and fire. When he returns, he dictates everything to a scribe, and the community is warned.",
+          "names": [
+            "Ardā Wirāz",
+            "Srōš",
+            "Ādur"
+          ],
+          "sources": [
+            "Ardā Wirāz Nāmag"
+          ],
+          "caveat": "The surviving text was redacted in the ninth or tenth century CE; comparisons with medieval Christian visions of hell have been drawn, but the direction of any influence is unclear.",
+          "image": {
+            "file": "File:India del nord, arda-viraf-nameh (libro dell'arda viraf, in gujarati), xviii secolo, su carta (bnf) 01.jpg",
+            "caption": "An illustrated Gujarati manuscript of the Book of Ardā Wirāz, northern India, 18th century"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Náströnd, the Corpse-Shore",
+          "teaser": "A hall woven of serpents, dripping venom on oath-breakers.",
+          "text": "Near the end of Völuspá the seeress sees a hall standing far from the sun, on Náströnd, the shore of corpses. Its doors face north. Poison drips in through its roof-vents, and its walls are woven of the spines of serpents.\n\nThere she sees men wading heavy streams: oath-breakers, murderers, and those who seduce other men's wives. There the dragon Níðhöggr sucks the corpses of the dead, and a wolf tears at men.\n\nSnorri repeats the scene and adds that the serpents' heads face inward, spewing venom so that rivers of it run through the hall. It is one of the few passages in Norse myth where the dead are sorted by their morals, and that alone has made scholars suspicious.",
+          "names": [
+            "Náströnd",
+            "Níðhöggr"
+          ],
+          "sources": [
+            "Völuspá",
+            "Gylfaginning"
+          ],
+          "caveat": "The moral sorting of the dead in these passages may reflect Christian influence on a poem composed around the time of Iceland's conversion."
+        },
+        {
+          "culture": "chinese",
+          "title": "The Courts of Diyu",
+          "teaser": "Slanderers lose their tongues; the greedy climb a hill of knives.",
+          "text": "Chinese Buddhism inherited the Indian hells and gave them an imperial bureaucracy. In the fully developed picture of popular religion, set out in the Jade Record, each of the ten courts of Diyu, the \"earth prison,\" contains sixteen smaller hells, each for a particular offence.\n\nThe punishments are vividly concrete. Liars and slanderers have their tongues pulled out. Sinners are forced up a mountain of knives, boiled in cauldrons of oil, sawn in half, or ground in mills. Unfilial children, cheating merchants, monks who break their vows, and people who waste grain all have their allotted torments. When the sentence is served, the soul moves on to Meng Po's soup and rebirth.\n\nTemples displayed these scenes in painted scrolls and statuary, most famously at the \"ghost city\" of Fengdu on the Yangzi. They were meant to be looked at, and to frighten.",
+          "names": [
+            "Diyu",
+            "Ten Kings",
+            "Meng Po",
+            "Fengdu"
+          ],
+          "sources": [
+            "Yuli baochao (Jade Record)"
+          ],
+          "caveat": "The Jade Record is a nineteenth-century popular tract, building on much older Buddhist models.",
+          "image": {
+            "file": "File:Tainan Madou Dai Tian Temple Eighteen Levels of Hell.jpg",
+            "caption": "Hell tableaux at the Daitian Temple, Madou, Tainan, Taiwan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "descent-to-underworld",
+      "summary": "Some go down to the land of the dead and, against all odds, come back, not to fetch a lover but to win power, knowledge or a prize, or simply to prove that it can be done. The descent is among the oldest plots in literature, already fully formed in Sumerian, and it recurs with ritual detail: gates, stripping, tests, food that must not be eaten, questions that must be answered. Scholars have compared it to shamanic journeys and initiation rites; it hardly needs a single origin. For journeys made to bring back a particular loved one, see 'Bringing Back the Beloved Dead'.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Sumerian",
+          "title": "Inanna's Descent",
+          "teaser": "At each of seven gates the queen of heaven loses a garment.",
+          "text": "Inanna, queen of heaven, sets her mind on the Great Below, the realm of her sister Ereshkigal. Before she goes, she tells her minister Ninshubur what to do if she does not return.\n\nAt each of the netherworld's seven gates, the gatekeeper Neti removes one of her royal powers: her crown, her beads, her breast ornaments, her ring, her measuring rod and line, her robe. Each time she protests, and each time he answers, \"Be quiet, Inanna, the ways of the netherworld are perfect.\" She arrives naked before Ereshkigal. The judges of the underworld fix on her the eye of death, and her corpse is hung on a hook.\n\nAfter three days Ninshubur appeals to the gods. Only Enki helps, fashioning two tiny beings from the dirt under his fingernails, who slip in and revive her with food and water of life. But no one leaves the netherworld freely. She must send a substitute, and she chooses her husband Dumuzi.",
+          "names": [
+            "Inanna",
+            "Ereshkigal",
+            "Ninshubur",
+            "Neti",
+            "Enki",
+            "Dumuzi"
+          ],
+          "sources": [
+            "Inanna's Descent to the Netherworld",
+            "Descent of Ishtar"
+          ],
+          "image": {
+            "file": "File:Burney Relief Babylon -1800-1750.JPG",
+            "caption": "The Burney Relief, Old Babylonian, c. 1800–1750 BCE, British Museum; the goddess has been identified as Inanna/Ishtar, Ereshkigal or Lilitu"
+          }
+        },
+        {
+          "culture": "egyptian",
+          "title": "Ra's Night Voyage",
+          "teaser": "Every night the sun sails through the underworld and is reborn.",
+          "text": "Every evening the sun god descends into the Duat, the underworld, and every morning he returns. The Amduat, \"What Is in the Underworld,\" painted in the royal tombs of the Valley of the Kings, maps his journey hour by hour.\n\nThe ram-headed sun sails in his night barque, towed through twelve regions separated by gates. The dead he passes wake to his light and cry out, and fall back into darkness as he moves on. In the seventh hour the chaos-serpent Apophis blocks the way, and is bound and stabbed with knives. In the sixth, at the deepest point of the night, the sun's soul unites with the body of Osiris.\n\nIn the twelfth hour the barque is drawn through the body of a vast serpent, entering at the tail and leaving at the mouth, and the sun emerges as Khepri, the scarab, reborn at dawn. The descent is the sun's daily work.",
+          "names": [
+            "Ra",
+            "Duat",
+            "Apophis",
+            "Osiris",
+            "Khepri"
+          ],
+          "sources": [
+            "Amduat",
+            "Book of Gates"
+          ],
+          "image": {
+            "file": "File:Book of the Amduat, papyurs - Museo Egizio (Turin) C 1776 p01.jpg",
+            "caption": "A papyrus of the Amduat, Third Intermediate Period, Museo Egizio, Turin"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Heracles Drags Up Cerberus",
+          "teaser": "The last labour: bring the hound of Hades, without weapons.",
+          "text": "For his twelfth and hardest labour, Eurystheus sends Heracles to fetch Cerberus from the underworld. Heracles first goes to Eleusis to be initiated into the Mysteries, then descends through the cave at Taenarum.\n\nThe dead flee at the sight of him, all but Meleager and the Gorgon Medusa. He draws his sword on the Gorgon, but Hermes reminds him that she is only a phantom. He frees his friend Theseus from the chair of forgetfulness in which he had been trapped, though when he tries to free Peirithous too, the earth quakes. He even wrestles the herdsman of Hades' cattle.\n\nHades agrees to let him take the dog if he can master it without weapons. Heracles wraps his lion skin around himself, seizes Cerberus by the throat and chokes him into submission, bitten all the while by the serpent tail. He hauls him up, shows him to the terrified Eurystheus, and takes him back.",
+          "names": [
+            "Heracles",
+            "Cerberus",
+            "Eurystheus",
+            "Theseus",
+            "Hades"
+          ],
+          "sources": [
+            "Apollodorus, Library 2.5.12",
+            "Homer, Odyssey 11.617–626"
+          ],
+          "image": {
+            "file": "File:Herakles Kerberos Eurystheus Louvre E701.jpg",
+            "caption": "Heracles brings Cerberus to Eurystheus, who hides in a jar; Caeretan hydria, c. 525 BCE, Louvre"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Upaniṣadic",
+          "title": "Naciketas at Death's Door",
+          "teaser": "A boy waits three nights at Yama's house and asks about death.",
+          "text": "The priest Vājaśravasa gives away all his possessions in a sacrifice, but the cows he gives are old and barren. His young son Naciketas, troubled, asks him three times, \"To whom will you give me?\" At last the father snaps: \"To Death I give you!\"\n\nSo Naciketas goes to the house of Yama. Death is away, and the boy waits three nights without food. To make amends for this breach of hospitality, Yama offers him three boons. Naciketas asks that his father be at peace with him, and to learn the sacred fire-ritual. For the third, he asks what happens to a person after death.\n\nYama tries hard to buy him off with sons, cattle, gold, long life and beautiful women with chariots and music. Keep them, says the boy; wealth never satisfies a mortal. So Death teaches him that the self is never born and never dies.",
+          "names": [
+            "Naciketas",
+            "Vājaśravasa",
+            "Yama"
+          ],
+          "sources": [
+            "Kaṭha Upaniṣad",
+            "Taittirīya Brāhmaṇa 3.11.8"
+          ]
+        },
+        {
+          "culture": "norse",
+          "title": "Odin Wakes the Seeress",
+          "teaser": "The god rides to Hel's door and raises a dead witch.",
+          "text": "Baldr has bad dreams, and the gods are afraid. Odin saddles Sleipnir and rides down toward Niflhel, where a dog with a bloodied chest bays at him from the road. He rides on to the eastern door of Hel's hall, where he knows there is the grave of a seeress.\n\nThere he chants spells that wake the dead. She rises against her will: \"Who is this man, unknown to me, who has made me travel this hard road? I was snowed on with snow, beaten with rain, drenched with dew; long have I been dead.\" He calls himself Vegtamr, the Wanderer, and asks for whom the benches in Hel are decked with rings. For Baldr, she answers: Höðr will kill him, and Váli will avenge him.\n\nThen Odin asks one question too many, and she recognises him. Ride home, she tells him; no one will visit her again until Loki breaks free.",
+          "names": [
+            "Odin",
+            "Baldr",
+            "Sleipnir",
+            "Hel",
+            "Höðr",
+            "Váli"
+          ],
+          "sources": [
+            "Baldrs draumar"
+          ],
+          "image": {
+            "file": "File:Odin rides to Hel.jpg",
+            "caption": "Odin rides to Hel, W. G. Collingwood's illustration to Baldrs draumar, 1908"
+          }
+        },
+        {
+          "culture": "celtic",
+          "people": "Welsh",
+          "title": "The Spoils of Annwn",
+          "teaser": "Three shiploads sailed with Arthur; only seven returned.",
+          "text": "Preiddeu Annwfn, \"The Spoils of Annwn,\" is one of the strangest poems in the Book of Taliesin. Its speaker tells how he sailed with Arthur in the ship Prydwen to Annwn, the Welsh otherworld, to a fortress called Caer Siddi.\n\nThere a prisoner, Gwair, lies in heavy chains. There too is the cauldron of the Chief of Annwn, dark-blue and rimmed with pearls, warmed by the breath of nine maidens. It will not boil the food of a coward.\n\nThe raid goes badly. Each stanza names another otherworld fortress, the Fort of Carousal, the Four-Cornered Fort, the Glass Fort, and each ends with the same refrain: \"Three shiploads of Prydwen we went; except seven, none returned.\" The poet, who survived, mocks the monks who know nothing of such things.",
+          "names": [
+            "Arthur",
+            "Prydwen",
+            "Annwn",
+            "Caer Siddi",
+            "Gwair"
+          ],
+          "sources": [
+            "Preiddeu Annwfn (Book of Taliesin)"
+          ],
+          "caveat": "An obscure poem, variously dated between the ninth and twelfth centuries, and Annwn is an otherworld rather than strictly a land of the dead."
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "The Hero Twins in Xibalba",
+          "teaser": "The twins beat the lords of death at their own game.",
+          "text": "The lords of Xibalba, led by One Death and Seven Death, summon the twins Hunahpu and Xbalanque to play ball, as they once summoned their father and uncle, whom they killed. The twins go down by the steep road, cross rivers of blood and pus, and choose between four roads, red, black, white and yellow, without being fooled.\n\nEach night the lords shut them in a house of ordeal: the Dark House, the Razor House, the Cold House, the Jaguar House, the Fire House. The twins outwit them all. In the Bat House, Hunahpu loses his head to a snatching bat, but even that is repaired.\n\nAt last they let themselves be burned and their bones ground and thrown into a river. They return as ragged performers who can sacrifice each other and come back to life. The delighted lords demand to be sacrificed too. The twins oblige, and do not bring them back.",
+          "names": [
+            "Hunahpu",
+            "Xbalanque",
+            "One Death",
+            "Seven Death",
+            "Xibalba"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ],
+          "caveat": "The Popol Vuh was written down in K'iche' in the mid-sixteenth century, though Classic Maya imagery suggests much older roots for the twins.",
+          "image": {
+            "file": "File:Popol vuh.jpg",
+            "caption": "First page of Francisco Ximénez's Popol Vuh manuscript, early 18th century, Newberry Library"
+          }
+        },
+        {
+          "culture": "aztec",
+          "people": "Nahua (Mexica)",
+          "title": "Quetzalcoatl Steals the Bones",
+          "teaser": "To make people, a god must outwit the lord of the dead.",
+          "text": "When the gods need people for the new world, Quetzalcoatl goes down to Mictlan to ask its lord, Mictlantecuhtli, for the precious bones of the earlier humans. The lord agrees, with a condition: Quetzalcoatl must blow his conch shell and go four times around his jade circle.\n\nThe conch has no holes. Quetzalcoatl calls worms to bore holes in it and bees to fly inside and make it roar, and the lord of the dead has to let him take the bones. But Mictlantecuhtli changes his mind and sends his servants to dig a pit. Quetzalcoatl, startled by quail, stumbles and falls in; the bones scatter and break, and the quail peck at them.\n\nHe gathers what he can and brings them to Tamoanchan. There the goddess Cihuacoatl grinds them, and Quetzalcoatl bleeds on the powder. Humanity, in this telling, is made of stolen bones and a god's blood.",
+          "names": [
+            "Quetzalcoatl",
+            "Mictlantecuhtli",
+            "Mictlan",
+            "Cihuacoatl",
+            "Tamoanchan"
+          ],
+          "sources": [
+            "Legend of the Suns (Leyenda de los Soles, 1558)"
+          ],
+          "caveat": "Recorded in Nahuatl in 1558, a generation after the Conquest.",
+          "image": {
+            "file": "File:Codex Borgia page 56.jpg",
+            "caption": "Mictlantecuhtli and Quetzalcoatl back to back, Codex Borgia, page 56, pre-Columbian central Mexico"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rescue-from-death",
+      "summary": "The most human journey into death is the one made for love: a husband after his wife, a mother after her son, a wife arguing with Death himself. The story is found across Eurasia, and in North America, where the anthropologist Anna Gayton catalogued dozens of 'Orpheus' tales in 1935. Most end in failure, a broken condition, a backward glance, a box opened too soon, which makes the rare successes stand out. Independent invention is the simplest explanation: grief is universal, and so is the lesson that death does not easily bargain. See also 'The Forbidden Look'.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "title": "Enkidu's Ghost Rises",
+          "teaser": "Gilgamesh cannot bring his friend back, only his ghost.",
+          "text": "Gilgamesh drops two precious wooden objects, a ball and mallet or perhaps a drum and drumstick, into the netherworld. His servant and friend Enkidu offers to fetch them, and Gilgamesh gives him careful instructions: do not wear clean clothes, do not anoint yourself with oil, do not carry a throwing-stick, do not wear sandals, do not kiss the wife you love or hit the one you hate. The dead will know you for a stranger.\n\nEnkidu does all of it, and the netherworld seizes him. Gilgamesh begs the gods for help. Enlil refuses; Sin refuses; at last Enki has a hole opened in the earth, and Enkidu's ghost rises \"like a breath of wind.\"\n\nThe friends embrace, and Gilgamesh asks what he has seen. The man with one son weeps, Enkidu tells him; the man with seven sons sits among the gods. And the man burned to death? His ghost is not there. His smoke went up to the sky.",
+          "names": [
+            "Gilgamesh",
+            "Enkidu",
+            "Enki"
+          ],
+          "sources": [
+            "Bilgames and the Netherworld",
+            "Epic of Gilgamesh, Tablet XII"
+          ],
+          "caveat": "Only Enkidu's ghost returns, briefly, so this is a consultation of the dead rather than a true rescue."
+        },
+        {
+          "culture": "greek",
+          "title": "Orpheus and Eurydice",
+          "teaser": "His song moves the gods of death, until he turns around.",
+          "text": "The singer Orpheus loses his bride Eurydice to a snakebite on their wedding day. Refusing to accept it, he goes down through the jaws of Taenarum to the throne of Hades and Persephone and sings.\n\nThe underworld stops to listen. Ovid says the bloodless shades wept, Tantalus forgot to reach for the water, Ixion's wheel stood still, Sisyphus sat on his stone, and for the first time the cheeks of the Furies were wet with tears. The king and queen of the dead cannot refuse him. Eurydice may follow him back, on one condition: he must not look back at her until they have left the valley of Avernus.\n\nHe very nearly succeeds. The story of his glance is told under 'The Forbidden Look'. Afterwards, inconsolable, he wanders Thrace until the Maenads tear him apart, and his head floats down the river Hebrus, still singing her name.",
+          "names": [
+            "Orpheus",
+            "Eurydice",
+            "Hades",
+            "Persephone"
+          ],
+          "sources": [
+            "Virgil, Georgics 4.453–527",
+            "Ovid, Metamorphoses 10.1–85",
+            "Plato, Symposium 179d"
+          ],
+          "caveat": "Some earlier Greek allusions, as in Euripides' Alcestis, may imply that Orpheus succeeded; the tragic ending with the backward look becomes canonical only with Virgil and Ovid.",
+          "image": {
+            "file": "File:Jean-Baptiste-Camille Corot - Orpheus Leading Eurydice from the Underworld - Google Art Project.jpg",
+            "caption": "Orpheus Leading Eurydice from the Underworld, Jean-Baptiste-Camille Corot, 1861"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Heracles Wrestles Death",
+          "teaser": "At a tomb, the hero ambushes Death and wins back a wife.",
+          "text": "Apollo, out of gratitude to King Admetus, wins him a strange bargain from the Fates: he may escape his fated death if someone else will die in his place. His aged parents refuse. His wife Alcestis agrees.\n\nEuripides' play opens on the day she dies. Into the house of mourning comes Heracles, on his way to one of his labours. Admetus, determined to be a good host, hides his grief and lets his guest drink. A servant, disgusted at the hero's revelry, tells him the truth. Ashamed, Heracles goes to Alcestis's tomb, lies in wait for Thanatos, Death himself, and wrestles him for her.\n\nHe returns with a veiled woman and makes Admetus take her by the hand. It is Alcestis. She cannot speak for three days, until she is purified from the dead. It is one of the few rescue stories that works, and it takes the strongest man alive.",
+          "names": [
+            "Alcestis",
+            "Admetus",
+            "Heracles",
+            "Thanatos",
+            "Apollo"
+          ],
+          "sources": [
+            "Euripides, Alcestis"
+          ],
+          "image": {
+            "file": "File:AlcestisHerculesLeighton.jpg",
+            "caption": "Hercules Wrestling with Death for the Body of Alcestis, Frederic Leighton, 1869–71"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Mahābhārata",
+          "title": "Sāvitrī Follows Death",
+          "teaser": "A princess walks behind Yama and argues him out of her husband.",
+          "text": "Princess Sāvitrī chooses as her husband Satyavān, son of a blind king living in exile in the forest, even after the sage Nārada warns her that he will die in exactly one year. She marries him anyway, and as the day approaches she fasts for three days and nights.\n\nOn the fatal day she goes with him into the forest. While splitting wood, Satyavān is seized with a headache and dies with his head in her lap. Yama himself appears, dark and red-eyed, noose in hand, and draws out of the body a thumb-sized person, the soul, and walks away south.\n\nSāvitrī follows. As they walk, she speaks so wisely about dharma that Yama grants her boons, anything but her husband's life: her father-in-law's sight, his kingdom, sons for her father. Then she asks for a hundred sons of her own, by Satyavān. Yama grants it before he sees the trap, and must let Satyavān go.",
+          "names": [
+            "Sāvitrī",
+            "Satyavān",
+            "Yama",
+            "Nārada",
+            "Dyumatsena"
+          ],
+          "sources": [
+            "Mahābhārata 3.277–283"
+          ],
+          "image": {
+            "file": "File:Savitri and Satyavan.jpg",
+            "caption": "Sāvitrī and Satyavān, chromolithograph after Raja Ravi Varma"
+          }
+        },
+        {
+          "culture": "japanese",
+          "title": "Izanagi in Yomi",
+          "teaser": "He goes to fetch his wife, and runs for his life.",
+          "text": "Izanami, the creator goddess, dies giving birth to the god of fire, and her husband Izanagi follows her to Yomi, the land of the dead. At the door of the hall she speaks to him from the darkness. Alas, she says, you came too late: I have already eaten food cooked at the hearth of Yomi. But she will ask the gods of Yomi to let her go. He must not look at her.\n\nHe waits, and at last breaks a tooth from his comb and lights it. What he sees is told under 'The Forbidden Look'. He flees, and she sends the hags of Yomi after him. He throws down his headdress, which becomes grapes, and his comb, which becomes bamboo shoots; the hags stop to eat. At the pass of Yomotsu Hirasaka he throws peaches, and blocks the way with a boulder.\n\nFrom either side, they divorce. She will kill a thousand people a day, she says. Then I will build fifteen hundred birthing huts, he replies.",
+          "names": [
+            "Izanagi",
+            "Izanami",
+            "Yomi",
+            "Yomotsu Hirasaka"
+          ],
+          "sources": [
+            "Kojiki, Book 1",
+            "Nihon shoki, Book 1"
+          ]
+        },
+        {
+          "culture": "chinese",
+          "people": "Chinese Buddhist",
+          "title": "Mulian Rescues His Mother",
+          "teaser": "A monk searches every hell to find his mother.",
+          "text": "Mulian, the Buddha's disciple Maudgalyāyana, uses his supernatural sight to look for his dead mother and finds her reborn as a hungry ghost, starving. He brings her a bowl of rice, but the food bursts into flames before it reaches her mouth. The Buddha explains that only the combined merit of the monastic community can help her: on the fifteenth day of the seventh month, when the monks' summer retreat ends, offerings made to them will free the ancestors of seven generations.\n\nIn the Dunhuang transformation text, Mulian's search becomes a tour of the underworld. He goes from court to court and hell to hell, and at last finds his mother in Avīci, the deepest hell, nailed to a bed of iron, punished for her greed and deceit.\n\nThe story became the charter for the Ghost Festival, still celebrated across East Asia, when the gates of hell open and the hungry dead are fed.",
+          "names": [
+            "Mulian (Maudgalyāyana)",
+            "Buddha",
+            "Avīci"
+          ],
+          "sources": [
+            "Yulanpen jing (Ullambana Sutra)",
+            "Transformation Text on Mulian Rescuing His Mother (Dunhuang)"
+          ],
+          "image": {
+            "file": "File:Mulian Descends into the Hells to Save his Mother, Shaanxi province, China, view 1 - Museu do Oriente - Lisbon, Portugal - DSC06784.JPG",
+            "caption": "Figures of Mulian descending into the hells to save his mother, Shaanxi, Museu do Oriente, Lisbon"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Hermóðr Rides for Baldr",
+          "teaser": "All things weep for Baldr, except one old giantess in a cave.",
+          "text": "When Baldr is killed, his mother Frigg asks who will ride to Hel and offer a ransom for his return. Hermóðr the Bold takes Odin's eight-legged horse Sleipnir and rides nine nights through the dark, across the bridge over the river Gjöll, and leaps Sleipnir clean over the gate of Hel's realm.\n\nHe finds Baldr sitting in the seat of honour, and begs Hel to let him go. She agrees on one condition: if everything in the world, living and dead, weeps for Baldr, he may return. Baldr sends Odin's ring Draupnir back with Hermóðr, and his wife Nanna sends linen for Frigg.\n\nThe gods send messengers everywhere, and everything weeps: people, animals, earth, stones, trees and metals, as they still weep when they come out of frost into warmth. But in a cave they find a giantess called Þökk, who says, \"Let Hel hold what she has.\" She was, people think, Loki.",
+          "names": [
+            "Hermóðr",
+            "Baldr",
+            "Hel",
+            "Frigg",
+            "Sleipnir",
+            "Þökk",
+            "Loki"
+          ],
+          "sources": [
+            "Gylfaginning 49"
+          ],
+          "image": {
+            "file": "File:Hermod before Hela.jpg",
+            "caption": "Hermod before Hela, John Charles Dollman, 1909"
+          }
+        },
+        {
+          "culture": "north-american",
+          "people": "Cherokee",
+          "title": "The Daughter of the Sun",
+          "teaser": "Seven men carry her home in a box, and must not open it.",
+          "text": "The Sun, angry at people who squint at her, is scorching them to death, so the Little Men turn two men into snakes to kill her. Instead the rattlesnake strikes the Sun's daughter as she opens her door. The Sun shuts herself away in grief, and the world goes dark.\n\nThe people are told that they must bring the daughter back from Tsûsginâ'ĭ, the ghost country in the Darkening Land in the west. Seven men go with sourwood rods and a box. They find her dancing among the ghosts, strike her with the rods, shut her in the box, and start home. They must not open it before they arrive.\n\nOn the way she begs for air, then for food, then for water. Close to home, they lift the lid a crack. Something flutters out, and they hear a redbird call. When they reach the settlement, the box is empty. That is why, the Cherokee say, we cannot bring back our dead.",
+          "names": [
+            "Sun",
+            "Little Men",
+            "Tsûsginâ'ĭ"
+          ],
+          "sources": [
+            "James Mooney, Myths of the Cherokee (1900)"
+          ],
+          "caveat": "Recorded by Mooney in the late 1880s from Eastern Cherokee storytellers; it is one Cherokee telling, not a pan-Native story."
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish/Karelian",
+          "title": "Lemminkäinen's Mother",
+          "teaser": "A mother rakes the river of death for her son's body.",
+          "text": "To win the daughter of Louhi, mistress of the North, the reckless hero Lemminkäinen must shoot the swan that swims on the black river of Tuonela. But on the riverbank waits a blind cowherd he once insulted, who kills him with a water snake and throws his body into the river. The son of Tuoni hacks it into pieces.\n\nAt home, Lemminkäinen's comb begins to drip blood, and his mother knows what has happened. She has the smith Ilmarinen forge her a great copper rake with a long handle, and she rakes the river of death, again and again, until she has gathered every piece of her son.\n\nShe joins bone to bone and vein to vein with charms, and sends a bee beyond the ninth heaven to bring back a healing honey. Lemminkäinen wakes and speaks. Only a mother, the song implies, would go that far.",
+          "names": [
+            "Lemminkäinen",
+            "Louhi",
+            "Tuonela",
+            "Ilmarinen"
+          ],
+          "sources": [
+            "Kalevala, runos 14–15"
+          ],
+          "caveat": "The Kalevala is Elias Lönnrot's 1849 compilation, which combines and reshapes songs from many singers.",
+          "image": {
+            "file": "File:Akseli Gallen-Kallela - Lemminkäinen's Mother - Google Art Project.jpg",
+            "caption": "Lemminkäinen's Mother, Akseli Gallen-Kallela, 1897"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dont-look-back",
+      "summary": "A single look can undo everything. A taboo on seeing, a rescued wife, a supernatural spouse, a city being destroyed, guards a boundary between worlds that must not be seen across. Folklorists classify it under the 'looking tabu' in Stith Thompson's Motif-Index, and it clusters in tales of otherworldly brides who vanish when seen in their true form or in forbidden circumstances. Some diffusion across Eurasia is possible, but the logic needs no borrowing: to look is to claim a knowledge that the other world does not grant. Orpheus's full story is told under 'Bringing Back the Beloved Dead'; here the glance itself is the subject.",
+      "versions": [
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Purūravas and Urvaśī",
+          "teaser": "A flash of lightning, and the nymph sees her husband naked.",
+          "text": "The apsaras Urvaśī, a heavenly nymph, lives with the mortal king Purūravas on one condition. In the Śatapatha Brāhmaṇa's telling, she must never see him naked.\n\nThe Gandharvas, the celestial musicians, want her back. One night they steal one of the two pet lambs tied to her bed, then the other. Each time she cries out as if there were no man in the house. Purūravas leaps up to chase the thieves without stopping to dress, and at that moment the Gandharvas send a flash of lightning. She sees him, and she is gone.\n\nHe wanders, grief-stricken, until he finds her with other apsarases, swimming as birds on a lotus lake. A hymn of the Rigveda preserves their bitter dialogue. \"I have gone like the first of the dawns,\" she says, \"hard to catch as the wind.\" Go home, Purūravas. There are no friendships with women.",
+          "names": [
+            "Urvaśī",
+            "Purūravas",
+            "Gandharvas"
+          ],
+          "sources": [
+            "Rigveda 10.95",
+            "Śatapatha Brāhmaṇa 11.5.1"
+          ],
+          "image": {
+            "file": "File:Urvashi abandons Pururavas.jpg",
+            "caption": "Urvaśī abandons Purūravas, Raja Ravi Varma"
+          }
+        },
+        {
+          "culture": "levantine",
+          "people": "Hebrew Bible",
+          "title": "Lot's Wife",
+          "teaser": "She looks back at the burning city and becomes salt.",
+          "text": "Before destroying Sodom, the two angels who have been Lot's guests drag him, his wife and his two daughters out of the city by the hand. \"Flee for your life,\" they say. \"Do not look behind you, and do not stop anywhere in the plain.\"\n\nAs the sun rises over the land, the Lord rains sulphur and fire on Sodom and Gomorrah, overthrowing the cities and everyone in them. Genesis gives the fate of Lot's wife in a single sentence: \"But his wife, behind him, looked back, and she became a pillar of salt.\"\n\nThe text never says why she looked, whether out of longing, grief, pity or disobedience, and interpreters have supplied every motive since. The salty landscape of the Dead Sea kept the story vivid; Josephus claims he saw the pillar himself.",
+          "names": [
+            "Lot",
+            "Lot's wife",
+            "Sodom",
+            "Gomorrah"
+          ],
+          "sources": [
+            "Genesis 19:15–26",
+            "Josephus, Jewish Antiquities 1.11.4"
+          ],
+          "image": {
+            "file": "File:John Martin - Sodom and Gomorrah.jpg",
+            "caption": "The Destruction of Sodom and Gomorrah, John Martin, 1852"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Orpheus's Glance",
+          "teaser": "On the very edge of the light, he turns to look.",
+          "text": "Orpheus has sung his way into the underworld and won Eurydice back, on condition that he not look at her until they are out (the whole story is under 'Bringing Back the Beloved Dead'). They climb in silence up the steep, dark path. The light is almost in sight.\n\nVirgil calls what happens next \"a sudden madness,\" one \"to be forgiven, if the dead knew how to forgive.\" On the very threshold of light, forgetting himself, Orpheus stops and looks back. All his labour is poured away. Eurydice cries out once, reproachfully, and falls back into the dark.\n\nOvid gives the look a gentler motive: afraid she might falter, and longing to see her, the lover turns his eyes. She does not complain, he says, for what could she complain of, except that she was loved? Her last word is a farewell he can barely hear.",
+          "names": [
+            "Orpheus",
+            "Eurydice"
+          ],
+          "sources": [
+            "Virgil, Georgics 4.485–503",
+            "Ovid, Metamorphoses 10.50–63"
+          ]
+        },
+        {
+          "culture": "greek",
+          "people": "Roman (Latin)",
+          "title": "Psyche's Lamp",
+          "teaser": "She lights a lamp to see the husband she must not see.",
+          "text": "In Apuleius's novel The Golden Ass, an old woman tells the tale of Psyche, a princess so beautiful that Venus is jealous. Carried off to a magical palace, Psyche is married to a husband who visits only in darkness and forbids her ever to see his face.\n\nHer jealous sisters persuade her that he is a monstrous serpent who will eat her. One night she lights a lamp, a razor in her other hand, and sees the most beautiful of the gods, Cupid himself, asleep. Trembling with wonder, she lets a drop of hot oil fall on his shoulder. He wakes, and flies away.\n\nTo win him back she must perform impossible tasks for Venus, the last a journey to the underworld to fetch a box of Proserpina's beauty. Warned not to open it, she opens it, and falls into a deathlike sleep until Cupid finds her.",
+          "names": [
+            "Psyche",
+            "Cupid",
+            "Venus",
+            "Proserpina"
+          ],
+          "sources": [
+            "Apuleius, Metamorphoses (The Golden Ass) 4.28–6.24"
+          ],
+          "caveat": "A Latin literary tale of the second century CE; whether it rests on an older Greek or folk original is debated.",
+          "image": {
+            "file": "File:Edward Burne-Jones (1833-1898) - Psyche, Holding the Lamp, Gazes at Cupid (Palace Green Murals) - 1922P191 - Birmingham Museums Trust.jpg",
+            "caption": "Psyche, holding the lamp, gazes at Cupid; Edward Burne-Jones, Palace Green murals, 1872–81"
+          }
+        },
+        {
+          "culture": "japanese",
+          "title": "Toyotama-hime's Birth Hut",
+          "teaser": "He peeks at his wife in labour and sees a sea-monster.",
+          "text": "Hoori, great-grandson of the sun goddess, marries Toyotama-hime, daughter of the sea god. When her time comes to give birth, she comes up onto the shore, since the child of a heavenly god should not be born in the sea. A birthing hut is built and thatched with cormorant feathers, but the labour begins before the roof is finished.\n\nShe tells her husband that those from other lands return to their original form to give birth. \"Please do not look at me.\" He looks. Inside the hut he sees an enormous wani, a sea-creature, eight fathoms long, crawling and writhing. He runs.\n\nAshamed at having been seen, Toyotama-hime leaves her child on the shore, closes the passage between the sea and the land, and returns to the ocean forever. Her son will become the father of the first emperor. Japan's first forbidden look, Izanagi's torch in Yomi, is told under 'Bringing Back the Beloved Dead'.",
+          "names": [
+            "Hoori",
+            "Toyotama-hime",
+            "Watatsumi",
+            "Ugayafukiaezu"
+          ],
+          "sources": [
+            "Kojiki, Book 1",
+            "Nihon shoki, Book 2"
+          ],
+          "image": {
+            "file": "File:Chikanobu-Toyotama-hime.jpg",
+            "caption": "Toyotama-hime gives birth to Ugayafukiaezu, Toyohara Chikanobu, 1886"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cheating-death",
+      "summary": "If death cannot be defeated, perhaps it can be tricked, chained, bargained with or hidden from. Such stories range from the tragic, Gilgamesh losing his plant of youth to a snake, to the comic, Sisyphus talking his way out of Hades. Nearly all are cautionary: the trick works for a while, then fails, or saves only one favoured hero. The theme is especially rich in folktale, from European tales of Death trapped in a sack to Russian Koshchei's hidden death. It needs no common origin; outwitting death is the one wish nearly everyone shares.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "The Plant of Youth",
+          "teaser": "He wins the plant of rejuvenation, and a snake eats it.",
+          "text": "Gilgamesh has crossed the Waters of Death to ask Utnapishtim how to escape dying. Utnapishtim sets him a test: stay awake for six days and seven nights. Gilgamesh falls asleep at once. Utnapishtim's wife bakes a loaf each day and sets it by his head, so that when he wakes, insisting he only dozed, the row of stale and mouldy loaves proves otherwise.\n\nAs a parting gift, Utnapishtim reveals a secret: a thorny plant grows at the bottom of the deep that makes the old young again. Gilgamesh ties stones to his feet, sinks down, and seizes it, though it pricks his hands. He names it \"The Old Man Becomes a Young Man\" and plans to test it on an old man in Uruk.\n\nOn the way home he stops to bathe in a cool pool. A snake smells the plant's fragrance, rises from the water and carries it off, and sheds its skin as it goes. Gilgamesh sits down and weeps.",
+          "names": [
+            "Gilgamesh",
+            "Utnapishtim",
+            "Urshanabi"
+          ],
+          "sources": [
+            "Epic of Gilgamesh, Tablet XI"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Sisyphus Chains Death",
+          "teaser": "The cleverest man alive puts Death in chains, twice escaping Hades.",
+          "text": "Sisyphus, king of Corinth, is the most cunning of mortals. When he tells the river god Asopus that Zeus has carried off his daughter, Zeus sends Thanatos, Death, to fetch him. Sisyphus puts Death himself in chains, and for a while nobody dies, until Ares frees Thanatos and hands Sisyphus over.\n\nSisyphus has a second trick ready. Before dying, he tells his wife not to give him proper burial rites. Once in Hades, he complains that she has neglected him, and persuades Persephone to let him go back up to punish her. Of course he does not return, and lives on to old age.\n\nThe poet Theognis marvels at the man who came back from Hades by his own wits, and Alcaeus says he crossed the eddying Acheron twice. The gods have their revenge at last: the boulder he must push uphill forever is meant to keep a clever man too busy for schemes.",
+          "names": [
+            "Sisyphus",
+            "Thanatos",
+            "Ares",
+            "Persephone",
+            "Asopus"
+          ],
+          "sources": [
+            "Theognis 702–712",
+            "Alcaeus, fr. 38A",
+            "Pherecydes (in scholia to Iliad 6.153)"
+          ],
+          "caveat": "The story is pieced together from fragments and scholia; the chaining of Thanatos is known mainly from Pherecydes as quoted by later commentators.",
+          "image": {
+            "file": "File:Punishment sisyph.jpg",
+            "caption": "Sisyphus, Titian, 1548–49, Prado: the price of cheating death"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "The Monkey Strikes Out His Name",
+          "teaser": "Sun Wukong crosses himself out of the register of death.",
+          "text": "In Journey to the West, the stone-born Monkey King, Sun Wukong, has learned magic, won an iron cudgel from the Dragon King, and thrown a great feast. Drunk and asleep, he dreams that two officers of the underworld bind his soul and drag it to the City of Darkness. His lifespan, they tell him, is over.\n\nWukong is outraged. He pulls out his cudgel, beats the officers, and storms into the hall of the Ten Kings, who hastily bring out the registers of the dead. Finding the entry for Sun Wukong, the heaven-born stone monkey, he calls for a brush and strikes out his name, then the names of every monkey he can find.\n\nHe wakes in his cave, free of death. The Ten Kings send a formal complaint to the Jade Emperor, and heaven's long, exasperated attempt to discipline the monkey begins.",
+          "names": [
+            "Sun Wukong",
+            "Ten Kings",
+            "Jade Emperor"
+          ],
+          "sources": [
+            "Wu Cheng'en (attributed), Journey to the West (Xiyou ji), ch. 3"
+          ],
+          "image": {
+            "file": "File:Sun Wukong.jpg",
+            "caption": "Sun Wukong wielding his staff, attributed to Hokusai, 19th century"
+          }
+        },
+        {
+          "culture": "norse",
+          "people": "Swedish legendary kings",
+          "title": "King Aun's Sons",
+          "teaser": "A king buys ten years of life with each of his sons.",
+          "text": "Snorri's Ynglinga saga tells of Aun the Old, a king of the Swedes at Uppsala. At sixty he makes a great sacrifice to Odin for long life, and sacrifices his son. Odin promises him sixty more years.\n\nWhen those run out, he learns he may go on living if he offers a son to Odin every tenth year. He does. After the seventh son he cannot walk and is carried on a chair. After the eighth he lies in bed for ten years. After the ninth he is so old that he drinks from a horn like a baby.\n\nWhen he wants to sacrifice his tenth son, Egill, the Swedes stop him, and Aun dies. Ever since, Snorri says, dying of old age without sickness has been called ánasótt, \"Aun's disease.\" A man may cheat death, it seems, but only by feeding it his future.",
+          "names": [
+            "Aun",
+            "Odin",
+            "Egill"
+          ],
+          "sources": [
+            "Snorri Sturluson, Ynglinga saga 25",
+            "Ynglingatal"
+          ],
+          "caveat": "A legendary genealogical tale, written down by Snorri in the thirteenth century."
+        },
+        {
+          "culture": "slavic",
+          "people": "East Slavic (Russian)",
+          "title": "Koshchei's Hidden Death",
+          "teaser": "His death lies in a needle, in an egg, in a duck.",
+          "text": "Koshchei the Deathless, the skeletal sorcerer of Russian fairy tales, cannot be killed by ordinary means, because he does not keep his death in his body. In the tales collected by Alexander Afanasyev, a captive princess coaxes the secret out of him.\n\nOn an island in the ocean stands an oak; under the oak lies a chest; in the chest is a hare; in the hare is a duck; in the duck is an egg; and in the egg is Koshchei's death, sometimes the point of a needle. The hero sets out, and at every stage an animal he once spared comes to his aid: a bear breaks open the chest, a hawk catches the fleeing duck, a pike fetches the egg from the sea.\n\nWith the egg in his hand, the hero holds Koshchei's life. He crushes it, or strikes Koshchei on the forehead with it, and the deathless man dies. Hiding your death works, until someone finds it.",
+          "names": [
+            "Koshchei the Deathless"
+          ],
+          "sources": [
+            "Alexander Afanasyev, Russian Folk Tales (Narodnye russkie skazki)"
+          ],
+          "caveat": "A nineteenth-century folktale collection; the order of the nested hiding places varies between tellings.",
+          "image": {
+            "file": "File:Ivan Bilibin Koshchey.jpg",
+            "caption": "Koshchei the Deathless, Ivan Bilibin, 1901"
+          }
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "Māui and the Goddess of Death",
+          "teaser": "He would have conquered death, but a little bird laughed.",
+          "text": "The trickster Māui has fished up land, snared the sun and stolen fire. Last of all, he resolves to win immortality for humankind by overcoming Hine-nui-te-pō, the great woman of the night, the ancestress who receives the dead.\n\nHis plan is to enter her body while she sleeps, pass through it, and come out of her mouth; if he succeeds, she will die, and people will live forever. He takes his friends the little birds with him and warns them not to laugh. Then he begins to crawl in, between her thighs.\n\nThe sight is too much for the fantail, the pīwakawaka. It bursts into laughter. Hine-nui-te-pō wakes, closes her thighs, and crushes Māui to death. So Māui died, and so everyone dies. The fantail still flits around people, cheeky and restless, as if it has never quite stopped laughing.",
+          "names": [
+            "Māui",
+            "Hine-nui-te-pō",
+            "pīwakawaka (fantail)"
+          ],
+          "sources": [
+            "George Grey, Polynesian Mythology (1855)"
+          ],
+          "caveat": "Grey's English text is an edited version of manuscripts written by the Māori scholar Wiremu Maihi Te Rangikāheke; tribal versions differ."
+        }
+      ]
+    }
+  ]
+}

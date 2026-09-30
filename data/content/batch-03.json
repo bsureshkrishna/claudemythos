@@ -1,0 +1,1424 @@
+{
+  "concepts": [
+    {
+      "id": "pleiades",
+      "summary": "Almost everywhere people could see it, the small, bright cluster of the Pleiades was read as a group: sisters, wives, boys, soldiers, a marketplace, a storehouse. Very often one member is missing or hiding, since sharp eyes count six stars and only the sharpest seven. Its first and last appearances of the year timed harvests, ploughing, sailing and new years from Hesiod's Greece to Aotearoa. Some writers argue that the 'lost sister' motif descends from a single Palaeolithic story; most scholars prefer independent invention, prompted by the cluster's tight shape, its borderline seventh star and its usefulness as a seasonal clock.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "title": "The Seven Gods",
+          "teaser": "Babylonian astronomers saw seven divine warriors, and used them to fix the calendar.",
+          "text": "The Babylonian star compendium MUL.APIN opens its list of the constellations on the Moon's path with MUL.MUL, simply \"the Stars\", and glosses it: \"the Seven Gods, the great gods\". These are the Sebettu, a band of seven warrior deities known from incantations and from the poem of Erra, where they march beside the plague god as his merciless weapons, eager to cut down noisy humanity.\n\nThe identification makes the cluster ambivalent. The Sebettu destroy, but they are also summoned in protective rituals against demons, and their fierceness can be turned outward. Astronomically, MUL.MUL was a working tool. MUL.APIN uses the date on which the Moon stands beside the Pleiades to decide whether a year needs an extra month to keep the lunar calendar in step with the seasons.\n\nSo long before any Greek counted seven sisters, Babylonian scribes had counted seven soldiers, and set them to work correcting the calendar.",
+          "names": [
+            "MUL.MUL",
+            "Sebettu",
+            "Erra"
+          ],
+          "sources": [
+            "MUL.APIN, Tablets I–II",
+            "Erra and Ishum, Tablet I"
+          ],
+          "image": {
+            "file": "File:MulApin-BritishMuseum.jpg",
+            "caption": "A tablet of the astronomical compendium MUL.APIN, British Museum"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Daughters of Atlas",
+          "teaser": "Seven sisters fleeing Orion, and one who hides her face in shame.",
+          "text": "The Pleiades are the seven daughters of the Titan Atlas and the Oceanid Pleione: Maia, Electra, Taygete, Alcyone, Celaeno, Sterope and Merope. Several bore children to gods. Maia is the mother of Hermes; Electra of Dardanus, ancestor of the kings of Troy.\n\nLater writers explain how they came to the sky. The hunter Orion pursued them, with their mother, across Boeotia for years, until Zeus changed them into doves and then into stars; Orion, set in the sky himself, still follows them across the winter night. Why only six are easily seen was a puzzle with two answers. Merope hides her face in shame because she alone married a mortal, the trickster Sisyphus; or Electra covers hers in grief at the fall of Troy.\n\nHesiod has no need of the romance. For him the cluster is a farmer's clock: when the Pleiades, daughters of Atlas, rise, begin the harvest; when they set, begin to plough.",
+          "names": [
+            "Atlas",
+            "Pleione",
+            "Maia",
+            "Electra",
+            "Merope",
+            "Orion",
+            "Sisyphus"
+          ],
+          "sources": [
+            "Hesiod, Works and Days 383–384",
+            "Apollodorus, Library 3.10.1",
+            "Hyginus, De Astronomia 2.21",
+            "Ovid, Fasti, Book 4"
+          ],
+          "image": {
+            "file": "File:Elihu Vedder - The Pleiades, 1885.jpg",
+            "caption": "Elihu Vedder, The Pleiades, 1885 (Metropolitan Museum of Art)"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic and Epic Sanskrit",
+          "title": "The Six Kṛttikās",
+          "teaser": "Six sages' wives, falsely suspected, become the foster-mothers of a war god.",
+          "text": "In Sanskrit the cluster is the Kṛttikās, first of the lunar mansions in the early lists. The Śatapatha Brāhmaṇa notes that the Kṛttikās were once the wives of the Ṛkṣas, the \"Bears\", that is, the Seven Sages of the Great Bear, but are now kept apart from them, since the sages rise in the north and the Kṛttikās in the east. A priest laying his sacred fires should bear that separation in mind.\n\nThe Mahābhārata tells how it happened. The fire god Agni falls in love with the sages' wives. The goddess Svāhā, who loves Agni, takes the form of six of them in turn and comes to him; only Arundhatī, the seventh and most devoted, she cannot imitate. The child of these unions is Skanda, and the sages, hearing rumours, abandon six of their wives. The rejected women become the Kṛttikās and Skanda's foster-mothers, so he is called Kārttikeya.\n\nArundhatī still shines beside her husband Vasiṣṭha, as the faint star Alcor beside Mizar.",
+          "names": [
+            "Kṛttikās",
+            "Saptarṣi",
+            "Agni",
+            "Svāhā",
+            "Arundhatī",
+            "Skanda"
+          ],
+          "sources": [
+            "Śatapatha Brāhmaṇa 2.1.2",
+            "Mahābhārata, Āraṇyaka Parva (birth of Skanda)"
+          ]
+        },
+        {
+          "culture": "aztec",
+          "title": "The Marketplace at Midnight",
+          "teaser": "Every fifty-two years, the world's survival depended on the Pleiades crossing overhead.",
+          "text": "The Mexica called the Pleiades Tianquiztli, \"the marketplace\", after the crowd of stars. Every fifty-two years, when the ritual and solar calendars returned together to their starting point, the fate of the world hung on them.\n\nOn the night of the Binding of the Years, Sahagún's informants explain, every fire was put out. Priests climbed the hill of Huixachtlan near Iztapalapa and watched the Pleiades rise toward the zenith. If they passed overhead, the world would go on; if not, the sun would not return, and the star demons, the tzitzimime, would descend to devour humankind. When the stars crossed, a new fire was drilled on the chest of a sacrificed captive, and runners carried the flame to every temple and hearth.\n\nPeople waited on rooftops. Pregnant women were masked with maguey leaves and shut in granaries, lest they turn into beasts; children were kept awake, lest they become mice. The universe was renewed on a lease of fifty-two years.",
+          "names": [
+            "Tianquiztli",
+            "Xiuhmolpilli",
+            "Tzitzimime",
+            "Huixachtlan"
+          ],
+          "sources": [
+            "Sahagún, Florentine Codex, Book 7"
+          ],
+          "image": {
+            "file": "File:Codex Borbonicus (p. 34).jpg",
+            "caption": "The New Fire ceremony, Codex Borbonicus, p. 34 (early 16th century)"
+          }
+        },
+        {
+          "culture": "north-american",
+          "people": "Cherokee",
+          "title": "The Pleiades and the Pine",
+          "teaser": "Seven boys dance themselves into the sky; one falls back and becomes a tree.",
+          "text": "The Cherokee story, recorded by James Mooney in the 1880s, begins with seven boys who would rather play the gatayûstï game, rolling a stone wheel and chasing it with sticks, than work in the cornfield. Their mothers, fed up, boil the gaming stones in the pot with the corn and serve them for dinner.\n\nAngry, the boys go to the townhouse and dance in a circle, praying to the spirits. Their mothers come looking and see them circling faster and faster, their feet rising off the ground with every round. One mother catches at her son with a pole and pulls him down, but he strikes the ground so hard that he sinks into it and the earth closes over him. The other six rise into the sky and become the Pleiades, Ani'tsutsă, \"the Boys\".\n\nThe mother grieves over the spot until a green shoot appears. It grows into the pine, which, the Cherokee say, is of the same nature as the stars and holds the same bright light.",
+          "names": [
+            "Ani'tsutsă",
+            "gatayûstï"
+          ],
+          "sources": [
+            "James Mooney, Myths of the Cherokee (1900)"
+          ]
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "Matariki Rises",
+          "teaser": "A midwinter dawn star-cluster that opens the Māori year with tears.",
+          "text": "For Māori the cluster is Matariki, a name usually glossed as \"eyes of the god\" or \"little eyes\". Its first appearance in the dawn sky in midwinter, around June, marked the beginning of the new year.\n\nThe ethnographer Elsdon Best, gathering tribal accounts in the early twentieth century, describes people rising before dawn to watch for it. When the stars appeared they were greeted with weeping for those who had died since Matariki last set, and with songs addressed to the cluster. The look of the stars was a forecast: if they were clear and bright, a warm season and a good harvest would follow; if hazy and faint, a cold and lean one. In some districts the star Puanga, Rigel, served the same purpose.\n\nThe festival faded in the colonial period and was revived from the late twentieth century onward. Since 2022 the rising of Matariki has been a public holiday in Aotearoa New Zealand, the first to mark an Indigenous calendar.",
+          "names": [
+            "Matariki",
+            "Puanga"
+          ],
+          "sources": [
+            "Elsdon Best, The Astronomical Knowledge of the Maori (1922)"
+          ],
+          "caveat": "The popular story of Matariki as a mother travelling with her daughters is a recent retelling; older records focus on the rising and its rites rather than on a family of sisters."
+        },
+        {
+          "culture": "andean",
+          "people": "Quechua",
+          "title": "The Storehouse Stars",
+          "teaser": "Andean farmers read next season's rain in the brightness of the Pleiades.",
+          "text": "In Quechua the Pleiades are often Qollqa, \"the storehouse\", the heavenly counterpart of the granaries that held a village's seed and harvest. In the community of Misminay near Cusco, the anthropologist Gary Urton found the cluster at the centre of a rich sky lore in the 1970s, tied to the agricultural year.\n\nIt is also a forecast. Around the feast of San Juan in late June, farmers in the high Andes of Peru and Bolivia rise before dawn to watch the Pleiades reappear. If the stars look large, bright and numerous, the rains will come on time and potatoes can be planted early; if they look small and dim, planting is delayed and spread out.\n\nIn 2000 the climate scientists Benjamin Orlove, John Chiang and Mark Cane showed that the method works: in El Niño years, thin high cloud dims the cluster in June, and the same years bring poor rains months later. A reading of the stars turned out to be a reading of the upper atmosphere.",
+          "names": [
+            "Qollqa"
+          ],
+          "sources": [
+            "Gary Urton, At the Crossroads of the Earth and the Sky (1981)",
+            "Orlove, Chiang and Cane, Nature 403 (2000)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rainbow",
+      "summary": "A band of colour that arches between sky and earth and can never be reached invites two readings, and myths use both. The rainbow is a bridge or a messenger joining gods and humans; or it is a living creature, a serpent or dragon that drinks water and must not be pointed at. Promise, taboo and omen sit side by side. The resemblances are best explained by the phenomenon itself, with its shape, its link to rain and its elusiveness, rather than by borrowing, although the biblical covenant rainbow shaped how later Europeans read everyone else's.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "The Flies of Lapis Lazuli",
+          "teaser": "After the flood, a goddess swears on her necklace never to forget.",
+          "text": "When the flood is over in the Epic of Gilgamesh, Utnapishtim makes an offering on the mountain, and the gods, starved of sacrifices, smell the sweet savour and gather \"like flies\" over it. Then the mother goddess Belet-ili arrives. She lifts up the great flies of lapis lazuli that Anu had made for her, a necklace of fly-shaped beads, and swears: as surely as she will not forget the lapis around her neck, she will remember these days and never forget them.\n\nShe bars Enlil from the offering, since it was he who, without deliberation, brought on the flood and delivered her people to destruction. The fragmentary Old Babylonian poem Atrahasis contains a version of the same scene, with the goddess Nintu grieving by her flies.\n\nMany modern readers have seen in the jewelled arc a Mesopotamian cousin of Noah's rainbow: a bright sign raised before the gods after the waters, pledging that the catastrophe will be remembered.",
+          "names": [
+            "Belet-ili",
+            "Nintu",
+            "Utnapishtim",
+            "Enlil",
+            "Anu"
+          ],
+          "sources": [
+            "Epic of Gilgamesh, Tablet XI",
+            "Atrahasis, Tablet III"
+          ],
+          "caveat": "The text never mentions a rainbow; the link to Genesis 9 is a modern interpretation, suggestive but unproven."
+        },
+        {
+          "culture": "chinese",
+          "title": "The Rainbow That Drinks",
+          "teaser": "A two-headed creature that bends down to drink from the river.",
+          "text": "On Shang dynasty oracle bones, around 1200 BCE, the graph for rainbow, hong, is drawn as an arch with a head at each end, like a two-headed dragon or serpent. One inscription reports, as an omen, a rainbow that came out of the north and drank from the river. The rainbow was a creature, and an uneasy one, that bent down from the sky to take water.\n\nThe unease runs through later literature. An ode in the Book of Songs, \"Didong\", opens: \"There is a rainbow in the east; no one dares point at it.\" Traditional commentators read the poem as a rebuke to a woman who leaves her family for an improper match, the rainbow being a sign of yin and yang out of order. The character itself is still written with the radical for insects and reptiles, preserving the memory of an animal.\n\nIn China the rainbow was no promise. It was a thirsty dragon in the sky, best left unindicated.",
+          "names": [
+            "hong",
+            "didong"
+          ],
+          "sources": [
+            "Shang oracle-bone inscriptions",
+            "Shijing (Book of Songs), Ode 51, 'Didong'"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Iris, Messenger of the Gods",
+          "teaser": "The golden-winged rainbow who fetches the water gods swear by.",
+          "text": "Hesiod makes Iris the daughter of Thaumas, whose name suggests \"wonder\", and of the Oceanid Electra, and the sister of the storm-swift Harpies. She is the rainbow personified: a quick goddess with golden wings who carries messages between Olympus, the earth and the sea.\n\nHer most solemn errand comes when the gods quarrel. Zeus sends Iris to fetch, in a golden jug, the water of the Styx, the cold stream that falls from a high rock into the underworld. A god who swears falsely by that water lies breathless for a whole year, without nectar or ambrosia, and is then barred from the gods' councils and feasts for nine years more.\n\nIn the Iliad she runs Zeus's errands to the battlefield and, at times, Hera's; later poets make her Hera's personal servant. For the Greeks the bright arc was not a sign but a path, worn by a messenger's feet between heaven and earth.",
+          "names": [
+            "Iris",
+            "Thaumas",
+            "Electra",
+            "Styx",
+            "Zeus",
+            "Hera"
+          ],
+          "sources": [
+            "Hesiod, Theogony 266–269 and 775–806",
+            "Homer, Iliad"
+          ],
+          "image": {
+            "file": "File:Pierre-Narcisse Guérin - Morpheus and Iris - WGA10971.jpg",
+            "caption": "Pierre-Narcisse Guérin, Morpheus and Iris, 1811"
+          }
+        },
+        {
+          "culture": "levantine",
+          "title": "The Bow in the Cloud",
+          "teaser": "God hangs up his bow and promises never to flood the earth again.",
+          "text": "When the waters recede in Genesis, God makes a covenant not with Noah alone but with \"every living creature\": never again will a flood destroy the earth. Its sign is the rainbow. \"I have set my bow in the cloud,\" God says, \"and when I bring clouds over the earth and the bow is seen in the cloud, I will remember my covenant.\"\n\nThe Hebrew word, qeshet, is the ordinary word for a warrior's bow, and many scholars read the image as a weapon hung up after battle, the divine archer turning it away from the earth. Strikingly, the sign is meant to remind God rather than humanity: it is God who will see it and remember.\n\nThe passage belongs to the Priestly strand of Genesis, which closes the flood with laws and covenant. Later Jewish tradition counted the rainbow among the ten things created at twilight on the eve of the first Sabbath, and a blessing is still said on seeing one.",
+          "names": [
+            "Noah",
+            "qeshet"
+          ],
+          "sources": [
+            "Genesis 9:8–17",
+            "Mishnah Avot 5:6"
+          ],
+          "image": {
+            "file": "File:Landscape with Noah, Offering a Sacrifice of Gratitude (SM 767).png",
+            "caption": "Joseph Anton Koch, Landscape with Noah Offering a Sacrifice of Gratitude, early 19th century (Statens Museum for Kunst)"
+          }
+        },
+        {
+          "culture": "japanese",
+          "title": "The Floating Bridge of Heaven",
+          "teaser": "The first gods stir the sea from a bridge between sky and water.",
+          "text": "In the Kojiki, the gods of heaven command the divine pair Izanagi and Izanami to give form and solidity to the drifting land below, and hand them a jewelled spear. The two stand on Ame-no-ukihashi, the Floating Bridge of Heaven, lower the spear and stir the brine until it curdles. When they lift it out, the drops falling from its tip pile up into the island of Onogoro, the first land, where they descend to marry.\n\nThe text never says what the bridge was. Many interpreters have taken it as the rainbow, the natural arch between sky and sea; others imagine a ladder, a floating vessel or a stair. A fragment of the Tango provincial gazetteer explains the long pine-covered sandbar of Amanohashidate as Izanagi's ladder to heaven, which fell over while he slept.\n\nEither way, the Japanese islands are born beneath a bridge that stands exactly where a rainbow does: between the sky and the water.",
+          "names": [
+            "Izanagi",
+            "Izanami",
+            "Ame-no-ukihashi",
+            "Onogoro"
+          ],
+          "sources": [
+            "Kojiki, Book 1",
+            "Tango Fudoki (surviving fragment)"
+          ],
+          "caveat": "Reading the Floating Bridge as a rainbow is an interpretation; the Kojiki itself does not describe the bridge.",
+          "image": {
+            "file": "File:Kobayashi Eitaku - Izanami and Izanagi Creating the Japanese Islands.jpg",
+            "caption": "Kobayashi Eitaku, Izanagi and Izanami creating the Japanese islands, 1880s (Museum of Fine Arts, Boston)"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Bifröst, the Burning Bridge",
+          "teaser": "The gods' bridge to heaven, red with fire, will break at the end.",
+          "text": "The gods built a bridge from earth to heaven, Snorri Sturluson explains, and it is called Bifröst: \"you will have seen it, but perhaps you call it the rainbow.\" It has three colours and is built with more skill than any other work. Every day the gods ride over it to hold court at the well of Urðr beneath the ash Yggdrasil. Only Thor must wade the rivers on foot, since the bridge is aflame and he might set it burning; the red in the rainbow, Snorri says, is fire, which keeps the frost giants from climbing up.\n\nAt the heavenward end, at Himinbjörg, lives Heimdallr, the watchman who needs less sleep than a bird and can hear grass growing.\n\nStrong as it is, it will not last. At Ragnarök the sons of Muspell will ride over it, and Bifröst will break beneath them. The bridge that joins the worlds is also the road by which their end arrives.",
+          "names": [
+            "Bifröst",
+            "Heimdallr",
+            "Thor",
+            "Yggdrasil",
+            "Muspell"
+          ],
+          "sources": [
+            "Gylfaginning 13, 15, 27 and 51",
+            "Grímnismál 29 and 44"
+          ],
+          "image": {
+            "file": "File:Thor wades while the æsir ride by Frølich.jpg",
+            "caption": "Lorenz Frølich, Thor wades the rivers while the Æsir ride over Bifröst, 1895"
+          }
+        },
+        {
+          "culture": "west-african",
+          "people": "Fon",
+          "title": "Aido-Hwedo, the Rainbow Serpent",
+          "teaser": "A great serpent that carried the creator and now holds up the earth.",
+          "text": "Among the Fon of the old kingdom of Dahomey, in present-day Benin, the rainbow is Aido-Hwedo, a manifestation of the serpent vodun Dan, whose coils were said to hold the world together and whose movement brings continuity and wealth.\n\nIn the creation traditions recorded by Melville and Frances Herskovits in the 1930s, the serpent accompanied the creator Mawu as the world was being made, carrying the creator from place to place. When the work was done, the earth was too heavy, and the serpent was asked to coil itself beneath and bear its weight, lying in the cool waters of the sea.\n\nWhen the serpent shows itself in the sky, it is seen as the rainbow; some accounts divide its colours between a male and a female aspect. Where the Hebrew rainbow is a sign of divine restraint, the Fon rainbow is the living support that keeps the world from falling apart.",
+          "names": [
+            "Aido-Hwedo",
+            "Dan",
+            "Mawu"
+          ],
+          "sources": [
+            "Melville J. Herskovits, Dahomey: An Ancient West African Kingdom (1938)",
+            "Melville J. and Frances S. Herskovits, Dahomean Narrative (1958)"
+          ],
+          "caveat": "Fon traditions vary between priesthoods and lineages, and the tidy versions in modern anthologies simplify the ethnographic record."
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "Uenuku in the Sky",
+          "teaser": "A war god seen in the rainbow, and a lover searching for the mist.",
+          "text": "Across much of Māori tradition the rainbow is Uenuku, sometimes paired with or called Kahukura, an atua who shows himself as the arch across the sky. For the Tainui tribes Uenuku was a war god, and a carved wooden figure associated with him is kept at Te Awamutu Museum. A rainbow seen by a war party was read as an omen, favourable or not according to where it stood.\n\nThe Tūhoe people of the Urewera, the \"Children of the Mist\", trace part of their descent from the Mist Maiden, Hine-pūkohu-rangi. A widely told story makes Uenuku a man who loved a mist maiden who came to him only by night and had to leave before dawn. Wanting to show her to his people, he kept her past sunrise; she vanished into the sky, and he searched for her until he died and was set in the heavens as the rainbow.\n\nSo the rainbow is both a warrior's sign and a lover's endless search.",
+          "names": [
+            "Uenuku",
+            "Kahukura",
+            "Hine-pūkohu-rangi"
+          ],
+          "sources": [
+            "Elsdon Best, Tuhoe: The Children of the Mist (1925)",
+            "A. W. Reed, Treasury of Maori Folklore (1963)"
+          ],
+          "caveat": "The mist-maiden love story is best known from twentieth-century retellings, and its details vary between tellers and tribes."
+        }
+      ]
+    },
+    {
+      "id": "origin-of-death",
+      "summary": "Death needed explaining, and myths offer two favourite answers. In one, deathlessness is lost by accident: a wrong choice, a stone thrown instead of a buffalo chip, a door shut at the wrong moment, a wife's impatience. In the other, a first person dies and opens the road everyone must follow. Folklorists have catalogued 'wrong choice' and 'failed message' types across Africa, Asia and the Americas, where regional spread is likely; elsewhere the parallels look like independent answers to the same question. Strikingly often the fatal decision comes out of a quarrel between the first man and woman.",
+      "versions": [
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Yama, the First to Die",
+          "teaser": "The first mortal to die scouts the path all the dead will follow.",
+          "text": "The Rigveda's funeral hymns remember Yama as the first mortal to die, and therefore the first to find the way. He \"went along the great steep slopes and spied out the path for many,\" hymn 10.14 says; \"Yama first found the way for us.\" Where he went, the fathers of old have gone, and every dead person follows.\n\nYama is the son of Vivasvant, and in another hymn his twin sister Yamī urges him to father children with her, which he refuses; the story of the first humans and the story of the first death are bound together. By dying first he becomes king of the dead. The funeral hymn addresses the departed: go forth on the ancient paths, and you will see the two kings, Yama and Varuṇa, rejoicing. Two broad-nosed, four-eyed, brindled dogs guard the road.\n\nDeath here is not a mistake to be regretted but a frontier that someone had to cross first.",
+          "names": [
+            "Yama",
+            "Yamī",
+            "Vivasvant",
+            "Varuṇa"
+          ],
+          "sources": [
+            "Rigveda 10.14",
+            "Rigveda 10.10"
+          ],
+          "image": {
+            "file": "File:Yama on buffalo.jpg",
+            "caption": "Yama, lord of the dead, seated on his buffalo; Indian painting"
+          }
+        },
+        {
+          "culture": "levantine",
+          "title": "The Tree in the Garden",
+          "teaser": "A forbidden fruit, a banishment, and a guarded road to the tree of life.",
+          "text": "In the garden of Eden grow two special trees, the tree of life and the tree of the knowledge of good and evil. The man is warned: \"in the day that you eat of it you shall surely die.\" The serpent persuades the woman otherwise, and both eat.\n\nThe sentence that follows ends in mortality: \"you are dust, and to dust you shall return.\" Yet the pair do not drop dead that day, and God's concern turns to the other tree. Lest the man \"reach out his hand and take also of the tree of life, and eat, and live for ever,\" he is driven out, and cherubim with a flaming, turning sword guard the way back.\n\nWhether the humans were made immortal and lost it, or were mortal all along and lost access to a remedy, has been argued since antiquity. Paul's reading, that \"sin came into the world through one man, and death through sin\", made this the Western world's charter myth of death.",
+          "names": [
+            "Adam",
+            "Eve",
+            "the serpent",
+            "cherubim"
+          ],
+          "sources": [
+            "Genesis 2–3",
+            "Romans 5:12"
+          ],
+          "image": {
+            "file": "File:Masaccio-TheExpulsionOfAdamAndEveFromEden-Restoration.jpg",
+            "caption": "Masaccio, The Expulsion from the Garden of Eden, c. 1425 (Brancacci Chapel, Florence)"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Epic Sanskrit",
+          "title": "Brahmā's Dark Daughter",
+          "teaser": "Death herself weeps, refusing the task the creator gives her.",
+          "text": "The Mahābhārata tells this story to console a father grieving for his son. At the beginning, creatures multiply without dying until the earth is overburdened, and the creator Brahmā, seeing no remedy, grows angry; fire born of his wrath begins to burn the worlds. Śiva pleads for the creatures, and Brahmā draws the fire back into himself. From his body a woman emerges, dark, with red eyes: Mṛtyu, Death.\n\nBrahmā orders her to destroy creatures. She weeps and refuses the cruel task, and he catches her tears in his hands. She goes away and practises severe austerities for ages, hoping to be released, but he will not relent. At last she obeys, and her tears become the diseases that carry people off. Brahmā assures her that she will incur no sin: desire and anger, not Death, will destroy beings, each at its appointed time.\n\nIt is one of the few myths in which Death is the most reluctant party of all.",
+          "names": [
+            "Mṛtyu",
+            "Brahmā",
+            "Śiva",
+            "Nārada"
+          ],
+          "sources": [
+            "Mahābhārata, Droṇa Parva (story told to Akampana)",
+            "Mahābhārata, Śānti Parva"
+          ]
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian (Pahlavi)",
+          "title": "Ahriman and the First Man",
+          "teaser": "Death is not decreed by God but brought in by the Enemy.",
+          "text": "In the Zoroastrian account of creation preserved in the Middle Persian Bundahishn, Ohrmazd shapes the world in perfect stillness: sky, water, earth, the first plant, the Sole-Created Bull, and the first man, Gayōmard, bright as the sun. Nothing yet dies.\n\nThen Ahriman, the Evil Spirit, bursts in. He pierces the sky, spoils the waters, fills the earth with noxious creatures, and sends disease and the demon of death, Astwihād, against the bull and against Gayōmard. Ohrmazd, foreseeing the assault, has granted Gayōmard thirty years; at the end of them he dies. His seed falls to the earth and is purified by the light of the sun, and forty years later a rhubarb plant grows from it that becomes the first human couple, Mašī and Mašyānī.\n\nDeath, in this reckoning, is no divine sentence at all. It is an invasion, a weapon of the enemy, and every funeral rite is a skirmish in a war Ohrmazd will one day win.",
+          "names": [
+            "Ohrmazd",
+            "Ahriman",
+            "Gayōmard",
+            "Astwihād",
+            "Mašī",
+            "Mašyānī"
+          ],
+          "sources": [
+            "Bundahishn"
+          ],
+          "caveat": "The Bundahishn was compiled in the ninth century CE, though it draws on much older Zoroastrian tradition."
+        },
+        {
+          "culture": "japanese",
+          "title": "Izanami at the Pass of Yomi",
+          "teaser": "A broken marriage decides how many die and how many are born each day.",
+          "text": "When Izanami dies giving birth to the fire god, her husband Izanagi follows her into Yomi, the land of the dead. She has already eaten food cooked at its hearth, but agrees to ask its gods for release, if only he will not look at her. Impatient, he breaks a tooth from his comb, lights it, and sees her body swarming with maggots, eight thunder gods seated on it.\n\nHe flees. She sends the hags of Yomi after him, then the thunder gods with fifteen hundred warriors. At the pass of Yomotsu Hirasaka he blocks the way with a boulder a thousand men could not shift, and husband and wife face each other across it to dissolve their marriage. Izanami vows to strangle a thousand of his people every day. Izanagi replies that he will raise fifteen hundred birthing huts every day.\n\nSo a thousand people die each day and fifteen hundred are born: death as an estranged wife's revenge, birth as her husband's answer.",
+          "names": [
+            "Izanami",
+            "Izanagi",
+            "Yomi",
+            "Yomotsu Hirasaka"
+          ],
+          "sources": [
+            "Kojiki, Book 1",
+            "Nihon Shoki, Book 1 (variant accounts)"
+          ]
+        },
+        {
+          "culture": "japanese",
+          "title": "The Rock and the Blossom",
+          "teaser": "A heavenly prince chooses the flower over the stone, and loses long life.",
+          "text": "When Ninigi, grandson of the sun goddess, descends to rule the land, he meets a beautiful girl on the cape of Kasasa: Konohana-no-Sakuya-bime, \"Princess of the Flowering Trees\". He asks her father, the great mountain god Ōyamatsumi, for her hand. The god gladly sends her, together with her elder sister Iwa-naga-hime, \"Princess Long as Rock\", and rich gifts.\n\nThe elder sister is very ugly, and Ninigi sends her home, keeping only the younger. Her father is ashamed and explains what Ninigi has thrown away. He sent Iwa-naga-hime so that the lives of the heavenly offspring would be as enduring as rock, unmoved by snow and wind; he sent Konohana so that they would flourish like blossoms. By choosing the flowers alone, Ninigi has chosen their brevity too.\n\n\"For this reason,\" the Kojiki concludes, \"down to the present, the lives of the heavenly sovereigns are not long.\" A variant in the Nihon Shoki extends the curse to all humankind.",
+          "names": [
+            "Ninigi",
+            "Konohana-no-Sakuya-bime",
+            "Iwa-naga-hime",
+            "Ōyamatsumi"
+          ],
+          "sources": [
+            "Kojiki, Book 1",
+            "Nihon Shoki, Book 2 (variant accounts)"
+          ]
+        },
+        {
+          "culture": "andean",
+          "people": "Quechua (Huarochirí)",
+          "title": "The Dead Came Back in Five Days",
+          "teaser": "Death became permanent because one man came home late.",
+          "text": "The Huarochirí Manuscript, a Quechua-language record of the traditions of the highlands east of Lima compiled around 1608, remembers a time when death was temporary. In very ancient times, it says, when a person died the body was laid out for five days, and at the end of that time the spirit returned, and the dead person got up and lived again.\n\nOnce, a man died, and his family waited for him. The fifth day passed and he did not come. He arrived on the sixth. His wife, furious at the delay, scolded him for his laziness, since other people's dead came back on time, and threw a corncob at him.\n\nAt that the spirit turned and went back the way it had come, and it never returned. Ever since, the manuscript says, the dead do not come back. Of all the stories of lost deathlessness, it is perhaps the most human: immortality ended by a domestic quarrel over punctuality.",
+          "names": [
+            "Huarochirí"
+          ],
+          "sources": [
+            "Huarochirí Manuscript (c. 1608)"
+          ]
+        },
+        {
+          "culture": "north-american",
+          "people": "Blackfoot",
+          "title": "The Buffalo Chip and the Stone",
+          "teaser": "A woman's throw decides that people must die, so they will pity each other.",
+          "text": "In the Blackfoot creation story recorded by George Bird Grinnell, Old Man, Napi, travels the land making mountains, rivers, animals and people. One day a woman and her child come to him with a question: will people always live? Will there be no end to it? He has not thought of it.\n\nOld Man proposes a test. He will throw a buffalo chip into the river: if it floats, people who die will come alive again after four days; if it sinks, there will be an end to them. The chip floats. But the woman picks up a stone. No, she says, she will throw this: if it floats, people will always live; if it sinks, people must die, so that they will always be sorry for each other. The stone sinks. \"There,\" says Old Man, \"you have chosen. There will be an end to them.\"\n\nNot many nights later her child dies, and she begs him to change the law. He refuses: what is made law must stay law.",
+          "names": [
+            "Napi (Old Man)"
+          ],
+          "sources": [
+            "George Bird Grinnell, Blackfoot Lodge Tales (1892)"
+          ]
+        },
+        {
+          "culture": "north-american",
+          "people": "Caddo",
+          "title": "Coyote Shuts the Door",
+          "teaser": "The spirits of the dead return as whirlwinds, but Coyote closes the lodge.",
+          "text": "In the Caddo account recorded by George A. Dorsey, the first people did not die, and in time there were too many of them. The chiefs held a council. One man proposed that people should die for a while and then return. Coyote said people should die for ever, since otherwise the world would be too small to hold them. The others did not agree, and the medicine men built a great grass lodge where they would sing to call the spirits of the dead back to life.\n\nWhen a man died, the medicine men sang in the lodge, and after some days a whirlwind came and circled it: the dead man's spirit, trying to get in. Coyote, sitting beside the door, shut it before the whirlwind could enter. The spirit whirled on and away, and since then the dead wander as whirlwinds and do not return.\n\nCoyote, afraid of what he had done, ran off, and he has been running ever since, glancing back over his shoulder.",
+          "names": [
+            "Coyote"
+          ],
+          "sources": [
+            "George A. Dorsey, Traditions of the Caddo (1905)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lost-immortality",
+      "summary": "Some myths ask not why we die but why we very nearly did not. A hero or ancestor has deathlessness within reach, a plant, a meal, a baptism of fire, an elixir, a passage through a goddess's body, and loses it at the last moment through some small failure: sleep, good advice, a mother's scream, a bird's laugh. The motif is strongest in the ancient Near East and Aegean, where Gilgamesh and Adapa were copied for centuries and stories may have travelled; the Chinese and Māori versions look like independent inventions of the same tragic near miss.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "title": "Adapa Refuses the Bread",
+          "teaser": "A sage obeys his god's warning, and turns down the food of eternal life.",
+          "text": "Adapa, a sage of Eridu and servant of the god Ea, is fishing when the South Wind overturns his boat. In fury he breaks the South Wind's wing, and for seven days no wind blows over the land. The sky god Anu summons him to heaven to explain himself.\n\nEa coaches him. Wear mourning, he says, so that the gatekeepers Dumuzi and Gizzida will take pity and speak for you. \"They will offer you the bread of death: do not eat it. They will offer you the water of death: do not drink it.\" Adapa follows the advice, the gatekeepers plead for him, and Anu relents so far that he orders the bread and water of life to be brought instead. Adapa refuses both.\n\nAnu looks at him and laughs: why did you not eat or drink? Now you shall not live. Whether Ea deliberately deceived his servant, or simply failed to foresee Anu's change of heart, the tablets leave open, and scholars still argue.",
+          "names": [
+            "Adapa",
+            "Ea",
+            "Anu",
+            "Dumuzi",
+            "Gizzida"
+          ],
+          "sources": [
+            "Myth of Adapa (Amarna tablet and Nineveh fragments)"
+          ],
+          "image": {
+            "file": "File:Fragment of the Epic of Adapa, Akkadian, Mesopotamia, Neo-Assyrian period, c. 7th century BC, clay - Morgan Library & Museum - New York City - DSC06601.jpg",
+            "caption": "Fragment of the Adapa myth from the library of Ashurbanipal, 7th century BCE (Morgan Library & Museum)"
+          }
+        },
+        {
+          "culture": "mesopotamian",
+          "title": "The Plant and the Snake",
+          "teaser": "Gilgamesh finds the plant of rejuvenation, and a snake steals it.",
+          "text": "After telling Gilgamesh the story of the flood, Utnapishtim sets him a test: stay awake for six days and seven nights. Gilgamesh falls asleep at once and sleeps for seven days, while Utnapishtim's wife bakes a loaf for each day and sets it by his head, so that the stale and mouldy bread can prove how long he slept. If he cannot conquer sleep, how can he conquer death?\n\nAs he leaves, he is given a parting secret: a plant, thorny like a boxthorn, growing at the bottom of the Apsu. Gilgamesh ties stones to his feet, sinks to the bottom and plucks it, though it pricks his hands. Its name is \"The Old Man Becomes Young\", and he plans to test it first on the elders of Uruk.\n\nOn the way home he stops to bathe in a cool pool. A snake smells the plant's fragrance, rises and carries it off, and as it goes it sheds its skin. Gilgamesh sits down and weeps.",
+          "names": [
+            "Gilgamesh",
+            "Utnapishtim",
+            "Urshanabi",
+            "Apsu"
+          ],
+          "sources": [
+            "Epic of Gilgamesh, Tablet XI"
+          ]
+        },
+        {
+          "culture": "levantine",
+          "people": "Ugaritic",
+          "title": "Aqhat Refuses the Goddess",
+          "teaser": "Offered eternal life for his bow, a young hero calls the goddess a liar.",
+          "text": "In the Ugaritic poem of Aqhat, the craftsman god Kothar-wa-Khasis gives the young hero a marvellous bow, and the goddess Anat covets it. She offers him silver and gold; he tells her to have a bow made for herself. So she offers the greatest gift: ask for life, hero Aqhat, and I will give it to you; ask for deathlessness, and I will grant it. You will count years with Baal.\n\nAqhat refuses, and not politely. Do not lie to me, maiden, he says: what does a mortal get in the end? Glaze will be poured on my head, lime on my skull; I will die the death of all men, yes, I will surely die. And, he adds, bows are for warriors; do women now go hunting?\n\nAnat laughs, but she does not forget. She sends her henchman Yatpan, flying among eagles, to strike Aqhat down, and the bow is lost besides. The hero who scorned immortality as a lie gets death sooner than anyone.",
+          "names": [
+            "Aqhat",
+            "Anat",
+            "Kothar-wa-Khasis",
+            "Yatpan",
+            "Baal"
+          ],
+          "sources": [
+            "Aqhat (KTU 1.17–1.19)"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Tithonus",
+          "teaser": "The Dawn wins immortality for her lover, but forgets to ask for youth.",
+          "text": "Eos, the goddess of dawn, falls in love with Tithonus, a prince of Troy, carries him off, and asks Zeus to make him immortal. Zeus nods and grants it. But the goddess, foolishly, forgets to ask for eternal youth as well.\n\nWhile Tithonus is young the couple live happily by the streams of Ocean at the ends of the earth. When the first grey hairs appear on his head and chin, Eos keeps away from his bed, though she still feeds him ambrosia and dresses him in fine clothes. When at last he cannot move his limbs, she lays him in a chamber and shuts its shining doors. There his voice runs on endlessly, but there is no strength left in his once supple body.\n\nAphrodite tells this story in the Homeric Hymn to explain to her mortal lover Anchises why she will not ask the same gift for him. Later tradition turned the babbling old man into a cicada. Immortality won is not the same as death escaped.",
+          "names": [
+            "Tithonus",
+            "Eos",
+            "Zeus",
+            "Aphrodite",
+            "Anchises"
+          ],
+          "sources": [
+            "Homeric Hymn to Aphrodite 218–238"
+          ],
+          "image": {
+            "file": "File:Red-figure kylix Eos and Tithonos (Boston MFA 95.28) (cropped).jpg",
+            "caption": "Eos pursuing Tithonus, Athenian red-figure kylix, 5th century BCE (Museum of Fine Arts, Boston)"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Demophon in the Fire",
+          "teaser": "A goddess is burning away a baby's mortality when his mother screams.",
+          "text": "In the Homeric Hymn to Demeter, the goddess, grieving for her stolen daughter, disguises herself as an old woman and takes service in the palace at Eleusis as nurse to the infant prince Demophon. She gives him no milk. Instead she anoints him with ambrosia, breathes sweetly on him, and each night, in secret, hides him in the fire like a brand. He grows like a god.\n\nShe means to make him ageless and deathless. But one night his mother Metaneira spies on them, sees her son in the flames, and cries out in terror. Demeter snatches the child from the fire, casts him to the ground, and reveals herself in her full stature and radiance. Mortals, she says, are ignorant, unable to foresee the good or evil that is coming. Now he cannot escape death, though he will have unfailing honour, because he lay in a goddess's arms.\n\nApollonius tells the same of Thetis and the baby Achilles, interrupted by his father Peleus.",
+          "names": [
+            "Demeter",
+            "Demophon",
+            "Metaneira",
+            "Thetis",
+            "Achilles"
+          ],
+          "sources": [
+            "Homeric Hymn to Demeter",
+            "Apollonius of Rhodes, Argonautica, Book 4"
+          ],
+          "image": {
+            "file": "File:Varrese Painter - RVAp 13-30d - Metaneira receiving Demeter - Berlin AS 1984-46 - 01.jpg",
+            "caption": "Metaneira receiving Demeter, Apulian red-figure hydria by the Varrese Painter, c. 350–340 BCE (Berlin)"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "Yi's Elixir",
+          "teaser": "The archer who shot the suns loses his immortality to the moon.",
+          "text": "The archer Yi, who saves the world by shooting down nine of the ten suns, obtains the drug of deathlessness from Xiwangmu, the Queen Mother of the West. Before he can take it, his wife Heng'e, later called Chang'e, steals it and flees to the moon. The Huainanzi, a compendium presented to the Han court in 139 BCE, tells this in a single sentence, adding that Yi was left desolate, as if he had lost something, with no way to obtain more.\n\nOther early texts fill in her fate. A fragment attributed to the lost divination text Guizang says she became the spirit of the moon; Zhang Heng has her turn into a toad, the dark shape on the moon's face. Only much later does she become the lonely beauty of the Moon Palace with her jade rabbit.\n\nYi himself stays mortal, and is killed by his own pupil, Pang Meng. Having shot down the suns, he could not keep the moon from taking his only chance.",
+          "names": [
+            "Yi",
+            "Heng'e (Chang'e)",
+            "Xiwangmu",
+            "Pang Meng"
+          ],
+          "sources": [
+            "Huainanzi 6",
+            "Zhang Heng, Lingxian",
+            "Mencius 4B.24"
+          ],
+          "image": {
+            "file": "File:Chang'e flees to the moon by Tsukioka Yoshitoshi.jpg",
+            "caption": "Tsukioka Yoshitoshi, Chang'e flees to the moon, from One Hundred Aspects of the Moon, 1885–92"
+          }
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "Māui and Hine-nui-te-pō",
+          "teaser": "Māui tries to pass through the goddess of death, and a fantail laughs.",
+          "text": "Māui, the trickster who has snared the sun and fished up land, learns from his father that he will one day die, because a mistake was made in the rites said over him as a baby. He resolves to defeat death itself. Death is his great ancestress, Hine-nui-te-pō, \"Great Woman of the Night\", who lies at the horizon; her teeth are as sharp as volcanic glass, her mouth is like a barracouta's.\n\nMāui's plan is to enter her body while she sleeps and pass through it: if he comes out alive, she will die and humans will no longer die. He takes the small forest birds as companions and warns them not to laugh. He strips and begins to crawl in. The sight is too much for the tiwakawaka, the fantail, who bursts out laughing. Hine-nui-te-pō wakes and crushes him to death.\n\nSo Māui died, George Grey's version says, and thus death came into the world, for had he passed through her, no human being would have died again.",
+          "names": [
+            "Māui",
+            "Hine-nui-te-pō",
+            "tiwakawaka"
+          ],
+          "sources": [
+            "George Grey, Polynesian Mythology (1855)"
+          ],
+          "image": {
+            "file": "File:Te Tohunga - p63.png",
+            "caption": "Wilhelm Dittmer, Hine-nui-te-pō killing Māui, from Te Tohunga (1907)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "theft-of-fire",
+      "summary": "Fire looks so plainly like a divine possession, falling as lightning and living in the sun, that many peoples imagined it had to be taken from its first owners by a thief, a messenger or a small brave animal. The embers are often smuggled in something hollow: a fennel stalk, a woven bowl, a fish's belly. Nineteenth-century scholars tried to derive the Greek Prometheus from a Sanskrit word for the fire drill; that etymology is now generally abandoned. The motif's wide spread is better read as many independent answers to one question, with regional diffusion in the Americas and in Oceania.",
+      "versions": [
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Mātariśvan Brings Agni",
+          "teaser": "A mysterious messenger fetches fire from heaven for the first priests.",
+          "text": "Several hymns of the Rigveda remember that Agni, the god who is fire, was once far away. A mysterious being, Mātariśvan, brought him: \"Mātariśvan brought him from afar, from the gods,\" produced by friction; one hymn pairs the two great fetchings, saying that Mātariśvan brought the one, fire, from heaven, and the falcon brought the other, soma, from the rock. Another hymn tells how Agni hid in the waters and the plants, and the gods had to search him out before he would carry their offerings.\n\nMātariśvan's identity was uncertain even to ancient commentators. In the hymns he is the messenger of Vivasvant; later he is identified with the wind. He gives fire to the Bhṛgus, the priestly clan who first kindle it among humans.\n\nNothing in the hymns suggests the gods resented the loss. Where Prometheus is punished, Mātariśvan is praised: for the Vedic poets fire came down as a sacred gift, meant to be passed from hand to hand.",
+          "names": [
+            "Agni",
+            "Mātariśvan",
+            "Vivasvant",
+            "Bhṛgus"
+          ],
+          "sources": [
+            "Rigveda 1.93.6",
+            "Rigveda 3.9.5",
+            "Rigveda 6.8.4",
+            "Rigveda 10.51"
+          ],
+          "caveat": "Mātariśvan fetches rather than steals, and Adalbert Kuhn's 1859 equation of Prometheus with Sanskrit pramantha, 'fire drill', is now generally rejected."
+        },
+        {
+          "culture": "greek",
+          "title": "Prometheus and the Fennel Stalk",
+          "teaser": "A Titan cheats Zeus at dinner, then smuggles fire down in a plant stem.",
+          "text": "At Mekone, gods and men meet to settle how sacrifice will be shared. Prometheus, son of the Titan Iapetus, divides an ox: the meat and rich entrails wrapped in the ox's stomach, the bare bones wrapped in glistening fat. Zeus chooses the fat, and ever since, humans burn the bones for the gods and eat the meat themselves.\n\nIn anger Zeus withholds fire. Prometheus steals it back, hiding the far-seen gleam of unwearying fire in a hollow fennel stalk. The giant fennel's dry pith smoulders slowly, making it a natural carrier for embers.\n\nPunishments follow. Prometheus is bound to a pillar, and an eagle eats his immortal liver each day, which grows back each night, until Heracles shoots the bird. Humanity receives Pandora, and with her the jar of evils. In Aeschylus' Prometheus Bound the Titan boasts that fire has become the teacher of every art. The gift was civilisation itself, and both sides paid for it.",
+          "names": [
+            "Prometheus",
+            "Zeus",
+            "Iapetus",
+            "Heracles",
+            "Pandora"
+          ],
+          "sources": [
+            "Hesiod, Theogony 507–616",
+            "Hesiod, Works and Days 42–105",
+            "Aeschylus, Prometheus Bound"
+          ],
+          "image": {
+            "file": "File:Jan Cossiers - Prometheus Carrying Fire.jpg",
+            "caption": "Jan Cossiers, Prometheus Carrying Fire, 1637 (Museo del Prado)"
+          }
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "Tohil's Fire",
+          "teaser": "A god hands out fire at a price, and one nation steals it instead.",
+          "text": "In the Popol Vuh, the K'iche' ancestors wait in the dark at Tulan for the first dawn, and they are cold. Their patron god Tohil gives them fire, which he makes by twisting within his sandal. The other nations are less fortunate: a great rain and hailstorm puts out their fires, and they come shivering to the K'iche' to beg for some.\n\nTohil sets a price. A messenger from Xibalba, the underworld, with wings like a bat's, appears and advises the K'iche' not to give fire freely. The other nations must pledge themselves to Tohil and give him their blood, the promise that will grow into heart sacrifice. Most agree, and are given fire.\n\nOne people refuses the bargain. The Kaqchikel, the Popol Vuh says, stole their fire in the smoke, slipping in unseen and carrying it off without asking; their own god, it adds, was a bat. The K'iche' authors record it with some resentment: the one nation that got its fire for nothing.",
+          "names": [
+            "Tohil",
+            "Tulan",
+            "Xibalba",
+            "Kaqchikel"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ]
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "Fire in the Fish",
+          "teaser": "A spark drops from heaven into a lake, and must be fished out.",
+          "text": "In the Kalevala, Louhi, mistress of the North, has hidden the sun and the moon inside a mountain, and the land of Kaleva is dark and cold. The sky god Ukko, wondering at the darkness, strikes new fire with his flaming sword and gives the spark to a maiden of the air to rock in a golden cradle.\n\nCareless, she drops it. The spark falls through the heavens, burns through a house and scorches a child at its mother's breast, then runs wild across the land until it plunges into Lake Alue. A whitefish swallows it in agony; a trout swallows the whitefish; a pike swallows the trout.\n\nVäinämöinen and the smith Ilmarinen weave a net of flax and at last catch the pike. Inside it is the trout, inside that the whitefish, and inside that the glowing spark. It escapes once more and burns Ilmarinen's hands and cheeks before Väinämöinen captures it in tinder and a copper vessel and carries it home. The houses of Kaleva have fire again.",
+          "names": [
+            "Louhi",
+            "Ukko",
+            "Väinämöinen",
+            "Ilmarinen"
+          ],
+          "sources": [
+            "Kalevala, Runes 47–48"
+          ],
+          "caveat": "The Kalevala is Elias Lönnrot's nineteenth-century arrangement of folk songs; the fire episode rests on genuine runes, but the sequence is his, and it is a recovery of fire rather than a theft."
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "Māui and Mahuika",
+          "teaser": "Māui tricks the fire goddess out of her fingernails, one by one.",
+          "text": "Māui, curious as ever, secretly puts out every fire in his mother's village one night, then offers to go himself to Mahuika, the goddess of fire, his ancestress, to fetch more. She lives at the edge of the world. When he asks, she pulls out one of her fingernails, and flame bursts from it.\n\nMāui goes a little way off, puts the fire out, and returns: he has lost it, he says. She pulls out another nail, and another, from her fingers and then her toes, and each time he quenches the flame, until only one nail is left. Understanding at last, she flings it down in rage, and fire sweeps over the land to consume him. Māui changes into a bird and flies, but the flames pursue him; he calls on the storm gods for rain, and the downpour nearly drowns Mahuika herself.\n\nThe last sparks she saves by throwing them into certain trees, above all the kaikōmako, where fire still sleeps, to be drawn out by rubbing sticks.",
+          "names": [
+            "Māui",
+            "Mahuika",
+            "kaikōmako"
+          ],
+          "sources": [
+            "George Grey, Polynesian Mythology (1855)"
+          ]
+        },
+        {
+          "culture": "north-american",
+          "people": "Cherokee",
+          "title": "The Water Spider's Bowl",
+          "teaser": "The birds and snakes fail; a tiny spider carries fire home on her back.",
+          "text": "In the beginning, the Cherokee say, there was no fire and the world was cold. Then the Thunders sent lightning and put fire into the bottom of a hollow sycamore on an island. The animals could see the smoke, but could not reach it.\n\nRaven offered to go first. He flew across, but while he hovered over the tree the heat scorched his feathers black, and he came back frightened. The little Screech Owl went next; the hot air nearly burned out his eyes, which are red still. The Hooting Owl and the Horned Owl fared no better, and were left with white rings around their eyes. The black racer snake swam over, crept in through a hole at the root, and came out burned black.\n\nAt last the Water Spider, who can run on water, offered. She spun a thread from her body, wove it into a tusti bowl on her back, crossed to the island, put in one small coal, and brought it back.",
+          "names": [
+            "Water Spider",
+            "Raven",
+            "Screech Owl",
+            "the Thunders"
+          ],
+          "sources": [
+            "James Mooney, Myths of the Cherokee (1900)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slain-food-deity",
+      "summary": "In many farming traditions the first food plants are not invented but born from a killed body: a goddess, a mother, a bull, a beloved. The German ethnologist Adolf Jensen named the pattern after the Hainuwele story of Seram in eastern Indonesia and argued that it expressed an early planters' worldview in which life feeds on death. His grand theory is now treated with caution, and some examples may be coincidental, but the image recurs with striking precision from Japan to the Cherokee cornfield: crops sprouting from the head, the eyes, the belly, wherever the body is laid.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "Osiris the Grain",
+          "teaser": "A murdered god returns each year as barley sprouting from the earth.",
+          "text": "Osiris is murdered by his brother Seth, and his body must be found and restored by Isis before he can reign over the dead. Egyptians also saw his death and return in the grain. Coffin Texts spell 330, a Middle Kingdom spell for becoming the grain god Neper, lets the dead speak as Osiris who lives and dies as barley, going into the earth and coming forth from it.\n\nThe idea was made physical in so-called corn-mummies and \"Osiris beds\": moulds in the god's shape filled with earth and seed, watered until they sprouted, then buried. One was found in the tomb of Tutankhamun, and later temple rituals of the month of Khoiak prepared such figures every year. A relief at Philae shows stalks of grain rising from the god's body as a priest pours water over it.\n\nThe Egyptians did not say that barley was first made from Osiris' corpse. They said, more subtly, that every crop repeated his death and his return.",
+          "names": [
+            "Osiris",
+            "Seth",
+            "Isis",
+            "Neper"
+          ],
+          "sources": [
+            "Coffin Texts, Spell 330",
+            "Plutarch, On Isis and Osiris"
+          ],
+          "caveat": "Osiris is not a slain deity whose corpse creates crops, and the Frazerian 'dying-and-rising god' category built on him has been strongly criticised (J. Z. Smith); the grain link is real but one strand among many.",
+          "image": {
+            "file": "File:Germinating Bed of Osiris MET MMA20.2.30.jpg",
+            "caption": "Germinating 'Osiris bed' brick, Late Period, 664–332 BCE (Metropolitan Museum of Art)"
+          }
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian (Pahlavi)",
+          "title": "The Sole-Created Bull",
+          "teaser": "The Enemy kills the first animal, and grain grows from its marrow.",
+          "text": "In the Zoroastrian creation story of the Bundahishn, one of Ohrmazd's first creations is the Sole-Created Bull, white and shining like the moon, living on the bank of the river Weh Daiti. When Ahriman breaks into the world he sends affliction and death upon it, and it dies.\n\nIts death is turned to good. From its limbs and marrow grow fifty-five kinds of grain and twelve kinds of healing plants. Its seed is carried up to the moon and purified there, and from it come the pairs of every beneficent animal. The first man, Gayōmard, dies too, and from his seed, sunk into the earth, grows a two-stemmed rhubarb plant that becomes the first human couple.\n\nThe demon's attack, meant to end life, becomes its source. The theme is often compared with the Roman image of Mithras slaying a bull, from whose tail ears of grain sprout, though whether the two are historically connected is much disputed.",
+          "names": [
+            "Ohrmazd",
+            "Ahriman",
+            "Gāw ī ēwdād (Sole-Created Bull)",
+            "Gayōmard"
+          ],
+          "sources": [
+            "Bundahishn",
+            "Selections of Zādspram"
+          ]
+        },
+        {
+          "culture": "japanese",
+          "title": "Ōgetsu-hime and the Angry Guest",
+          "teaser": "The storm god kills the food goddess, and crops grow from her corpse.",
+          "text": "Expelled from heaven for his outrages, the storm god Susanoo asks the food goddess Ōgetsu-hime for something to eat. She takes delicacies out of her nose, her mouth and her rear, arranges them and serves them to him. Susanoo, watching her prepare them, thinks she is offering him filth, and kills her on the spot.\n\nFrom the body of the slain goddess grow the things that feed Japan: silkworms from her head, rice from her eyes, millet from her ears, red beans from her nose, wheat from her genitals, soybeans from her buttocks. The creator deity Kamimusubi has them gathered and makes them into seed.\n\nThe episode sits oddly in the Kojiki, a sudden interruption between Susanoo's disgrace in heaven and his heroic killing of the eight-headed serpent. Its logic, though, is ancient and direct: the goddess who gave food from her body gives far more by her death.",
+          "names": [
+            "Susanoo",
+            "Ōgetsu-hime",
+            "Kamimusubi"
+          ],
+          "sources": [
+            "Kojiki, Book 1"
+          ]
+        },
+        {
+          "culture": "japanese",
+          "title": "Ukemochi and the Parting of Sun and Moon",
+          "teaser": "A murdered food goddess explains both the harvest and why day and night divide.",
+          "text": "The Nihon Shoki tells a parallel story with different actors and a cosmic sequel. The sun goddess Amaterasu sends the moon god Tsukuyomi down to visit Ukemochi, the goddess of food. To welcome him she turns toward the land, and boiled rice pours from her mouth; toward the sea, and fish broad and narrow of fin; toward the hills, and game rough and soft of hair.\n\nTsukuyomi flushes with anger at being fed with things spat from a mouth, draws his sword and kills her. When Amaterasu hears, she is furious, calls him a wicked god and says she will never look on him again. From then on sun and moon dwell apart, divided by day and night.\n\nAmaterasu sends another messenger to the body. From its head have come the ox and the horse; from its forehead, millet; from its eyebrows, silkworms; from its eyes, panic grass; from its belly, rice; from its genitals, wheat and beans. She declares them food for the living.",
+          "names": [
+            "Ukemochi",
+            "Tsukuyomi",
+            "Amaterasu"
+          ],
+          "sources": [
+            "Nihon Shoki, Book 1 (variant account)"
+          ]
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "The Herbs on Miach's Grave",
+          "teaser": "A jealous physician kills his son, and healing herbs grow from every joint.",
+          "text": "In the Irish saga Cath Maige Tuired, King Nuada of the Tuatha Dé Danann loses his hand in battle, and the physician Dian Cécht makes him a hand of silver that moves like a living one. Dian Cécht's son Miach does better: he takes Nuada's own severed hand, sets it joint to joint and sinew to sinew, and with his spells makes it live again.\n\nJealous, Dian Cécht strikes his son on the head with a sword. Miach heals the wound; his father strikes again, and again, and each time Miach heals himself, until the fourth blow cuts out his brain and he dies. Dian Cécht buries him.\n\nFrom Miach's grave grow three hundred and sixty-five herbs, one for each of his joints and sinews. His sister Airmed gathers them on her cloak and sorts them according to their properties. Her father comes and mixes them all together, so that no one now knows their proper uses, the text adds, unless the Holy Spirit should teach them.",
+          "names": [
+            "Miach",
+            "Dian Cécht",
+            "Airmed",
+            "Nuada"
+          ],
+          "sources": [
+            "Cath Maige Tuired (The Second Battle of Mag Tuired)"
+          ],
+          "caveat": "These are healing herbs, not food crops, and the saga is a medieval Christian-era composition; the parallel is thematic."
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "The Head in the Calabash Tree",
+          "teaser": "A sacrificed god's skull makes a barren tree bear fruit.",
+          "text": "In the Popol Vuh, the brothers One Hunahpu and Seven Hunahpu are summoned to Xibalba by the lords of death, fail their trials and are sacrificed. One Hunahpu's head is cut off and set in the fork of a tree beside the road. At once the barren tree bears fruit, and the head can no longer be told apart from the round calabashes hanging all around it.\n\nLady Blood, daughter of a lord of Xibalba, goes to see the marvellous tree. The skull speaks to her and asks her to stretch out her hand. It spits into her palm, and she becomes pregnant. The saliva is a sign, the head explains: a lord's face is only bone once the flesh is gone, but his children carry on his line.\n\nShe escapes to the world above and gives birth to the Hero Twins, Hunahpu and Xbalanque. Many scholars link One Hunahpu with the Classic Maya maize god, whose death and rebirth appear on painted vessels.",
+          "names": [
+            "One Hunahpu",
+            "Lady Blood (Xkik')",
+            "Hunahpu",
+            "Xbalanque",
+            "Xibalba"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ],
+          "caveat": "The calabash is a fruit rather than a staple crop; the maize-god link rests on Classic-period imagery, not on the Popol Vuh text itself."
+        },
+        {
+          "culture": "aztec",
+          "people": "Nahua",
+          "title": "Cinteotl Under the Earth",
+          "teaser": "A young maize god goes into the ground and becomes the harvest.",
+          "text": "The Histoyre du Mechique, a sixteenth-century French translation of a lost Spanish account of Nahua traditions, says that the gods Piltzintecuhtli and Xochiquetzal had a son, Cinteotl, \"Maize God\". He went beneath the earth, and from his body came the plants that feed the people.\n\nFrom his hair came cotton; from his ears, useful seeds, among them the grain amaranth called huauhtzontli; from his nose, chia; from his fingers, the sweet potato; from his nails, a kind of maize; and from the rest of his body a great many other fruits. For this, the text says, he was loved above the other gods.\n\nA different Nahua story, in the Legend of the Suns, has Quetzalcoatl turn himself into a black ant to carry maize out of the Mountain of Sustenance. The Histoyre's version instead roots the crops in a god's own buried body, making every milpa, in a sense, his grave.",
+          "names": [
+            "Cinteotl",
+            "Piltzintecuhtli",
+            "Xochiquetzal",
+            "Quetzalcoatl"
+          ],
+          "sources": [
+            "Histoyre du Mechique",
+            "Legend of the Suns (1558)"
+          ],
+          "caveat": "The story survives in a single colonial source, known only through a French translation."
+        },
+        {
+          "culture": "north-american",
+          "people": "Cherokee",
+          "title": "Selu, the Corn Mother",
+          "teaser": "Two boys kill their mother as a witch, and corn springs from her blood.",
+          "text": "In the Cherokee story of Kana'ti and Selu, the hunter Kana'ti always brings home game and his wife Selu always has corn and beans, though no one sees her plant. Their two sons spy on her storehouse. They watch her rub her stomach and fill a basket with corn, rub her armpits and fill another with beans.\n\nDeciding she is a witch, they resolve to kill her. Selu knows their thoughts. Before they do it, she tells them what to do: clear a large piece of ground before the house, drag her body seven times around the circle and seven times over the ground within it, then sit up all night and watch.\n\nThe boys kill her, but clear only seven little spots and drag her body across it just twice. Wherever her blood falls, corn springs up, and by morning it is ripe. That is why corn grows only in some places, the Cherokee say, and why they still work their crop only twice.",
+          "names": [
+            "Selu",
+            "Kana'ti"
+          ],
+          "sources": [
+            "James Mooney, Myths of the Cherokee (1900)"
+          ]
+        },
+        {
+          "culture": "polynesian",
+          "people": "Samoan",
+          "title": "Sina and the Eel",
+          "teaser": "A rejected eel lover asks to be buried, and becomes the coconut palm.",
+          "text": "In a story told across Polynesia, known in Samoa as Sina and the Eel, a young woman named Sina keeps a small eel as a pet. It grows and grows until it is huge and she is afraid of it. It follows her wherever she goes, and she comes to understand that it is in love with her.\n\nThe people resolve to kill the eel. Before it dies it asks Sina for one thing: to bury its head. She does so, and from the grave grows a tree the islands had never known, the coconut palm. When a nut is husked, three dark marks at one end show the eel's face, two eyes and a mouth, and whenever Sina drinks from a coconut, it is said, she presses her lips to the eel's.\n\nThe tree becomes the islands' most generous plant, giving food, drink, oil, fibre and thatch, all from the buried head of a rejected lover.",
+          "names": [
+            "Sina",
+            "Tuna (the eel)"
+          ],
+          "sources": [
+            "Samoan oral tradition, 'Sina ma le Tuna'"
+          ],
+          "caveat": "The story exists in many local versions across Polynesia, with different names and details (Hina and Tuna in Tahiti and elsewhere); this summary follows its common Samoan shape."
+        }
+      ]
+    },
+    {
+      "id": "confusion-of-tongues",
+      "summary": "Why do the neighbours speak gibberish? Several traditions answer that humanity once shared a single language and lost it, whether by divine decree, divine rivalry, or a god scattering the nations. The best-known version, Babel, may itself answer Mesopotamian claims, and Christian missionaries later carried it around the world, so some parallels recorded in the colonial era must be read with care. Other traditions treat the variety of tongues not as a punishment at all but as part of the order of creation, handed out by a god along with each people's clothes, songs and homeland.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Sumerian",
+          "title": "The Spell of Nudimmud",
+          "teaser": "A Sumerian spell remembers, or foresees, all peoples praising Enlil in one tongue.",
+          "text": "The Sumerian epic Enmerkar and the Lord of Aratta, written down in the early second millennium BCE, contains an incantation set within a tale of rivalry between Uruk and distant Aratta. It describes a time with no snake, no scorpion, no hyena, no lion, when the lands of Shubur, Hamazi, Sumer, Akkad and the Martu country lived in security, and the whole universe, the people in unison, gave praise to Enlil in a single tongue.\n\nThen Enki, lord of Eridu, is said to change the speech in their mouths. Samuel Noah Kramer, the first to discuss the passage, read it as a story of lost linguistic unity caused by rivalry between Enki and Enlil, and a forerunner of Babel. Later scholars, notably Herman Vanstiphout, read the verbs as future: a spell looking forward to a day when all peoples will again address Enlil in one language.\n\nEither way, the epic turns on words: Enmerkar invents writing on clay when his messenger cannot carry a message too heavy for his mouth.",
+          "names": [
+            "Enmerkar",
+            "Enki (Nudimmud)",
+            "Enlil"
+          ],
+          "sources": [
+            "Enmerkar and the Lord of Aratta"
+          ],
+          "caveat": "The passage is grammatically ambiguous and may describe a future unification of speech rather than a past confusion."
+        },
+        {
+          "culture": "levantine",
+          "title": "The Tower of Babel",
+          "teaser": "Humanity builds a tower to heaven, and God scatters their speech.",
+          "text": "After the flood, \"the whole earth had one language and the same words.\" Migrating from the east, people settle in the plain of Shinar and, having learned to fire bricks and use bitumen for mortar, decide to build \"a city, and a tower with its top in the heavens, and let us make a name for ourselves, lest we be scattered.\"\n\nThe LORD comes down to see the city, a quietly ironic touch for a tower meant to reach heaven, and observes that this is only the beginning of what they will do. So he confuses their language, so that they cannot understand one another, and scatters them over the face of the earth. The city is left unfinished.\n\nIts name is Babel, the text explains, because there the LORD confused (balal) the language of all the earth: a pun on Babylon, whose own name was understood as \"gate of the god\". Many scholars see the great ziggurat of Babylon, Etemenanki, behind the story.",
+          "names": [
+            "Babel",
+            "Shinar",
+            "Etemenanki"
+          ],
+          "sources": [
+            "Genesis 11:1–9"
+          ],
+          "image": {
+            "file": "File:Pieter Bruegel the Elder - The Tower of Babel (Vienna) - Google Art Project - edited.jpg",
+            "caption": "Pieter Bruegel the Elder, The Tower of Babel, 1563 (Kunsthistorisches Museum, Vienna)"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Hermes Divides the Tongues",
+          "teaser": "The god of interpreters splits one language into many, and discord follows.",
+          "text": "Greek myth mostly takes many languages for granted, but a short entry in the Latin handbook of myths attributed to Hyginus preserves another idea. For many ages, it says, humans lived without towns or laws, speaking a single language, under the rule of Jupiter. Then Mercury, the Greek Hermes, god of speech, messengers and interpreters, explained the languages of men and divided the nations; at once discord arose among mortals, which displeased Jupiter.\n\nHyginus explains the god's role with an etymology: Hermes is the hermeneutes, the \"interpreter\". Jupiter's answer to the new discord is kingship. He gives the first rule over men to Phoroneus of Argos, because Phoroneus was the first to offer sacrifice to Juno.\n\nHere the variety of languages is not a punishment for pride, but a side effect of a god doing his job too well, and kings are invented to keep the peace that a single tongue once kept without them.",
+          "names": [
+            "Hermes (Mercury)",
+            "Zeus (Jupiter)",
+            "Phoroneus"
+          ],
+          "sources": [
+            "Hyginus, Fabulae 143"
+          ],
+          "caveat": "Known from a single late Latin handbook; influence from Near Eastern stories cannot be ruled out."
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "Speech Changed at Tulan",
+          "teaser": "The highland nations arrive with one language and leave Tulan with many.",
+          "text": "In the Popol Vuh, the K'iche' ancestors and the other nations gather at Tulan Zuyva, the place of Seven Caves and Seven Canyons, to receive their gods. There, the text says, their language changes. The peoples who came from the east had spoken with a single speech; now they cannot understand one another, and the K'iche' are divided from the Kaqchikel, the Tz'utujil and the rest. Their gods are shared out, each people receiving its own.\n\nThe ancestors lament that they have lost the language they shared when they set out. Then they leave Tulan and wander in the dark, fasting and weeping, until the first dawn rises over the mountain Hacavitz and the morning star comes up before the sun.\n\nThe episode explains why neighbouring highland peoples, who share traditions and gods, speak related but different languages, which is exactly the situation of K'iche', Kaqchikel and Tz'utujil to this day.",
+          "names": [
+            "Tulan Zuyva",
+            "Tohil",
+            "Hacavitz"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ],
+          "caveat": "The Popol Vuh was written in the 1550s by K'iche' nobles who knew Christian teaching; some scholars suspect the Babel story coloured this passage, though the Tulan tradition itself is pre-Hispanic.",
+          "image": {
+            "file": "File:Popol vuh.jpg",
+            "caption": "First page of the Popol Vuh in Francisco Ximénez's copy, early 18th century (Newberry Library)"
+          }
+        },
+        {
+          "culture": "andean",
+          "people": "Inca",
+          "title": "Viracocha Paints the Nations",
+          "teaser": "At Tiwanaku, the creator gives every people its language, dress and songs.",
+          "text": "The priest Cristóbal de Molina, writing in Cusco around 1575 from the testimony of Inca elders, records how the creator Viracocha remade humanity after a great flood. At Tiwanaku, beside Lake Titicaca, he shaped the peoples out of clay and painted on each the clothing it was to wear. To each nation he gave the language it would speak, the songs it would sing, and the seeds and foods it would sow.\n\nThen he commanded them to go down into the earth, and each emerged in its own homeland, from a cave, a lake, a spring or a hill. That place became its pacarina, its sacred place of origin, and the first ancestors of many peoples were turned to stone or into animals and honoured as huacas.\n\nHere the many tongues of the Andes are not a curse but an ordinance: part of the pattern the creator stamped on the world, each people given its own speech, dress and place.",
+          "names": [
+            "Viracocha",
+            "Tiwanaku",
+            "pacarina",
+            "huaca"
+          ],
+          "sources": [
+            "Cristóbal de Molina, Relación de las fábulas y ritos de los Incas (c. 1575)"
+          ],
+          "caveat": "Recorded by a Spanish priest; the flood-and-recreation frame may show some biblical shaping, though the pacarina ideas are well attested.",
+          "image": {
+            "file": "File:Bol-tihuanaco-sonnentor.jpg",
+            "caption": "The Gateway of the Sun at Tiwanaku, Bolivia"
+          }
+        }
+      ]
+    },
+    {
+      "id": "evil-let-loose",
+      "summary": "A world once free of trouble is spoiled when something is opened, broken or trespassed: a jar, a sealed pit, the boundary of heaven. Pandora is the classic case, though her story is less about female curiosity, the reading that spread in the Renaissance, than about the gods' revenge disguised as a gift. Parallels range from demons escaping a well to diseases invented by wronged animals. They are mostly independent explanations for suffering that share one logic: evil was once contained and now, through a single act, is loose. The details, and where the blame falls, differ widely.",
+      "versions": [
+        {
+          "culture": "greek",
+          "title": "Pandora's Jar",
+          "teaser": "Zeus's lovely gift to humankind lifts a lid and lets out every sorrow.",
+          "text": "Angry at Prometheus' theft of fire, Zeus orders a gift for humankind in which they will all delight, embracing their own ruin. Hephaestus shapes a maiden from earth and water; Athena dresses her, Aphrodite gives her grace and longing, and Hermes a shameless mind and a thief's character. She is named Pandora, \"all-gifts\", and Hermes leads her to Epimetheus, who forgets his brother's warning never to accept a gift from Zeus.\n\nBefore this, men lived on earth free of evils, hard labour and sickness. The woman lifts the great lid of a storage jar, a pithos, and scatters its contents. Sorrows spread among humans, and diseases roam by day and night, silently, since Zeus has taken away their voice. Only Hope stays inside, under the rim.\n\nThe familiar \"box\" is a Renaissance slip: Erasmus rendered pithos as pyxis, a small casket, and the image stuck.",
+          "names": [
+            "Pandora",
+            "Epimetheus",
+            "Prometheus",
+            "Zeus",
+            "Hephaestus",
+            "Elpis"
+          ],
+          "sources": [
+            "Hesiod, Works and Days 42–105",
+            "Hesiod, Theogony 570–612",
+            "Erasmus, Adagia"
+          ],
+          "image": {
+            "file": "File:John William Waterhouse - Pandora, 1896.jpg",
+            "caption": "John William Waterhouse, Pandora, 1896, showing the Renaissance 'box' rather than Hesiod's jar"
+          }
+        },
+        {
+          "culture": "levantine",
+          "people": "Early Jewish (Second Temple)",
+          "title": "The Watchers Descend",
+          "teaser": "Rebel angels come down to earth and teach forbidden arts.",
+          "text": "Genesis mentions, in four cryptic verses, that \"the sons of God\" took human wives and that the Nephilim were on the earth. The Book of the Watchers, the oldest part of 1 Enoch, composed in Aramaic by the third century BCE, turns this into a catastrophe. Two hundred angels, the Watchers, led by Shemihazah, descend on Mount Hermon and bind themselves by oath to take human wives.\n\nThey bring forbidden knowledge with them. Asael teaches men to forge swords and armour, and women to make bracelets, ornaments and eye paint; others teach spells, the cutting of roots, astrology and the signs of the moon. Their children, the giants, devour the labour of humans and then humans themselves, and the earth cries out.\n\nGod answers with the flood and a prison. Asael is bound hand and foot and cast into darkness in the desert of Dudael, under rough and jagged rocks, until the day of judgement. For this author, war, vanity and sorcery are knowledge that should never have left heaven.",
+          "names": [
+            "Shemihazah",
+            "Asael",
+            "the Watchers",
+            "the Nephilim"
+          ],
+          "sources": [
+            "1 Enoch 6–11 (Book of the Watchers)",
+            "Genesis 6:1–4"
+          ],
+          "caveat": "1 Enoch lies outside the Hebrew Bible (it is canonical only in the Ethiopian Orthodox Church) and expands the brief Genesis passage."
+        },
+        {
+          "culture": "japanese",
+          "title": "The Sun in the Cave",
+          "teaser": "The storm god's outrages drive the sun into hiding, and calamities swarm.",
+          "text": "Having won a contest with his sister Amaterasu, the storm god Susanoo runs riot in heaven. He breaks down the ridges between her rice fields, fills in the irrigation ditches, and defecates in the hall where the first fruits are tasted. At last he breaks a hole in the roof of her sacred weaving hall and drops in a heavenly piebald horse, flayed backwards. A weaving maiden, startled, strikes herself with her shuttle and dies.\n\nTerrified, Amaterasu shuts herself in the Rock Cave of Heaven and closes the door. The Plain of High Heaven and the land below go dark, and endless night reigns. The voices of the myriad gods swarm like flies in summer, and every kind of calamity arises.\n\nOnly a riotous dance by the goddess Ame-no-Uzume, the laughter of eight hundred myriad gods, a mirror and a jewelled tree coax the sun back out. Susanoo is fined, his beard and nails are cut, and he is expelled from heaven.",
+          "names": [
+            "Susanoo",
+            "Amaterasu",
+            "Ame-no-Uzume",
+            "Ama-no-Iwato"
+          ],
+          "sources": [
+            "Kojiki, Book 1",
+            "Nihon Shoki, Book 1"
+          ],
+          "image": {
+            "file": "File:Amaterasu cave - large - 1856.jpeg",
+            "caption": "Utagawa Kunisada, Amaterasu emerging from the Rock Cave of Heaven, 1856"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic",
+          "title": "Poison from the Ocean",
+          "teaser": "Churning the sea for immortality, the gods first bring up a world-killing poison.",
+          "text": "When the gods and the asuras churn the ocean of milk to win the drink of immortality, they use Mount Mandara as the churning stick and the serpent Vāsuki as the rope. The first thing the ocean yields is not treasure but a deadly poison, Hālāhala, which spreads in every direction, choking all living things.\n\nGods, demons and creatures flee to Śiva for help. Out of compassion, and with the approval of his wife, he gathers the poison into his palm and swallows it. It does him no harm, but it stains his throat dark blue, and he is called Nīlakaṇṭha, \"Blue-Throat\", ever after. Only then can the churning go on to bring up the wish-granting cow, the white horse, the goddess Lakṣmī, and at last the physician Dhanvantari carrying the pot of amṛta.\n\nThe story reverses Pandora's order. The evil comes out first, and is swallowed, so that the good things can follow.",
+          "names": [
+            "Śiva (Nīlakaṇṭha)",
+            "Hālāhala",
+            "Vāsuki",
+            "Mandara",
+            "Dhanvantari"
+          ],
+          "sources": [
+            "Bhāgavata Purāṇa 8.7–8"
+          ],
+          "image": {
+            "file": "File:Churning of the Ocean of Milk at Tonle Bati.jpg",
+            "caption": "The Churning of the Ocean of Milk, Khmer relief at Tonle Bati, Cambodia"
+          }
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian (Pahlavi)",
+          "title": "Ahriman Breaks In",
+          "teaser": "Roused by a demoness, the Evil Spirit bursts into the perfect creation.",
+          "text": "For three thousand years, the Bundahishn relates, Ahriman lies stunned in the darkness, overwhelmed by Ohrmazd's recitation of the Ahuna Vairya prayer. His demons try to rouse him and fail. At last the demoness Jeh comes and cries out: rise, our father, for I will pour so much affliction on the Righteous Man and the toiling bull that life will not be worth living. Ahriman is delighted and kisses her head.\n\nThen he leaps. He springs through the sky like a snake, at noon, and invades the whole good creation: salt and bitterness in the water, noxious creatures on the earth, poison in the plants, smoke in the fire, and death for the bull and for Gayōmard. From that moment the world is a mixture of good and evil, a battleground that will remain so until the final Renovation.\n\nThe Zoroastrian answer to suffering is stark: nothing in the world was made to be evil; everything evil in it broke in from outside.",
+          "names": [
+            "Ahriman",
+            "Ohrmazd",
+            "Jeh",
+            "Gayōmard"
+          ],
+          "sources": [
+            "Bundahishn"
+          ],
+          "caveat": "The Bundahishn was compiled in the ninth century CE, though it draws on much older tradition."
+        },
+        {
+          "culture": "chinese",
+          "title": "The Hundred and Eight Stars",
+          "teaser": "An arrogant official opens a sealed pit and releases a hundred and eight spirits.",
+          "text": "The fourteenth-century novel Water Margin opens with a warning against meddling. A plague sweeps the Song empire, and the emperor sends Marshal Hong Xin to Dragon and Tiger Mountain to summon the Daoist Celestial Master for rites. While there, the arrogant marshal comes upon a locked hall, the Hall for Subduing Demons, its doors pasted over with talismanic seals.\n\nHe forces the priests to open it. Inside stands a stone tablet on a tortoise's back, inscribed with the words \"Open upon meeting Hong.\" Delighted to find his name, Hong has the tablet dug up. Beneath it is a deep pit, and from it a black vapour roars up into the sky and scatters into a hundred golden lights. The horrified priests explain that thirty-six Heavenly Spirits and seventy-two Earthly Fiends had been imprisoned there since the Tang.\n\nThe released stars are reborn as the hundred and eight outlaws of Liangshan Marsh, whose rebellion fills the rest of the novel.",
+          "names": [
+            "Hong Xin",
+            "Hall for Subduing Demons",
+            "Liangshan"
+          ],
+          "sources": [
+            "Water Margin (Shuihu zhuan), chapter 1"
+          ],
+          "caveat": "A literary novel rather than a religious myth, though it draws on Daoist ideas of star spirits."
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "Loviatar's Nine Sons",
+          "teaser": "The blind daughter of Death gives birth to the diseases.",
+          "text": "In the forty-fifth rune of the Kalevala, Louhi, mistress of the North, avenges the theft of the Sampo by sending diseases against the people of Kaleva. Their mother is Loviatar, blind daughter of Tuoni, lord of the dead, the worst and most wicked of his daughters.\n\nLoviatar lies down with her back to the wind, and the east wind makes her pregnant. Her labour drags on for months, and at last Louhi takes her to a sauna in the North, where she gives birth to nine sons, each a disease: pleurisy and colic, gout and consumption, sores, scab, canker and plague among them. The ninth is left without a name and sent off to work mischief in the swamps. The rest Louhi sends against Kaleva, and the people fall sick.\n\nVäinämöinen heats the sauna, prepares ointments and sings his charms, and drives the diseases away to the Mountain of Pain, where they can trouble no one.",
+          "names": [
+            "Loviatar",
+            "Louhi",
+            "Tuoni",
+            "Väinämöinen"
+          ],
+          "sources": [
+            "Kalevala, Rune 45"
+          ],
+          "caveat": "The Kalevala is Lönnrot's nineteenth-century compilation, but it draws here on genuine Finnish charms describing the diseases as Loviatar's offspring."
+        },
+        {
+          "culture": "north-american",
+          "people": "Cherokee",
+          "title": "The Animals Invent Disease",
+          "teaser": "Hunted without respect, the animals hold councils and devise human illnesses.",
+          "text": "In the old days, the Cherokee say, humans and animals lived together in friendship. But people multiplied, invented bows, blowguns, knives and hooks, and began to slaughter the larger animals for their flesh and skins and to trample the smaller ones carelessly underfoot.\n\nThe animals held councils to take revenge. The Bears, meeting in their townhouse under Kuwâ'hï mountain, tried to make bows of their own, but a bear's claws spoil the shot. The Deer decided that any hunter who killed a deer without asking its pardon would be struck with rheumatism. The Fishes and Reptiles sent dreams of snakes and rotting fish. Then the Birds, Insects and small animals met with the Grubworm presiding, and named disease after disease; the Grubworm was so pleased that he fell over backward, and has wriggled on his back ever since.\n\nWhen the Plants heard, they took pity on humans. Each tree, shrub and herb agreed to provide a cure for one of the diseases.",
+          "names": [
+            "the Bears",
+            "the Deer",
+            "Little Deer",
+            "the Grubworm"
+          ],
+          "sources": [
+            "James Mooney, Myths of the Cherokee (1900)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "great-flood",
+      "summary": "Flood stories are among the most widespread of all myths, but they are not all one story. The Mesopotamian account, in which a god warns one man to build a boat, birds are sent out and a sacrifice follows, is almost certainly the ancestor of the biblical Noah and may have shaped Greek Deucalion; the Indian Manu story may belong to the same wider orbit. Elsewhere, from China to the Andes, flood myths look independent: responses to real floods, to seashells found on mountains, or to the idea that a world must be washed before it is remade. Missionary retelling has blurred some records.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "Utnapishtim's Ark",
+          "teaser": "A god whispers to a reed wall, and one man builds a boat.",
+          "text": "In Tablet XI of the Epic of Gilgamesh, Utnapishtim tells how the great gods decided to send a flood. The wise god Ea speaks not to him but to the reed wall of his house: man of Shuruppak, tear down your house and build a boat; abandon wealth and save life.\n\nHe builds a vessel as wide as it is long, with six decks dividing it into seven levels, sealed with bitumen, and loads it with his family, craftsmen, animals and the seed of all living things. The storm rages for six days and seven nights. The gods themselves cower like dogs against the wall of heaven, and the mother goddess wails for her people. On the seventh day the sea grows calm, and the boat grounds on Mount Nimush.\n\nHe sends out a dove, which comes back; a swallow, which comes back; then a raven, which finds food and does not return. The story is older than the epic: it is taken from the Babylonian poem of Atrahasis.",
+          "names": [
+            "Utnapishtim",
+            "Ea",
+            "Enlil",
+            "Atrahasis",
+            "Ziusudra"
+          ],
+          "sources": [
+            "Epic of Gilgamesh, Tablet XI",
+            "Atrahasis, Tablet III",
+            "Sumerian Flood Story (Ziusudra)"
+          ],
+          "image": {
+            "file": "File:British Museum Flood Tablet.jpg",
+            "caption": "The Flood Tablet, Tablet XI of the Epic of Gilgamesh, 7th century BCE (British Museum)"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Manu and the Fish",
+          "teaser": "A little fish Manu saves grows huge and tows his ship to safety.",
+          "text": "The Śatapatha Brāhmaṇa tells it plainly. One morning, as Manu washes his hands, a small fish comes into them and speaks: \"Rear me, and I will save you.\" From what? \"A flood will carry away all these creatures; I will save you from that.\" Keep me in a jar, it says, then in a pit, and at last in the sea.\n\nManu does so. The fish grows into a great fish and tells him the year of the flood, and Manu builds a ship. When the waters rise, Manu ties the ship's rope to the fish's horn, and it carries him over the northern mountain. There it tells him to tie the ship to a tree and to follow the water down as it sinks. The slope is still called Manu's Descent.\n\nThe flood sweeps away all creatures; Manu alone remains. He pours offerings of butter, sour milk, whey and curds into the waters, and a year later a woman rises from them, Iḍā, through whom he begets humankind.",
+          "names": [
+            "Manu",
+            "Iḍā",
+            "Matsya"
+          ],
+          "sources": [
+            "Śatapatha Brāhmaṇa 1.8.1",
+            "Matsya Purāṇa"
+          ],
+          "image": {
+            "file": "File:Matsya and Manu.jpg",
+            "caption": "Vishnu as Matsya towing Manu's boat, Mewar painting, c. 1840"
+          }
+        },
+        {
+          "culture": "levantine",
+          "title": "Noah's Ark",
+          "teaser": "One righteous man, an ark of gopher wood, a dove with an olive leaf.",
+          "text": "Seeing that the earth is corrupt and full of violence, God regrets having made humankind and resolves to blot it out. Noah alone finds favour. He is told to build an ark of gopher wood, three hundred cubits long, fifty wide and thirty high, coated with pitch inside and out, and to bring aboard his family and pairs of every living creature.\n\nThe fountains of the great deep burst open and the windows of heaven are opened. The waters rise above the highest mountains, and everything on dry land with the breath of life dies. The ark comes to rest on the mountains of Ararat. Noah sends out a raven, then a dove, which comes back; the second time it returns with a fresh olive leaf, and the third time it does not return.\n\nNoah builds an altar and sacrifices, and God smells the pleasing odour and promises never again to curse the ground. The parallels with Gilgamesh, down to the birds and the aroma, are unmistakable.",
+          "names": [
+            "Noah",
+            "Ararat"
+          ],
+          "sources": [
+            "Genesis 6–9"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Deucalion and Pyrrha",
+          "teaser": "Two survivors repopulate the world by throwing stones over their shoulders.",
+          "text": "Zeus, disgusted with the men of the bronze age, or in Ovid's version with the savagery of King Lycaon, who served him human flesh, resolves to destroy humankind by flood. Prometheus warns his son Deucalion, who builds a chest, stocks it with provisions and embarks with his wife Pyrrha, daughter of Epimetheus and Pandora.\n\nZeus pours rain from heaven and floods most of Greece; all perish except a few who escape to the high mountains. Deucalion's chest floats for nine days and nights and comes to rest on Parnassus. When the rain stops, he sacrifices to Zeus, who lets him ask for whatever he wishes, and he asks for people.\n\nIn Ovid, the oracle of Themis tells the pair to throw the bones of their great mother behind them. Pyrrha is horrified, until Deucalion understands: the earth is their mother, and stones are her bones. The stones he throws become men, Pyrrha's women, and so, Greek writers noted, a people, laos, came from stones, laas.",
+          "names": [
+            "Deucalion",
+            "Pyrrha",
+            "Prometheus",
+            "Zeus",
+            "Themis"
+          ],
+          "sources": [
+            "Apollodorus, Library 1.7.2",
+            "Ovid, Metamorphoses, Book 1"
+          ],
+          "image": {
+            "file": "File:Peter Paul Rubens - Deucalion and Pyrrha, 1636.jpg",
+            "caption": "Peter Paul Rubens, Deucalion and Pyrrha, 1636 (Museo del Prado)"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "Yu Tames the Waters",
+          "teaser": "Not a punishment but an engineering problem, solved by a tireless sage.",
+          "text": "In Chinese tradition the great flood is not a punishment but a disaster to be managed. In the time of the sage-king Yao, the waters overflow the sky, swallow the hills and surround the mountains. Gun is appointed to control them. According to the Classic of Mountains and Seas, he steals the Lord on High's xirang, a self-growing \"swelling soil\", to dam the flood without waiting for permission, and is executed at Feather Mountain. From Gun's body, Yu is born.\n\nYu succeeds where his father failed, not by damming but by dredging: he cuts channels, deepens rivers and leads the waters to the sea. For years he labours away from home, passing his own door three times without going in, until the hair is worn from his shins. Daoist ritual masters still imitate his limping gait, the \"Step of Yu\".\n\nHaving drained the land, Yu divides it into the Nine Provinces and founds the Xia dynasty. The flood myth becomes a charter for the state as engineer.",
+          "names": [
+            "Yu",
+            "Gun",
+            "Yao",
+            "xirang"
+          ],
+          "sources": [
+            "Shujing (Book of Documents), 'Canon of Yao'",
+            "Shanhaijing 18",
+            "Mencius 3A.4",
+            "Sima Qian, Shiji 2"
+          ],
+          "image": {
+            "file": "File:King Yu of Xia.jpg",
+            "caption": "Ma Lin, Yu the Great, Song dynasty hanging scroll (National Palace Museum, Taipei)"
+          }
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "Cessair and the Flood",
+          "teaser": "Ireland's first settlers drown, all but one man who outlives the ages.",
+          "text": "The medieval Lebor Gabála Érenn, the \"Book of the Taking of Ireland\", begins its history before the biblical flood. Cessair, daughter of Bith, son of Noah, is refused a place on the ark, and sets out for the western edge of the world with fifty women and three men: her father Bith, the pilot Ladra, and Fintan mac Bóchra. They reach Ireland forty days before the flood.\n\nThe women are divided among the three men. Ladra and Bith soon die, and Fintan, left alone with the whole company, flees. Then the flood comes and drowns everyone in Ireland except Fintan, who survives on a hilltop, in later tellings by turning into a salmon, then an eagle and a hawk, before becoming a man again.\n\nHe lives on for thousands of years as Ireland's memory, witnessing each invasion that follows and advising kings long into the Christian era. The native imagination has made room, beside Noah, for a single Irish survivor.",
+          "names": [
+            "Cessair",
+            "Bith",
+            "Ladra",
+            "Fintan mac Bóchra"
+          ],
+          "sources": [
+            "Lebor Gabála Érenn"
+          ],
+          "caveat": "A medieval Christian synthesis grafting Irish tradition onto biblical history; the compilers themselves were uneasy that Fintan survived a flood meant to spare only Noah's family."
+        },
+        {
+          "culture": "norse",
+          "title": "The Flood of Ymir's Blood",
+          "teaser": "The gods kill the first giant, and his blood drowns his kin.",
+          "text": "When Odin and his brothers Vili and Vé kill the primeval giant Ymir, Snorri Sturluson relates, so much blood flows from his wounds that it drowns the whole race of frost giants. Only one escapes, Bergelmir, with his wife, by climbing onto his lúðr, a word that may mean a mill frame, a hollowed trunk or a cradle; from them the families of frost giants descend.\n\nThe gods then carry Ymir's body into the middle of Ginnungagap and make the world from it: earth from his flesh, rocks from his bones, sea and lakes from his blood, and the sky from his skull, held up at its four corners by dwarfs.\n\nSnorri seems to be building on a stanza of the poem Vafþrúðnismál, in which a giant recalls his earliest memory: when the wise Bergelmir was laid on a lúðr. The poem says nothing about a flood.",
+          "names": [
+            "Ymir",
+            "Bergelmir",
+            "Odin",
+            "Vili",
+            "Vé"
+          ],
+          "sources": [
+            "Gylfaginning 7",
+            "Vafþrúðnismál 35"
+          ],
+          "caveat": "Many scholars think Snorri reshaped the Bergelmir stanza with Noah in mind; it is a flood of blood, not water, and it saves giants, not humans."
+        },
+        {
+          "culture": "aztec",
+          "people": "Nahua",
+          "title": "Tata and Nene",
+          "teaser": "The only survivors of the water age are turned into dogs for cooking fish.",
+          "text": "In the Legend of the Suns, a Nahuatl account written down in 1558, the fourth age of the world, the Sun of Water, ends in a flood. The sky collapses, the waters sweep everything away, and the people become fish.\n\nBut Tezcatlipoca warns one couple, Tata and Nene. He tells them to hollow out a great bald cypress and shut themselves inside, and to eat only one ear of maize each. They obey, and they float safely until the waters go down.\n\nWhen they come out, they see a fish, drill fire and roast it. The star gods Citlalinicue and Citlallatonac, looking down, ask who is making smoke and fouling the heavens. Tezcatlipoca comes down in anger, cuts off the couple's heads and sticks them onto their rumps, and they become the first dogs. The crime was not in surviving the flood, but in lighting a fire without leave.",
+          "names": [
+            "Tata",
+            "Nene",
+            "Tezcatlipoca",
+            "Citlalinicue",
+            "Citlallatonac"
+          ],
+          "sources": [
+            "Legend of the Suns (Leyenda de los Soles, 1558)"
+          ]
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "The Wooden People",
+          "teaser": "The gods drown their failed creations in resin, and their tools rebel.",
+          "text": "In the Popol Vuh, the gods' third attempt at humanity is a people of wood: the men carved from the coral tree, the women from the pith of reeds. They look and speak like people and multiply, but they have no hearts or minds and do not remember their makers.\n\nSo Heart of Sky brings a flood upon them, a great downpour of resin falling from the sky, with darkness by day and by night. Monstrous creatures attack them: one gouges out their eyes, another tears off their heads, others devour their flesh and crush their bones. Then their own possessions rise against them. Their grinding stones complain of being ground every day; their dogs, of being beaten and never fed; their pots and griddles and hearthstones burn their faces.\n\nThe wooden people run, trying to climb onto houses, into trees, into caves, and are thrown down. Their descendants, the Popol Vuh says, are the monkeys of the forest, which is why monkeys look like people.",
+          "names": [
+            "Heart of Sky",
+            "Huracan"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ]
+        },
+        {
+          "culture": "andean",
+          "people": "Quechua (Huarochirí)",
+          "title": "The Llama's Warning",
+          "teaser": "A llama foretells the flood, and a fox's tail is dipped black.",
+          "text": "The Huarochirí Manuscript, compiled around 1608, preserves a short, vivid flood story from the mountains east of Lima. In ancient times a man was leading his llama to good pasture, but the animal would not eat and lay grieving. The owner, annoyed, threw at it the cob of the maize he was eating. Then the llama spoke: in five days the ocean will overflow, and the whole world will come to an end.\n\nFrightened, the man gathered food and climbed with his llama and his family to the peak of Villca Coto. There they found every kind of animal already crowded together. The sea rose and covered everything except the very summit, and the water came so close that the fox's tail was soaked, which is why foxes' tails are black at the tip.\n\nAfter five days the waters went down, and from that one man, the manuscript says, all the people of the world descended once again.",
+          "names": [
+            "Villca Coto"
+          ],
+          "sources": [
+            "Huarochirí Manuscript, chapter 3"
+          ],
+          "caveat": "Recorded in a colonial, missionary setting, though the local details, Villca Coto and the fox's tail, are clearly Andean."
+        }
+      ]
+    },
+    {
+      "id": "gods-destroy-humanity",
+      "summary": "Floods are only one of the gods' weapons. Myths from the Near East to Mexico describe deities who decide, in anger, weariness or pity for the overburdened Earth, to thin or erase humankind with plague, famine, fire, war or a rampaging goddess, and then relent or are tricked into relenting. Recurring motives are noise, overpopulation and ingratitude. The Mesopotamian, Greek and Indian cases may be connected through old routes of exchange or shared inheritance; the Egyptian and Mexican ones grow from their own theologies of cosmic order, in which the world is repeatedly threatened and renewed.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "Atrahasis and the Plagues",
+          "teaser": "Humanity's noise keeps Enlil awake, so he tries plague, drought and famine.",
+          "text": "In the Old Babylonian poem Atrahasis, humans were created to take over the lesser gods' labour. But after twelve hundred years the land has grown wide and the people numerous, and the land bellows like a bull. Their noise keeps Enlil from sleep. He decides to thin them with disease, and plague is let loose.\n\nThe wise Atrahasis appeals to his god Enki, who gives cunning advice: let the people stop worshipping their own gods and bring offerings only to Namtar, the plague god. Namtar withdraws his hand. Six hundred years later the noise returns; Enlil orders drought, and the storm god Adad withholds the rain. Again Enki advises offerings to Adad alone, and the rain returns. A third attempt, a famine enforced across sky, earth and sea, lasts until people serve up their own children as food.\n\nOnly when all this fails does Enlil choose the flood. Afterwards the gods add barrenness and a demon who snatches babies, as permanent limits on human numbers.",
+          "names": [
+            "Atrahasis",
+            "Enlil",
+            "Enki",
+            "Namtar",
+            "Adad"
+          ],
+          "sources": [
+            "Atrahasis, Tablets I–III"
+          ],
+          "image": {
+            "file": "File:Babylon Story of the Flood, Tablet containing the Epic of Atrahasis, 1635 BCE, probably from Sipar. Currently at the British Museum.jpg",
+            "caption": "Old Babylonian tablet of Atrahasis, c. 1635 BCE, probably from Sippar (British Museum)"
+          }
+        },
+        {
+          "culture": "anatolian",
+          "people": "Hittite",
+          "title": "Telipinu Vanishes",
+          "teaser": "An angry god walks out, and the whole world begins to starve.",
+          "text": "The Hittite myth of Telipinu begins with a god leaving in a rage. Telipinu, god of farming and fertility, storms off, putting his right shoe on his left foot and his left shoe on his right. He takes the growth of the fields with him, goes off into a meadow, and falls asleep.\n\nAt once mist seizes the windows and smoke the house; the logs on the hearth are stifled, and so are the sheep in the fold and the cattle in the pen. The ewe rejects her lamb and the cow her calf. Barley and wheat no longer grow, the mountains and trees dry out, the springs fail. Gods and humans alike begin to starve.\n\nThe gods search for him. The eagle cannot find him; the Storm god himself cannot. At last the mother goddess Hannahanna sends a bee, which stings him awake and makes him angrier still. Only the rituals of the goddess Kamrusepa calm him, and his rage is sealed away in bronze vessels in the underworld.",
+          "names": [
+            "Telipinu",
+            "Hannahanna",
+            "Kamrusepa",
+            "the Storm god"
+          ],
+          "sources": [
+            "Myth of Telipinu (CTH 324)"
+          ],
+          "caveat": "Telipinu does not set out to destroy humanity; this is a 'vanishing god' myth, but its effect is the same brush with annihilation."
+        },
+        {
+          "culture": "egyptian",
+          "title": "The Eye of Ra",
+          "teaser": "The sun god sends his Eye to slaughter rebels, then saves us with beer.",
+          "text": "When the sun god Ra has grown old, his bones silver, his flesh gold, his hair lapis lazuli, humans plot against him. The Book of the Heavenly Cow, inscribed on a gilded shrine of Tutankhamun and in several royal tombs, tells what follows. Ra summons the gods in secret council, and they advise him to send his Eye against the rebels in the form of the goddess Hathor.\n\nShe slaughters them in the desert and returns exulting that she has overpowered humankind, and that it was sweet to her heart; so Sekhmet, \"the Powerful One\", comes into being. Ra, now wishing to spare the rest, has red ochre brought from Elephantine, ground and mixed into seven thousand jars of beer, which are poured over the fields by night until they stand three palms deep.\n\nIn the morning the goddess sees the red flood, takes it for blood, drinks, and goes home drunk, no longer noticing humankind. Ra, weary, withdraws into the sky on the back of the cow Nut.",
+          "names": [
+            "Ra",
+            "Hathor",
+            "Sekhmet",
+            "Nut",
+            "Nun"
+          ],
+          "sources": [
+            "Book of the Heavenly Cow"
+          ],
+          "image": {
+            "file": "File:Book of the Heavenly Cow KV62.jpg",
+            "caption": "The Heavenly Cow held up by Shu, from the gilded shrine of Tutankhamun, 14th century BCE"
+          }
+        },
+        {
+          "culture": "levantine",
+          "title": "Sodom and Gomorrah",
+          "teaser": "Abraham bargains with God, but not even ten righteous men are found.",
+          "text": "The outcry against Sodom and Gomorrah, Genesis says, is great, and their sin very grave. After three visitors come to Abraham's tent, the LORD reveals that he will go down to see whether the cities have done all that the outcry claims. Abraham does something remarkable: he bargains. \"Will you indeed sweep away the righteous with the wicked? Shall not the Judge of all the earth do what is just?\" Fifty righteous would save the city; then forty-five, forty, thirty, twenty, and finally ten. God agrees each time.\n\nTen are not found. Two angels arrive in Sodom, where the townsmen surround Lot's house demanding the strangers; the angels strike them blind and lead Lot's family out at dawn. The LORD rains sulphur and fire from heaven on the cities and on the whole plain. Lot's wife looks back and becomes a pillar of salt.\n\nNext morning Abraham looks down toward the plain and sees smoke rising from the land like the smoke of a furnace.",
+          "names": [
+            "Abraham",
+            "Lot",
+            "Sodom",
+            "Gomorrah"
+          ],
+          "sources": [
+            "Genesis 18–19"
+          ],
+          "image": {
+            "file": "File:John Martin - Sodom and Gomorrah.jpg",
+            "caption": "John Martin, The Destruction of Sodom and Gomorrah, 1852"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "The Plan of Zeus",
+          "teaser": "The Trojan War was arranged to lighten the Earth of humankind.",
+          "text": "A fragment of the lost epic Cypria, quoted by an ancient commentator on the opening lines of the Iliad, explains why the Trojan War happened. There was a time when the countless tribes of men, roaming the land, were weighing down the broad breast of the Earth. Zeus saw it, took pity on her, and resolved in his wise heart to relieve her of mankind by fanning the great strife of the war at Ilion, so that the load might be emptied by death.\n\nThe same commentator adds that Zeus first thought of destroying humans with thunderbolts and floods, but Momus, the god of blame, advised a subtler plan: marry the goddess Thetis to a mortal, and father a beautiful daughter. From those came Achilles and Helen, and from them the war.\n\nRead in this light, the Iliad's early phrase \"and the plan of Zeus was being fulfilled\" turns sinister. The war the heroes die for was a population cull decided in heaven.",
+          "names": [
+            "Zeus",
+            "Gaia",
+            "Momus",
+            "Thetis",
+            "Helen"
+          ],
+          "sources": [
+            "Cypria, fragment 1 (scholion on Iliad 1.5)",
+            "Homer, Iliad 1.5"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Epic and Purāṇic",
+          "title": "The Burden of the Earth",
+          "teaser": "Gods take human birth so a great war can relieve the overburdened Earth.",
+          "text": "The Mahābhārata frames its great war in much the same way. In the first book, demons defeated by the gods are reborn on earth as proud and violent kings, multiplying until the Earth cannot bear their weight. Burdened, the goddess Earth goes to Brahmā for help.\n\nBrahmā does not destroy the world directly. He orders the gods to take birth on earth in portions of themselves, so that the oppressive kings can be killed in battle. So the heroes of the epic are divine: Yudhiṣṭhira is born of Dharma, Bhīma of the Wind, Arjuna of Indra, while Kṛṣṇa is Viṣṇu himself. The eighteen-day war at Kurukṣetra, in which almost the entire warrior class dies, is the Earth's relief.\n\nThe Bhāgavata Purāṇa repeats the scheme, with Earth appearing before Brahmā as a weeping cow. Scholars have long noted how closely this resembles the Greek Cypria.",
+          "names": [
+            "Bhūdevī (Earth)",
+            "Brahmā",
+            "Viṣṇu",
+            "Kṛṣṇa",
+            "Arjuna"
+          ],
+          "sources": [
+            "Mahābhārata, Ādi Parva (the partial incarnations)",
+            "Bhāgavata Purāṇa 10.1"
+          ],
+          "caveat": "Whether the Greek and Indian 'burden of the Earth' stories are inherited, borrowed or coincidental is unresolved."
+        },
+        {
+          "culture": "aztec",
+          "people": "Nahua",
+          "title": "The Four Suns",
+          "teaser": "Four worlds before ours ended in jaguars, wind, fire and water.",
+          "text": "For the Mexica, the present world is the fifth. Each of the four before it had its own sun, and each ended with the destruction of its people. The Legend of the Suns, written down in 1558, and the Historia de los mexicanos por sus pinturas give different orders, but the fates are memorable.\n\nIn the Legend's order, the people of the sun 4 Jaguar are devoured by jaguars. Those of 4 Wind are swept away by a hurricane and become monkeys. Under 4 Rain, fire rains from the sky and the people become turkeys. Under 4 Water they drown and become fish. Our own sun, 4 Movement, is fated to end in earthquakes and famine.\n\nIn the Historia, the endings are driven by the rivalry of Tezcatlipoca and Quetzalcoatl, who knock each other's suns from the sky. The fifth sun rose only after gods threw themselves into the fire at Teotihuacan, and it must be fed with blood to keep it moving, lest this world end too.",
+          "names": [
+            "Tezcatlipoca",
+            "Quetzalcoatl",
+            "Nahui Ollin",
+            "Teotihuacan"
+          ],
+          "sources": [
+            "Legend of the Suns (1558)",
+            "Historia de los mexicanos por sus pinturas",
+            "Sahagún, Florentine Codex, Book 7"
+          ],
+          "image": {
+            "file": "File:Monolito de la Piedra del Sol.jpg",
+            "caption": "The Aztec Sun Stone, whose central panels name the four earlier suns (Museo Nacional de Antropología, Mexico City)"
+          }
+        }
+      ]
+    }
+  ]
+}

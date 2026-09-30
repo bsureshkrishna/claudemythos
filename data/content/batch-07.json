@@ -1,0 +1,1485 @@
+{
+  "concepts": [
+    {
+      "id": "miraculous-birth",
+      "summary": "A child is conceived without the ordinary act: through a shower of gold, a swallowed creature, a god's footprint, a berry, a dead man's spittle. The motif clusters around founders, heroes and saviours whose authority must come from outside the human line, and it marks the child as belonging to two worlds at once. It turns up on every inhabited continent, which argues for independent invention rather than a single origin: any society that wants its king or god to be more than a man's son reaches for the same device. Where contact is documented, as with Finland's Marjatta, borrowing from Christian legend is plain.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "Isis and the Dead Osiris",
+          "teaser": "A widow conceives a king's heir from her murdered husband's body.",
+          "text": "Seth has murdered his brother Osiris. Isis, the greatest of magicians, searches the land, finds the body and restores it long enough to conceive. The Great Hymn to Osiris on the stela of Amenmose describes her making shade with her feathers and breath with her wings, rousing the inert god, receiving his seed and bearing his heir. Temple reliefs show her as a kite hovering over the bier.\n\nShe hides the child, Horus, in the papyrus marshes of Chemmis, nursing him in secret until he is strong enough to claim his father's throne from Seth. The strangeness is the point. A dead king cannot beget, yet the living king must be the son of Osiris. Every pharaoh was Horus on earth, and so every pharaoh owed his office to this one impossible conception.",
+          "names": [
+            "Isis",
+            "Osiris",
+            "Horus",
+            "Seth"
+          ],
+          "sources": [
+            "Pyramid Texts",
+            "Great Hymn to Osiris (stela of Amenmose, Louvre C 286)",
+            "Plutarch, De Iside et Osiride"
+          ],
+          "image": {
+            "file": "File:Isis nursing Horus MET 17.190.1641 front.jpg",
+            "caption": "Egyptian statuette of Isis nursing the infant Horus (Metropolitan Museum of Art)"
+          }
+        },
+        {
+          "culture": "levantine",
+          "title": "Sarah Laughs",
+          "teaser": "Three strangers promise a son to a woman of ninety.",
+          "text": "Abraham is sitting at his tent door by the oaks of Mamre in the heat of the day when three men appear. He hurries to feed them: cakes of fine flour, a tender calf, curds and milk. One of them says that when he returns next year, Sarah will have a son.\n\nSarah is listening behind the tent flap. She is ninety, Abraham a hundred, and it has long since ceased to be with her after the manner of women. She laughs to herself. The visitor, now speaking as the LORD, asks why she laughed: is anything too hard for the LORD? Frightened, she denies it. 'No,' comes the answer, 'but you did laugh.'\n\nThe child is born at the appointed time and named Isaac, from the Hebrew for 'he laughs'. Sarah gets the last word: God has made laughter for me, she says, and everyone who hears will laugh with me.",
+          "names": [
+            "Abraham",
+            "Sarah",
+            "Isaac"
+          ],
+          "sources": [
+            "Genesis 17:15–19",
+            "Genesis 18:1–15",
+            "Genesis 21:1–7"
+          ],
+          "caveat": "This is a divinely promised conception in old age, not a conception without a father; it stands at the gentler end of the motif.",
+          "image": {
+            "file": "File:Frans Francken II (1581-1642) (studio of) - Abraham and Sarah Visited by Three Angels - 1401272 - National Trust.jpg",
+            "caption": "Abraham and Sarah visited by the three angels, studio of Frans Francken II, early 17th century"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "Jiang Yuan's Footprint",
+          "teaser": "A woman steps in a god's toeprint and bears the ancestor of kings.",
+          "text": "The Zhou royal house sang its own origin at the sacrifices. In the hymn 'Sheng min' ('She Bore the People'), Jiang Yuan, childless, makes offerings that she may have a son. She treads in the big-toe print of a god's footprint, is stirred, conceives, and bears Hou Ji, 'Lord Millet'. The birth is easy, the first-born coming forth like a lamb, with no rending and no harm.\n\nPerhaps because it is so uncanny, the baby is cast away three times: in a narrow lane, where oxen and sheep shelter him; in a wooded plain, where woodcutters find him; on cold ice, where a bird covers him with its wings. When the bird leaves, his wailing fills the road. He grows up to plant beans, grain and gourds and to teach the people farming. A dynasty that ruled for eight centuries traced itself back to a footprint.",
+          "names": [
+            "Jiang Yuan",
+            "Hou Ji",
+            "Zhou"
+          ],
+          "sources": [
+            "Shijing, 'Sheng min' (Mao 245)",
+            "Sima Qian, Shiji 4"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "The Shower of Gold",
+          "teaser": "Locked in bronze, Danaë conceives when Zeus pours in as gold.",
+          "text": "An oracle tells Acrisius, king of Argos, that his daughter's son will kill him. He shuts Danaë in a bronze chamber built underground; later painters preferred a tower. Zeus reaches her anyway, as a stream of gold pouring through the roof into her lap, and she conceives Perseus.\n\nWhen Acrisius hears a baby crying inside, he refuses to believe the tale of a god. He locks mother and child in a wooden chest and gives them to the sea. The story is old: Pherecydes told it in the fifth century BC, and a chorus in Sophocles' Antigone recalls Danaë, keeper of the seed of Zeus that came in golden rain. Horace later read the gold as a bribe for the guards, a cynic's footnote to a miracle. Painters from Titian onward sided firmly with the miracle.",
+          "names": [
+            "Danaë",
+            "Zeus",
+            "Acrisius",
+            "Perseus"
+          ],
+          "sources": [
+            "Apollodorus, Bibliotheca 2.4.1",
+            "Sophocles, Antigone 944–950",
+            "Horace, Odes 3.16"
+          ],
+          "image": {
+            "file": "File:Tizian - Danae receiving the Golden Rain - Prado.jpg",
+            "caption": "Danaë receiving the golden rain, Titian, c. 1560–1565 (Museo del Prado)"
+          }
+        },
+        {
+          "culture": "persian",
+          "title": "The Saviour in the Lake",
+          "teaser": "A maiden bathes in a lake and conceives the world's last saviour.",
+          "text": "Zoroastrian tradition keeps its saviours in a lake. The Avesta already knows that the final saviour, the Saoshyant, will rise from the waters of Kąsaoya, born of a maiden called Vīspataurvairī, 'she who overcomes all'. It also tells of 99,999 fravashis, the guardian souls of the righteous, who watch over the seed of Zarathustra.\n\nThe Pahlavi books spell it out. The prophet's seed, kept safe by the yazads, lies in the lake in Sistan. At the close of each of the last three millennia a young maiden bathes there and conceives. So are born Ušēdar, then Ušēdarmāh, and finally Sōšāns, who will raise the dead and make existence new. The child has a father, strictly speaking, but he has been dead for thousands of years. The whole of cosmic history waits, patiently, in the cold water of a lake.",
+          "names": [
+            "Zarathustra",
+            "Saoshyant",
+            "Vīspataurvairī",
+            "Ušēdar",
+            "Ušēdarmāh",
+            "Sōšāns"
+          ],
+          "sources": [
+            "Yasht 13 (Farvardīn Yasht)",
+            "Yasht 19 (Zamyād Yasht)",
+            "Bundahishn"
+          ],
+          "caveat": "The detailed three-saviour scheme comes from ninth-century Pahlavi texts; the Avestan references are brief."
+        },
+        {
+          "culture": "indian",
+          "people": "Buddhist",
+          "title": "Queen Māyā's Dream",
+          "teaser": "A white elephant enters a sleeping queen's side.",
+          "text": "On the night of the midsummer festival in Kapilavastu, Queen Māyā, wife of the Sakya king Śuddhodana, dreams that the four guardian kings carry her couch to the Himalaya and bathe her in Lake Anotatta. They lay her in a golden mansion on a silver hill. A white elephant, holding a white lotus in its trunk, circles her couch three times and enters her right side. She wakes with child.\n\nBrahmins read the dream: she carries a son who will become either a universal monarch or a Buddha. Ten months later, standing and grasping the branch of a sal tree in the Lumbinī grove, she gives birth, and the infant steps out onto the earth. The tradition insists the Bodhisatta had chosen his mother, his clan and his moment from the Tusita heaven beforehand. Nothing about this birth is left to chance, least of all its point of entry.",
+          "names": [
+            "Māyā",
+            "Śuddhodana",
+            "Siddhattha Gotama"
+          ],
+          "sources": [
+            "Nidānakathā (Jātaka commentary)",
+            "Lalitavistara"
+          ],
+          "image": {
+            "file": "File:Dream Queen Maya BM OA 1932.7-9.1.jpg",
+            "caption": "The dream of Queen Māyā, Gandhāran relief (British Museum)"
+          }
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "The Creature in the Cup",
+          "teaser": "A mayfly-sized creature in a drink begins the great Ulster hero.",
+          "text": "In the oldest telling of The Conception of Cú Chulainn, the Ulstermen chase a flock of magical birds to a house near the Boyne, where a boy is born in the night. Deichtine, of King Conchobar's household, fosters the child, but he sickens and dies. Grieving, she asks for a drink, and as she drinks from a copper vessel a tiny creature slips into her mouth with the water.\n\nThat night a man comes to her in sleep. He is Lug son of Ethniu; the boy she mourned was his, and now he is in her womb again. He is to be called Sétanta. The pregnancy brings scandal, for the Ulstermen whisper that Conchobar is responsible, and her marriage to Sualtam complicates matters further. The tale is layered and not quite consistent, but its ambition is clear: the greatest Ulster hero has a god for a father and more than one birth to his name.",
+          "names": [
+            "Deichtine",
+            "Lug",
+            "Conchobar",
+            "Sualtam",
+            "Sétanta",
+            "Cú Chulainn"
+          ],
+          "sources": [
+            "Compert Con Culainn (Lebor na hUidre)"
+          ],
+          "caveat": "The recensions differ, and Deichtine is Conchobar's sister in some and his daughter in others."
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "The Skull's Spittle",
+          "teaser": "A skull in a calabash tree spits into a curious maiden's hand.",
+          "text": "The lords of Xibalba have killed the brothers One Hunahpu and Seven Hunahpu. They set One Hunahpu's head in the fork of a tree by the road, and the tree, barren until then, is suddenly covered in calabashes. No one is to touch it.\n\nBlood Moon, daughter of the lord Blood Gatherer, goes to see it anyway. The skull speaks to her and asks her to hold out her right hand. It spits into her palm, and the spittle vanishes. The skull explains that it has given her a sign: a lord's face is only flesh and bone, but his sons carry on his word.\n\nPregnant, she is condemned by her father. The owl messengers sent to bring back her heart bring back a lump of red tree sap instead. She climbs to the surface of the earth, to her mother-in-law, Xmucane, and there gives birth to the Hero Twins, Hunahpu and Xbalanque.",
+          "names": [
+            "Xquic (Blood Moon)",
+            "One Hunahpu",
+            "Hunahpu",
+            "Xbalanque",
+            "Xmucane"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ]
+        },
+        {
+          "culture": "aztec",
+          "people": "Mexica",
+          "title": "The Ball of Feathers",
+          "teaser": "A ball of feathers falls into a sweeping goddess's waistband.",
+          "text": "On Coatepec, Serpent Mountain, near Tula, the goddess Coatlicue, 'Serpent Skirt', is sweeping as a penance when a ball of fine feathers drifts down to her. She tucks it into her waistband. When she finishes sweeping it is gone, and she is pregnant.\n\nHer daughter Coyolxauhqui and her four hundred sons, the Centzon Huitznahua, are outraged at the dishonour and resolve to kill her. Coatlicue is afraid, but the child in her womb speaks and comforts her. As her children climb the mountain in war array, he is born fully armed: Huitzilopochtli, with shield, darts and the fire serpent Xiuhcoatl. He cuts off Coyolxauhqui's head, and her body breaks apart as it tumbles down the slope. Then he scatters the four hundred. The Mexica built their Great Temple as a Coatepec in stone, with the broken moon goddess carved at its foot.",
+          "names": [
+            "Coatlicue",
+            "Huitzilopochtli",
+            "Coyolxauhqui",
+            "Centzon Huitznahua"
+          ],
+          "sources": [
+            "Florentine Codex, Book 3, ch. 1"
+          ],
+          "image": {
+            "file": "File:2013-12-24 Coatlicue 01 anagoria.JPG",
+            "caption": "Monumental statue of Coatlicue, Mexica, National Museum of Anthropology, Mexico City"
+          }
+        },
+        {
+          "culture": "finnic",
+          "title": "Marjatta and the Lingonberry",
+          "teaser": "A berry calls out to a shepherd girl, and she conceives.",
+          "text": "Marjatta is so fastidiously chaste that she shuns even food from animals that have mated. Herding sheep on the hillside, she hears a lingonberry call to her to come and pick it. She does; the berry slips from her lips into her body, and she becomes pregnant.\n\nHer mother and father turn her away, and so does the household of the churlish Ruotus, which offers her only a stable. There, at the mountain, a horse breathes warm steam over her like a sauna, and she bears a son. Soon an old man is called to baptise the fatherless child, and Väinämöinen judges that he should be killed. The two-week-old boy rebukes him for his own old misdeeds. The child is crowned king of Karelia, and the ancient singer, shamed, sails away in a copper boat, leaving his kantele behind.",
+          "names": [
+            "Marjatta",
+            "Väinämöinen",
+            "Ruotus"
+          ],
+          "sources": [
+            "Kalevala, Runo 50"
+          ],
+          "caveat": "Lönnrot built this runo largely from Karelian songs about the Virgin Mary; it is Christian legend given a Finnish frame.",
+          "image": {
+            "file": "File:Gallen-Kallela Marjatta study.jpg",
+            "caption": "Marjatta and Child, oil sketch by Akseli Gallen-Kallela, 1897"
+          }
+        }
+      ]
+    },
+    {
+      "id": "child-set-adrift",
+      "summary": "An infant who is unwanted or in danger is put into a basket, chest or boat and trusted to the water, and the water delivers him to a new life. Otto Rank's The Myth of the Birth of the Hero (1909) made it a fixed station of the hero's career, running from Sargon of Akkad through Moses to Karna. The resemblance between Sargon's rush basket sealed with bitumen and Moses' papyrus ark daubed with pitch is close enough that many scholars suspect literary influence. Elsewhere the pattern seems to arise independently, wherever rivers and seas are imagined as a threshold between death and a second birth.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Akkadian",
+          "title": "Sargon in the Basket",
+          "teaser": "The future king of Akkad floats down the Euphrates in a rush basket.",
+          "text": "'Sargon, the mighty king, king of Akkad, am I,' the text begins, in the king's own voice. His mother was a high priestess; his father he never knew. She conceived him in secret and bore him in secret, set him in a basket of rushes, sealed its lid with bitumen, and cast him into the river, which did not rise over him.\n\nThe river carries him to Akki, a drawer of water, who lifts him out as he dips his bucket, raises him as his son and makes him his gardener. While Sargon is tending the garden, the goddess Ishtar grants him her love, and he becomes king, ruling the black-headed people and cutting his way through mountains with copper axes. The text closes by challenging every later king to do the same. A foundling with no father turns out to be the best credential an empire-builder could have.",
+          "names": [
+            "Sargon",
+            "Akki",
+            "Ishtar"
+          ],
+          "sources": [
+            "Sargon Birth Legend (Neo-Assyrian tablets)"
+          ],
+          "caveat": "The legend survives in copies from the first millennium BC, some 1,500 years after Sargon himself, and may have served later Assyrian royal propaganda.",
+          "image": {
+            "file": "File:Royal Akkadian Head from Nineveh (inv.nr. IM 11331).jpg",
+            "caption": "Bronze royal head from Nineveh, c. 2250 BC, traditionally identified as Sargon of Akkad (Iraq Museum)"
+          }
+        },
+        {
+          "culture": "levantine",
+          "title": "Moses in the Bulrushes",
+          "teaser": "A Hebrew mother saves her son by obeying Pharaoh's decree, on the water.",
+          "text": "Pharaoh has ordered every Hebrew boy thrown into the Nile. A woman of the house of Levi hides her son for three months; when she can hide him no longer, she takes a basket of papyrus, daubs it with bitumen and pitch, lays him in it, and sets it among the reeds at the river's edge. His sister stands at a distance to see what will happen.\n\nPharaoh's daughter comes down to bathe, sees the basket, opens it, and the baby cries. She pities him: this is one of the Hebrews' children. The sister steps forward and offers to find a Hebrew nurse, and so the child's own mother is paid to nurse him. When he is grown, the princess adopts him and names him Moses, explaining, 'because I drew him out of the water'. The Hebrew word for his basket, tevah, is used elsewhere only for Noah's ark.",
+          "names": [
+            "Moses",
+            "Miriam",
+            "Pharaoh's daughter"
+          ],
+          "sources": [
+            "Exodus 1:22–2:10"
+          ],
+          "image": {
+            "file": "File:Miriam Watching the Finding of Moses in the Bulrushes MET DP805083.jpg",
+            "caption": "Miriam watching the finding of Moses in the bulrushes, drawing by Simeon Solomon, 1859"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Danaë's Chest",
+          "teaser": "A mother sings her baby to sleep in a chest on the open sea.",
+          "text": "Having refused to believe that Zeus fathered his grandson, Acrisius shuts Danaë and the infant Perseus in a wooden chest and casts it into the sea. A fragment of the poet Simonides imagines the scene inside: the wind and the heaving waves, the dark, the bronze-bolted box, and Danaë, weeping, telling her baby to sleep, to let the sea sleep and their measureless trouble sleep too.\n\nThe chest drifts to the island of Seriphos, where the fisherman Dictys draws it ashore and raises the boy. It is Dictys' brother, King Polydectes, who later wants Danaë for himself and sends Perseus off to fetch the Gorgon's head, hoping he will not return. He does return, with the head, and turns the king and his court to stone. The chest that was meant to be a coffin becomes the beginning of a hero's road.",
+          "names": [
+            "Danaë",
+            "Perseus",
+            "Acrisius",
+            "Dictys",
+            "Polydectes"
+          ],
+          "sources": [
+            "Simonides, fragment 543 (PMG)",
+            "Apollodorus, Bibliotheca 2.4.1–3"
+          ],
+          "image": {
+            "file": "File:Danaë en Perseus worden in een boot gezet, RP-P-OB-38.817.jpg",
+            "caption": "Danaë and Perseus set adrift, engraving from a series on the life of Perseus, 1543 (Rijksmuseum)"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Epic (Mahābhārata)",
+          "title": "Karna's Basket",
+          "teaser": "A frightened princess sets the Sun's son adrift with his golden armour.",
+          "text": "The young princess Kuntī has been given a mantra by the sage Durvāsas that will summon any god. Curious, she tries it on the Sun. Sūrya appears and will not leave empty-handed; she conceives, and her virginity is restored. The child is born wearing golden armour and earrings, the Sun's own gifts.\n\nAfraid of disgrace, Kuntī lays him in a basket lined with wax and sets it on the river Aśvā, weeping and blessing him as it goes. The basket floats into the Carmaṇvatī, then the Yamunā, then the Ganges, as far as Campā, where the charioteer Adhiratha and his wife Rādhā find it and raise the boy as their own. They call him Vasuṣeṇa; the world knows him as Karṇa. He becomes the greatest rival of Arjuna, never knowing until the eve of battle that the man he hates is his own younger brother.",
+          "names": [
+            "Karṇa",
+            "Kuntī",
+            "Sūrya",
+            "Adhiratha",
+            "Rādhā"
+          ],
+          "sources": [
+            "Mahābhārata, Āraṇyaka Parva (Kuṇḍalāharaṇa)"
+          ]
+        },
+        {
+          "culture": "japanese",
+          "title": "Hiruko's Reed Boat",
+          "teaser": "A disowned child drifts off in a reed boat and returns as a god.",
+          "text": "Hiruko, the 'leech child', is the first-born of Izanagi and Izanami, and he is born without proper form (the botched birth is told on the page on failed creations). The Kojiki is brief: his parents put him in a boat of reeds, let him float away, and do not count him among their children. The Nihon Shoki adds that he still could not stand at the age of three, and sends him off in the Rock-Camphor Boat of Heaven, abandoning him to the winds.\n\nThe chronicles never say where he landed. Later tradition supplied the shore. From the medieval period Hiruko was identified with Ebisu, the smiling, lame god of fishermen and luck, said to have washed ashore at Nishinomiya, where his great shrine still stands. No foster parent lifts this child from the water; the people of the coast take him in as a god. The son his parents disowned came back as the most cheerful of the Seven Gods of Fortune.",
+          "names": [
+            "Hiruko",
+            "Izanagi",
+            "Izanami",
+            "Ebisu"
+          ],
+          "sources": [
+            "Kojiki, Book 1",
+            "Nihon Shoki, Book 1"
+          ],
+          "caveat": "The identification of Hiruko with Ebisu is medieval, not found in the eighth-century chronicles.",
+          "image": {
+            "file": "File:FMIB 52020 Ebisu, the Fish-god of Japan, bearing a Red Tai.jpeg",
+            "caption": "Ebisu, the fisherman's god later identified with Hiruko, carrying a sea bream, by Kako Morita, 1907"
+          }
+        },
+        {
+          "culture": "persian",
+          "title": "Dārāb and the Washerman",
+          "teaser": "A queen sets her baby on the Euphrates to keep her crown.",
+          "text": "Queen Homāy rules Iran after the death of her father and husband, Bahman, and bears his son. Unwilling to give up the throne, she hides the birth and gives out that the child has died. She has a small chest made of fine wood, lines it with silk, lays him in it with gold and a precious jewel bound to his arm, and has it set on the Euphrates by night.\n\nA washerman at his work sees the chest bobbing in the stream, pulls it out, and carries it home to his wife, who has just lost a baby of her own. They raise the boy and call him Dārāb, a name the poet links to the water where he was found. He grows up restless, unfit for washing clothes, and becomes a soldier. In the end his mother hears of the jewel and the chest, knows her son, and yields him the crown.",
+          "names": [
+            "Homāy",
+            "Dārāb",
+            "Bahman"
+          ],
+          "sources": [
+            "Ferdowsi, Shāhnāmeh (reign of Homāy)"
+          ]
+        },
+        {
+          "culture": "celtic",
+          "people": "Welsh",
+          "title": "Taliesin in the Weir",
+          "teaser": "A witch's unwanted son is fished from a salmon weir.",
+          "text": "Gwion Bach has stolen the three drops of inspiration from Ceridwen's cauldron and fled her through a chase of shape-changes, until, as a grain of wheat, he is swallowed by her in the form of a hen. Nine months later she bears him as a son, but he is too beautiful to kill. She sews him into a leather bag and casts him into the sea.\n\nHe drifts to the weir of Gwyddno Garanhir, where Gwyddno's luckless son Elffin comes fishing for salmon on May Eve and finds only the bag. When he opens it and sees the child's forehead, he cries, 'Behold a radiant brow!' (tal iesin), and the boy takes the name. On the ride home the infant consoles Elffin in verse. Elffin has caught no salmon, but he has caught the greatest poet of Britain.",
+          "names": [
+            "Taliesin",
+            "Gwion Bach",
+            "Ceridwen",
+            "Elffin",
+            "Gwyddno Garanhir"
+          ],
+          "sources": [
+            "Hanes Taliesin (Elis Gruffydd's chronicle, c. 1548)"
+          ],
+          "caveat": "The full story is first recorded in the sixteenth century, though Taliesin as a legendary poet is much older."
+        },
+        {
+          "culture": "chinese",
+          "title": "River Float",
+          "teaser": "A murdered official's son is tied to a plank and sent down the Yangtze.",
+          "text": "The new scholar Chen Guangrui travels to his post with his wife, Yin Wenjiao. A ferryman, Liu Hong, murders him, takes his papers and wife, and assumes his office. The widow bears Chen's son. Fearing Liu will kill the child, she writes a letter in her own blood recording his parentage, bites off the little toe of his left foot as a mark, ties him to a plank and sets him adrift on the Yangtze.\n\nThe plank comes to rest below the Jinshan monastery, where the abbot Faming rescues the baby and names him Jiangliu, 'River Float'. At eighteen he learns the truth, finds his mother, and the murderer is brought to justice. The boy grows up to be Tripitaka, the monk Xuanzang, who will travel to India for the scriptures. Few pilgrims have begun their journey so early, or on such a small raft.",
+          "names": [
+            "Chen Guangrui",
+            "Yin Wenjiao",
+            "Liu Hong",
+            "Jiangliu",
+            "Xuanzang (Tripitaka)"
+          ],
+          "sources": [
+            "Journey to the West (the 'Chen Guangrui' chapter, usually numbered 9)"
+          ],
+          "caveat": "This chapter is missing from the 1592 edition of the novel and was added in seventeenth-century editions."
+        },
+        {
+          "culture": "finnic",
+          "title": "Kullervo in the Barrel",
+          "teaser": "A baby thrown to the waves is found sitting on them, fishing.",
+          "text": "Untamo has massacred his brother Kalervo's clan, sparing only a pregnant woman, who bears Kullervo in captivity. When the baby, still in his cradle, is heard vowing revenge, Untamo resolves to be rid of him. His men put the child in a barrel and push it out into the waves.\n\nAfter two nights they go to look. The boy has not drowned. He is sitting on top of the waves with a copper rod in his hand and a silken line, fishing, and measuring the depth of the sea. Untamo tries fire next, and they find him in the ashes playing with a poker; then hanging from an oak, and they find him carving pictures on the tree. Defeated, Untamo raises him as a slave. It is a grim version of the motif: the water spares the child, but only to deliver the most tragic life in the Kalevala.",
+          "names": [
+            "Kullervo",
+            "Untamo",
+            "Kalervo"
+          ],
+          "sources": [
+            "Kalevala, Runo 31"
+          ],
+          "caveat": "Here the water is a murder attempt and there is no rescuer, a dark inversion of the usual pattern."
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "Māui of the Topknot",
+          "teaser": "A premature baby wrapped in his mother's hair is cast into the sea.",
+          "text": "Taranga gives birth to a child too early and, thinking it will not live, cuts off her topknot, wraps the baby in it and throws him into the foam of the sea. The seaweed tangles around him and shapes him, the jellyfish roll him up, and the winds and waves carry him ashore, where flies and birds gather over him.\n\nHis ancestor Tama-nui-ki-te-rangi sees the swarm, unwraps the bundle, finds a living child, and hangs him in the roof of his house so that he may feel the warmth of the fire. Grown, the boy walks into his mother's house one night during the dancing and takes a place among his brothers. Taranga counts her sons and finds one too many. When he explains, she names him Māui-tikitiki-a-Taranga, Māui of Taranga's topknot. He will go on to fish up land, snare the sun and steal fire.",
+          "names": [
+            "Māui-tikitiki-a-Taranga",
+            "Taranga",
+            "Tama-nui-ki-te-rangi"
+          ],
+          "sources": [
+            "George Grey, Polynesian Mythology (1855)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raised-by-animals",
+      "summary": "The abandoned child does not die, because an animal takes it in: a she-bear, a hind, a great bird, a herd of gazelles. Rome's wolf-suckled twins are the best-known case, but the animal nurse runs through Mesopotamian, Greek, Indian, Iranian and Norse story alike. It does two jobs at once. It shows that the child is favoured by powers beyond the family that rejected it, and it lends the hero something wild that is never quite lost: Atalanta's speed, Enkidu's strength, Zal's feathered guardian. Ancient writers already tried to explain it away, as Herodotus did when he claimed Cyrus' foster mother was merely a woman named 'Bitch'.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "Enkidu Among the Gazelles",
+          "teaser": "A wild man grazes with the herds until a woman tames him.",
+          "text": "The goddess Aruru pinches off clay and casts it into the wilderness, and Enkidu is born there: shaggy-bodied, his hair growing thick as barley, knowing nothing of people or of land. He eats grass with the gazelles and jostles with the wild beasts at the watering place. He fills in the trapper's pits and pulls up his snares, and the beasts slip away free.\n\nThe trapper complains to his father, and on Gilgamesh's advice brings the woman Shamhat to the waterhole. For six days and seven nights Enkidu lies with her. When he rises and goes back to his herd, the gazelles see him and run. He tries to follow, but his knees stand still and his body has gone slack. He has lost his speed, the poem says, but gained reason and wide understanding. Civilisation begins, for him, with the animals turning away.",
+          "names": [
+            "Enkidu",
+            "Aruru",
+            "Shamhat",
+            "Gilgamesh"
+          ],
+          "sources": [
+            "Epic of Gilgamesh, Tablet I"
+          ],
+          "caveat": "Enkidu is created in the wild rather than abandoned there, so he stands at the edge of the motif."
+        },
+        {
+          "culture": "greek",
+          "title": "Atalanta and the She-Bear",
+          "teaser": "A daughter exposed by her father is nursed by a bear.",
+          "text": "Iasus wanted sons. When his wife bore a daughter, he had her left on a mountainside to die. A she-bear came and suckled her again and again, until hunters found the child and brought her up among themselves.\n\nThe girl, Atalanta, grows up a huntress who keeps her virginity and lives armed in the wilderness. Two centaurs who try to rape her die by her arrows. She draws first blood from the Calydonian boar, wrestles Peleus at the funeral games for Pelias, and races her suitors on the condition that the losers die, until Melanion slows her with golden apples from Aphrodite. Apollodorus tells a similar story of Paris, exposed on Mount Ida and suckled by a she-bear for five days. In both cases the bear is an omen. The child who should have died in the wild has instead become part of it.",
+          "names": [
+            "Atalanta",
+            "Iasus",
+            "Melanion",
+            "Paris"
+          ],
+          "sources": [
+            "Apollodorus, Bibliotheca 3.9.2",
+            "Apollodorus, Bibliotheca 3.12.5"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Epic (Mahābhārata)",
+          "title": "Śakuntalā of the Birds",
+          "teaser": "Birds guard a nymph's abandoned daughter in the forest.",
+          "text": "The sage Viśvāmitra's austerities alarm the god Indra, who sends the apsaras Menakā to distract him. She succeeds. When their daughter is born beside the river Mālinī in the Himalayan foothills, Menakā leaves the baby on the bank and returns to heaven.\n\nThe forest is full of lions and tigers, but birds gather around the infant and protect her. The sage Kaṇva, coming to bathe, finds her surrounded by them and takes her to his hermitage. He names her Śakuntalā, because the śakuntas, the birds, had guarded her. She grows up as his daughter, and it is in Kaṇva's hermitage that King Duḥṣanta finds her while hunting, marries her in the simple gandharva manner, and fathers Bharata, the ancestor from whom India takes one of its names. Kālidāsa made the romance famous; the birds belong to the older epic.",
+          "names": [
+            "Śakuntalā",
+            "Viśvāmitra",
+            "Menakā",
+            "Kaṇva",
+            "Duḥṣanta",
+            "Bharata"
+          ],
+          "sources": [
+            "Mahābhārata, Ādi Parva (Śakuntalopākhyāna)",
+            "Kālidāsa, Abhijñānaśākuntalam"
+          ],
+          "image": {
+            "file": "File:Raja Ravi Varma - Mahabharata - Birth of Shakuntala.jpg",
+            "caption": "Menakā presents the infant Śakuntalā to Viśvāmitra, Raja Ravi Varma, c. 1890"
+          }
+        },
+        {
+          "culture": "persian",
+          "title": "Zal and the Simorgh",
+          "teaser": "A white-haired baby, abandoned on a mountain, is raised in a giant bird's nest.",
+          "text": "The hero Sām longs for a son, and when one is born, the baby is perfect except that his hair is white as an old man's. Ashamed and fearing mockery, Sām has him carried to the slopes of Mount Alborz and left there.\n\nThe Simorgh, the vast wise bird who nests on the peak, flies down looking for food for her young. She seizes the crying child but, moved by God to pity, raises him in the nest alongside her own brood. Years later Sām, troubled by dreams, repents and climbs the mountain to find him. The Simorgh lets the boy go, calling him Dastān, and gives him one of her feathers: burn it in time of need, and she will come. She does, twice: to deliver Zal's son Rostam by cutting his mother open, and to show Rostam how to kill Esfandiyār.",
+          "names": [
+            "Zal (Dastān)",
+            "Sām",
+            "Simorgh",
+            "Rostam"
+          ],
+          "sources": [
+            "Ferdowsi, Shāhnāmeh (reign of Manuchehr)"
+          ],
+          "image": {
+            "file": "File:\"Zal in the Simurgh's Nest\", Folio from a Shahnama (Book of Kings) MET DP108551.jpg",
+            "caption": "Zal in the Simorgh's nest, folio from a Shāhnāmeh manuscript, c. 1330 (Metropolitan Museum of Art)"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Sigurd and the Hind",
+          "teaser": "A newborn sent downriver in a glass vessel is suckled by a deer.",
+          "text": "In the Saga of Thidrek of Bern, Queen Sisibe is falsely accused of adultery while her husband King Sigmund is away. The counsellors sent to kill her in the forest quarrel over the deed, and in the struggle she gives birth. She lays her son in a glass vessel and dies; the vessel is kicked into the river and carried away to the sea.\n\nIt washes up on a shore. A hind finds the child, takes him in her mouth to her lair, and suckles him with her own fawns. After twelve months he is as big and strong as a child of four. The smith Mímir finds the boy playing with the deer, takes him home, and names him Sigurd. Raised at the forge, the foundling grows so violent that the smith sends him into the forest, hoping the dragon there will kill him. It does not.",
+          "names": [
+            "Sigurd",
+            "Sisibe",
+            "Sigmund",
+            "Mímir"
+          ],
+          "sources": [
+            "Þiðreks saga af Bern"
+          ],
+          "caveat": "Þiðreks saga is a thirteenth-century Norwegian compilation from German sources; the Eddic poems and Völsunga saga give Sigurd a quite different childhood."
+        }
+      ]
+    },
+    {
+      "id": "dragon-slayer",
+      "summary": "The hero faces a serpent or sea monster that hoards, devours or blocks the way, and kills it by cunning as much as by strength: a pit dug in its path, cakes of pitch, rice balls sweetened with honey, eight vats of strong drink. Unlike the storm god's cosmic battle with the serpent of chaos, treated on its own page, these are human or half-divine champions, and the prize is usually a treasure, a maiden or a people's safety. Calvert Watkins traced a shared Indo-European formula, 'hero slew serpent', behind several of them; the Chinese and Japanese tales show how readily the pattern arises without any such inheritance.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "Marduk and Tiamat",
+          "teaser": "A young god wins kingship by splitting the sea like a fish.",
+          "text": "The older gods are terrified: Tiamat, the primordial salt sea, has raised an army of monsters, horned serpents and dragons with venom for blood, to avenge her murdered consort. Only the young Marduk will face her, and his price is kingship over the gods.\n\nHe arms himself with bow, mace and net, fills his body with flame, and brings the four winds and seven evil winds of his own making. When Tiamat opens her mouth to swallow him, he drives the evil wind into her, so that she cannot close her jaws. His arrow splits her belly and pierces her heart. Then he stands on her corpse, smashes her skull, and cuts her in two like a fish for drying: one half he sets up as the sky, the other he makes the earth. The dragon-slayer is here also the architect of the world.",
+          "names": [
+            "Marduk",
+            "Tiamat",
+            "Kingu"
+          ],
+          "sources": [
+            "Enūma eliš, Tablet IV"
+          ],
+          "caveat": "Marduk is a god, not a human hero, and the text never clearly describes Tiamat's body as a dragon; that image comes largely from her monstrous brood and from modern illustration."
+        },
+        {
+          "culture": "persian",
+          "people": "Avestan",
+          "title": "Kərəsāspa's Cooking Fire",
+          "teaser": "A hero lights his cooking fire on a sleeping dragon's back.",
+          "text": "The Hōm Yasht lists the heroes who were born to those who first pressed the sacred haoma. One of them is Kərəsāspa, the youth with long hair who carried a club. He slew the horned serpent Sruuara, which swallowed horses and men, poisonous and yellow, streaming with yellow venom.\n\nThe best detail is the least heroic. On the monster's back Kərəsāspa cooked his meal in an iron pot at noon. The serpent, scorched by the heat, sprang up from under the pot, spilled the boiling water, and the valiant Kərəsāspa ran aside in fright. The Avesta records the victory and the panic in the same breath. Later tradition kept him as the great serpent-killer of ancient Iran, and the Shāhnāmeh gives the same role to Rostam, who, on the third of his seven labours, kills a dragon in the dark with the help of his horse Rakhsh.",
+          "names": [
+            "Kərəsāspa",
+            "Sruuara",
+            "Rostam",
+            "Rakhsh"
+          ],
+          "sources": [
+            "Yasna 9.11 (Hōm Yasht)",
+            "Yasht 19.40",
+            "Ferdowsi, Shāhnāmeh (Haft Khān of Rostam)"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Perseus and the Sea Monster",
+          "teaser": "Flying home with a Gorgon's head, Perseus finds a princess chained to a rock.",
+          "text": "Queen Cassiepeia of Ethiopia boasts that she is more beautiful than the Nereids. Poseidon sends a flood and a sea monster, and the oracle of Ammon declares that the land will be saved only if her daughter Andromeda is given to it. King Cepheus has her chained to a rock by the shore.\n\nPerseus, flying home on winged sandals with the Gorgon's head in his bag, sees her and falls in love. He agrees with her father that if he saves her, he will marry her. In Ovid's telling he swoops at the beast like an eagle on a snake, driving his curved sword into it again and again from the air, until it spews blood and dies. Then he washes his hands and lays the Gorgon's head face down on a bed of seaweed. The living plants harden at its touch, and that, says Ovid, is how coral was born.",
+          "names": [
+            "Perseus",
+            "Andromeda",
+            "Cassiepeia",
+            "Cepheus"
+          ],
+          "sources": [
+            "Apollodorus, Bibliotheca 2.4.3",
+            "Ovid, Metamorphoses 4.663–752"
+          ],
+          "image": {
+            "file": "File:Titian - Perseus and Andromeda - WGA22891.jpg",
+            "caption": "Perseus and Andromeda, Titian, 1554–1556 (Wallace Collection)"
+          }
+        },
+        {
+          "culture": "levantine",
+          "title": "Daniel Feeds the Dragon",
+          "teaser": "A prophet kills Babylon's sacred serpent with cakes of pitch.",
+          "text": "The Babylonians worship a great dragon, and the king challenges Daniel: this one, at least, is a living god, for it eats and drinks. Daniel asks permission to kill it without sword or club. He boils pitch, fat and hair together, makes cakes of them, and feeds them to the dragon. It bursts open. 'See what you have been worshipping!' says Daniel.\n\nThe Babylonians are furious, and the king is forced to hand Daniel over. He is thrown into a den of seven lions, which have been starved for the occasion. Meanwhile, in Judea, the prophet Habakkuk is carrying stew to reapers in the field when an angel seizes him by the hair of his head and carries him to Babylon, so that Daniel will not go hungry. On the seventh day the king finds Daniel alive and sitting among the lions.",
+          "names": [
+            "Daniel",
+            "Habakkuk"
+          ],
+          "sources": [
+            "Bel and the Dragon (Additions to Daniel), vv. 23–42"
+          ],
+          "caveat": "This story survives in Greek, among the Additions to Daniel, and is not part of the Hebrew Bible."
+        },
+        {
+          "culture": "chinese",
+          "title": "Li Ji Slays the Serpent",
+          "teaser": "A farmer's youngest daughter volunteers as the serpent's meal and kills it.",
+          "text": "In the Yong Ling mountains of Min, in the south-east, lives a great serpent seven or eight zhang long. It demands a young girl every year, and the officials have already sacrificed nine, buying the daughters of slaves and criminals. Li Ji, youngest of the six daughters of a poor man, Li Dan, volunteers: her parents have no son, and her price will help them.\n\nShe asks for a good sword and a dog that hunts snakes. On the day, she leaves at the cave mouth several bushels of rice balls mixed with honey and malt. The serpent emerges, its head as big as a grain bin and its eyes like mirrors two feet across, and stops to eat. The dog bites it; Li Ji hacks it from behind until it dies. In the cave she finds the skulls of the nine girls and says: you were timid, so you were eaten. The King of Yue makes her his queen.",
+          "names": [
+            "Li Ji",
+            "Li Dan"
+          ],
+          "sources": [
+            "Gan Bao, Soushen ji (In Search of the Supernatural), juan 19"
+          ]
+        },
+        {
+          "culture": "japanese",
+          "title": "Susanoo Rescues Kushinada",
+          "teaser": "An exiled god wins a bride by getting a monster drunk on sake.",
+          "text": "Expelled from heaven, Susanoo comes down beside the Hi river in Izumo and sees chopsticks floating downstream. Following them up, he finds the old god Ashinazuchi and his wife Tenazuchi weeping beside their daughter, Kushinadahime. Seven daughters have gone to Yamata no Orochi, the eight-forked serpent of Koshi, and the eighth is next (the serpent as a storm god's foe is treated on the storm-god page). Before anything else Susanoo strikes a bargain: he names himself Amaterasu's brother and asks for the girl's hand, and the parents gladly give it.\n\nThen he lays his trap. He turns Kushinada into a comb and sets it in his hair, keeping her with him through the fight. He has the parents brew eight-times-refined sake, build a fence with eight gates, and set a vat at each. The serpent comes, dips a head into each vat, drinks and falls asleep, and Susanoo hacks it to pieces until the river runs red. In the middle tail his blade chips on a sword, which he offers to Amaterasu: Kusanagi, later one of the imperial regalia. Then he builds his bride a palace at Suga.",
+          "names": [
+            "Susanoo",
+            "Yamata no Orochi",
+            "Kushinadahime",
+            "Ashinazuchi",
+            "Tenazuchi",
+            "Amaterasu"
+          ],
+          "sources": [
+            "Kojiki, Book 1",
+            "Nihon Shoki, Book 1"
+          ],
+          "caveat": "Susanoo is himself often classed as a storm god, but in this episode he acts as a wandering hero rather than fighting a cosmic battle.",
+          "image": {
+            "file": "File:Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png",
+            "caption": "Susanoo slays Yamata no Orochi in Izumo, woodblock print by Tsukioka Yoshitoshi, 1887"
+          }
+        },
+        {
+          "culture": "norse",
+          "people": "Old English (Geatish setting)",
+          "title": "Beowulf's Last Fight",
+          "teaser": "An old king goes out alone against a dragon roused by a stolen cup.",
+          "text": "For three hundred years a dragon has slept on a hoard in a barrow, until a runaway slave creeps in and steals a jewelled cup. The dragon wakes, finds the theft, and at nightfall burns the land of the Geats, Beowulf's own hall among it.\n\nBeowulf, now king for fifty years, has an iron shield made, since wood would burn, and goes with eleven companions to the barrow. His sword Nægling fails against the scales, and his men flee into the woods, all but young Wiglaf, who shames the others and wades through the flames to his lord. The dragon sinks its fangs into Beowulf's neck. Wiglaf strikes it lower down, the fire weakens, and Beowulf, drawing his knife, cuts the worm in two. Then the venom rises in him. He dies looking at the gold, and the Geats bury it with him, as useless to men as it was before.",
+          "names": [
+            "Beowulf",
+            "Wiglaf",
+            "Nægling"
+          ],
+          "sources": [
+            "Beowulf, lines 2200–3182"
+          ],
+          "caveat": "Beowulf is an Old English poem, not a Norse source, though it is set among the Geats and Danes of Scandinavia.",
+          "image": {
+            "file": "File:Beowulf and the dragon.jpg",
+            "caption": "Beowulf fighting the dragon, illustration by J. R. Skelton, 1908"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Sigurd and Fáfnir",
+          "teaser": "A young hero kills the dragon from a pit and tastes its heart.",
+          "text": "Fáfnir has murdered his father for the cursed gold of the dwarf Andvari and lies on it in the shape of a serpent, going down each day to drink. His brother Reginn, a smith, fosters the young Sigurd, forges him the sword Gram, and urges him to kill Fáfnir. Reginn's advice is to dig a pit in the dragon's path and strike from below. In Völsunga saga an old man, who is Odin, tells Sigurd to dig more pits for the blood to run into, or he will drown in it.\n\nThe dragon crawls over the pit and Sigurd drives Gram to the hilt into its heart. Dying, Fáfnir warns him that the gold will be his death. Reginn drinks the blood and asks Sigurd to roast the heart. Testing it, Sigurd burns his finger and puts it to his mouth, and suddenly he understands the birds in the brushwood. They are saying that Reginn means to betray him.",
+          "names": [
+            "Sigurd",
+            "Fáfnir",
+            "Reginn",
+            "Odin",
+            "Gram"
+          ],
+          "sources": [
+            "Fáfnismál",
+            "Völsunga saga 18–19",
+            "Skáldskaparmál"
+          ],
+          "image": {
+            "file": "File:Hylestad I, right - Fafnir and Sigurd.jpg",
+            "caption": "Sigurd stabbing Fáfnir from below, carved portal of Hylestad stave church, Norway, c. 1200"
+          }
+        },
+        {
+          "culture": "slavic",
+          "people": "East Slavic (Russian)",
+          "title": "Dobrynya and the Dragon",
+          "teaser": "A bathing hero fights a dragon with nothing but his hat.",
+          "text": "Dobrynya Nikitich ignores his mother's warning and goes to bathe in the Puchai river. As he swims out, the dragon Zmei Gorynych comes flying over, and Dobrynya has no horse, no armour and no weapon. He grabs his hat of the Greek land from the bank, fills it with sand, and beats the dragon to the ground with it. The dragon begs for mercy and swears never again to raid Holy Russia or carry off Christian people. He lets it go.\n\nThe dragon breaks its word at once, flying over Kiev and seizing Zabava Putyatichna, niece of Prince Vladimir. Sent to rescue her, Dobrynya rides to the dragon's caves and fights for three days, until the dragon's blood covers the ground and his horse cannot stand in it. He calls on Mother Earth to open and drink the blood, and she does. He frees Zabava and a host of captives. The mother's advice, in hindsight, was sound.",
+          "names": [
+            "Dobrynya Nikitich",
+            "Zmei Gorynych",
+            "Zabava Putyatichna",
+            "Prince Vladimir"
+          ],
+          "sources": [
+            "Russian byliny, 'Dobrynya and the Dragon' (recorded in the 19th century, e.g. Rybnikov and Hilferding)"
+          ],
+          "caveat": "The byliny exist in many sung variants, and details such as the three-day fight and the earth drinking the blood differ between singers.",
+          "image": {
+            "file": "File:Змей-Горыныч, или Бой Добрыни Никитича с семиглавым Змеем-Горынычем.jpg",
+            "caption": "Dobrynya Nikitich fighting the seven-headed Zmei Gorynych, Viktor Vasnetsov, 1913–1918"
+          }
+        }
+      ]
+    },
+    {
+      "id": "single-weak-spot",
+      "summary": "The hero or giant cannot be harmed, except in one place, by one thing, or under one improbable set of conditions. Achilles' heel gave the motif its name, but Baldr's mistletoe, Esfandiyār's eyes and Lleu's absurd list of circumstances belong to the same family. The logic is narrative rather than genealogical: total invulnerability ends a story, so every storyteller who invents it must also invent the crack. Often the protector's own care leaves the gap: a mother's grip on a heel, a sprig too young to swear, a secret told to a wife. The parallels are best explained as independent solutions to the same storytelling problem.",
+      "versions": [
+        {
+          "culture": "levantine",
+          "title": "Samson's Hair",
+          "teaser": "Delilah asks four times for the secret of Samson's strength.",
+          "text": "Samson has been a Nazirite since before his birth: no razor may touch his head. The Philistine lords each offer Delilah eleven hundred pieces of silver to learn where his great strength lies. Three times she asks, and three times he lies: bind me with seven fresh bowstrings, with new ropes, weave my seven locks into your loom. Each time she tries it, calls out 'The Philistines are upon you, Samson!', and each time he breaks free.\n\nShe nags him day after day until he is 'vexed to death' and tells her the truth. While he sleeps on her knees, a man shaves off the seven locks. This time, when she calls, he does not know that the LORD has left him. The Philistines gouge out his eyes and set him grinding at the mill in Gaza. But hair grows back. Brought out to entertain them in the temple of Dagon, he pulls down the pillars, and the dead he kills at his death outnumber those he killed in life.",
+          "names": [
+            "Samson",
+            "Delilah",
+            "Dagon"
+          ],
+          "sources": [
+            "Judges 13–16"
+          ],
+          "caveat": "Samson's is conditional strength rather than invulnerability, so this is a near relation of the motif.",
+          "image": {
+            "file": "File:Peter Paul Rubens - Samson and Delilah - Google Art Project.jpg",
+            "caption": "Samson and Delilah, Peter Paul Rubens, c. 1609–1610"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Achilles' Heel",
+          "teaser": "A mother dips her son in the Styx, holding him by one heel.",
+          "text": "Homer's Achilles is no invulnerable man: he is wounded in the arm by Asteropaeus, and Hector foretells his death at the Scaean Gates at the hands of Paris and Apollo. The famous heel comes later.\n\nApollodorus says Thetis tried to make her baby immortal by laying him in the fire at night and anointing him with ambrosia by day, until Peleus caught her at it and cried out, and she fled. The Roman poet Statius, in the first century AD, gives the version everyone remembers: Thetis dipped the infant in the waters of the Styx, holding him by the heel. When Achilles falls at Troy, it is from an arrow in the ankle, shot by Paris and guided by Apollo. The name survives in anatomy textbooks: the tendon that connects the calf to the one part of him the river never touched.",
+          "names": [
+            "Achilles",
+            "Thetis",
+            "Peleus",
+            "Paris",
+            "Apollo"
+          ],
+          "sources": [
+            "Homer, Iliad 21.166–167 and 22.359–360",
+            "Apollodorus, Bibliotheca 3.13.6 and Epitome 5.3",
+            "Statius, Achilleid 1"
+          ],
+          "caveat": "The heel-dipping story is first clearly attested in Statius; the earliest Greek sources do not make Achilles invulnerable.",
+          "image": {
+            "file": "File:Thetis dipping Achilles into the River Styx (49219058951).jpg",
+            "caption": "Thetis dipping Achilles in the Styx, marble by Thomas Banks, 1789"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Epic (Mahābhārata)",
+          "title": "Duryodhana's Thigh",
+          "teaser": "The Pāṇḍava champion breaks a rule and strikes below the waist.",
+          "text": "At the end of the great war, only Duryodhana is left of the hundred Kaurava brothers. He hides in a lake, is taunted out, and agrees to single combat with maces against Bhīma. He is the better fighter, and the duel goes against the Pāṇḍavas. Kṛṣṇa reminds Arjuna of Bhīma's old vow, made in the gambling hall when Duryodhana bared his thigh to the humiliated Draupadī: that he would break that thigh in battle. Arjuna slaps his own thigh as a signal. Bhīma strikes below the navel, forbidden in mace combat, and shatters Duryodhana's thighs.\n\nBalarāma, who taught both men the mace, is furious at the foul. Many later retellings add an explanation: Gāndhārī, who had blindfolded herself for life, unbound her eyes once to gaze on her naked son and make his body adamantine, but he came before her wearing a loincloth, and his thighs alone stayed mortal.",
+          "names": [
+            "Duryodhana",
+            "Bhīma",
+            "Kṛṣṇa",
+            "Arjuna",
+            "Balarāma",
+            "Gāndhārī"
+          ],
+          "sources": [
+            "Mahābhārata, Śalya Parva (Gadāyuddha)",
+            "Mahābhārata, Sabhā Parva"
+          ],
+          "caveat": "The story of Gāndhārī's gaze making Duryodhana invulnerable is not in the Sanskrit critical edition; it belongs to later and regional retellings."
+        },
+        {
+          "culture": "persian",
+          "title": "Esfandiyār's Eyes",
+          "teaser": "A tamarisk arrow finds the one unprotected part of a brazen-bodied prince.",
+          "text": "Prince Esfandiyār is rūyīntan, 'brazen-bodied'; no weapon can pierce him. His father, King Goshtāsp, sends him to bring the old hero Rostam to court in chains, knowing the task is a death sentence for one of them. Rostam will not be bound, and in their first fight Esfandiyār's arrows leave Rostam and his horse Rakhsh near death.\n\nThat night Zal burns the Simorgh's feather. The great bird draws the arrowheads out of Rostam's wounds and heals him with her plumage. Then she carries him to a tamarisk by the sea and tells him to cut a branch, straighten it in fire, and make a double-headed arrow. Aim at his eyes, she says, but know that whoever sheds Esfandiyār's blood will be cursed in this world and the next. Next day Rostam begs Esfandiyār once more to make peace. Refused, he looses the tamarisk arrow into the prince's eyes.",
+          "names": [
+            "Esfandiyār",
+            "Rostam",
+            "Goshtāsp",
+            "Zal",
+            "Simorgh"
+          ],
+          "sources": [
+            "Ferdowsi, Shāhnāmeh (Rostam and Esfandiyār)"
+          ],
+          "caveat": "Ferdowsi does not explain why the eyes are vulnerable; the common story that Esfandiyār shut them when bathed in sacred water comes from later tradition.",
+          "image": {
+            "file": "File:Rustam Shoots Isfandiyar in the Eyes, folio from the Great Ilkhanid Shahnama.jpg",
+            "caption": "Rostam shoots Esfandiyār in the eyes, folio from the Great Ilkhanid Shāhnāmeh, c. 1335"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Baldr and the Mistletoe",
+          "teaser": "Everything in the world swears not to harm Baldr, except one small plant.",
+          "text": "Baldr the good dreams of danger to his life. His mother Frigg therefore takes oaths from fire and water, iron and every metal, stones, earth, trees, sicknesses, beasts, birds, poison and serpents, that they will not harm him. After that the gods make a game of it, throwing and striking at Baldr, who stands unhurt in the middle.\n\nLoki does not like it. Disguised as a woman, he visits Frigg and asks whether everything has sworn. Everything, she says, except a young shoot growing west of Valhalla called mistletoe, which seemed too young to ask. Loki pulls it up, goes to the assembly, and finds blind Höðr standing at the edge because he cannot see to throw. Loki puts the mistletoe in his hand and guides his aim. It flies through Baldr, who falls dead, and Snorri calls it the greatest misfortune ever to befall gods and men.",
+          "names": [
+            "Baldr",
+            "Frigg",
+            "Loki",
+            "Höðr"
+          ],
+          "sources": [
+            "Snorri Sturluson, Gylfaginning 49",
+            "Vǫluspá"
+          ],
+          "image": {
+            "file": "File:Baldr's death by Doepler.jpg",
+            "caption": "Guided by Loki, Höðr throws the mistletoe at Baldr, Carl Emil Doepler, 1882"
+          }
+        },
+        {
+          "culture": "celtic",
+          "people": "Welsh",
+          "title": "The Death of Lleu",
+          "teaser": "A wife coaxes out the one absurd way her husband can be killed.",
+          "text": "Lleu Llaw Gyffes is not easily killed. His wife Blodeuedd, made from flowers by Math and Gwydion, has taken the hunter Gronw Pebr as her lover, and she asks Lleu, as if in wifely worry, how he might die. He explains. It cannot be done in a house or outdoors, on horseback or on foot. The spear must have taken a year to make, working only while people are at Mass on Sundays. He must be on a riverbank, beside a bathtub under a thatched frame, with one foot on the tub's edge and the other on the back of a billy goat.\n\nBlodeuedd builds the bath, gathers the goats, and asks him to show her the posture. He obliges. Gronw, waiting on a hill with the spear, throws. Lleu gives a terrible scream and flies up in the form of an eagle. It takes Gwydion a long search, following a sow, to find him wasting on an oak.",
+          "names": [
+            "Lleu Llaw Gyffes",
+            "Blodeuedd",
+            "Gronw Pebr",
+            "Gwydion",
+            "Math"
+          ],
+          "sources": [
+            "Math fab Mathonwy (Fourth Branch of the Mabinogi)"
+          ]
+        },
+        {
+          "culture": "slavic",
+          "people": "East Slavic (Russian)",
+          "title": "The Point of the Needle",
+          "teaser": "A deathless sorcerer's whole life hangs on the point of one needle.",
+          "text": "Koshchei the Deathless is proof against every blade, because his death is not in his body; how he hides it is told on the page on cheating death. What matters here is how small the flaw is. In the tale of the Frog Tsarevna, his whole life comes down to the point of a single needle, sealed inside an egg, a duck, a hare and a stone chest set in a tall oak far away.\n\nIvan Tsarevich, helped by the animals he once spared, gets the egg at last and takes out the needle. He breaks off its point, and Koshchei, however he struggles, must die. It is the weak spot taken to an extreme: the villain is invulnerable everywhere except for a speck of steel on the far side of the world.",
+          "names": [
+            "Koshchei the Deathless",
+            "Ivan Tsarevich"
+          ],
+          "sources": [
+            "Afanasyev, Russian Folk Tales, 'The Frog Tsarevna' (nos. 267–269)"
+          ],
+          "caveat": "This is an 'external soul' (a life hidden outside the body) rather than a bodily weak spot, a closely related motif.",
+          "image": {
+            "file": "File:Ivan Bilibin Koshchey.jpg",
+            "caption": "Koshchei the Deathless, illustration by Ivan Bilibin, 1901"
+          }
+        }
+      ]
+    },
+    {
+      "id": "father-kills-son",
+      "summary": "A father and son who have never met face each other as warriors. Neither yields his name, and the recognition token, a ring, an armband, a remembered promise, is seen only when it is too late. The Persian, Irish and Germanic versions are so alike that scholars have argued since the nineteenth century over diffusion versus inheritance; Murray Potter's Sohrab and Rustem (1902) collected dozens of examples, and the question is still open. Greek and Indian tradition invert or soften the pattern: the son kills the father, or the dead are revived. Everywhere the tragedy turns on the warrior's code itself, which forbids the one question that would save them.",
+      "versions": [
+        {
+          "culture": "greek",
+          "title": "Telegonus and Odysseus",
+          "teaser": "Circe's son comes looking for his father and kills him on the shore.",
+          "text": "Tiresias told Odysseus in the underworld that his death would come to him from the sea. The lost epic Telegony, known from a summary by Proclus, fulfils the prophecy with bitter precision.\n\nTelegonus, son of Odysseus and Circe, grows up on her island and sails in search of the father he has never seen. Landing on Ithaca, he and his men begin to drive off cattle, not knowing where they are. Odysseus comes down to defend his herds and is killed by his son. Apollodorus adds that the young man's spear was tipped with the spine of a stingray. Too late, Telegonus recognises his father. He carries the body, with Penelope and Telemachus, back to Circe, who makes them immortal. Then the families intermarry, with a symmetry that has puzzled readers since antiquity: Telegonus weds Penelope, and Telemachus weds Circe.",
+          "names": [
+            "Telegonus",
+            "Odysseus",
+            "Circe",
+            "Penelope",
+            "Telemachus"
+          ],
+          "sources": [
+            "Telegony (summary by Proclus)",
+            "Apollodorus, Epitome 7.36–37",
+            "Homer, Odyssey 11.134–137"
+          ],
+          "caveat": "Here the son kills the father, an inversion of the Persian and Irish pattern."
+        },
+        {
+          "culture": "indian",
+          "people": "Epic (Mahābhārata)",
+          "title": "Arjuna and Babhruvāhana",
+          "teaser": "A son kills his father, and a serpent princess revives him.",
+          "text": "The sacrificial horse of Yudhiṣṭhira's aśvamedha wanders into Maṇipūra, guarded by Arjuna. The young king Babhruvāhana, Arjuna's son by the princess Citrāṅgadā, comes out to greet his father humbly with gifts. Arjuna rebukes him: a kṣatriya should meet an armed intruder with battle, not courtesy.\n\nUlūpī, the Nāga princess who is another of Arjuna's wives, rises from the earth and urges the boy to fight. He does, and he fights well. In the end one of his arrows strikes Arjuna in the chest, and the great archer falls dead. Babhruvāhana faints; Citrāṅgadā laments and vows to die. Ulūpī then brings out a jewel of the Nāgas that revives the dead. Arjuna rises as if from sleep. The killing, she explains, has discharged a curse laid on him by the Vasus for his part in the death of Bhīṣma, their brother.",
+          "names": [
+            "Arjuna",
+            "Babhruvāhana",
+            "Citrāṅgadā",
+            "Ulūpī",
+            "Bhīṣma"
+          ],
+          "sources": [
+            "Mahābhārata, Āśvamedhika Parva"
+          ],
+          "caveat": "The son kills the father and the death is undone, a softened form of the motif.",
+          "image": {
+            "file": "File:Babhruvahana approaches Arjuna, page from the Razm-nama.jpg",
+            "caption": "Babhruvāhana approaches Arjuna, page from a Mughal Razmnāma (Persian Mahābhārata), early 17th century"
+          }
+        },
+        {
+          "culture": "norse",
+          "people": "Continental Germanic and Old Norse",
+          "title": "Hildebrand and Hadubrand",
+          "teaser": "Between two armies, an old warrior offers arm-rings to his son and is refused.",
+          "text": "Two men meet between two armies: Hildebrand and his son Hadubrand. The older man asks who the younger's father is. Hadubrand answers that his father was Hildebrand, who fled east with Theodoric long ago from the wrath of Odoacer, leaving a wife and small child, and who is surely dead now.\n\nHildebrand, knowing the truth, unwinds arm-rings of gold that the king of the Huns gave him and offers them. Hadubrand refuses: gifts should be received with the spear, point against point. You are an old Hun, cunning, he says, trying to trick me. Hildebrand cries out: 'Alas, ruling God, woe-fate is happening!' He has wandered sixty summers and winters, and now his own child will hew him with a sword or he will be his son's killer. The spears fly, the shields are hacked, and the fragment breaks off. A later Norse saga has old Hildibrand lament, dying, that his son lies beside him, killed against his will.",
+          "names": [
+            "Hildebrand",
+            "Hadubrand",
+            "Theodoric",
+            "Odoacer"
+          ],
+          "sources": [
+            "Hildebrandslied (Old High German, c. 830)",
+            "Ásmundar saga kappabana"
+          ],
+          "caveat": "The main source is an Old High German fragment, not Norse; the Norse echo in Ásmundar saga kappabana is much later."
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "The Death of Aífe's Only Son",
+          "teaser": "A boy bound never to give his name meets his father on the shore.",
+          "text": "When Cú Chulainn leaves the warrior-woman Aífe after training in Scotland, she is carrying his child. He leaves a gold ring for the boy, to come to Ireland when it fits his thumb, and three commands: turn back for no one, give his name to no one, refuse combat with no one.\n\nSeven years later the boy, Connla, lands in a bronze boat on the strand at Ulster, bringing birds down with his sling and stunning them alive. He will not give his name, and he beats the champions sent against him. Emer, Cú Chulainn's wife, begs her husband not to go: it is his own son. He answers that he would kill him even so, for the honour of Ulster. They fight in the shallows, and when the boy nearly drowns him, Cú Chulainn uses the gáe bolga. 'That is what Scáthach never taught me,' says the dying Connla. His father carries him ashore and presents him to the Ulstermen: here is my son.",
+          "names": [
+            "Cú Chulainn",
+            "Connla",
+            "Aífe",
+            "Emer",
+            "Scáthach"
+          ],
+          "sources": [
+            "Aided Óenfir Aífe (Yellow Book of Lecan)"
+          ]
+        },
+        {
+          "culture": "persian",
+          "title": "Rostam and Sohrab",
+          "teaser": "The greatest hero of Iran kills his son before the armband is seen.",
+          "text": "Hunting near Samangān, Rostam loses his horse Rakhsh and spends a night as guest of the king. The princess Tahmineh comes to his room and asks for a son by him. When he leaves, he gives her an armband: for a daughter, to braid into her hair; for a son, to bind upon his arm.\n\nSohrab grows up huge and bold and, learning who his father is, leads a Turanian army into Iran, meaning to put Rostam on the throne. Rostam comes out against him in disguise, and the one captive who could name him keeps silent. On the second day Sohrab throws Rostam and is about to kill him; Rostam tricks him, claiming custom forbids killing a man at the first fall. On the third day Rostam throws him and drives a dagger into his side. Dying, Sohrab says his father will avenge him. Rostam opens his armour and sees the armband. The king's healing potion comes too late.",
+          "names": [
+            "Rostam",
+            "Sohrab",
+            "Tahmineh",
+            "Rakhsh",
+            "Kay Kāvus"
+          ],
+          "sources": [
+            "Ferdowsi, Shāhnāmeh (Rostam and Sohrab)"
+          ],
+          "image": {
+            "file": "File:RostamMournsSohrab.jpg",
+            "caption": "Rostam mourns Sohrab, illumination from a Shāhnāmeh manuscript, 1655"
+          }
+        },
+        {
+          "culture": "slavic",
+          "people": "East Slavic (Russian)",
+          "title": "Ilya Muromets and Sokolnik",
+          "teaser": "A young champion taunts the old guard at the frontier and is his son.",
+          "text": "At the heroes' outpost on the steppe, a young rider gallops past without greeting, insulting the bogatyrs. The others hang back, so old Ilya Muromets rides out himself. They fight with maces, then spears, then hand to hand. The youth throws Ilya and sits on his chest, knife raised, mocking him. Ilya remembers that he is not fated to die in open battle, and new strength comes to him. He throws the youth off and, before striking, asks his lineage.\n\nThe young man, Sokolnik, is the son of a warrior-woman whom Ilya once met in the open steppe. Ilya embraces him as his son. But Sokolnik rides home, learns the truth of his begetting from his mother in a way that shames him, and returns by night to kill his father as he sleeps. The spear strikes the great cross on Ilya's chest and glances off. Ilya wakes, and this time there is no recognition to save the boy.",
+          "names": [
+            "Ilya Muromets",
+            "Sokolnik"
+          ],
+          "sources": [
+            "Russian byliny, 'Ilya Muromets and Sokolnik' (recorded in the 19th century)"
+          ],
+          "caveat": "The bylina survives in many variants, which differ over the son's name, the mother and the ending."
+        }
+      ]
+    },
+    {
+      "id": "rival-brothers",
+      "summary": "Two brothers, often twins, compete for a father's favour, a throne, a woman or the shape of the world itself, and one kills, maims or banishes the other. The pattern appears in founding myths from Genesis to Iroquoia, and it is seldom mere quarrel: the pair often divide the world between them, herdsman and farmer, sea and mountain, order and disorder. Claude Lévi-Strauss read such twins as a way of thinking about opposites that can live neither together nor apart. The parallels are far too scattered to come from one source; sibling rivalry needs no diffusion to be understood, only a family and something to inherit.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "Seth and Osiris",
+          "teaser": "A jealous brother builds a coffin to measure and holds a party.",
+          "text": "Osiris rules Egypt well, and his brother Seth hates him for it. Egyptian texts allude to the murder guardedly, as a thing not to be spelled out: the Pyramid Texts say only that Seth struck Osiris down on the riverbank at Nedit. Plutarch, writing in Greek, tells the full story.\n\nSeth secretly takes Osiris's measurements and has a beautiful chest made to fit. At a banquet with seventy-two conspirators, he promises it to whoever fits inside. One after another the guests lie down in it, and none fits, until Osiris does. The conspirators slam the lid, nail it shut, seal it with molten lead, and throw it into the Nile, which carries it out to sea. Isis will find the body, and Seth will find it again and cut it into fourteen pieces. The feud does not end with Osiris; it passes to his son Horus, who spends eighty years contending with his uncle for the throne.",
+          "names": [
+            "Osiris",
+            "Seth",
+            "Isis",
+            "Horus"
+          ],
+          "sources": [
+            "Pyramid Texts",
+            "Plutarch, De Iside et Osiride 13–18",
+            "The Contendings of Horus and Seth (Papyrus Chester Beatty I)"
+          ],
+          "caveat": "The chest-and-banquet story is known only from Plutarch, a Greek writer of the second century AD."
+        },
+        {
+          "culture": "levantine",
+          "title": "Cain and Abel",
+          "teaser": "The first brothers make offerings, and one is accepted.",
+          "text": "Adam and Eve's first son, Cain, works the ground; the second, Abel, keeps sheep. Each brings an offering: Cain the fruit of the ground, Abel the firstlings of his flock and their fat. The LORD looks with favour on Abel's offering and not on Cain's, and the text never says why.\n\nCain is angry and his face falls. The LORD warns him that sin is crouching at the door, desiring him, and that he must master it. Instead, Cain speaks to his brother, and when they are in the field he rises up and kills him. 'Where is Abel your brother?' asks the LORD. 'I do not know; am I my brother's keeper?' But Abel's blood cries out from the ground. Cain is cursed to wander, the ground will not yield for him, and he is given a mark so no one will kill him. He settles in the land of Nod, east of Eden, and builds the first city.",
+          "names": [
+            "Cain",
+            "Abel",
+            "Adam",
+            "Eve"
+          ],
+          "sources": [
+            "Genesis 4:1–17"
+          ],
+          "image": {
+            "file": "File:Titian - Cain and Abel - WGA22778.jpg",
+            "caption": "Cain and Abel, Titian, 1542–1544 (Santa Maria della Salute, Venice)"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Eteocles and Polynices",
+          "teaser": "Two cursed brothers kill each other at the seventh gate of Thebes.",
+          "text": "Oedipus, blinded and dishonoured, curses his sons Eteocles and Polynices: they will divide their inheritance with iron. They agree to rule Thebes in alternate years, but when his year ends Eteocles refuses to give up the throne. Polynices goes to Argos, marries the king's daughter, and returns with an army led by seven champions, one for each of the city's seven gates.\n\nIn Aeschylus' Seven Against Thebes a scout names the attacker at each gate and Eteocles names a defender, until only the seventh is left: Polynices. Eteocles, knowing his father's curse, goes to meet him himself. The brothers kill each other, and so, the chorus says, the stranger from the Chalybes, iron, has divided the land fairly: each gets just enough to be buried in. Pausanias records a Theban belief that even the flame of the offerings made to them together splits in two.",
+          "names": [
+            "Eteocles",
+            "Polynices",
+            "Oedipus",
+            "Antigone"
+          ],
+          "sources": [
+            "Aeschylus, Seven Against Thebes",
+            "Sophocles, Antigone",
+            "Pausanias 9.18.3"
+          ],
+          "image": {
+            "file": "File:Cinerary Urn with Recumbent Female on Lid & Relief of Duel Between Eteocles and Polynices, c. 200-150 BC (48465533672).jpg",
+            "caption": "Etruscan cinerary urn with the duel of Eteocles and Polynices, first half of the 2nd century BC"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "Shun and Xiang",
+          "teaser": "A half-brother keeps trying to kill the future sage-king.",
+          "text": "Shun's father, the blind old man Gusou, favours his younger son Xiang, born of a second wife, and together they plot to kill Shun. They send him up to mend the roof of a granary, take away the ladder and set the building alight; he escapes, in Sima Qian's version, by using two bamboo hats to float down like a bird. They send him to dig a well and fill it in on top of him; he has dug a side tunnel and climbs out.\n\nXiang, believing him dead, goes to Shun's house to divide the spoils: the oxen and granaries to his parents, the shield, spear and zither to himself, and Shun's two wives to attend his bed. He finds Shun sitting on the bed, playing the zither. 'I was thinking of you so anxiously,' Xiang says, embarrassed. Shun answers kindly, and later, as emperor, gives his murderous brother a fief. Confucian tradition made this forbearance the model of fraternal virtue.",
+          "names": [
+            "Shun",
+            "Xiang",
+            "Gusou",
+            "Yao"
+          ],
+          "sources": [
+            "Mencius 5A2",
+            "Sima Qian, Shiji 1"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Epic (Rāmāyaṇa)",
+          "title": "Vālin and Sugrīva",
+          "teaser": "Two monkey kings, identical in battle, and an archer who cannot tell them apart.",
+          "text": "Vālin, king of the monkeys of Kiṣkindhā, chases a demon into a cave and tells his younger brother Sugrīva to wait at the mouth. A year passes. Blood and foam pour out of the cave and Sugrīva, believing his brother dead, blocks the entrance with a boulder and takes the throne. Vālin fights his way out, calls it treachery, drives Sugrīva into exile and takes his wife Rumā.\n\nRāma, searching for Sītā, makes an alliance with the exile. Sugrīva challenges Vālin, but in the fight the two brothers look so alike that Rāma dares not shoot, and Sugrīva flees beaten. The second time Sugrīva wears a garland of flowers so that he can be told apart. From behind a tree Rāma shoots Vālin through the chest. Dying, Vālin reproaches him for striking from hiding a man who was fighting another, and the question of whether Rāma acted rightly has troubled commentators ever since.",
+          "names": [
+            "Vālin",
+            "Sugrīva",
+            "Rāma",
+            "Rumā",
+            "Tārā"
+          ],
+          "sources": [
+            "Vālmīki, Rāmāyaṇa, Kiṣkindhā Kāṇḍa"
+          ],
+          "image": {
+            "file": "File:Brooklyn Museum - Vali and Sugriva Fighting Folio from the Dispersed 'Shangri Ramayana'.jpg",
+            "caption": "Vālin and Sugrīva fighting, folio from the 'Shangri Rāmāyaṇa', c. 1700–1710 (Brooklyn Museum)"
+          }
+        },
+        {
+          "culture": "japanese",
+          "title": "Sea-Luck and Mountain-Luck",
+          "teaser": "A younger brother loses a borrowed fishhook and returns with the tide jewels.",
+          "text": "Hoderi, the elder brother, is Sea-Luck, a fisherman; Hoori, the younger, is Mountain-Luck, a hunter. Hoori persuades his brother to swap gear for a day, catches nothing, and loses the fishhook in the sea. Hoderi will not accept five hundred hooks forged from Hoori's sword, nor a thousand: he wants his own hook back.\n\nWeeping on the shore, Hoori is sent by the old god Shiotsuchi in a tightly woven boat to the palace of the sea god Watatsumi. He marries the sea god's daughter, Toyotama-hime, and after three years remembers his grief. The sea god summons the fish, and the hook is found in the throat of a sea bream. Hoori returns with the hook, a curse to say as he hands it back, and two jewels, one to raise the tide and one to lower it. When his brother attacks, he floods him, then saves him when he begs. Hoderi submits and becomes his guard, ancestor of the Hayato people.",
+          "names": [
+            "Hoori (Yamasachi)",
+            "Hoderi (Umisachi)",
+            "Shiotsuchi",
+            "Watatsumi",
+            "Toyotama-hime"
+          ],
+          "sources": [
+            "Kojiki, Book 1",
+            "Nihon Shoki, Book 2"
+          ]
+        },
+        {
+          "culture": "persian",
+          "title": "Salm, Tur and Iraj",
+          "teaser": "A king divides the world, and two sons murder the third.",
+          "text": "King Fereydun divides the world between his three sons. Salm, the eldest, receives Rum and the West; Tur receives Turan and China; Iraj, the youngest, receives Iran, the choicest land, together with the throne.\n\nThe elder brothers seethe and send a threatening message to their father. Iraj, gentle and unwilling to fight, goes to them unarmed and offers to give up his crown if only there can be peace between them. Tur, unmoved, strikes him with a golden chair, draws his dagger and kills him. They cut off his head, embalm it in musk, and send it to their father. Fereydun's grief is terrible, and he waits for a grandson through Iraj's line. That grandson, Manuchehr, eventually kills both his great-uncles. The feud between Iran and Turan that runs through the rest of the Shāhnāmeh begins as a quarrel between brothers over an inheritance.",
+          "names": [
+            "Fereydun",
+            "Salm",
+            "Tur",
+            "Iraj",
+            "Manuchehr"
+          ],
+          "sources": [
+            "Ferdowsi, Shāhnāmeh (reign of Fereydun)"
+          ]
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "The Monkey Brothers",
+          "teaser": "The Hero Twins turn their bullying half-brothers into monkeys.",
+          "text": "One Batz and One Chouen, the older half-brothers of the Hero Twins, are flautists, singers, painters and carvers, and they are jealous. They keep the twins out of the house and eat the birds the twins shoot, giving them nothing.\n\nOne day the twins come home empty-handed and explain that the birds are stuck in a tree. The older brothers climb up after them, and the tree grows until they cannot get down. The twins tell them to untie their loincloths and tie them round their hips with the long ends hanging behind, the better to climb. At once the ends become tails and the brothers become monkeys, swinging off through the forest. Their grandmother is allowed four chances to call them home, but each time they come back making faces she cannot help laughing, and after the fourth they do not return. The Popol Vuh says they became the patrons of the artists and flute players.",
+          "names": [
+            "Hun Batz (One Batz)",
+            "Hun Chouen (One Chouen)",
+            "Hunahpu",
+            "Xbalanque",
+            "Xmucane"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ]
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "The Children of Rangi and Papa",
+          "teaser": "Separating the parents begins a war among the gods.",
+          "text": "Rangi the Sky and Papa the Earth lie clasped together, and their children live cramped in the darkness between them. The brothers debate what to do. Tūmatauenga, god of war, would kill the parents; Tāne-mahuta, father of forests, prefers to push them apart, and in the end he does it, planting his head against his mother and pushing the sky away with his feet.\n\nOnly Tāwhirimātea, god of the winds, opposed the separation. He follows his father into the sky and makes war on his brothers: he snaps Tāne's trees, drives Tangaroa's fish into the sea and the reptiles into the forest, and sends the gentle gods of cultivated and wild food to hide in the earth. Only Tū stands firm against him. Afterwards, angry that his brothers left him to fight alone, Tū turns on their children: he snares the birds, nets the fish and digs up the roots, and eats them. That, the story says, is why humans may eat them all.",
+          "names": [
+            "Rangi",
+            "Papa",
+            "Tāne-mahuta",
+            "Tāwhirimātea",
+            "Tūmatauenga",
+            "Tangaroa"
+          ],
+          "sources": [
+            "George Grey, Polynesian Mythology (1855)"
+          ]
+        },
+        {
+          "culture": "north-american",
+          "people": "Haudenosaunee",
+          "title": "The Duel of Sapling and Flint",
+          "teaser": "Twin brothers feud from the womb until one drives the other off.",
+          "text": "The twin sons of Sky Woman's daughter quarrel even in the womb; how they shaped the world between them is told on the page on divine twins. Here the story is the feud. Flint refuses to wait his turn, bursts out through his mother's side and kills her, and the blame falls on his brother. Their grandmother believes the lie, favours Flint, and treats Sapling with contempt.\n\nFrom then on, whatever Sapling makes, Flint spoils: rapids in the rivers, thorns on the bushes, the game animals shut away in a cave. At last the brothers agree to settle who will rule the world. In some tellings they first play lacrosse and the bowl game with peach stones, day after day, without a winner; then they fight in earnest across the land. Sapling wins, in several versions striking with a deer's antler. But Flint cannot be wholly destroyed. He is driven off to the west or under the earth, and winter, rough water and hardship remain.",
+          "names": [
+            "Sapling (Skyholder, Teharonhiawako)",
+            "Flint (Tawiskaron)",
+            "Sky Woman"
+          ],
+          "sources": [
+            "J. N. B. Hewitt, Iroquoian Cosmology (1903, 1928)",
+            "David Cusick, Sketches of Ancient History of the Six Nations (1827)"
+          ],
+          "caveat": "Onondaga, Seneca and Mohawk tellings differ in names and in many details; this is a composite of the widely published versions."
+        }
+      ]
+    },
+    {
+      "id": "impossible-tasks",
+      "summary": "Before a hero may marry, inherit or escape, a hostile father, king or witch sets tasks designed to be impossible: yoke fire-breathing bulls, sort grain from dirt overnight, stay awake for a week, drain a horn whose end is in the sea. The giver means them as a polite death sentence. The hero rarely succeeds alone; the giver's own daughter or servant usually supplies the magic, which is why this motif so often leads straight into a flight. Its spread across Eurasian folktale probably owes something to diffusion, but the plot itself, a test rigged to fail and a helper inside the house, needs no teacher.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "Seven Days Without Sleep",
+          "teaser": "The man seeking immortality cannot manage a week awake.",
+          "text": "Gilgamesh reaches Utnapishtim, the survivor of the flood, and asks how he too might gain eternal life. Utnapishtim offers a test first: stay awake for six days and seven nights. Gilgamesh sits down on his haunches, and sleep comes over him like a fog.\n\nUtnapishtim tells his wife that all men are liars, and that Gilgamesh will deny having slept. So she bakes a loaf each day and sets it by his head, marking the wall for each day. When Utnapishtim at last touches him and he wakes, he insists he only just dozed off. Utnapishtim shows him the loaves: the first dried out, the second like leather, the third soggy, the fourth white with mould, the fifth grey, the sixth still fresh, the seventh on the coals. If he cannot conquer sleep, how could he conquer death? Gilgamesh goes home with a plant of rejuvenation, and loses it to a snake.",
+          "names": [
+            "Gilgamesh",
+            "Utnapishtim"
+          ],
+          "sources": [
+            "Epic of Gilgamesh, Tablet XI"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Jason's Ploughing",
+          "teaser": "A king demands that Jason yoke fire-breathing bulls and sow dragon's teeth.",
+          "text": "King Aeëtes of Colchis has no intention of giving up the Golden Fleece. He sets Jason a task that he himself can perform: yoke two bronze-footed bulls that breathe fire, plough the four-acre field of Ares, sow it with dragon's teeth, and cut down the armed men who spring up from them, all in a single day.\n\nAeëtes' daughter Medea, a priestess of Hecate, has been struck by love for the stranger. She gives Jason a salve made from a flower that sprang from the blood of Prometheus, which makes his body and weapons proof against fire and iron for one day. He yokes the bulls, ploughs the field, and sows the teeth. When the earthborn warriors rise, he follows Medea's advice and hurls a great boulder into their midst. They fall on each other over it, and Jason mows down the rest. Aeëtes, of course, still refuses to pay.",
+          "names": [
+            "Jason",
+            "Aeëtes",
+            "Medea"
+          ],
+          "sources": [
+            "Apollonius of Rhodes, Argonautica 3",
+            "Apollodorus, Bibliotheca 1.9.23"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Epic (Rāmāyaṇa)",
+          "title": "The Bow of Śiva",
+          "teaser": "A bow no king can lift is snapped by a boy.",
+          "text": "King Janaka of Videha owns the bow of Śiva, so heavy that it is kept in an iron chest on eight wheels, hauled in by five thousand men. Whoever can string it will marry his daughter Sītā, who was found in a furrow when he was ploughing. Kings and princes have come from everywhere, and none has so much as lifted it.\n\nThe young prince Rāma arrives with his brother Lakṣmaṇa and the sage Viśvāmitra. At the sage's word, he opens the chest, lifts the bow as if in play, and strings it. Then he draws it, and it breaks in the middle with a crack like a thunderbolt. The crowd falls senseless, the earth shakes, and only the king, the sage and the two princes stay on their feet. Janaka gives Sītā to Rāma. The impossible task turns out to be easy; the hard part of the marriage lies ahead.",
+          "names": [
+            "Rāma",
+            "Sītā",
+            "Janaka",
+            "Lakṣmaṇa",
+            "Viśvāmitra"
+          ],
+          "sources": [
+            "Vālmīki, Rāmāyaṇa, Bāla Kāṇḍa"
+          ],
+          "image": {
+            "file": "File:Relief depicting Rama breaking Shiva's bow in the Hazare Rama Temple in Hampi.jpg",
+            "caption": "Rāma breaking Śiva's bow, relief in the Hazara Rama temple, Hampi, 15th century"
+          }
+        },
+        {
+          "culture": "japanese",
+          "title": "Ōkuninushi in the Underworld",
+          "teaser": "A son-in-law survives the snake room, the wasp room and a burning field.",
+          "text": "Fleeing his murderous brothers, Ōkuninushi goes down to the Nenokuni, the land of Susanoo, and falls at once in love with Susanoo's daughter Suseri-bime. Susanoo is not pleased. He puts the young man to sleep in a room full of snakes; Suseri-bime gives him a scarf to wave three times, and the snakes lie quiet. The next night it is a room of centipedes and wasps, and another scarf. Then Susanoo shoots an arrow into a wide plain, sends him to fetch it, and sets the grass on fire around him. A mouse tells him that inside is hollow, outside narrow; he stamps, falls into a burrow, and the fire passes over him. The mouse brings him the arrow.\n\nFinally Susanoo asks him to pick the lice from his hair, which are centipedes. Suseri-bime gives him berries and red clay to chew and spit out, and Susanoo, satisfied, falls asleep. Ōkuninushi ties his hair to the rafters and runs off with the daughter.",
+          "names": [
+            "Ōkuninushi",
+            "Susanoo",
+            "Suseri-bime"
+          ],
+          "sources": [
+            "Kojiki, Book 1"
+          ]
+        },
+        {
+          "culture": "celtic",
+          "people": "Welsh",
+          "title": "The Giant's Forty Tasks",
+          "teaser": "Olwen's father demands the impossible, item by item.",
+          "text": "Culhwch is fated to marry no one but Olwen, daughter of the giant Ysbaddaden Chief Giant, whose eyelids must be propped up with forks so that he can see. Wherever Olwen walks, four white trefoils spring up behind her. The giant knows that he will die when she marries.\n\nAfter throwing three poisoned spears at his visitors, and having each thrown back into his body, he sets out his conditions: some forty anoethau, things hard to get. Clear and plough a vast thicket in a day; get the cauldron of Diwrnach the Irishman; get the blood of the Very Black Witch; above all, get the comb, razor and shears from between the ears of the great boar Twrch Trwyth, and free Mabon son of Modron, who alone can hunt him. To every demand Culhwch answers, 'It is easy for me to get that, though you may think it is not.' Arthur's men achieve what the tale bothers to tell, and Ysbaddaden is shaved to the bone and beheaded.",
+          "names": [
+            "Culhwch",
+            "Olwen",
+            "Ysbaddaden",
+            "Arthur",
+            "Mabon son of Modron",
+            "Twrch Trwyth"
+          ],
+          "sources": [
+            "Culhwch ac Olwen"
+          ],
+          "image": {
+            "file": "File:The Wooing of Olwen - Illustration 1.png",
+            "caption": "Ysbaddaden Chief Giant, illustration by John D. Batten for Celtic Fairy Tales, 1892"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Thor at Útgarða-Loki's Hall",
+          "teaser": "Thor fails at drinking, lifting and wrestling, and turns out to have done wonders.",
+          "text": "Thor, Loki and Thor's servant Þjálfi reach the hall of the giant king Útgarða-Loki, who scorns them as small and offers contests. Loki loses an eating race to Logi, who devours meat, bones and trough. Þjálfi loses three foot races to Hugi. Thor tries to drain a drinking horn in three draughts and barely lowers it. He tries to lift the king's grey cat and gets one paw off the floor. He wrestles the king's old nurse, Elli, and is forced down on one knee.\n\nNext morning, seeing them off, Útgarða-Loki confesses. He had deceived them by illusion. Logi was wildfire; Hugi was thought, whom nobody can outrun. The end of the horn lay in the sea, and Thor's drinking caused the ebb tide. The cat was the Midgard Serpent, and Elli was old age, who brings everyone down in the end. Thor raises his hammer, and the giant and his hall vanish.",
+          "names": [
+            "Thor",
+            "Loki",
+            "Þjálfi",
+            "Útgarða-Loki",
+            "Logi",
+            "Hugi",
+            "Elli"
+          ],
+          "sources": [
+            "Snorri Sturluson, Gylfaginning 45–47"
+          ],
+          "image": {
+            "file": "File:Thor and Elli by Frølich.jpg",
+            "caption": "Thor wrestles Elli and falls to one knee, Lorenz Frølich, 1872"
+          }
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "The Houses of Xibalba",
+          "teaser": "The twins must return a torch and cigars lit but unburnt.",
+          "text": "Summoned to the underworld to play ball with its lords, the Hero Twins are set a series of trials in the houses of Xibalba, the same trials that killed their father and uncle. The first is the Dark House. They are each given a burning torch and a lit cigar and told to return them whole at dawn, still lit but unconsumed.\n\nTheir fathers failed this test. The twins do not. They put the red tail feathers of a macaw on the torch in place of the flame and fireflies on the tips of the cigars, and in the morning they hand everything back intact. Then come the Razor House, whose knives they talk into stillness, the Cold House, the Jaguar House, where they throw bones to the jaguars, and the Fire House. In the Bat House a death bat takes off Hunahpu's head. The lords of Xibalba rarely lose, and they do not play fair.",
+          "names": [
+            "Hunahpu",
+            "Xbalanque",
+            "One Death",
+            "Seven Death"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ]
+        },
+        {
+          "culture": "finnic",
+          "title": "Louhi's Tasks for Ilmarinen",
+          "teaser": "To win his bride, a smith must plough a field of vipers.",
+          "text": "The smith Ilmarinen has forged the Sampo for Louhi, mistress of Pohjola, but she still will not give him her daughter without more. Ilmarinen must plough the field of vipers; then bring the bear of Tuoni and bridle the wolf of Manala; and finally catch the great pike of Tuonela's river, without a net.\n\nThe Maid of the North, who wants the marriage, whispers the method each time. He forges a golden plough and an iron shirt, and ploughs the snake-field. He forges iron fetters and a steel bit for the bear and the wolf. For the pike he forges an eagle of fire, which after a great struggle carries the fish out of the black river, though it eats most of it on the way. Ilmarinen brings the head to Louhi. The earlier suitor, Lemminkäinen, was less lucky: set the same kind of tasks, he was killed on the river of Tuonela and had to be raked out of it in pieces by his mother.",
+          "names": [
+            "Ilmarinen",
+            "Louhi",
+            "Maid of the North",
+            "Lemminkäinen"
+          ],
+          "sources": [
+            "Kalevala, Runo 19",
+            "Kalevala, Runos 13–15"
+          ],
+          "caveat": "The Kalevala is Elias Lönnrot's nineteenth-century arrangement of many traditional songs.",
+          "image": {
+            "file": "File:Joseph Alanen - The Eagle and the Pike.png",
+            "caption": "The eagle and the pike of Tuonela, Joseph Alanen, 1919–1920"
+          }
+        },
+        {
+          "culture": "slavic",
+          "people": "East Slavic (Russian)",
+          "title": "Vasilisa at Baba Yaga's",
+          "teaser": "A girl with a magic doll serves a witch with a fence of skulls.",
+          "text": "Sent by her stepmother to fetch fire from Baba Yaga, Vasilisa reaches a hut on chicken legs, surrounded by a fence of human bones topped with skulls whose eyes glow in the dark. Baba Yaga agrees to give fire, but only if Vasilisa works for it, and warns that she will be eaten if she fails.\n\nThe tasks are more than one girl could do: sweep the yard, clean the hut, cook the dinner, wash the linen, and separate the spoiled grains from a bin of wheat, and the next day the poppy seeds from the soil. Each time Vasilisa feeds her dead mother's little doll, and the doll does the work while she sleeps. Baba Yaga, asking how it is done, is told: by my mother's blessing. She wants nothing blessed in her house and sends the girl away with a skull full of fire. When Vasilisa gets home, its burning eyes follow the stepmother and her daughters until they are ashes.",
+          "names": [
+            "Vasilisa",
+            "Baba Yaga"
+          ],
+          "sources": [
+            "Afanasyev, Russian Folk Tales, 'Vasilisa the Beautiful' (no. 104)"
+          ],
+          "image": {
+            "file": "File:Ivan Bilibin - baba-yaga-illustration-for-the-fairy-tale-vasilisa-the-beautiful-19002.jpg",
+            "caption": "Baba Yaga, illustration by Ivan Bilibin for Vasilisa the Beautiful, 1900"
+          }
+        }
+      ]
+    },
+    {
+      "id": "magic-flight",
+      "summary": "Pursued by a monster, witch or angry father, the fugitive throws objects over the shoulder, and each becomes an obstacle: a comb turns into a forest, a towel into a river, a twig into a thicket, a flask of water into a lake. Antti Aarne's study Die magische Flucht (1930) followed the pattern, Thompson's motif D672 ('obstacle flight'), from Japan across Eurasia to Scotland. It is a classic case for diffusion: the set of small household objects is too arbitrary to be reinvented often. It frequently follows a round of impossible tasks, with the ogre's daughter as accomplice, and an older, grimmer variant throws back something the pursuer must stop for.",
+      "versions": [
+        {
+          "culture": "greek",
+          "title": "Medea Scatters Her Brother",
+          "teaser": "Fleeing Colchis, Medea delays her father with her brother's limbs.",
+          "text": "With the Golden Fleece aboard the Argo, Jason and Medea flee Colchis, and King Aeëtes gives chase. Medea has brought her young brother Apsyrtus with her. In Apollodorus' account she kills him, cuts him limb from limb, and throws the pieces into the sea one by one.\n\nAeëtes stops to gather up his son's body parts, and each stop costs him distance. By the time he has recovered them, the Argo is out of reach. He turns back and buries what he has found at a place named Tomi, 'the Cuttings'. Other writers tell it differently: in Apollonius of Rhodes, Apsyrtus is a grown man leading the pursuit fleet, and Jason ambushes and kills him at a temple on an island, with Medea's help. In every version the obstacle that saves the lovers is a horror, and it follows them: Zeus is angered, and the Argonauts must be purified by Circe before they can go home.",
+          "names": [
+            "Medea",
+            "Jason",
+            "Apsyrtus",
+            "Aeëtes",
+            "Circe"
+          ],
+          "sources": [
+            "Apollodorus, Bibliotheca 1.9.24",
+            "Apollonius of Rhodes, Argonautica 4"
+          ],
+          "caveat": "Here the obstacles do not grow magically; this is the older 'something to stop for' variant rather than a full obstacle flight.",
+          "image": {
+            "file": "File:Martin Didier Pape - Plaque with Medea's Murder of Absyrtus - Walters 44281.jpg",
+            "caption": "Medea's murder of Apsyrtus, painted enamel plaque by Martin Didier Pape, c. 1580–1600 (Walters Art Museum)"
+          }
+        },
+        {
+          "culture": "japanese",
+          "title": "Izanagi Flees the Underworld",
+          "teaser": "A comb becomes bamboo shoots, a headdress becomes grapes.",
+          "text": "Izanagi goes down to Yomi to bring back his dead wife, Izanami. She has already eaten the food of that land and asks him to wait while she consults its gods, and not to look at her. He waits, grows impatient, breaks a tooth off the comb in his hair, lights it, and looks. She is rotting, crawling with maggots, with eight thunder gods lodged in her body.\n\nHe runs. The hags of Yomi chase him. He throws down his black vine headdress, and it turns into wild grapes; while they stop to eat, he gains ground. Then he breaks the comb from the right side of his hair and throws it, and it sprouts bamboo shoots; they stop again to eat. The thunder gods follow with an army, and he fights them off with his sword swung behind him. At the pass between the worlds he throws three peaches, which drive them back. Finally he blocks the pass with a boulder, and husband and wife divorce across it.",
+          "names": [
+            "Izanagi",
+            "Izanami",
+            "Yomotsu-shikome"
+          ],
+          "sources": [
+            "Kojiki, Book 1",
+            "Nihon Shoki, Book 1"
+          ]
+        },
+        {
+          "culture": "slavic",
+          "people": "East Slavic (Russian)",
+          "title": "The Towel and the Comb",
+          "teaser": "A girl escaping Baba Yaga throws down a towel that becomes a river.",
+          "text": "A stepmother sends her stepdaughter to her sister, who is Baba Yaga, to borrow a needle and thread. At Baba Yaga's hut she is set to weaving while the witch tells her servant to heat the bath and wash the girl well, for breakfast. The girl gives the servant a kerchief and asks her to go slowly; she gives the cat some ham, and the cat hands her a towel and a comb.\n\nShe runs. The dogs let her pass because she gives them bread, the gate because she oils its hinges, the birch tree because she ties it with a ribbon. Baba Yaga flies after her in her mortar. The girl throws the towel behind her, and it becomes a wide river. Baba Yaga brings her oxen to drink it dry. The girl throws the comb, and it becomes a dense forest that the witch cannot gnaw her way through. The girl gets home, her father learns the truth, and the stepmother gets what she deserves.",
+          "names": [
+            "Baba Yaga"
+          ],
+          "sources": [
+            "Afanasyev, Russian Folk Tales, 'Baba Yaga' (no. 102)"
+          ],
+          "image": {
+            "file": "File:Bilibin. Baba Yaga.jpg",
+            "caption": "Baba Yaga in her mortar, illustration by Ivan Bilibin, 1900"
+          }
+        },
+        {
+          "culture": "celtic",
+          "people": "Scottish Gaelic",
+          "title": "The Battle of the Birds",
+          "teaser": "A giant's daughter flees with a prince, throwing a twig, a stone, water.",
+          "text": "A king's son, in service to a giant, is set tasks he cannot do, and the giant's youngest daughter does them for him by magic. When the giant plans to kill him anyway, she cuts an apple into pieces that answer for them from the bed, and the two escape on the giant's filly.\n\nThe giant comes after them. She tells the prince to put his hand in the filly's ear. He finds a twig of sloe tree, and when he throws it behind them, it becomes twenty miles of blackthorn wood so thick a weasel could hardly get through. The giant goes home for his axe and cuts through it. Next the prince finds a splinter of grey stone in the filly's ear and throws it: twenty miles of rock. The giant fetches a pick and a mattock and breaks through. Last is a bladder of water. It becomes a fresh-water loch, and the giant, wading in after them, drowns.",
+          "names": [
+            "the king's son",
+            "the giant's daughter"
+          ],
+          "sources": [
+            "J. F. Campbell, Popular Tales of the West Highlands (1860), no. 2"
+          ],
+          "image": {
+            "file": "File:The Battle of the Birds - Illustration 1.png",
+            "caption": "Illustration by John D. Batten for The Battle of the Birds in Joseph Jacobs, Celtic Fairy Tales, 1892"
+          }
+        }
+      ]
+    },
+    {
+      "id": "riddle-contest",
+      "summary": "Two minds meet and the loser forfeits a head, a kingdom or a life. A monster sets riddles at the city gate, a disguised god wagers his head with a giant, a young poet challenges an old one for the chair. Wisdom contests are common to oral cultures, and ritual versions, like the brahmodya exchanges of Vedic sacrifice, show how serious they could be. The endings rhyme across traditions, probably because they are the natural ways for such a contest to end: the challenger asks a question that cannot be answered from knowledge alone, a secret known only to himself, or receives an answer the questioner never expected.",
+      "versions": [
+        {
+          "culture": "levantine",
+          "title": "Samson's Riddle",
+          "teaser": "Out of the eater came something to eat.",
+          "text": "On his way to his Philistine bride, Samson kills a young lion with his bare hands. Passing again, he finds a swarm of bees and honey in its carcass, scoops some out, and eats it as he walks. At the wedding feast he poses a riddle to the thirty young men assigned as his companions, betting thirty linen garments and thirty festal robes: 'Out of the eater came something to eat; out of the strong came something sweet.'\n\nFor three days they cannot solve it. They threaten his bride, and she weeps at him until, on the seventh day, he tells her. Before sunset the men answer: 'What is sweeter than honey? What is stronger than a lion?' Samson replies with a second riddle, sharper than the first: 'If you had not ploughed with my heifer, you would not have found out my riddle.' He pays the debt by killing thirty Philistines in Ashkelon and taking their clothes.",
+          "names": [
+            "Samson"
+          ],
+          "sources": [
+            "Judges 14"
+          ]
+        },
+        {
+          "culture": "persian",
+          "title": "Yōišt and the Sorcerer",
+          "teaser": "A young man answers a wizard's riddles and asks one he cannot answer.",
+          "text": "The Avesta mentions it briefly: Yōišta of the Friyāna family sacrifices to the goddess Anāhitā and asks for the strength to overcome the wicked Akhtya and answer his hard riddles. The Pahlavi text named after him tells the story in full.\n\nThe sorcerer Axt arrives at the city of the riddle-solvers with a great army and announces that he will ask his questions of whoever will answer, and kill whoever fails. Many have already died. The young Yōišt comes forward and answers every question the sorcerer can devise. Then it is his turn. He asks Axt three questions, and the sorcerer, for all his learning, cannot answer them. Yōišt kills him. The questioner who has turned wisdom into a weapon is undone by the first person willing to question him back.",
+          "names": [
+            "Yōišt ī Friyān",
+            "Axt (Akhtya)",
+            "Anāhitā"
+          ],
+          "sources": [
+            "Yasht 5 (Ābān Yasht)",
+            "Mādayān ī Yōišt ī Friyān (Pahlavi)"
+          ],
+          "caveat": "The Avestan reference is only a few lines; the narrative is known from a Pahlavi text of the Islamic period."
+        },
+        {
+          "culture": "greek",
+          "title": "The Riddle of the Sphinx",
+          "teaser": "A monster outside Thebes asks what walks on four, then two, then three.",
+          "text": "Hera sends the Sphinx to Thebes: a creature with the face of a woman, the body of a lion and the wings of a bird. She sits on Mount Phicium and puts to passing Thebans a riddle she learned from the Muses: what is it that has one voice and becomes four-footed, two-footed and three-footed? Whoever cannot answer, she seizes and devours. The Thebans have an oracle that they will be rid of her when the riddle is solved, and they meet often to puzzle over it, losing one of their number each time.\n\nOedipus, arriving on the road from Delphi, answers: man, who crawls on four limbs as a baby, walks on two when grown, and leans on a staff in old age. The Sphinx throws herself from the citadel. Oedipus gets the throne of Thebes and the widowed queen. The man who could read every riddle cannot read his own story, which is the riddle Sophocles builds his tragedy on.",
+          "names": [
+            "Sphinx",
+            "Oedipus",
+            "Hera",
+            "Jocasta"
+          ],
+          "sources": [
+            "Apollodorus, Bibliotheca 3.5.8",
+            "Sophocles, Oedipus the King"
+          ],
+          "image": {
+            "file": "File:Jean Auguste Dominique Ingres - Oedipus and the Sphynx - WGA11843.jpg",
+            "caption": "Oedipus and the Sphinx, Jean-Auguste-Dominique Ingres, begun 1808 (Louvre)"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Epic (Mahābhārata)",
+          "title": "The Questions of the Yakṣa",
+          "teaser": "Four brothers lie dead by a lake; the eldest must answer.",
+          "text": "In the forest, the thirsty Pāṇḍava brothers find a clear lake. A voice, speaking from a crane, warns each in turn not to drink until he has answered its questions. Each ignores it, drinks, and falls dead. At last Yudhiṣṭhira comes, sees his four brothers on the bank, and agrees to answer.\n\nThe spirit, a yakṣa, asks question after question. What is heavier than the earth? A mother. What is higher than the sky? A father. What is swifter than the wind? The mind. What is more numerous than grass? Thoughts. What is the greatest wonder? That day after day creatures go to the house of death, and those who remain still wish to live forever. Satisfied, the yakṣa offers to revive one brother. Yudhiṣṭhira chooses Nakula, his half-brother, so that each of his father's two wives may have a surviving son. The yakṣa reveals himself as Dharma, Yudhiṣṭhira's own father, and restores them all.",
+          "names": [
+            "Yudhiṣṭhira",
+            "Dharma",
+            "Nakula",
+            "Bhīma",
+            "Arjuna",
+            "Sahadeva"
+          ],
+          "sources": [
+            "Mahābhārata, Āraṇyaka Parva (Āraṇeya Parva)"
+          ]
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "The Colloquy of the Two Sages",
+          "teaser": "Two poets contest the chief ollam's chair in language no one else understands.",
+          "text": "The chief poet of Ulster dies, and his office is given to Ferchertne. Néde, son of the dead poet, returning from his studies in Scotland, takes his father's chair, thinking no one will dispute it. Ferchertne arrives and asks who this young man is who sits in the seat of wisdom.\n\nThe contest that follows is a dialogue of questions and answers in dense, riddling poetic language. Where have you come from? Néde answers: from the heel of a sage, from a confluence of wisdom, from the perfection of goodness. What is your name? What art do you practise? The answers pile up in kennings, until Néde, recognising the greater master, kneels and yields the chair. The tale adds a sting. King Conchobar and his nobles could not understand a word of the dispute, and decided that the poets should no longer have sole right of judgement.",
+          "names": [
+            "Ferchertne",
+            "Néde",
+            "Conchobar"
+          ],
+          "sources": [
+            "Immacallam in Dá Thuarad (The Colloquy of the Two Sages)"
+          ]
+        },
+        {
+          "culture": "norse",
+          "title": "Odin and Vafþrúðnir",
+          "teaser": "The god wagers his head against a giant's on questions about the world.",
+          "text": "Against Frigg's advice, Odin sets out to test the wisdom of the giant Vafþrúðnir. He arrives at the giant's hall calling himself Gagnráðr, and they agree that the loser forfeits his head. First the giant questions the guest standing on the floor: the names of the horses that draw day and night, the river that divides gods from giants, the field of the last battle. Gagnráðr answers everything and is invited to sit.\n\nThen Odin asks: where earth and sky came from, where the wind comes from, who will survive Ragnarök, how Odin will die. The giant answers them all. Then comes the last question: what did Odin whisper in his son's ear before Baldr was carried to the pyre? No one could know that but Odin himself. Vafþrúðnir recognises his guest, admits that he spoke his own doom with a doomed mouth, and concedes that Odin will always be the wisest.",
+          "names": [
+            "Odin",
+            "Vafþrúðnir",
+            "Frigg",
+            "Baldr"
+          ],
+          "sources": [
+            "Vafþrúðnismál"
+          ],
+          "image": {
+            "file": "File:Odin and Vafþrúðnir by Frølich.jpg",
+            "caption": "Odin and Vafþrúðnir in their contest of wisdom, Lorenz Frølich, 1895"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Gestumblindi's Riddles",
+          "teaser": "A disguised guest outwits a riddling king, and flies away as a falcon.",
+          "text": "King Heiðrekr has sworn that any man who offends him may win his life by posing a riddle the king cannot solve. A man named Gestumblindi is summoned for judgement, and Odin comes to the court in his shape. He poses riddle after riddle, and Heiðrekr answers each: ale, the waves, which are the daughters of Ægir, a mother duck nesting in an ox's skull.\n\nAt last the guest asks the question that won the contest against Vafþrúðnir: what did Odin say in Baldr's ear before he was put on the pyre? Heiðrekr knows at once who his guest is. He draws the sword Tyrfingr and strikes at him, but Odin turns into a falcon and escapes through the roof, and the blade clips his tail feathers. That, the saga says, is why the falcon's tail is short. Odin curses the king to be killed by the worst of slaves, and so he is.",
+          "names": [
+            "Odin (Gestumblindi)",
+            "Heiðrekr",
+            "Tyrfingr"
+          ],
+          "sources": [
+            "Hervarar saga ok Heiðreks"
+          ]
+        },
+        {
+          "culture": "finnic",
+          "title": "Väinämöinen and Joukahainen",
+          "teaser": "A boastful young singer challenges the old sage and sinks into a swamp.",
+          "text": "Young Joukahainen, jealous of Väinämöinen's fame, drives his sleigh straight into the old singer's on the road and refuses to give way. He demands a contest of knowledge. He knows, he says, that the titmouse lives in a tree and the pike spawns in the cold season, that the ploughing was done by gods and the sea dug out by them. Väinämöinen dismisses this as a child's learning, a woman's memory. Joukahainen claims then to have been present at the creation, helping to lay out the world.\n\nThat is a lie too far. Väinämöinen begins to sing, and the ground shakes. He sings Joukahainen's sword into lightning, his bow into a rainbow, his horse into a rock, and Joukahainen himself into a swamp, up to his waist, then his armpits, then his mouth. In desperation the young man offers his sister Aino as a wife. Väinämöinen accepts, sings him free, and starts the Kalevala's first tragedy.",
+          "names": [
+            "Väinämöinen",
+            "Joukahainen",
+            "Aino"
+          ],
+          "sources": [
+            "Kalevala, Runo 3"
+          ],
+          "caveat": "This is a contest of knowledge and magical song rather than riddles in the strict sense."
+        }
+      ]
+    }
+  ]
+}

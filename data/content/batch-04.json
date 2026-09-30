@@ -1,0 +1,1447 @@
+{
+  "concepts": [
+    {
+      "id": "sky-father",
+      "summary": "Many traditions picture the sky as a male elder: a remote, all-seeing father whose rain makes the earth fertile and whose authority stands behind kings and oaths. The clearest case is linguistic. Vedic Dyauṣ Pitā, Greek Zeus Patēr and Latin Iuppiter all descend from a reconstructed Proto-Indo-European *Dyēus ph₂tēr, 'Sky Father'. Outside that family the resemblance is looser and probably independent: the sky is simply the largest, highest, least reachable thing there is. Several peoples even tell how this father withdrew from daily life, and Egypt reverses the genders entirely.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "Nut Arched Over Geb",
+          "teaser": "Egypt flips the pattern: the sky is a mother, the earth a father.",
+          "text": "In Egypt the sky is a woman. Nut stretches over the world on fingertips and toes, her star-spangled belly forming the vault of heaven, while her brother-husband Geb, the earth, lies beneath her, sometimes propped on one elbow. Between them stands their father Shu, the air, holding them apart so that there is room for life to happen.\n\nNut is also a mother in the most literal cosmic sense. Each evening she swallows the sun and each dawn she gives birth to it again; tomb ceilings show the solar disc travelling through her body. The dead hoped to join her as stars. The Pyramid Texts address her as the one who takes the king into her arms.\n\nSo the Egyptian 'sky father' is no father at all, a useful reminder that the Indo-European pattern is one habit of thought, not a law of nature.",
+          "names": [
+            "Nut",
+            "Geb",
+            "Shu"
+          ],
+          "sources": [
+            "Pyramid Texts",
+            "The Book of Nut (cenotaph of Seti I, Abydos)"
+          ],
+          "image": {
+            "file": "File:Egyptian god Geb and goddess Nut, from the Greenfield papyrus.jpg",
+            "caption": "Shu holds the sky goddess Nut above the reclining earth god Geb; Greenfield Papyrus, c. 940 BCE, British Museum"
+          }
+        },
+        {
+          "culture": "mesopotamian",
+          "people": "Sumerian and Babylonian",
+          "title": "An, the Distant Heaven",
+          "teaser": "The oldest god of heaven, so exalted that he hardly ever acts.",
+          "text": "The Sumerian word an means 'sky', and An is the sky as a god: first in the god lists, father of the great gods, the source of kingship, which was said to have 'descended from heaven'. His city was Uruk, whose great temple, the Eanna, 'House of Heaven', bore his name, though it belonged chiefly to Inanna.\n\nYet An is strikingly passive. In the opening lines of the Sumerian poem of Gilgamesh, Enkidu and the Netherworld, heaven and earth are parted, 'An carried off heaven, Enlil carried off earth', and thereafter it is Enlil and Enki who do the work of running the world. In the Babylonian Enūma Eliš, Anu is sent against Tiamat, looks at her, and turns back.\n\nHe is the model of a sky god who has authority rather than energy, respected by everyone and consulted by the younger gods mainly for his signature.",
+          "names": [
+            "An",
+            "Anu",
+            "Enlil",
+            "Ki"
+          ],
+          "sources": [
+            "Gilgamesh, Enkidu and the Netherworld",
+            "Sumerian King List",
+            "Enūma Eliš, Tablet II"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Dyaus and Pṛthivī",
+          "teaser": "Heaven the father and Earth the mother, praised always as a pair.",
+          "text": "In the Rigveda the sky god Dyaus is almost never alone. He appears in the dual compound Dyāvāpṛthivī, 'Heaven-and-Earth', a single divine couple invoked as the wide, unaging parents of gods and men. Whole hymns are addressed to them together, asking the two to be kind, like a father and mother to their children.\n\nThe poet of Rigveda 1.164 says plainly: 'Dyaus is my father, my begetter; the navel is here; my mother is this great Earth.' His name and epithet, Dyauṣ Pitā, match Greek Zeus Patēr and Latin Iuppiter sound for sound, which is why historical linguists treat him as the direct heir of an inherited sky father.\n\nBut in Vedic practice he has faded. Indra, Agni and Soma receive the hymns and the offerings; Dyaus survives as a grand old name, honoured and scarcely used.",
+          "names": [
+            "Dyaus",
+            "Pṛthivī",
+            "Dyāvāpṛthivī"
+          ],
+          "sources": [
+            "Rigveda 1.159",
+            "Rigveda 1.160",
+            "Rigveda 1.164.33",
+            "Rigveda 1.185"
+          ]
+        },
+        {
+          "culture": "chinese",
+          "title": "Tian and the Son of Heaven",
+          "teaser": "Heaven grants the right to rule, and takes it back from tyrants.",
+          "text": "For the Zhou dynasty, who overthrew the Shang around 1046 BCE, the highest power was Tian, 'Heaven'. Tian was less a person with adventures than a watchful moral authority above the world. It conferred the Mandate of Heaven (tianming) on a virtuous ruler and withdrew it from a cruel one. The Zhou used exactly this argument to justify their conquest: the last Shang king had lost Heaven's favour by his vices.\n\nThe ruler therefore bore the title Tianzi, 'Son of Heaven', and only he could make the great sacrifice to Heaven. In the Book of Documents and the Book of Odes Heaven sees and hears through the people, and 'Heaven's mandate is not constant'.\n\nCenturies later the Ming emperors still walked out each winter solstice to the round altar in southern Beijing to report to their father.",
+          "names": [
+            "Tian",
+            "Tianzi",
+            "Shangdi"
+          ],
+          "sources": [
+            "Shangshu (Book of Documents)",
+            "Shijing (Book of Odes)",
+            "Mengzi"
+          ],
+          "caveat": "Tian is often impersonal and moral rather than paternal; 'father' applies mainly through the royal title 'Son of Heaven'."
+        },
+        {
+          "culture": "greek",
+          "title": "Zeus, Father of Gods and Men",
+          "teaser": "The cloud-gatherer who rules Olympus is everyone's father, at least by title.",
+          "text": "Homer calls Zeus again and again 'father of men and gods', patēr andrōn te theōn te, and 'cloud-gatherer'. He sends rain and lightning, sits on the highest peak, weighs the fates of heroes on golden scales, and guards the laws of hospitality and oaths. His name comes from the same root as Vedic Dyaus; Zeus Patēr is Dyauṣ Pitā in Greek dress.\n\nUnlike his Vedic cousin, Zeus did not fade. Hesiod's Theogony makes him the youngest son of Kronos, who defeats his father and the Titans and then rules by dividing honours fairly among the gods. The title 'father' is often political rather than biological: he is father as a king is father of his people.\n\nThough, given his record in the genealogies, the biological sense is also frequently accurate.",
+          "names": [
+            "Zeus",
+            "Kronos",
+            "Hera"
+          ],
+          "sources": [
+            "Homer, Iliad",
+            "Hesiod, Theogony"
+          ],
+          "image": {
+            "file": "File:Zeus Otricoli Pio-Clementino Inv257.jpg",
+            "caption": "The 'Zeus of Otricoli', Roman marble copy of a 4th-century BCE Greek original, Vatican Museums"
+          }
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "Ukko, the Old Man Above",
+          "teaser": "The Finnish 'Old Man' of the sky, called on for rain and thunder.",
+          "text": "Ukko means simply 'old man', and in Finnish and Karelian runo-song he is the god of the upper air: 'Ukko, the highest god, the old man of the heavens', who holds up the sky, drives the clouds and makes thunder. Singers call on him in charms when they need rain for crops or strength against a sickness.\n\nThe earliest written notice is hostile. In 1551 the Lutheran reformer Mikael Agricola listed the gods of the Tavastians in the preface to his Finnish psalter, noting that Ukko brought rain and thunder and that people held drinking feasts, Ukon vakat, in his honour at spring sowing.\n\nIn Lönnrot's Kalevala Ukko is the court of last appeal: when the heroes are stuck, they pray to the old man in the sky, and he usually answers.",
+          "names": [
+            "Ukko"
+          ],
+          "sources": [
+            "Mikael Agricola, preface to the Psalter (1551)",
+            "Kalevala"
+          ],
+          "caveat": "The Kalevala is Lönnrot's 19th-century compilation from folk songs, so its framing is partly his own."
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "Ranginui Pushed Away",
+          "teaser": "Sky and Earth embraced so tightly their children lived in darkness.",
+          "text": "In the beginning Ranginui, the Sky Father, lay pressed upon Papatūānuku, the Earth Mother, and their many sons were cramped in the darkness between them. The brothers debated what to do. Tūmatauenga, the fierce one, wanted to kill their parents; Tāne Mahuta, lord of forests, proposed only to separate them.\n\nOne by one the brothers tried and failed, until Tāne lay on his back, planted his head on his mother and his feet against his father, and slowly pushed Rangi up into the heavens. Light flooded the world. Only Tāwhirimātea, the winds, took his father's side and has made war on his brothers ever since.\n\nRangi still grieves. His tears fall as rain and dew on Papa, and the mist that rises from her valleys is her answering sigh.",
+          "names": [
+            "Ranginui",
+            "Papatūānuku",
+            "Tāne Mahuta",
+            "Tāwhirimātea"
+          ],
+          "sources": [
+            "George Grey, Polynesian Mythology (1855)"
+          ]
+        },
+        {
+          "culture": "west-african",
+          "people": "Akan (Asante)",
+          "title": "Nyame and the Pestle",
+          "teaser": "The sky god once lived close to earth, until a pestle struck him.",
+          "text": "The Akan high god Onyankopɔn Nyame is the sky. Asante tell that long ago he lived just above people's heads, so near that they could touch him. An old woman pounding fufu kept hitting him with the upper end of her long pestle, and at last Nyame, offended, moved far up to where he is now.\n\nThe old woman told her children to pile up every mortar they could find to climb to him. The tower almost reached; they needed one more. 'Take the bottom one and put it on top,' she said. They did, and the whole stack came down.\n\nNyame did not vanish from religion. Asante compounds once kept a forked post, Nyame dua, 'God's tree', holding a pot for offerings to the sky. But he is the classic 'withdrawn god' of African religion: supreme, and at a courteous distance.",
+          "names": [
+            "Nyame",
+            "Onyankopɔn",
+            "Asase Yaa"
+          ],
+          "sources": [
+            "Akan oral tradition",
+            "R. S. Rattray, Ashanti (1923)"
+          ],
+          "image": {
+            "file": "File:Nyame-dua-shrine.jpg",
+            "caption": "An Asante Nyame dua shrine (right), holding rainwater for the sky god, beside a Jamaican Revival shrine"
+          }
+        }
+      ]
+    },
+    {
+      "id": "earth-mother",
+      "summary": "The earth as mother is one of the most natural metaphors in religion: she bears crops, receives the dead, and is often the partner of the sky. Yet her character varies widely. She may be a nurturing 'mother of all', a stern guardian of moral law, or a devouring monster who must be fed. The Indo-European pairing of sky father and earth mother is partly inherited, but most earth mothers arise independently from agricultural life. Scholars now distrust the older idea, popularised by Marija Gimbutas, of a single prehistoric Great Goddess behind them all.",
+      "versions": [
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "The Hymn to the Earth",
+          "teaser": "'Earth is my mother, I am her son': a Vedic poet's vow.",
+          "text": "The twelfth book of the Atharvaveda opens with a long hymn, the Pṛthivī Sūkta, addressed entirely to Bhūmi, the Earth. It praises her mountains, rivers and forests, the fragrance that rises from her, the peoples of many languages and customs she carries 'as a cow gives milk'.\n\nIts most famous line is the twelfth verse: mātā bhūmiḥ putro ahaṃ pṛthivyāḥ, 'Earth is my mother, I am the son of Earth.' The poet asks forgiveness in advance for digging into her: 'What I dig from you, O Earth, may that quickly grow again; may I not strike your vitals or your heart.'\n\nIt is one of the earliest texts anywhere to treat the land with something like ecological courtesy, and modern Indian environmental writing quotes it constantly.",
+          "names": [
+            "Bhūmi",
+            "Pṛthivī",
+            "Dyaus"
+          ],
+          "sources": [
+            "Atharvaveda 12.1 (Pṛthivī Sūkta)"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Gaia, Mother of All",
+          "teaser": "Earth comes first, gives birth to Sky, and plots against him.",
+          "text": "In Hesiod's Theogony, after Chaos comes 'broad-breasted Gaia, the ever-secure seat of all'. Without any partner she gives birth to Ouranos, the starry Sky, 'equal to herself, to cover her on every side', and then bears him the Titans, the Cyclopes and the Hundred-Handers.\n\nGaia is not merely passive soil. When Ouranos pushes his children back into her body, she groans under the weight, forges a great sickle of adamant, and hands it to her youngest son Kronos to cut down his father. Later she advises Zeus how to win his own war, and afterwards bears Typhon to challenge him. Earth, in Greek myth, always takes the long view.\n\nThe Homeric Hymn to Earth greets her more gently, as 'mother of all, oldest of all', who feeds everything that walks, swims or flies.",
+          "names": [
+            "Gaia",
+            "Ouranos",
+            "Kronos"
+          ],
+          "sources": [
+            "Hesiod, Theogony 116–187",
+            "Homeric Hymn 30, To Earth Mother of All"
+          ],
+          "image": {
+            "file": "File:Feuerbach Gaea.jpg",
+            "caption": "Gaea, ceiling painting by Anselm Feuerbach, 1875, Academy of Fine Arts Vienna"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Jörð, Mother of Thor",
+          "teaser": "The Norse earth, of giant stock, is the mother of the thunder god.",
+          "text": "Norse myth personifies the earth as Jörð, whose name is simply the common word for 'earth'. Snorri Sturluson calls her Odin's daughter and also his wife, and makes her the mother of Thor. The poets knew this well: in Lokasenna and elsewhere Thor is addressed as Jarðar burr, 'son of Earth'.\n\nShe is otherwise a quiet figure, with no surviving myth of her own; Snorri counts her among the goddesses while elsewhere implying that she was of giant stock. Her importance is genealogical. The strongest god, defender of Midgard, is the child of the sky's ruler and the ground itself.\n\nThe pairing is instructive. The thunderstorm that splits the heavens is, in this family tree, the earth's own son come home.",
+          "names": [
+            "Jörð",
+            "Fjörgyn",
+            "Odin",
+            "Thor"
+          ],
+          "sources": [
+            "Gylfaginning",
+            "Lokasenna 58",
+            "Skáldskaparmál"
+          ],
+          "caveat": "Jörð has almost no narrative of her own; she is known mainly from genealogies and poetic kennings."
+        },
+        {
+          "culture": "aztec",
+          "people": "Mexica (Aztec)",
+          "title": "The Earth That Weeps at Night",
+          "teaser": "The earth feeds everyone, but at night she cries out to be fed.",
+          "text": "Not every earth mother is gentle. The sixteenth-century Histoyre du Mechique, a French translation of a lost Spanish account of Nahua traditions, calls the earth a goddess, Tlaltecuhtli: a monster with biting mouths at every joint, whom Quetzalcoatl and Tezcatlipoca tore in two to make the world (her dismemberment is told under \"A World Made from a Slain Giant\").\n\nWhat follows makes her a mother. The other gods, pitying her, decreed that everything people need to live would come from her body: trees, flowers and herbs from her hair, grass from her skin, springs and small caves from her eyes, rivers and great caves from her mouth, valleys and mountains from her nose and shoulders.\n\nBut her fruitfulness has a price. At night, the text says, she weeps, craving human hearts, and will not be quiet until she is given them; nor will she bear fruit unless she is watered with human blood.\n\nHer carved image was often placed face down, meant to be seen by the earth, not by people.",
+          "names": [
+            "Tlaltecuhtli",
+            "Quetzalcoatl",
+            "Tezcatlipoca"
+          ],
+          "sources": [
+            "Histoyre du Mechique (16th century)"
+          ],
+          "caveat": "The Histoyre survives only in a French translation of a lost Spanish account, and Tlaltecuhtli's gender varies in the sources.",
+          "image": {
+            "file": "File:Tlaltecuhtli monolith.jpg",
+            "caption": "The Tlaltecuhtli monolith, found at the Templo Mayor, Mexico City, in 2006"
+          }
+        },
+        {
+          "culture": "andean",
+          "people": "Quechua and Aymara",
+          "title": "Pachamama Must Drink First",
+          "teaser": "Before anyone drinks, a few drops go to the thirsty Earth.",
+          "text": "In the Andes the earth is Pachamama, 'Mother of the World' or 'Mother of Time and Space', since pacha covers both. She is the living ground that gives potatoes and maize and the pasture for llamas, and she is owed a return. Spanish priests of the sixteenth and seventeenth centuries, hunting 'idolatries', complained that farmers offered her chicha, coca and llama fat before ploughing and at harvest.\n\nThe custom never stopped. At a meal or a fiesta in Peru or Bolivia today, people still spill a little drink on the ground before drinking, the ch'alla, saying it is for Pachamama. August, the dry month before planting, is when she is hungriest and receives buried offerings.\n\nColonial painters absorbed her too: the famous Virgin of the Mountain of Potosí shows Mary's robe as the silver mountain itself.",
+          "names": [
+            "Pachamama",
+            "Apu"
+          ],
+          "sources": [
+            "Spanish colonial extirpation-of-idolatry reports",
+            "Modern Andean ethnography"
+          ],
+          "caveat": "Colonial descriptions were written by hostile missionaries, and modern Pachamama devotion is deeply blended with Catholic Marian piety."
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "Papatūānuku, the Land Below",
+          "teaser": "The Māori earth mother holds the living and receives the dead.",
+          "text": "After her husband Ranginui was pushed into the sky, Papatūānuku remained below as the land itself, the mother from whom every tree, bird and person descends. Her children dwell on her body; the forests are her garments, the mist rising from her valleys her grief for the husband far above.\n\nIn one strand of the tradition, when Tāne needed a wife, he went first to his mother, and she told him to form a woman from the earth at Kurawaka. So humanity itself is shaped from her soil.\n\nThe relationship is written into the Māori language. Whenua means both 'land' and 'placenta', and the old custom is to bury a newborn's placenta in ancestral ground, returning it to Papa. Tangata whenua, 'people of the land', is how Māori describe themselves as the country's first inhabitants.",
+          "names": [
+            "Papatūānuku",
+            "Ranginui",
+            "Tāne",
+            "Hineahuone"
+          ],
+          "sources": [
+            "George Grey, Polynesian Mythology (1855)",
+            "Māori tribal traditions"
+          ]
+        },
+        {
+          "culture": "slavic",
+          "people": "East Slavic (Russian)",
+          "title": "Moist Mother Earth",
+          "teaser": "Russian peasants swore oaths on a clod of damp earth.",
+          "text": "In Russian folk speech the earth is Mat' syra zemlya, 'Moist Mother Earth'. Nineteenth-century folklorists recorded that peasants treated her as a living person with rights. Oaths were sworn by taking a clod of earth and placing it on one's head or swallowing it; boundary disputes were settled by a man walking the line with turf on his head. In some villages the earth was not to be struck or dug on certain holy days, because 'the earth is pregnant' in spring.\n\nPeople in trouble could confess their sins to the ground itself, kneeling and speaking into a hole. In the spiritual verses of wandering singers, the earth weeps over human wickedness and begs God to let her be cleansed.\n\nWhatever she was before Christianity, by the time she was written down she had become a devout, long-suffering mother among the saints.",
+          "names": [
+            "Mat' syra zemlya"
+          ],
+          "sources": [
+            "19th-century Russian folklore collections",
+            "Dukhovnye stikhi (spiritual verses)"
+          ],
+          "caveat": "Attested only in Christian-era folk practice; claims about a pre-Christian earth goddess behind it are reconstruction."
+        },
+        {
+          "culture": "west-african",
+          "people": "Igbo",
+          "title": "Ala, Keeper of the Law",
+          "teaser": "The Igbo earth goddess judges crimes as offences against the land.",
+          "text": "Among the Igbo of southeastern Nigeria, Ala (also Ani or Ana) is the earth, the most important deity in daily life. She gives fertility to fields and families and receives the dead into her body, but above all she is the guardian of custom. Serious wrongs such as murder, incest or theft of yams are nso ala, 'abominations against the earth', and must be ritually cleansed or the whole community suffers.\n\nIn the Owerri area, communities built mbari houses in her honour: open shrines filled with painted clay sculptures of Ala, her children, animals, market women, even colonial officers, built over months by specially chosen people and then left to crumble back into the earth.\n\nReaders of Chinua Achebe's Things Fall Apart meet her as Ani, whose Week of Peace Okonkwo disastrously breaks.",
+          "names": [
+            "Ala",
+            "Ani",
+            "Amadioha"
+          ],
+          "sources": [
+            "Herbert M. Cole, Mbari: Art and Life among the Owerri Igbo (1982)",
+            "Igbo ethnography"
+          ],
+          "image": {
+            "file": "File:Urata-Igbo Mbari house dedicated to Amadioha, photographed by William Fagg near Owerri. British Museum.jpg",
+            "caption": "An Igbo mbari house near Owerri (this one dedicated to Amadioha), photographed by William Fagg; British Museum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "storm-god-serpent",
+      "summary": "Across the ancient Near East and the Indo-European world, a god of storm and thunder fights a great serpent or water monster, and his victory releases rain, secures kingship, or holds back chaos. The resemblances between the Vedic, Hittite, Canaanite, Greek and Norse versions are close enough that scholars such as Calvert Watkins argued for an inherited formula, 'the hero slew the serpent', while others stress diffusion across the Near East. Similar serpent-slayings from Japan remind us that the pattern can arise independently wherever storms, rivers and snakes seem like forces to be tamed.",
+      "versions": [
+        {
+          "culture": "anatolian",
+          "people": "Hittite",
+          "title": "The Storm God and Illuyanka",
+          "teaser": "Beaten once, the storm god returns with a feast and a trap.",
+          "text": "The Hittite text recited at the spring purulli festival tells two versions of one story. In the first, the serpent Illuyanka defeats the Storm God. The goddess Inara prepares a feast, with vessels of wine and beer, and enlists a mortal, Hupašiya, who asks to sleep with her as his price. The serpent and his children come up from their hole, drink until they are too bloated to go back down, and Hupašiya ties them with a rope. The Storm God comes and kills them.\n\nIn the second version Illuyanka has taken the Storm God's heart and eyes. The god fathers a son who marries the serpent's daughter and asks for them as his bride-price. Restored, the Storm God goes out to fight, and when his son takes the serpent's side, he kills them both.\n\nIt is, pointedly, a victory of cunning before it is one of strength.",
+          "names": [
+            "Tarḫunna (Storm God)",
+            "Illuyanka",
+            "Inara",
+            "Hupašiya"
+          ],
+          "sources": [
+            "The Illuyanka Myth (CTH 321)"
+          ],
+          "image": {
+            "file": "File:Anatolian Civilizations Museum slaying of the serpent Illuyanka by the Storm God in 2011 02.jpg",
+            "caption": "Storm gods attacking the serpent, relief from the Lion Gate at Arslantepe (Malatya), Museum of Anatolian Civilizations"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Indra Slays Vṛtra",
+          "teaser": "The serpent held back the waters until Indra split him open.",
+          "text": "'I will proclaim the heroic deeds of Indra,' begins Rigveda 1.32: 'he slew the serpent, released the waters, and split the bellies of the mountains.' The serpent is Vṛtra, 'the Obstruction', who lies coiled on the mountains holding back the rivers, a drought in dragon's form.\n\nIndra fortifies himself by drinking three bowls of soma, then strikes. The hymn is full of strange, vivid images. Vṛtra, 'handless and footless', still fights. His mother Dānu lies over him like a cow over her calf, and Indra strikes her too. When the monster falls, the imprisoned waters flow over his body 'like lowing cows', streaming down to the sea.\n\nThe epithet Vṛtrahan, 'Vṛtra-slayer', becomes Indra's most characteristic title, and the fight is retold, expanded and moralised through the Brāhmaṇas and epics.",
+          "names": [
+            "Indra",
+            "Vṛtra",
+            "Dānu"
+          ],
+          "sources": [
+            "Rigveda 1.32"
+          ],
+          "image": {
+            "file": "File:Indra kills Vrttirasura (story from Rik Veda, featured in Bhagavatha).jpg",
+            "caption": "Indra slaying Vṛtra, book illustration published 1916"
+          }
+        },
+        {
+          "culture": "levantine",
+          "people": "Ugaritic and Hebrew",
+          "title": "Baal Defeats Sea",
+          "teaser": "Baal smashes Prince Sea and wins the right to a palace.",
+          "text": "In the Baal Cycle from Ugarit, the god El favours Yam, 'Sea', also called Judge River, and Yam sends messengers to the divine assembly demanding that Baal be handed over as his slave. The gods cower, heads on their knees; Baal rebukes them and goes out to fight. He strikes Yam down and scatters him, and the cry goes up: 'Yam is dead! Baal shall be king!'\n\nOther Ugaritic lines recall that Baal also crushed Litan, 'the fleeing serpent, the twisting serpent, the mighty one with seven heads'.\n\nThat description turns up almost word for word in the Hebrew Bible. Isaiah 27:1 promises that YHWH will punish 'Leviathan the fleeing serpent, Leviathan the twisting serpent', and Psalm 74 praises the God who 'broke the heads of the dragons on the waters'. The old Canaanite combat survived by changing its hero.",
+          "names": [
+            "Baal",
+            "Yam",
+            "Litan",
+            "Leviathan"
+          ],
+          "sources": [
+            "Baal Cycle (KTU 1.2, 1.3, 1.5)",
+            "Isaiah 27:1",
+            "Psalm 74:13–14"
+          ]
+        },
+        {
+          "culture": "egyptian",
+          "title": "Set Spears Apep",
+          "teaser": "Every night the sun's boat is ambushed by a giant snake.",
+          "text": "The Egyptian serpent fight never ends. Each night the sun god Ra sails his barque through the underworld, and each night the vast serpent Apep (Apophis), the embodiment of chaos, rises to swallow it, sometimes drinking up the river so that the boat runs aground.\n\nStanding at the prow is Set, the god of storms and deserts, whose unruly violence is here put to good use. In texts and vignettes he drives a spear into the serpent's coils, and the sun sails on to rise at dawn. The cat of Ra, in the Book of the Dead, cuts off Apep's head with a knife under a sacred tree.\n\nPriests helped. The Book of Overthrowing Apep in the Bremner-Rhind Papyrus prescribes making a wax snake, spitting on it, trampling it and burning it, day after day, to keep the cosmos going.",
+          "names": [
+            "Apep",
+            "Ra",
+            "Set"
+          ],
+          "sources": [
+            "Book of the Dead, Spell 17",
+            "Book of Overthrowing Apep (Papyrus Bremner-Rhind)",
+            "Amduat"
+          ],
+          "caveat": "Set is a storm god but his role against Apep is one of several; in later periods he was himself demonised and even identified with Apep.",
+          "image": {
+            "file": "File:Barque solaire contre Apopi.jpg",
+            "caption": "Set spears Apep from the prow of Ra's solar boat; funerary papyrus of Herouben"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Zeus and Typhon",
+          "teaser": "A hundred snake heads against the thunderbolts of Zeus.",
+          "text": "After the Titans were defeated, Gaia bore one last challenger, Typhon. Hesiod describes him with a hundred snake heads flickering dark tongues, eyes flashing fire, and voices that made every kind of sound: the speech of gods, the bellowing of a bull, the roar of a lion, the yelp of puppies, a hissing that echoed off the mountains.\n\nHad Zeus not noticed in time, says Hesiod, Typhon would have become king of gods and men. Zeus thundered; the earth, sea and sky boiled; even Hades trembled. Then he leapt from Olympus, burned all the monstrous heads with his lightning, and flung the lamed creature into Tartarus.\n\nFrom Typhon come the wild, useless winds that wreck ships and flatten crops. Later authors placed him under Mount Etna, still smouldering.",
+          "names": [
+            "Zeus",
+            "Typhon",
+            "Gaia"
+          ],
+          "sources": [
+            "Hesiod, Theogony 820–880",
+            "Pseudo-Apollodorus, Library 1.6.3"
+          ]
+        },
+        {
+          "culture": "japanese",
+          "title": "Susanoo and the Eight-Headed Serpent",
+          "teaser": "The banished storm god gets eight heads drunk, then cuts them off.",
+          "text": "Exiled from heaven for his outrages, the storm god Susanoo comes down in Izumo beside the river Hi. There he finds an old couple weeping over their daughter Kushinadahime. The serpent Yamata no Orochi, with eight heads and eight tails, eyes red as winter cherries, its body stretching over eight valleys and eight hills, has eaten seven of their eight daughters and is coming for the last.\n\nSusanoo turns the girl into a comb and puts her in his hair. He has the parents brew strong sake eight times over and set it out in eight vats behind a fence with eight gates. The serpent comes, dips a head into each vat, drinks, and falls asleep. Susanoo hacks it to pieces until the river runs red.\n\nIn the middle tail his sword chips on something hard: the sword Kusanagi, which he presents to his sister Amaterasu.",
+          "names": [
+            "Susanoo",
+            "Yamata no Orochi",
+            "Kushinadahime"
+          ],
+          "sources": [
+            "Kojiki (712)",
+            "Nihon Shoki (720)"
+          ],
+          "image": {
+            "file": "File:Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png",
+            "caption": "Susanoo slays Yamata no Orochi in Izumo, woodblock print by Tsukioka Yoshitoshi, 1887"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Thor and the World Serpent",
+          "teaser": "Thor hooks the Midgard Serpent once; at Ragnarök they finish it.",
+          "text": "Jörmungandr, Loki's child, was flung by Odin into the ocean, where he grew until he encircled the whole world and bit his own tail. Thor meets him three times.\n\nOnce, in the hall of the giant Útgarða-Loki, he tries to lift a grey cat and manages only one paw; it turns out the cat was the Midgard Serpent in disguise. Then, fishing with the giant Hymir, Thor baits a hook with an ox head and hauls the serpent up to the gunwale. Their eyes meet, the serpent spitting poison, Thor raising his hammer, until the terrified Hymir cuts the line.\n\nThe third meeting is at Ragnarök. Thor kills the serpent at last, walks nine paces away from it, and falls dead from its venom. The world's defender and the world's encircler end together.",
+          "names": [
+            "Thor",
+            "Jörmungandr",
+            "Hymir"
+          ],
+          "sources": [
+            "Hymiskviða",
+            "Völuspá 55–56",
+            "Gylfaginning 46–48, 51"
+          ],
+          "image": {
+            "file": "File:NKS 1867 4to, 93v, Thor and Jörmungandr.jpg",
+            "caption": "Thor hooks the Midgard Serpent while Hymir watches; Icelandic manuscript NKS 1867 4to, c. 1760"
+          }
+        },
+        {
+          "culture": "slavic",
+          "people": "East Slavic (reconstructed)",
+          "title": "Perun Against Veles",
+          "teaser": "A modern reconstruction: thunder on the oak, serpent at its roots.",
+          "text": "The Russian Primary Chronicle names Perun as the chief god of Kiev in 980, and the Rus' swore treaties by Perun and by Volos (Veles), 'god of cattle'. Beyond that the written record is thin.\n\nIn the 1970s the linguists Vyacheslav Ivanov and Vladimir Toporov proposed that a whole myth lay hidden in later Slavic folklore, place names and charms. In their reconstruction Perun, the thunderer, sits at the top of the world tree, while his serpentine enemy, Veles, lurks among its roots by the water. Veles steals Perun's cattle, or his wife, and hides behind trees, stones and animals. Perun hunts him, striking with thunderbolts until he flees back to the underworld, and the rain that follows is the reward.\n\nIt is elegant and much quoted. It is also a scholarly model rather than a story anyone wrote down.",
+          "names": [
+            "Perun",
+            "Veles",
+            "Mokosh"
+          ],
+          "sources": [
+            "Russian Primary Chronicle (entries for 907, 945, 980)",
+            "V. V. Ivanov and V. N. Toporov, Issledovaniya v oblasti slavyanskikh drevnostey (1974)"
+          ],
+          "caveat": "The Perun–Veles combat is a modern reconstruction from fragments; no medieval source narrates it."
+        }
+      ]
+    },
+    {
+      "id": "thunder-weapon",
+      "summary": "The storm god rarely fights bare-handed. His weapon — hammer, club, axe, or bolt of fire — is often a named character in its own right, crafted by a divine smith, lost, stolen, or won back. Many peoples in Europe, Africa and Asia also believed that ancient stone axes turned up by the plough were thunderbolts that had fallen from the sky, and kept them as protection against lightning. The shared image probably reflects both inheritance within language families and the simple fact that lightning looks like something thrown.",
+      "versions": [
+        {
+          "culture": "levantine",
+          "people": "Ugaritic",
+          "title": "Baal's Two Clubs",
+          "teaser": "Two named clubs leap from Baal's hands 'like an eagle'.",
+          "text": "When Baal hesitates before his fight with Sea, the craftsman god Kothar-wa-Khasis encourages him and makes him two clubs, giving each a name that is also a spell. The first is Yagrush, 'Chaser': 'Chaser, drive Yam from his throne!' It swoops from Baal's hand like an eagle and strikes Yam on the shoulders, but Yam does not fall. The second is Ayamur, 'Expeller': 'Expeller, drive Yam from his throne!' It strikes Yam between the eyes, and Sea collapses to the ground.\n\nThe weapons are almost characters, addressed and dispatched like servants.\n\nBaal's image in art makes the same point. The famous stele from Ugarit in the Louvre shows him striding, mace raised above his head, while in his other hand a spear sprouts into a plant, lightning and the rain it brings in a single gesture.",
+          "names": [
+            "Baal",
+            "Kothar-wa-Khasis",
+            "Yagrush",
+            "Ayamur"
+          ],
+          "sources": [
+            "Baal Cycle (KTU 1.2 IV)"
+          ],
+          "image": {
+            "file": "File:Baal thunderbolt Louvre AO15775.jpg",
+            "caption": "Stele of Baal with thunderbolt, from Ugarit, c. 15th–13th century BCE, Louvre AO 15775"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "The Cyclopes' Thunderbolt",
+          "teaser": "Zeus got his lightning as a thank-you gift from prisoners.",
+          "text": "Hesiod explains where Zeus found his weapon. The three Cyclopes, Brontes, Steropes and Arges, 'Thunder', 'Lightning' and 'Bright', were sons of Earth and Sky, one-eyed smiths imprisoned underground by their father. When Zeus freed them, they remembered the kindness and gave him thunder, the blazing lightning bolt and the flash, which before then had lain hidden in the earth. 'Trusting in these,' says Hesiod, 'he rules mortals and immortals.'\n\nIn art the keraunos is a spindle of flame, pointed at both ends, often with little wings. Zeus rarely lends it. Where lightning struck the ground, Greeks built a small enclosure, since the spot now belonged to the god.\n\nWhen Apollo's son Asclepius raised the dead and Zeus struck him down, Apollo took revenge not on Zeus but on the Cyclopes who had made the bolt.",
+          "names": [
+            "Zeus",
+            "Brontes",
+            "Steropes",
+            "Arges"
+          ],
+          "sources": [
+            "Hesiod, Theogony 139–146, 501–506",
+            "Pseudo-Apollodorus, Library 1.2.1, 3.10.4"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic and Purāṇic",
+          "title": "The Vajra from a Sage's Bones",
+          "teaser": "Indra's thunderbolt was made from a willing sage's spine.",
+          "text": "The Rigveda says the craftsman god Tvaṣṭṛ fashioned Indra's vajra, the 'hard' or 'shattering' weapon, golden and many-edged, before his fight with Vṛtra.\n\nLater tradition tells a more poignant story. When the demon Vṛtra could not be harmed by any existing weapon, the gods learned that only a weapon made from the bones of the ascetic Dadhīci would do. They went and asked him for his body. Dadhīci agreed, gave up his life through yoga, and the gods had the vajra shaped from his bones; with it Indra won. The story is told in the Mahābhārata and the Bhāgavata Purāṇa.\n\nThe vajra became one of Asia's great symbols. In Buddhism it stands for indestructible enlightenment, as in the name Vajrayāna, and the Tibetan dorje, held in a monk's hand during ritual, is the thunderbolt tamed into a teaching.",
+          "names": [
+            "Indra",
+            "Tvaṣṭṛ",
+            "Dadhīci",
+            "Vṛtra"
+          ],
+          "sources": [
+            "Rigveda 1.32.2",
+            "Mahābhārata, Vana Parva",
+            "Bhāgavata Purāṇa, Book 6"
+          ],
+          "image": {
+            "file": "File:Thunderbolt (Vajra; Tibetan- Dorje) LACMA AC1994.176.1.jpg",
+            "caption": "Vajra (Tibetan dorje), gilt copper alloy, eastern Tibet or China, 18th–19th century, LACMA"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "The Thunder God's Drums",
+          "teaser": "Han painters showed thunder as a strongman beating a ring of drums.",
+          "text": "In early China thunder was not a thrown weapon but a sound made on purpose. The Han-dynasty philosopher Wang Chong, a rationalist who enjoyed debunking popular beliefs, describes how painters of his day depicted it: a row of drums linked together, and a strong man, the Thunder Lord, pulling them with his left hand and striking with a hammer in his right. The rumbling was the drumming; lightning was the fire of the blows.\n\nWang Chong thought this absurd; thunder, he argued, was a kind of fire, born of the clash of yin and yang. But the image lasted. Later Leigong, the Duke of Thunder, is shown with a bird's beak and wings, a hammer and chisel in his hands and drums on his back, and he punishes secret crimes. Being struck by lightning was widely taken as a sign of hidden guilt.",
+          "names": [
+            "Leigong",
+            "Wang Chong"
+          ],
+          "sources": [
+            "Wang Chong, Lunheng, chapter 'Lei xu' (1st century CE)"
+          ]
+        },
+        {
+          "culture": "norse",
+          "title": "Thor's Hammer Stolen",
+          "teaser": "To recover Mjölnir, Thor must go to a giant's wedding as the bride.",
+          "text": "Thor wakes one morning to find Mjölnir gone. Loki borrows Freyja's feather cloak and flies to the giant Þrymr, who admits he has buried the hammer eight leagues deep and will return it only if Freyja is given to him as his wife. Freyja's refusal is so furious that her necklace bursts.\n\nHeimdall proposes a solution Thor hates: dress him as the bride. Veiled and wearing the necklace, with Loki as his maid, Thor goes to Jötunheim, where at the wedding feast he eats a whole ox, eight salmon and all the dainties meant for the women, and drinks three casks of mead. Loki explains that Freyja has been too eager to eat for eight nights.\n\nThen, by custom, the hammer is laid in the bride's lap to hallow the marriage. Thor's heart laughs within him, and the wedding party ends badly for the giants.",
+          "names": [
+            "Thor",
+            "Mjölnir",
+            "Þrymr",
+            "Loki",
+            "Freyja"
+          ],
+          "sources": [
+            "Þrymskviða"
+          ]
+        },
+        {
+          "culture": "west-african",
+          "people": "Yoruba",
+          "title": "Ṣàngó's Double Axe",
+          "teaser": "Thunderstones in the fields are the axes Ṣàngó has hurled down.",
+          "text": "Ṣàngó, the Yoruba god of thunder, was in tradition an early king of Oyo, fiery and magnificent, who could breathe flame and command lightning. His emblem is the double-headed axe, carved on the dance staffs, called oṣé Ṣàngó, carried by his devotees. On them a kneeling woman often balances the axe on her head, so that the thunder rests on the head of the worshipper.\n\nWhen lightning strikes, Yoruba say Ṣàngó has thrown his thunderstones, edùn àrá, down to earth. The smooth prehistoric stone celts that farmers dig up are these very stones, and they are kept in wooden bowls in his shrines. After a strike, his priests came to search for the stone in the damaged house.\n\nThrough the Atlantic slave trade Ṣàngó travelled to Cuba and Brazil as Changó and Xangô, double axe and all.",
+          "names": [
+            "Ṣàngó",
+            "Oya",
+            "Oṣé Ṣàngó"
+          ],
+          "sources": [
+            "Yoruba oral tradition and ethnography",
+            "Samuel Johnson, The History of the Yorubas (1921)"
+          ],
+          "image": {
+            "file": "File:Brooklyn Museum 79.27 Dance Wand Oshe Shango.jpg",
+            "caption": "Oṣé Ṣàngó dance wand with double-axe motif, Yoruba, late 19th or early 20th century, Brooklyn Museum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "divine-twins",
+      "summary": "Twins are uncanny: two lives from one birth, alike yet different. Myth uses them for the paired forces of the world — morning and evening, life and death, good and evil — and often for rescuers who arrive on horseback or by sea. Indo-European traditions share a set of divine twin horsemen, the Vedic Aśvins and Greek Dioskouroi being the clearest cognates. Elsewhere twin myths arose independently and take very different forms: rival brothers who make the world between them, or sacred twins honoured by an entire people.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "Shu and Tefnut",
+          "teaser": "The first twins came from the creator's sneeze.",
+          "text": "In the creation account of Heliopolis, the self-created god Atum, alone in the primeval waters, produced the first pair of gods from his own body. The Pyramid Texts say he sneezed out Shu and spat out Tefnut; the names themselves echo the sounds, for ishesh is 'sneeze' and tef 'spit'. Another utterance gives a cruder version involving his hand.\n\nShu is dry air and light, Tefnut moisture, and together they are the first male and female, the start of every other pairing in Egyptian cosmology. They in turn produce Geb and Nut, earth and sky.\n\nA later text tells that the twins once became lost in the dark waters. Atum sent his Eye to find them, and when they were brought back, he wept with joy, and his tears became the first human beings.",
+          "names": [
+            "Atum",
+            "Shu",
+            "Tefnut"
+          ],
+          "sources": [
+            "Pyramid Texts, Utterance 527 and 600",
+            "Coffin Texts, Spells 75–80",
+            "Papyrus Bremner-Rhind"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "The Aśvins, Horsemen of Dawn",
+          "teaser": "Twin horsemen who rescue shipwrecks and fit iron legs.",
+          "text": "The Aśvins, 'the horsemen', also called the Nāsatyas, are twin gods who race across the sky ahead of Dawn in a three-wheeled golden chariot. Their hymns in the Rigveda are catalogues of rescues. They save Bhujyu, abandoned in the ocean, carrying him home in winged ships over three days and nights. They restore the old sage Cyavana to youth. When the warrior woman Viśpalā loses a leg in battle, they give her an iron one, so that she can run again.\n\nThey are healers and wonder-workers, and in the Brāhmaṇas they have to fight for their share of the soma sacrifice, since the other gods think physicians too low for it.\n\nThey are also among the oldest attested Indo-Iranian gods: a Mitanni treaty with the Hittites around 1350 BCE invokes the Nāsatya gods as witnesses.",
+          "names": [
+            "Aśvins",
+            "Nāsatyas",
+            "Uṣas",
+            "Bhujyu",
+            "Viśpalā"
+          ],
+          "sources": [
+            "Rigveda 1.116–1.120",
+            "Treaty of Šuppiluliuma I and Šattiwaza"
+          ],
+          "image": {
+            "file": "File:Birth of the Celestial Twins, Folio from a Harivamsha (Lineage of Vishnu) LACMA M.83.1.7 (1 of 2).jpg",
+            "caption": "Birth of the Celestial Twins, folio from a Mughal Harivaṃśa, Lahore, c. 1585–90, LACMA"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Castor and Polydeuces",
+          "teaser": "One twin was mortal, so they share immortality day by day.",
+          "text": "The Dioskouroi, 'youths of Zeus', are Castor the horse-tamer and Polydeuces the boxer, brothers of Helen. In the usual story their mother Leda bore them in the same birth, but Polydeuces was son of Zeus and immortal, Castor son of the mortal Tyndareus.\n\nWhen Castor was killed in a feud with their cousins, Polydeuces begged Zeus not to let him outlive his brother. Zeus gave him a choice: live forever on Olympus alone, or share his immortality. He chose to share, and so the twins spend alternate days among the gods and beneath the earth. Pindar tells it in his tenth Nemean ode; the Odyssey already knows that they 'live on alternate days'.\n\nSailors in a storm prayed to them, and the twin flames of St Elmo's fire on a mast meant the Dioskouroi had come aboard.",
+          "names": [
+            "Castor",
+            "Polydeuces (Pollux)",
+            "Leda",
+            "Helen"
+          ],
+          "sources": [
+            "Homer, Odyssey 11.298–304",
+            "Pindar, Nemean 10",
+            "Homeric Hymn 33"
+          ],
+          "image": {
+            "file": "File:Castor and Pollux, archaic relief, AM of Delphi, 201363.jpg",
+            "caption": "The Dioskouroi on a cattle raid, metope of the Sicyonian Treasury at Delphi, c. 560 BCE"
+          }
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian (Zurvanite)",
+          "title": "Twin Sons of Time",
+          "teaser": "Good and evil as twins: the firstborn would be king.",
+          "text": "Zarathustra's own hymns, the Gāthās, speak of 'the two spirits, who at the beginning were known as twins', one choosing the good, the other the evil. The line inspired a remarkable myth.\n\nAccording to Zurvanism, a strand of Sasanian Zoroastrianism described by Armenian and Syriac Christian writers, the primordial god Zurvan, 'Time', sacrificed for a thousand years to have a son. At last he doubted, and from that doubt he conceived twins: Ohrmazd from his offering, Ahriman from his doubt. Zurvan vowed to make the firstborn king. Ohrmazd understood this and told his brother, so Ahriman tore open the womb and came out first. 'My son is fragrant and bright,' said Zurvan, 'and you are dark and stinking.' Bound by his oath, he gave Ahriman nine thousand years of rule, after which Ohrmazd would reign.\n\nOrthodox Zoroastrians rejected the whole idea.",
+          "names": [
+            "Zurvan",
+            "Ohrmazd",
+            "Ahriman"
+          ],
+          "sources": [
+            "Yasna 30.3 (Gāthās)",
+            "Eznik of Kołb, Against the Sects (5th century)"
+          ],
+          "caveat": "The Zurvan myth is known mainly from hostile Christian writers and was a heterodox strand, not mainstream Zoroastrian doctrine."
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche' Maya",
+          "title": "The Hero Twins of Xibalba",
+          "teaser": "Two ballplayers outwit the Lords of Death in their own house.",
+          "text": "In the Popol Vuh, the brothers Hunahpu and Xbalanque are conceived when the skull of their father, hanging in a calabash tree in Xibalba, the underworld, spits into the hand of the maiden Xquic. Tormented by their jealous half-brothers, they turn them into monkeys.\n\nSummoned to play ball against the Lords of Death, as their father had been before them, the twins pass every trial: the House of Knives, the House of Cold, the House of Jaguars, the House of Bats, where Hunahpu loses his head and the game continues with a squash in its place. Knowing they will be burned, they let it happen, return as wandering performers, and dazzle the lords by sacrificing and reviving each other. The lords beg to be sacrificed too. The twins kill them and do not bring them back.\n\nThen they rise into the sky as the sun and the moon.",
+          "names": [
+            "Hunahpu",
+            "Xbalanque",
+            "Xquic",
+            "Hun Hunahpu"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ],
+          "caveat": "The Popol Vuh was written down in the 16th century, though Classic Maya vases show the twins centuries earlier."
+        },
+        {
+          "culture": "north-american",
+          "people": "Haudenosaunee (Iroquois)",
+          "title": "Sapling and Flint",
+          "teaser": "One twin made rivers flow both ways; his brother spoiled them.",
+          "text": "After Sky Woman fell from the upper world and landed on the Great Turtle's back, her daughter bore twins. The good-minded Sapling (in Mohawk, Teharonhiawako, among other names) was born the normal way. His brother Flint (Tawiskaron) burst out through her side, killing her.\n\nThe twins then shaped the world between them. Sapling made gentle landscapes, rivers with two currents so that canoes could travel either way without paddling, and useful plants and animals. Flint made rapids and cliffs, thorns on the bushes, and made the rivers flow one way only. In some tellings he shut the animals up in a cave, and Sapling let them out.\n\nFinally the brothers fought, and Sapling won, sending Flint into the earth or the west. Versions differ from nation to nation, but the balance of the two minds runs through them all.",
+          "names": [
+            "Sky Woman",
+            "Sapling",
+            "Flint",
+            "Tawiskaron"
+          ],
+          "sources": [
+            "David Cusick, Sketches of Ancient History of the Six Nations (1827)",
+            "J. N. B. Hewitt, Iroquoian Cosmology (1903, 1928)"
+          ],
+          "caveat": "Tellings vary among the Mohawk, Onondaga, Seneca and other nations; names and details are not uniform."
+        },
+        {
+          "culture": "west-african",
+          "people": "Yoruba",
+          "title": "Ìbejì, the Sacred Twins",
+          "teaser": "When a twin dies, a small carved figure is fed and dressed.",
+          "text": "The Yoruba have one of the highest natural twinning rates in the world, and twins, ìbejì, are regarded as sacred and bring good fortune to their families. The firstborn is named Táíwò, 'the one who tastes the world', sent ahead by the younger, Kẹ́hìndé, 'the one who comes after', who is considered the elder because he sends his sibling out first to see if the world is good.\n\nIf a twin dies, the family commissions a carver to make an ère ìbejì, a small wooden figure that stands for the lost child. The mother washes it, feeds it, dresses it, rubs it with camwood and carries it with the surviving twin, so the pair stays whole. Old figures often have their faces worn smooth by generations of loving handling.\n\nThere are thousands in museums; each one was a child.",
+          "names": [
+            "Ìbejì",
+            "Táíwò",
+            "Kẹ́hìndé"
+          ],
+          "sources": [
+            "Yoruba ethnography",
+            "Museum collections of ère ìbejì"
+          ],
+          "image": {
+            "file": "File:Ere Ibeji, Nigeria, Benin, Brücke Museum Berlin, 64963, view a.jpg",
+            "caption": "Ère ìbejì memorial figure for a deceased twin, Yoruba, 19th–20th century"
+          }
+        }
+      ]
+    },
+    {
+      "id": "trickster",
+      "summary": "The trickster is a clever, greedy, shape-shifting boundary-crosser who breaks rules, steals, lies, and often gives humanity something precious by accident or theft. He may be a god, an animal or a culture hero, and he frequently gets caught by his own tricks. Tricksters appear on every inhabited continent, and their similarities are best explained by shared human delight in the underdog who outwits power, not by common descent. Paul Radin and Carl Jung made the figure famous as a universal type; more recent scholars warn against flattening very different traditions into one archetype.",
+      "versions": [
+        {
+          "culture": "greek",
+          "title": "Hermes Steals the Cattle",
+          "teaser": "Born at dawn, a thief by evening, and lying to Zeus by morning.",
+          "text": "The Homeric Hymn to Hermes tells the god's first day. Born at dawn in a cave on Mount Kyllene, by noon Hermes has climbed out of his cradle, found a tortoise, scooped it out and strung it with gut to invent the lyre. By evening he is hungry for meat.\n\nHe goes to Pieria and steals fifty of Apollo's cattle, driving them backwards so their tracks point the wrong way, and wearing sandals of twigs to disguise his own feet. He slaughters two, invents the method of making fire, and is back in his cradle, 'like a newborn baby', before sunrise.\n\nApollo drags him before Zeus, and the baby swears he doesn't even know what a cow is. Zeus laughs out loud. The quarrel ends when Hermes plays the lyre and Apollo, entranced, trades the cattle for it. Theft, music and commerce are born together.",
+          "names": [
+            "Hermes",
+            "Apollo",
+            "Maia",
+            "Zeus"
+          ],
+          "sources": [
+            "Homeric Hymn 4, To Hermes"
+          ],
+          "image": {
+            "file": "File:De jonge Mercurius steelt runderen van Apollo's kudde, SK-A-3966.jpg",
+            "caption": "The young Mercury steals cattle from Apollo's herd, painting by Girolamo da Santacroce, c. 1530–50, Rijksmuseum"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Loki and the Giant Builder",
+          "teaser": "Loki saves the gods' bargain by becoming a mare.",
+          "text": "A mason offers to build the gods a wall around Asgard in a single winter. His price: Freyja, the sun and the moon. On Loki's advice the gods agree, confident he will fail, and allow him the help of his stallion Svaðilfari. But the horse hauls stones at an astonishing rate, and three days before summer the wall is nearly finished.\n\nThe gods, furious, threaten Loki with a terrible death unless he fixes it. That night a mare comes out of the woods and whinnies at the stallion, who breaks his harness and chases her into the forest all night. The work is not finished, the builder shows himself as a giant in rage, and Thor kills him.\n\nSome time later Loki gives birth to a grey foal with eight legs: Sleipnir, the finest of horses, which becomes Odin's mount.",
+          "names": [
+            "Loki",
+            "Svaðilfari",
+            "Sleipnir",
+            "Freyja"
+          ],
+          "sources": [
+            "Gylfaginning 42",
+            "Völuspá 25–26"
+          ]
+        },
+        {
+          "culture": "chinese",
+          "title": "The Monkey King in Heaven",
+          "teaser": "A stone monkey eats the peaches of immortality and wrecks heaven.",
+          "text": "Sun Wukong, the Monkey King, is born from a stone egg on the Mountain of Flowers and Fruit. He learns magic from a Daoist master: seventy-two transformations and a cloud-somersault that carries him thousands of miles in one leap. From the Dragon King of the Eastern Sea he takes the iron staff that shrinks to the size of a needle.\n\nThe Jade Emperor tries to keep him quiet with a grand title, then with a job minding the heavenly horses, then guarding the orchard of immortal peaches, which he eats. He also swallows Laozi's elixir pills and gatecrashes a banquet. All heaven's armies cannot subdue him.\n\nFinally the Buddha makes a bet: jump out of my palm. Wukong leaps to five great pillars at the end of the world and marks one. They are the Buddha's fingers. He is pinned under a mountain for five hundred years.",
+          "names": [
+            "Sun Wukong",
+            "Jade Emperor",
+            "Buddha",
+            "Laozi"
+          ],
+          "sources": [
+            "Wu Cheng'en (attributed), Journey to the West (Xiyouji), chapters 1–7"
+          ],
+          "caveat": "Journey to the West is a 16th-century literary novel drawing on earlier folk and religious tradition, not a scripture.",
+          "image": {
+            "file": "File:孫悟空 Sun Wukong or Monkey King and Shakyamuni Buddha 01.jpg",
+            "caption": "Sun Wukong, illustration by Matsukawa Hanzan in a book published in Osaka, 1864"
+          }
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "Māui Snares the Sun",
+          "teaser": "The youngest son slows the sun and fishes up an island.",
+          "text": "Māui-tikitiki-a-Taranga was born prematurely and thrown into the sea wrapped in his mother's topknot, but survived to become the cleverest and most troublesome of heroes.\n\nThe days were too short to finish any work, so Māui and his brothers plaited ropes, travelled to the pit where the sun rises, and snared it as it climbed out. Māui beat it with the jawbone of his ancestress Murirangawhenua until it was lamed and had to crawl across the sky, as it does now. With the same jawbone as a fishhook, baited with his own blood, he hauled up the North Island, Te Ika-a-Māui, 'Māui's Fish'. He tricked the fire goddess Mahuika out of her fingernails of flame.\n\nFinally he tried to win immortality by crawling through the body of the death goddess Hine-nui-te-pō as she slept. A fantail laughed, she woke, and Māui died.",
+          "names": [
+            "Māui",
+            "Mahuika",
+            "Hine-nui-te-pō",
+            "Murirangawhenua"
+          ],
+          "sources": [
+            "George Grey, Polynesian Mythology (1855)"
+          ],
+          "caveat": "Māui stories are told across Polynesia (Hawaiian, Tongan, Samoan and others) with many regional differences; this is the Māori form.",
+          "image": {
+            "file": "File:Maui Snaring the Sun by Arman Tateos Manookian, c. 1927, drawing, Honolulu Museum of Art.jpg",
+            "caption": "Maui Snaring the Sun, drawing by Arman Tateos Manookian, c. 1927 (a Hawaiian rendering of the story), Honolulu Museum of Art"
+          }
+        },
+        {
+          "culture": "west-african",
+          "people": "Akan (Asante)",
+          "title": "Anansi Buys the Stories",
+          "teaser": "The spider pays the sky god's price and wins every story.",
+          "text": "Once all stories belonged to Nyame, the sky god. Kwaku Ananse, the spider, asked to buy them. Nyame laughed: great towns had tried and failed. The price was Onini the python, Osebo the leopard, Mmoboro the hornets and Mmoatia the fairy.\n\nAnanse caught each by a trick. He argued aloud with himself about whether the python was longer than a palm branch, until Onini lay down beside it to prove it, and was tied fast. He dug a pit on the leopard's path. He poured water over the hornets' nest and invited them to shelter from the 'rain' in his gourd. He made a sticky doll holding a bowl of yams, and the fairy, offended that it would not answer her, slapped it and stuck.\n\nNyame, impressed, announced before his court: 'From today these are Ananse's stories.' And so they are called, anansesɛm.",
+          "names": [
+            "Ananse",
+            "Nyame",
+            "Onini",
+            "Mmoatia"
+          ],
+          "sources": [
+            "R. S. Rattray, Akan-Ashanti Folk-Tales (1930)"
+          ]
+        },
+        {
+          "culture": "west-african",
+          "people": "Yoruba",
+          "title": "Èṣù's Two-Coloured Cap",
+          "teaser": "A cap red on one side and black on the other ends a friendship.",
+          "text": "Èṣù is the Yoruba messenger of the gods, the guardian of crossroads, and the one who carries sacrifices to heaven. He is not evil, whatever missionaries said, but he punishes those who neglect him, and he loves to test people.\n\nIn a widely told story two farmers are inseparable friends, their fields side by side, and forget to honour Èṣù. So he walks down the path between their fields wearing a cap painted one colour on one side and another colour on the other. When they discuss the stranger, one insists his cap was black, the other that it was red. Each calls the other a liar, the argument becomes a fight, and they are hauled before the king. Èṣù appears, shows them the cap, and laughs.\n\nThe lesson is not only about Èṣù. Every truth depends on where you stand.",
+          "names": [
+            "Èṣù",
+            "Ọ̀rúnmìlà"
+          ],
+          "sources": [
+            "Yoruba oral tradition",
+            "Ifá divination verses"
+          ],
+          "caveat": "The cap's colours vary between tellings (often red and black, sometimes red and white or blue)."
+        },
+        {
+          "culture": "north-american",
+          "people": "Ho-Chunk (Winnebago)",
+          "title": "Wakdjunkaga's Quarrelling Hands",
+          "teaser": "A trickster whose right arm and left arm fight over a buffalo.",
+          "text": "The Ho-Chunk trickster cycle, dictated to the anthropologist Paul Radin by Sam Blowsnake, follows Wakdjunkaga, 'the Tricky One', through a string of misadventures that are funny, obscene and oddly profound.\n\nAt the start he is a chief who abandons his war party and wanders off alone. He kills a buffalo, and while he is butchering it, his left arm grabs at the meat. The right arm fights it off; the left arm fights back, until it is cut and bleeding and Wakdjunkaga cries, 'Why have I done this?' He does not yet know his own body. Later he tells his anus to guard roasting ducks, is robbed, and burns it in punishment, and then unknowingly eats his own flesh.\n\nBy the end of the cycle he has learned, piece by piece, what a body is and how the world works, and he removes obstacles from the Mississippi for the people who will come.",
+          "names": [
+            "Wakdjunkaga",
+            "Sam Blowsnake"
+          ],
+          "sources": [
+            "Paul Radin, The Trickster: A Study in American Indian Mythology (1956)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "war-in-heaven",
+      "summary": "Many mythologies remember a great war among the gods themselves: older powers against younger, one divine family against another, order against disorder. The winners become the gods people actually worship; the losers are imprisoned below, demoted to demons, or absorbed by treaty. The Hurrian-Hittite, Babylonian and Greek succession myths are so alike that most scholars accept Near Eastern influence on Hesiod, while Indo-European comparativists see an inherited pattern in the Norse and Indian wars between divine clans. The motif also reflects real politics: conquests, alliances and the merging of cults.",
+      "versions": [
+        {
+          "culture": "anatolian",
+          "people": "Hurrian-Hittite",
+          "title": "Kingship in Heaven",
+          "teaser": "Four generations of gods overthrow each other, one bite at a time.",
+          "text": "The Hittite 'Song of Kumarbi', translated from a Hurrian original, tells of kings in heaven who each rule nine years. First Alalu is king, until his cupbearer Anu, the Sky, overthrows him and drives him down to the dark earth. Then Anu's cupbearer Kumarbi rebels. As Anu flees upward, Kumarbi catches him by the feet, drags him down and bites off his genitals.\n\nKumarbi rejoices, until Anu tells him the truth: he has swallowed the Sky's seed and is now pregnant with three terrible gods, chief among them the Storm God Teshub. Kumarbi spits some out, but Teshub is born anyway, and in the damaged later columns he apparently takes the throne.\n\nKumarbi never accepts defeat. In the sequel, the Song of Ullikummi, he fathers a stone giant to challenge the storm god. Greek readers will recognise the plot: sky, castration, swallowed children and a storm god who rises last.",
+          "names": [
+            "Alalu",
+            "Anu",
+            "Kumarbi",
+            "Teshub"
+          ],
+          "sources": [
+            "Song of Kumarbi (CTH 344)",
+            "Song of Ullikummi (CTH 345)"
+          ],
+          "caveat": "The tablets are badly broken at key points, so the details of Teshub's victory are reconstructed."
+        },
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "Marduk Against Tiamat",
+          "teaser": "The young gods are too noisy, and their ancestors decide to kill them.",
+          "text": "In Enūma Eliš the first powers are Apsu, the fresh water, and Tiamat, the sea. The younger gods they produce are so noisy that Apsu cannot sleep and resolves to destroy them. The clever Ea learns of the plan, casts a spell on Apsu and kills him.\n\nTiamat, at first patient, is stirred to revenge. She creates an army of monsters, serpents with venom for blood, and puts the god Kingu at its head, fastening the Tablet of Destinies on his chest. The gods are terrified; Anu and Ea both turn back.\n\nMarduk, Ea's son, agrees to fight on one condition: that he be made king. Armed with bow, net and the four winds, he drives a wind into Tiamat's open mouth, shoots an arrow into her belly, and splits her body in two like a dried fish, making sky from one half and earth from the other. Humanity is made from Kingu's blood.",
+          "names": [
+            "Marduk",
+            "Tiamat",
+            "Apsu",
+            "Ea",
+            "Kingu"
+          ],
+          "sources": [
+            "Enūma Eliš, Tablets I–VI"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic and Brāhmaṇic",
+          "title": "Devas and Asuras",
+          "teaser": "Brothers, children of one father, fighting forever over the sacrifice.",
+          "text": "The Brāhmaṇas, prose ritual manuals attached to the Vedas, return again and again to a formula: 'The devas and the asuras, both children of Prajāpati, contended.' The gods and their rivals are brothers, and they fight over the worlds, the sacrifice and speech itself.\n\nThe asuras are often stronger, more numerous, and at first winning. The gods win by knowledge: they discover the correct rite, the right metre, the secret of the offering, and the asuras, who perform the sacrifice wrongly or arrogantly, lose. In one story the asuras make their offerings into their own mouths, while the gods make them to each other, and so win.\n\nThe word asura itself is revealing. In the oldest Rigveda it is an honorific applied even to Varuṇa and Indra; later it means 'demon'. In Iran, the cognate ahura became the name of the supreme god, Ahura Mazdā.",
+          "names": [
+            "Devas",
+            "Asuras",
+            "Prajāpati"
+          ],
+          "sources": [
+            "Śatapatha Brāhmaṇa",
+            "Aitareya Brāhmaṇa",
+            "Chāndogya Upaniṣad 1.2"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "The Titanomachy",
+          "teaser": "Ten years of war, until the Hundred-Handers throw three hundred rocks.",
+          "text": "Zeus and his siblings, rescued from their father Kronos's stomach, go to war against the Titans for rule of the world. For ten years they fight from Mount Olympus, the Titans from Mount Othrys, and neither side gives way.\n\nOn Gaia's advice, Zeus frees the Hundred-Handers, Kottos, Briareos and Gyges, whom Ouranos had imprisoned beneath the earth, and gives them nectar and ambrosia to revive their strength. Hesiod's battle is cosmic: the sea roars, the earth groans, Zeus hurls lightning until forests burn and the ocean boils. The Hundred-Handers throw three hundred rocks at once, burying the Titans in shadow, then chain them in Tartarus, as far below the earth as the earth is below heaven. A bronze anvil, Hesiod adds, would fall nine days and nights to get there.\n\nThe Hundred-Handers stay as their guards.",
+          "names": [
+            "Zeus",
+            "Kronos",
+            "Titans",
+            "Briareos"
+          ],
+          "sources": [
+            "Hesiod, Theogony 617–735"
+          ],
+          "image": {
+            "file": "File:Joachim Wtewael - The Battle Between the Gods and the Titans - WGA25902.jpg",
+            "caption": "The Battle Between the Gods and the Titans, painting by Joachim Wtewael, c. 1600"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "The Yellow Emperor and Chiyou",
+          "teaser": "Chiyou summons wind and rain; the Yellow Emperor sends Drought.",
+          "text": "The Shanhaijing, the Classic of Mountains and Seas, preserves a fragment of a divine war. Chiyou, a fearsome figure later remembered as the inventor of weapons, made war on the Yellow Emperor, Huangdi. Huangdi ordered the winged dragon Yinglong to attack him on the plain of Jizhou and to store up water. But Chiyou asked the Wind Lord and the Rain Master to unleash a great storm.\n\nHuangdi then sent down a heavenly woman called Ba, the spirit of drought. The rain stopped, and Chiyou was killed. But Ba could not return to heaven, and wherever she lives, no rain falls. People drive her away by clearing the ditches and commanding, 'Goddess, go north!'\n\nLater historians, beginning with Sima Qian, rewrote the war as history: a battle at Zhuolu between human rulers, from which Chinese civilisation traced its founding.",
+          "names": [
+            "Huangdi",
+            "Chiyou",
+            "Yinglong",
+            "Ba"
+          ],
+          "sources": [
+            "Shanhaijing, Dahuang beijing (Great Wilderness: North)",
+            "Sima Qian, Shiji 1"
+          ],
+          "image": {
+            "file": "File:Chi You.gif",
+            "caption": "Chiyou, rubbing of a Han-dynasty stone relief"
+          }
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "The Second Battle of Mag Tuired",
+          "teaser": "Lug's sling-stone drives Balor's deadly eye through the back of his head.",
+          "text": "The Tuatha Dé Danann, the divine people of Ireland, suffer under the oppression of the Fomoire, whose king Bres, half-Fomorian, is so stingy that his guests leave his hall with ungreased knives and breath that smells of nothing.\n\nThe young god Lug arrives at Tara as master of every art and leads the rebellion. The Dé Danann craftsmen forge weapons, their physicians fill a healing well that restores the fallen, and the two peoples meet at Mag Tuired.\n\nThe Fomorian champion is Balor, whose eye is so poisonous that it takes four men to lift its lid with a polished handle, and any army it looks on is destroyed. When the lid is raised, Lug casts a sling-stone that drives the eye out through the back of his head, where it falls on his own troops.\n\nThe Morrígan ends the tale with a prophecy of the world's end.",
+          "names": [
+            "Lug",
+            "Balor",
+            "Bres",
+            "Nuada",
+            "Morrígan"
+          ],
+          "sources": [
+            "Cath Maige Tuired (The Second Battle of Mag Tuired)"
+          ],
+          "caveat": "The text was written by Christian monks, who framed the Tuatha Dé as ancient inhabitants of Ireland rather than gods."
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian",
+          "title": "Ahriman's Assault",
+          "teaser": "The Evil Spirit bursts through the sky and poisons creation.",
+          "text": "In the Zoroastrian cosmology of the Bundahišn, history is a war between Ohrmazd, the Wise Lord, and Ahriman, the Destructive Spirit. Ohrmazd first creates the world in a perfect, motionless spiritual form, and recites a sacred prayer that stuns Ahriman for three thousand years.\n\nWhen Ahriman wakes, he attacks. He bursts through the sky like a snake, pierces the earth, fouls the waters with salt, withers the plants, and sends plague and death upon the first bull and the first man, Gayōmard. Each of Ohrmazd's heavenly powers, the Amahraspands, is now paired with a demon who opposes it, and every human being joins the war by choosing good thoughts, words and deeds.\n\nThe war has an end: after twelve thousand years, a saviour will raise the dead, molten metal will purify the world, and Ahriman will be destroyed.",
+          "names": [
+            "Ohrmazd",
+            "Ahriman",
+            "Gayōmard",
+            "Amahraspands"
+          ],
+          "sources": [
+            "Bundahišn",
+            "Yasna 30 (Gāthās)"
+          ]
+        },
+        {
+          "culture": "norse",
+          "title": "The Æsir–Vanir War",
+          "teaser": "The first war in the world ends in hostages and a truce.",
+          "text": "Völuspá calls it 'the first war in the world'. It begins when the Æsir stab a mysterious woman, Gullveig, with spears and burn her three times in Odin's hall, and three times she is reborn. Odin then hurls his spear over the enemy host, and war breaks out with the Vanir, the gods of fertility. The Vanir break down the walls of Asgard.\n\nNeither side can win, so they make peace and exchange hostages. The Vanir send Njörðr and his son Freyr, and Freyja comes too; the Æsir send Hœnir and wise Mímir. When the Vanir feel cheated by Hœnir's indecision, they behead Mímir and send the head back to Odin, who preserves it with herbs and consults it ever after.\n\nIn Snorri's telling, the gods seal the truce by spitting into a vat; from that spittle they make Kvasir, the wisest of beings.",
+          "names": [
+            "Æsir",
+            "Vanir",
+            "Gullveig",
+            "Njörðr",
+            "Mímir"
+          ],
+          "sources": [
+            "Völuspá 21–24",
+            "Ynglinga saga 4",
+            "Skáldskaparmál"
+          ],
+          "image": {
+            "file": "File:Æsir-Vanir war by Frølich.jpg",
+            "caption": "Odin hurls his spear over the Vanir host, illustration by Lorenz Frølich, published 1895"
+          }
+        },
+        {
+          "culture": "aztec",
+          "people": "Mexica (Aztec)",
+          "title": "Huitzilopochtli at Snake Mountain",
+          "teaser": "The war god is born fully armed to defend his mother.",
+          "text": "At Coatepec, Snake Mountain, the goddess Coatlicue was sweeping when a ball of feathers fell from the sky. She tucked it into her waistband and found herself pregnant. Her daughter Coyolxauhqui and her four hundred sons, the Centzon Huitznahua, were outraged at the disgrace and resolved to kill her.\n\nAs they marched up the mountain, the child in her womb spoke to comfort her. At the moment they arrived, Huitzilopochtli was born, fully armed, his face painted, bearing the fire serpent Xiuhcoatl. He struck off Coyolxauhqui's head, and her body tumbled down the mountain and broke apart. Then he chased the four hundred around the mountain and slew most of them.\n\nThe Mexica built their Templo Mayor as Snake Mountain. In 1978 workers found at its foot a huge carved stone of Coyolxauhqui, dismembered, just as the story says.",
+          "names": [
+            "Huitzilopochtli",
+            "Coatlicue",
+            "Coyolxauhqui",
+            "Centzon Huitznahua"
+          ],
+          "sources": [
+            "Bernardino de Sahagún, Florentine Codex, Book 3"
+          ],
+          "image": {
+            "file": "File:Coyolxāuhqui.jpg",
+            "caption": "Colour reconstruction of the dismembered Coyolxauhqui stone, Museo del Templo Mayor, Mexico City"
+          }
+        }
+      ]
+    },
+    {
+      "id": "drink-of-immortality",
+      "summary": "Gods are often immortal not by nature but by diet: they drink or eat something that mortals lack. Soma and haoma, ambrosia and nectar, the elixir of the Chinese immortals and the 'water of life' offered to Adapa all express the idea that eternal life is a substance that can be guarded, stolen or refused. The Indo-Iranian soma/haoma is a genuine shared inheritance, a real ritual drink whose identity is still debated; the other parallels probably arise independently, from the human habit of imagining life as something taken in at the mouth.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "Adapa Refuses the Bread of Life",
+          "teaser": "Warned to refuse poison, Adapa turns down immortality instead.",
+          "text": "Adapa, the wise priest of the god Ea at Eridu, is fishing when the South Wind capsizes his boat. In anger he curses it and breaks its wing, and for seven days no wind blows over the land. Anu summons him to heaven to explain.\n\nEa gives him careful advice. Wear mourning, flatter the gatekeepers Tammuz and Gizzida, and above all, when they offer you the bread of death and the water of death, do not eat or drink. Adapa obeys. But Anu, softened by the gatekeepers, offers instead the bread of life and the water of life. Adapa refuses them.\n\nAnu laughs: 'Why did you not eat or drink? Now you shall not live.' Whether Ea was mistaken or meant it all along is the puzzle of the story. Either way, humanity's chance at eternal life was turned down politely at the door.",
+          "names": [
+            "Adapa",
+            "Ea",
+            "Anu",
+            "Tammuz"
+          ],
+          "sources": [
+            "Adapa myth (Amarna tablet and Assyrian fragments)"
+          ],
+          "image": {
+            "file": "File:Fragment of the Epic of Adapa, Akkadian, Mesopotamia, Neo-Assyrian period, c. 7th century BC, clay - Morgan Library & Museum - New York City - DSC06601.jpg",
+            "caption": "Fragment of the Adapa myth from the library of Assurbanipal, 7th century BCE, Morgan Library & Museum"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "We Have Drunk the Soma",
+          "teaser": "A pressed plant juice that made its drinkers feel like gods.",
+          "text": "Soma was both a god and a drink: the juice of a mountain plant, pressed between stones, filtered through wool and mixed with milk, offered to the gods and drunk by the priests. The whole ninth book of the Rigveda is devoted to Soma Pavamāna, 'self-purifying', flowing through the sieve.\n\nIts effects were extraordinary. In Rigveda 8.48 the singers exult: 'We have drunk the soma, we have become immortal, we have gone to the light, we have found the gods.' Indra drinks lakes of it before battle. In another hymn a drinker feels himself swelling larger than heaven and earth.\n\nThe myth says an eagle stole soma from heaven and brought it to Indra. Its botanical identity was lost long ago; ephedra, fly agaric and other candidates have been argued for decades, and no answer is agreed.",
+          "names": [
+            "Soma",
+            "Indra",
+            "Agni"
+          ],
+          "sources": [
+            "Rigveda, Book 9",
+            "Rigveda 8.48",
+            "Rigveda 4.26–27"
+          ],
+          "caveat": "The plant's identity is unknown and every proposed identification remains contested."
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian",
+          "title": "Haoma, the Death-Averting",
+          "teaser": "Zarathustra meets a radiant being, the ritual drink in person.",
+          "text": "In Iran the same drink, haoma, cognate with soma, is still prepared in Zoroastrian ritual. Its hymn in the Avesta, the Hōm Yašt, opens with Zarathustra tending the fire at dawn when a beautiful figure approaches: it is Haoma himself, who tells the prophet to press him and praise him. Haoma is called dūraoša, 'death-averting', and grants health, strong sons and victory.\n\nLater Pahlavi texts add a cosmic dimension. In the sea Vourukasha grows the White Haoma, or Gōkarn, a tree whose juice will make the resurrected immortal at the end of time. Ahriman sends a lizard to gnaw at its roots, and ten fish circle it forever on guard.\n\nIn modern Parsi ritual the priests pound twigs of a plant, usually ephedra, with pomegranate and water, preserving a practice older than Zarathustra.",
+          "names": [
+            "Haoma",
+            "Zarathustra",
+            "Gōkarn"
+          ],
+          "sources": [
+            "Yasna 9–11 (Hōm Yašt)",
+            "Bundahišn"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Nectar, Ambrosia and Tantalus",
+          "teaser": "Gods bleed ichor because they never touch bread or wine.",
+          "text": "The Olympians eat ambrosia and drink nectar, the only food of immortals. When Diomedes wounds Aphrodite in the Iliad, what flows is ichor, 'for they eat no bread, nor drink gleaming wine, and so they are bloodless and are called immortal'. Ambrosia can also be rubbed on the skin, used to preserve a corpse, or fed to divine horses.\n\nThe food is guarded jealously. Pindar tells that Tantalus, a mortal honoured at the gods' table, stole nectar and ambrosia to share with his drinking companions, and so was punished forever. Demeter, disguised as a nursemaid, anoints the baby Demophon with ambrosia and places him in the fire each night to burn away his mortality, until his horrified mother interrupts her.\n\nEven the word ambrosia means simply 'not-mortal-ness', a name that makes the claim.",
+          "names": [
+            "Tantalus",
+            "Demeter",
+            "Demophon"
+          ],
+          "sources": [
+            "Homer, Iliad 5.339–342",
+            "Pindar, Olympian 1",
+            "Homeric Hymn to Demeter 231–262"
+          ]
+        },
+        {
+          "culture": "chinese",
+          "title": "Chang'e Steals the Elixir",
+          "teaser": "The archer's wife swallows his elixir and floats to the moon.",
+          "text": "The great archer Yi, who shot down nine of the ten suns scorching the earth, obtained an elixir of immortality from the Queen Mother of the West, Xiwangmu, in her palace on Mount Kunlun. Before he could use it, his wife Heng'e, later called Chang'e, stole it, swallowed it and fled to the moon.\n\nThe Huainanzi, a Han compendium of the second century BCE, gives the story in a single wistful sentence: Yi was left grieving, with nothing he could do, 'for he did not know where the elixir came from'.\n\nLater versions soften Chang'e, making her swallow it to keep it from a thief, and give her company in the Moon Palace: a jade hare pounding the elixir in a mortar, and a woodcutter endlessly chopping a cassia tree. At the Mid-Autumn Festival families still look for them in the full moon.",
+          "names": [
+            "Chang'e",
+            "Yi",
+            "Xiwangmu",
+            "Jade Rabbit"
+          ],
+          "sources": [
+            "Huainanzi 6 (Lanming xun)"
+          ],
+          "image": {
+            "file": "File:Chang'e flees to the moon by Tsukioka Yoshitoshi.jpg",
+            "caption": "Chang'e flees to the moon, woodblock print by Tsukioka Yoshitoshi, before 1892"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic and Epic",
+          "title": "Churning the Ocean of Milk",
+          "teaser": "Gods and demons churn the ocean together, then fight over the result.",
+          "text": "Weakened, the gods need amṛta, the nectar of immortality, and the only way to get it is to churn the Ocean of Milk. They cannot do it alone, so they make a truce with the asuras. Mount Mandara serves as the churning rod, the serpent king Vāsuki as the rope, and Viṣṇu, as a giant tortoise, supports the mountain on his back.\n\nFrom the ocean emerge wonders: the moon, the goddess Lakṣmī, a wish-granting cow, the horse Uccaiḥśravas, and also a deadly poison that Śiva drinks to save the world, which stains his throat blue. At last the physician Dhanvantari rises holding the pot of amṛta.\n\nThe asuras seize it. Viṣṇu appears as the enchantress Mohinī and serves it only to the gods. The demon Rāhu slips into line and drinks, but the Sun and Moon expose him; his head, now immortal, still swallows them in eclipses.",
+          "names": [
+            "Viṣṇu",
+            "Vāsuki",
+            "Mohinī",
+            "Rāhu",
+            "Dhanvantari"
+          ],
+          "sources": [
+            "Mahābhārata, Ādi Parva 15–17",
+            "Bhāgavata Purāṇa, Book 8",
+            "Viṣṇu Purāṇa 1.9"
+          ],
+          "image": {
+            "file": "File:Churning of the ocean - Manthan.jpg",
+            "caption": "The churning of the ocean, from the Razmnāma (Persian Mahābhārata), attributed to Fattu, c. 1598"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Iðunn's Apples",
+          "teaser": "Without their daily apples, the gods grow grey and wrinkled.",
+          "text": "The Norse gods keep their youth by eating apples kept by the goddess Iðunn. Snorri tells how Loki, captured by the giant Þjazi in eagle form, is forced to promise to bring Iðunn out of Asgard. He lures her into a wood, saying he has found apples even better than hers; Þjazi swoops down and carries her off.\n\nWithout her, the gods quickly become grey and old. They trace the disappearance to Loki and threaten him with death. He borrows Freyja's falcon cloak, flies to Þjazi's hall, turns Iðunn into a nut, and flies home with her in his claws. Þjazi pursues as an eagle, but the gods light a fire of wood shavings under Asgard's walls and his feathers catch fire; the gods kill him.\n\nImmortality here is not a nature but a supply chain, and it can be stolen.",
+          "names": [
+            "Iðunn",
+            "Loki",
+            "Þjazi"
+          ],
+          "sources": [
+            "Skáldskaparmál",
+            "Þjóðólfr of Hvinir, Haustlǫng"
+          ],
+          "caveat": "Iðunn's gift is food, not drink, and the apples themselves may be a later or learned detail.",
+          "image": {
+            "file": "File:Idun and the Apples by James Doyle Penrose, 1890.jpg",
+            "caption": "Idun and the Apples, painting by James Doyle Penrose, 1890"
+          }
+        }
+      ]
+    },
+    {
+      "id": "divine-smith",
+      "summary": "Where there is metalwork there is usually a god of the forge: a maker of weapons, jewels and palaces for other gods, often lame, ugly, marginal, or otherwise set apart from the beautiful immortals he equips. The smith god embodies a real social fact: smiths in many societies were respected, feared and slightly outside ordinary life, keepers of a craft close to magic. Some names are related, but most smith gods are independent creations, shaped by the same experience of fire turning rock into tools.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "Ptah Creates by Speech",
+          "teaser": "The god of craftsmen made the world by thinking and speaking.",
+          "text": "Ptah of Memphis was the patron of sculptors, metalworkers and builders, shown as a mummiform man in a close-fitting cap, holding a sceptre. His high priest bore the title 'Greatest of the Directors of Craftsmanship'.\n\nBut the Memphite priests made Ptah far more than a craftsman. The text known as the Memphite Theology, carved on the Shabaka Stone around 700 BCE, claims that Ptah created the gods and the whole world through his heart and his tongue: he conceived things in thought and brought them into being by naming them. Even the creator Atum and his Ennead came into existence this way.\n\nThe Greeks later identified Ptah with Hephaestus. The difference is telling: the Greek smith labours sweating at an anvil, while Ptah's greatest work was done by a word.",
+          "names": [
+            "Ptah",
+            "Sekhmet",
+            "Nefertem"
+          ],
+          "sources": [
+            "Memphite Theology (Shabaka Stone, British Museum EA 498)"
+          ],
+          "caveat": "The text claims to copy an ancient worm-eaten original, but many scholars now date its composition to the late New Kingdom or to Shabaka's own reign.",
+          "image": {
+            "file": "File:The Shabaka Stone.JPG",
+            "caption": "The Shabaka Stone, bearing the Memphite Theology, c. 700 BCE, British Museum"
+          }
+        },
+        {
+          "culture": "levantine",
+          "people": "Ugaritic",
+          "title": "Kothar and the Window",
+          "teaser": "The craftsman god argues with Baal about a window, and wins.",
+          "text": "Kothar-wa-Khasis, 'Skilful-and-Wise', is the craftsman of the Ugaritic gods, whose workshops lie far away in Kaphtor, probably Crete, and Memphis. He makes Baal's weapons, a throne and couch and gifts of gold for the goddess Athirat, and eventually Baal's palace of silver, gold and lapis lazuli on Mount Saphon.\n\nThe building scene contains a charming quarrel. Kothar says the house needs a window. Baal refuses: his enemy Yam must not get in, and he fears for his daughters. Kothar replies calmly, 'You will come back to my word, Baal.' Baal refuses twice more, the palace is completed with a six-day fire that melts the precious metal into bricks, and then, having defeated his enemies, Baal changes his mind. The window is opened, and through it Baal gives his holy voice: thunder, and the rain.\n\nThe smith, of course, was right.",
+          "names": [
+            "Kothar-wa-Khasis",
+            "Baal",
+            "Athirat"
+          ],
+          "sources": [
+            "Baal Cycle (KTU 1.4)"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Tvaṣṭṛ and the Ṛbhus",
+          "teaser": "Three craftsman brothers improve on the gods' master smith.",
+          "text": "Tvaṣṭṛ, 'the Fashioner', is the Vedic artisan god. He forged Indra's vajra, shapes the embryo in the womb, and owns a marvellous cup from which the gods drink soma.\n\nBut the Rigveda also praises three rival craftsmen, the Ṛbhus, sons of Sudhanvan. They renewed their aged parents' youth, made a chariot that ran by itself for the Aśvins, and fashioned a cow from a hide. Their greatest feat was a challenge: they took Tvaṣṭṛ's single cup and made four from it. The gods were so impressed that the Ṛbhus, though born mortal, were given immortality and a share of the soma. Tvaṣṭṛ, according to one hymn, hid among the goddesses in embarrassment.\n\nThe story is an early piece of craft pride: skill good enough can raise a worker to heaven.",
+          "names": [
+            "Tvaṣṭṛ",
+            "Ṛbhus",
+            "Indra"
+          ],
+          "sources": [
+            "Rigveda 1.20",
+            "Rigveda 1.161",
+            "Rigveda 4.33–37"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Hephaestus Thrown from Heaven",
+          "teaser": "The lame smith god builds golden robots and a shield for Achilles.",
+          "text": "Hephaestus is the one Olympian who works. He was thrown out of heaven twice, the Iliad says: once by Hera, ashamed that her son was born lame, when he fell into the sea and was sheltered by Thetis; once by Zeus, for taking his mother's side, when he fell all day and landed on Lemnos at sunset, barely alive.\n\nHis forge on Olympus is a wonder. He has twenty tripods that roll by themselves to the gods' assemblies, and golden maidservants 'like living girls', with minds and voices, who help him walk. When Thetis asks for armour for Achilles, he makes a shield showing the whole world: earth, sea and sky, a city at peace and a city at war, a wedding, a lawsuit, a harvest and a dance.\n\nThe gods still laugh at him limping round with the wine. He outlasts their laughter by making everything they use.",
+          "names": [
+            "Hephaestus",
+            "Hera",
+            "Thetis",
+            "Achilles"
+          ],
+          "sources": [
+            "Homer, Iliad 1.590–594",
+            "Homer, Iliad 18.368–617"
+          ],
+          "image": {
+            "file": "File:Edward Smith - Thetis Entreats Hephaestus, who is Supported on Two Artificial Golden Handmaids, to Provide Achilles with Armour, 1805.jpg",
+            "caption": "Thetis entreats Hephaestus, supported by his golden handmaids, engraving by Edward Smith after Henry Fuseli, 1805"
+          }
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "Goibniu's Three Blows",
+          "teaser": "The Irish smith makes a spearhead with three strokes of the hammer.",
+          "text": "In the Second Battle of Mag Tuired, the smith Goibniu promises that however long the war lasts, he will replace every broken spear and sword. He works with two companions: Luchta the wright, who makes shafts, and Credne the brazier, who makes rivets. Goibniu forges each spearhead with three blows. Luchta hurls the shaft into the socket, and Credne flings the rivets so they fly straight into their holes.\n\nThe Fomoire send a spy, Ruadán, son of Bres and Brigit. He takes a spear from the forge and wounds Goibniu with it, but the smith pulls it out and kills him, and Brigit's keening over her son is said to be the first keening heard in Ireland.\n\nLater Irish tales give him a feast, the Fled Goibnenn, whose ale kept those who drank it from age and death.",
+          "names": [
+            "Goibniu",
+            "Luchta",
+            "Credne",
+            "Ruadán",
+            "Brigit"
+          ],
+          "sources": [
+            "Cath Maige Tuired (The Second Battle of Mag Tuired)"
+          ],
+          "caveat": "Like the rest of the Irish mythological cycle, this was written down by Christian monks, centuries after the gods ceased to be worshipped."
+        },
+        {
+          "culture": "slavic",
+          "people": "East Slavic (Rus')",
+          "title": "Svarog and the Fallen Tongs",
+          "teaser": "A chronicler's gloss makes a Slavic god the equal of Hephaestus.",
+          "text": "Nearly everything known of Svarog comes from one passage. The Hypatian Codex of the Rus' chronicles includes a translation of the Byzantine historian John Malalas, and under the year 1114 it renders his account of early Egyptian kings with a native gloss: in the reign of Feost, whom the Egyptians called Svarog, tongs fell from the sky and men began to forge weapons, since before that they had fought with clubs and stones. Feost is Malalas's Hephaestus. The gloss then names his son as the Sun, Dazhbog.\n\nThat single equation, Svarog equals Hephaestus, has launched a great deal of speculation about a Slavic smith and sky god. Svarozhich, 'son of Svarog', appears separately in Western Slavic sources as a god worshipped at Rethra.\n\nIt is a reminder how thin the thread of pagan Slavic religion can be: sometimes one borrowed sentence.",
+          "names": [
+            "Svarog",
+            "Dazhbog",
+            "Svarozhich"
+          ],
+          "sources": [
+            "Hypatian Codex, entry for 1114 (translating John Malalas)",
+            "Thietmar of Merseburg, Chronicon"
+          ],
+          "caveat": "Svarog's smithing role rests entirely on a chronicler's gloss equating him with Hephaestus; its reliability is debated."
+        },
+        {
+          "culture": "norse",
+          "title": "The Dwarves' Wager",
+          "teaser": "Two dwarf smiths forge the gods' treasures to win Loki's head.",
+          "text": "Loki, as a prank, cuts off all of Sif's golden hair. Threatened by Thor, he goes to the dwarves, the Sons of Ivaldi, who forge new hair of real gold that will grow like her own, and also the folding ship Skíðblaðnir and Odin's spear Gungnir.\n\nThen Loki bets his head that the dwarf Brokkr's brother Eitri cannot make three treasures as good. Eitri sets pigskin in the forge and tells Brokkr to pump the bellows without stopping. A fly bites Brokkr's hand, but out comes the golden boar Gullinbursti. Then gold; the fly bites his neck, and out comes the ring Draupnir, which drips eight rings like itself every ninth night. Then iron; the fly, Loki in disguise, bites his eyelid, Brokkr stops a moment to brush it away, and the hammer Mjölnir emerges with its handle a little short.\n\nThe gods judge the hammer best. Loki, losing, saves his head by arguing that Brokkr has no claim on his neck. Brokkr sews his lips shut instead.",
+          "names": [
+            "Brokkr",
+            "Eitri",
+            "Loki",
+            "Sif"
+          ],
+          "sources": [
+            "Skáldskaparmál"
+          ]
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "Ilmarinen Forges the Sampo",
+          "teaser": "The smith who hammered out the sky makes a magic mill.",
+          "text": "Ilmarinen is the eternal smith of Finnish and Karelian song, who once forged the lid of the sky itself, 'with no trace of the hammer, no mark of the tongs'. When the North's formidable mistress Louhi promises him her daughter if he can make the Sampo, a mysterious object that grinds out grain, salt and money, he builds a forge in the land of Pohjola.\n\nFor days he works the bellows and fire, and from the flames come a crossbow that demands a head each day, a boat that seeks out war, a cow that spills its milk, a plough that tramples neighbours' fields. He breaks each one back into the fire. At last the Sampo rises, with its lid of many colours, and begins to grind.\n\nLouhi locks it in a hill of copper behind nine locks, and the heroes' later attempt to steal it back shatters it at sea.",
+          "names": [
+            "Ilmarinen",
+            "Louhi",
+            "Väinämöinen",
+            "Sampo"
+          ],
+          "sources": [
+            "Kalevala, runos 10 and 39–43",
+            "Karelian runo-songs"
+          ],
+          "caveat": "The Kalevala sequence is Lönnrot's arrangement; in the folk songs the Sampo's forging and nature vary widely.",
+          "image": {
+            "file": "File:Joseph Alanen - The Forging of the Sampo.jpg",
+            "caption": "The Forging of the Sampo, painting by Joseph Alanen, 1910–11"
+          }
+        },
+        {
+          "culture": "west-african",
+          "people": "Yoruba",
+          "title": "Ògún Clears the Road",
+          "teaser": "When the gods came to earth, only iron could cut the way.",
+          "text": "Ògún is the Yoruba god of iron, and so of hunters, warriors, blacksmiths and, today, drivers, mechanics and anyone whose livelihood depends on metal. In a well-known tradition, when the òrìṣà descended from heaven to the earth, they found the way blocked by impenetrable forest. The other gods failed to clear it. Ògún alone had an iron cutlass, and he hacked the path through. The grateful gods offered him kingship.\n\nHe later ruled the town of Ìrè but, in a terrible story, returned from war to find its people silent because of a ritual fast, took it as an insult and slaughtered them. In remorse he planted his sword in the ground and sank into the earth.\n\nOaths in Yoruba courts could be sworn on a piece of iron, in Ògún's name. The god of the road is also the god of the broken promise.",
+          "names": [
+            "Ògún",
+            "Ọbàtálá",
+            "Ìrè"
+          ],
+          "sources": [
+            "Yoruba oral tradition and Ifá verses",
+            "Sandra T. Barnes (ed.), Africa's Ogun: Old World and New (1989)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "love-and-war-goddess",
+      "summary": "In the ancient Near East and beyond, the same goddess often rules both desire and battle: passion and fury, the two forces that most completely overwhelm human reason. Inanna/Ishtar is the great example, and her influence spread through Canaanite Anat and Astarte, and possibly to Greek Aphrodite, who kept faint martial traces. Elsewhere, as among the Irish and Norse, similar combinations probably arose independently from goddesses of sovereignty and death. Modern readers sometimes find the pairing paradoxical; ancient worshippers apparently found it obvious.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Sumerian and Akkadian",
+          "title": "Inanna, Lady of Battle",
+          "teaser": "Battle is her dance; love is her field; nobody refuses her.",
+          "text": "Inanna, called Ishtar in Akkadian, is the goddess of sexual love and of war at once, and the morning and evening star. The hymns of Enheduanna, daughter of Sargon and priestess at Ur around 2300 BCE, praise her as a storm who 'rains fire', whose battle is 'the dance of Inanna'.\n\nIn Inanna and Ebih she destroys a mountain simply because it refused to bow to her. In the Epic of Gilgamesh, Tablet VI, she proposes marriage to Gilgamesh; he recites her list of discarded lovers, a shepherd turned into a wolf, a gardener turned into a frog or mole, and rejects her. In fury she demands that her father Anu send the Bull of Heaven against Uruk, threatening to break open the underworld and let the dead devour the living.\n\nKings claimed to be her lovers and her soldiers. The two roles were not in tension: both were about overwhelming power.",
+          "names": [
+            "Inanna",
+            "Ishtar",
+            "Enheduanna",
+            "Gilgamesh"
+          ],
+          "sources": [
+            "Enheduanna, Nin-me-šara (The Exaltation of Inanna)",
+            "Inanna and Ebih",
+            "Epic of Gilgamesh, Tablet VI"
+          ],
+          "image": {
+            "file": "File:The Queen of the Night (The Burney Relief) - British Museum.jpg",
+            "caption": "The 'Queen of the Night' (Burney Relief), Old Babylonian, c. 1800–1750 BCE, British Museum; often identified as Ishtar, though this is debated"
+          }
+        },
+        {
+          "culture": "egyptian",
+          "title": "Hathor Becomes Sekhmet",
+          "teaser": "The goddess of love turns lion and must be tricked with red beer.",
+          "text": "In the Book of the Heavenly Cow, found in the tombs of Tutankhamun and later kings, the aging sun god Ra learns that humanity is plotting against him. He sends his Eye, in the form of the goddess Hathor, to punish them. She becomes Sekhmet, the lioness, 'the Powerful One', and slaughters people in the desert, wading in their blood.\n\nRa relents, but she cannot be stopped. So he orders seven thousand jars of beer brewed and dyed red with ochre, and has them poured over the fields at night. At dawn the goddess sees what looks like a lake of blood, drinks it all, and returns drunk and peaceful, not recognising mankind.\n\nHathor was the golden goddess of love, music and drunkenness, Sekhmet the plague-bringer; they were two faces of one dangerous Eye. Her festivals of drunkenness remembered the night the world was saved by beer.",
+          "names": [
+            "Hathor",
+            "Sekhmet",
+            "Ra"
+          ],
+          "sources": [
+            "Book of the Heavenly Cow"
+          ],
+          "image": {
+            "file": "File:Statue of the goddess Sekhmet, granodiorite - Museo Egizio Turin C 250 p02.jpg",
+            "caption": "Granodiorite statue of Sekhmet, reign of Amenhotep III, c. 1390–1353 BCE, Museo Egizio, Turin"
+          }
+        },
+        {
+          "culture": "levantine",
+          "people": "Ugaritic",
+          "title": "Anat's Slaughter",
+          "teaser": "Heads bounce like balls around the young goddess as she fights.",
+          "text": "Anat, 'the Maiden', is Baal's sister and fiercest ally. In the Baal Cycle she shuts the doors of her house and makes war: she slays the people of seashore and sunrise, heads roll beneath her like balls, hands fly over her like locusts, and she ties heads to her back and hands to her belt. She wades knee-deep in the blood of soldiers, neck-deep in the gore of warriors, and her liver swells with laughter. Then she washes her hands in dew and rain.\n\nWhen Baal is killed by Death, she searches for him in mourning, and at last seizes Mot, splits him with a sword, winnows him, burns him and scatters him in the fields.\n\nIn Egypt, where Anat and her companion Astarte were adopted in the New Kingdom, they appear as warrior goddesses on horseback and as consorts of the gods.",
+          "names": [
+            "Anat",
+            "Baal",
+            "Mot",
+            "Astarte"
+          ],
+          "sources": [
+            "Baal Cycle (KTU 1.3 II, 1.6 II)"
+          ],
+          "caveat": "Anat's sexual role is contested; the love side of the pairing is clearer in Astarte and Ishtar."
+        },
+        {
+          "culture": "greek",
+          "title": "Armed Aphrodite",
+          "teaser": "Aphrodite loved Ares, and at Sparta she carried weapons.",
+          "text": "In Homer, Aphrodite is no warrior. When she enters the fighting at Troy to rescue her son Aeneas, Diomedes wounds her wrist, and Zeus gently tells her to stick to the works of marriage. Yet she is married to Hephaestus and in love with Ares, and the Odyssey's bard Demodocus sings how Hephaestus caught the two in bed in an invisible net, to the gods' 'unquenchable laughter'.\n\nHer link to war was more than an affair. The traveller Pausanias saw at Sparta an ancient armed image of Aphrodite and a temple of Aphrodite Areia, 'warlike', and at Cythera, her sacred island, an armed image of Aphrodite Ourania. Scholars have long connected these with her likely Near Eastern ancestry in Astarte and Ishtar, goddesses who rode to battle.\n\nIn classical Greece the war side faded. It remained in the myth that love and war share a bed.",
+          "names": [
+            "Aphrodite",
+            "Ares",
+            "Hephaestus",
+            "Diomedes"
+          ],
+          "sources": [
+            "Homer, Iliad 5.311–430",
+            "Homer, Odyssey 8.266–366",
+            "Pausanias 3.15.10, 3.17.5, 3.23.1"
+          ],
+          "caveat": "Aphrodite's Near Eastern origin is widely accepted but debated, and armed Aphrodites were local cults, not her usual character.",
+          "image": {
+            "file": "File:Guillemot, Alexandre Charles - Mars and Venus Surprised by Vulcan - Google Art Project.jpg",
+            "caption": "Mars and Venus Surprised by Vulcan, painting by Alexandre-Charles Guillemot, 1827"
+          }
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian",
+          "title": "Anāhitā, the Strong and Pure",
+          "teaser": "A river goddess whom heroes beseech for victory in battle.",
+          "text": "Arədvī Sūrā Anāhitā, 'the Moist, Strong, Undefiled', is the goddess of the heavenly river from which all waters flow. Her Avestan hymn, the Ābān Yašt, describes her as a tall, beautiful maiden in a golden mantle, wearing jewels, a crown of stars and a cloak of beaver skins, driving a chariot of four white horses: wind, rain, cloud and sleet.\n\nShe purifies men's seed and women's wombs and eases childbirth. Yet most of her hymn is a roll-call of kings and heroes, and even monsters, who sacrificed to her for victory. She grants it to Thraētaona against Aži Dahāka and to Kavi Haosrauuah against his rivals, and she refuses it to the wicked.\n\nUnder the Achaemenids Artaxerxes II set up her statues across the empire, and later Sasanian kings dedicated severed enemy heads in her temple at Istakhr.",
+          "names": [
+            "Anāhitā",
+            "Thraētaona",
+            "Artaxerxes II"
+          ],
+          "sources": [
+            "Yasht 5 (Ābān Yašt)",
+            "Berossus (via Clement of Alexandria)"
+          ],
+          "caveat": "Anāhitā's martial side is as granter of victory rather than a fighter herself, and her likely Ishtar influence is debated."
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "The Morrígan at the River",
+          "teaser": "The war goddess straddles a river and sleeps with the Dagda.",
+          "text": "The Morrígan, 'Phantom Queen' or 'Great Queen', is the Irish goddess of war, prophecy and death, who often appears as a crow over the battlefield. In the Second Battle of Mag Tuired, before the great fight, the Dagda meets her at Samhain by the river Unshin in Connacht, washing herself with one foot on the south bank and one on the north. They sleep together, and the place is known ever after as 'the Bed of the Couple'. She then promises him victory and tells him where the enemy will land.\n\nIn the Táin Bó Cúailnge she appears to the hero Cú Chulainn as a beautiful woman offering him her love. When he rejects her, she attacks him in the ford as an eel, a wolf and a hornless heifer.\n\nHer love is a pledge of victory, and a refusal is a declaration of war.",
+          "names": [
+            "Morrígan",
+            "Dagda",
+            "Cú Chulainn"
+          ],
+          "sources": [
+            "Cath Maige Tuired",
+            "Táin Bó Cúailnge",
+            "Táin Bó Regamna"
+          ]
+        },
+        {
+          "culture": "norse",
+          "title": "Freyja Chooses the Slain",
+          "teaser": "The goddess of love takes half the battle dead to her hall.",
+          "text": "Freyja is the most desired goddess in Norse myth: giants demand her as their price again and again, and Loki accuses her in Lokasenna of having slept with every god and elf in the hall. She weeps tears of red gold for her wandering husband Óðr and rides in a chariot drawn by cats.\n\nShe is also a goddess of the battle dead. The poem Grímnismál says that each day Freyja chooses half the fallen for her hall, Sessrúmnir, in the field of Fólkvangr, while Odin has the other half. Snorri adds that whenever she rides to battle, she takes half the slain. She also taught the Æsir seiðr, a sorcery that could be used to foresee and to shape fate.\n\nThe combination looks odd only from outside. A goddess of love who gathers the dead is claiming the whole of life at its most intense.",
+          "names": [
+            "Freyja",
+            "Óðr",
+            "Odin"
+          ],
+          "sources": [
+            "Grímnismál 14",
+            "Gylfaginning 24",
+            "Ynglinga saga 4"
+          ],
+          "image": {
+            "file": "File:Freyja riding with her cats (1874).jpg",
+            "caption": "Freyja riding in her cat-drawn wagon, illustration by Ludwig Pietsch"
+          }
+        }
+      ]
+    }
+  ]
+}

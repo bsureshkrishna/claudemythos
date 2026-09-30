@@ -1,0 +1,1240 @@
+{
+  "concepts": [
+    {
+      "id": "swan-maiden",
+      "summary": "A man comes upon bird-women bathing, seizes the feather garment one of them has shed, and so wins her as a wife. The marriage lasts for years, often with children, until she recovers her robe or he breaks a taboo, and she flies home, leaving him to grieve or to follow. The tale runs from Ireland to Japan, and folklorists file it with ATU 400, the quest for the lost wife. A. T. Hatto argued in 1961 for a north Eurasian origin tied to migrating swans and geese; diffusion along the steppe is likely for many versions, though not provable for all.",
+      "versions": [
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Urvaśī and Purūravas",
+          "teaser": "A king glimpses his apsaras wife among water birds on a lotus lake.",
+          "text": "The apsaras Urvaśī agrees to live with King Purūravas on one condition: she must never see him naked. The Gandharvas, missing her, steal the two lambs tied to her bed. Purūravas leaps up to chase them, a flash of lightning shows him bare, and Urvaśī is gone.\n\nHe wanders mad with grief until he finds her on a lotus lake, swimming with other apsarases in the form of water birds. In the Rigveda's dialogue hymn he begs her to return; she refuses in one of the Veda's bleakest lines: there are no friendships with women, their hearts are the hearts of hyenas. The Śatapatha Brāhmaṇa softens the ending: she bears his son, and the Gandharvas teach him a fire ritual by which he becomes one of them.\n\nNo robe is stolen here, but the bird-wife, the broken condition and the flight are all in place, some three thousand years ago.",
+          "names": [
+            "Urvaśī",
+            "Purūravas",
+            "Gandharvas"
+          ],
+          "sources": [
+            "Rigveda 10.95",
+            "Śatapatha Brāhmaṇa 11.5.1"
+          ],
+          "image": {
+            "file": "File:Urvashi-Pururavas by RRV.jpg",
+            "caption": "Urvaśī and Purūravas, painting by Raja Ravi Varma, 1890"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Buddhist",
+          "title": "Manoharā the Kinnarī",
+          "teaser": "A hunter snares a bird-woman; a prince crosses mountains to win her back.",
+          "text": "A hunter spies the kinnarī Manoharā, a winged woman of the Himalayan lakes, bathing with her companions. With an unfailing noose borrowed from a nāga he catches her, and gives her to Prince Sudhana, who loves her at sight.\n\nWhile the prince is away at war, the court priest persuades the king that she should be sacrificed. The queen, pitying her, returns the jewel Manoharā needs to fly, and she escapes to her father's kingdom, leaving a ring and directions for Sudhana with a hermit.\n\nSudhana follows through forests, over mountains, past monsters, and at the kinnara court he must pick his wife out from a crowd of identical maidens. He does, and brings her home.\n\nThe story became one of the best-loved in Southeast Asia, where it lives on in Thai dance-drama as Manora.",
+          "names": [
+            "Manoharā",
+            "Sudhana"
+          ],
+          "sources": [
+            "Divyāvadāna 30 (Sudhanakumārāvadāna)"
+          ]
+        },
+        {
+          "culture": "chinese",
+          "title": "The Feather-Robed Women",
+          "teaser": "Hidden under a rice-stack, a stolen feather robe waits for its owner.",
+          "text": "In Yuzhang a man sees six or seven women in a field, all dressed in feathers. He does not know they are birds. Creeping close, he takes the feather robe one of them has laid aside and hides it. The others fly off as birds; she alone cannot, and she becomes his wife.\n\nShe bears him three daughters. Years later she sends the girls to ask their father where the robe is kept, and they learn it lies beneath a stack of rice. She finds it, puts it on and flies away. Afterwards she comes back with robes for her daughters, and all four fly off together.\n\nThe story is told in a few plain lines in a fourth-century collection of marvels, and its stolen robe later migrated into the legend of the Cowherd and the Weaver Girl.",
+          "names": [
+            "Yuzhang"
+          ],
+          "sources": [
+            "Gan Bao, Soushen ji 14"
+          ]
+        },
+        {
+          "culture": "japanese",
+          "title": "The Heavenly Robe",
+          "teaser": "Eight white swans come down to bathe; a man's dog steals one robe.",
+          "text": "Eight heavenly maidens descend as white swans to bathe in the southern inlet of Lake Yogo in Ōmi. A man named Ikatomi, watching from the hills, sends his white dog to steal the robe of the youngest. Her sisters fly back to heaven; she stays, marries him, and bears him children. In time she finds her robe and flies home, and he is left lamenting on the shore.\n\nAnother early gazetteer, from Tango, has an old couple steal the robe; the maiden brews wonderful sake that makes them rich, and then they drive her out, and she wanders until she is worshipped as a goddess.\n\nThe noh play Hagoromo turns the story towards grace: the fisherman at Miho returns the robe, and she repays him with a dance before rising over Mount Fuji.",
+          "names": [
+            "Ikatomi",
+            "Lake Yogo",
+            "Miho"
+          ],
+          "sources": [
+            "Ōmi no kuni fudoki (fragment)",
+            "Tango no kuni fudoki (fragment)",
+            "Hagoromo (noh play)"
+          ]
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "The Dream of Óengus",
+          "teaser": "To win a swan-girl, the god of love becomes a swan himself.",
+          "text": "Óengus, son of the Dagda, sees a girl in a dream every night for a year and wastes away with longing. The search takes a year more before Bodb of Munster finds her at Loch Bél Dracon among a hundred and fifty maidens linked in pairs by silver chains. She is Caer Ibormeith, and she lives one year as a woman and the next as a swan.\n\nAt Samhain, when the maidens take bird form, Óengus goes to the lake and calls her. She agrees to come if she may return to the water. He turns into a swan too, and the two fly three times round the lake, singing so sweetly that everyone who hears them sleeps for three days and three nights. Then they fly to the Brug na Bóinne.\n\nHere the man does not steal the robe; he puts one on.",
+          "names": [
+            "Óengus",
+            "Caer Ibormeith",
+            "Bodb",
+            "Dagda"
+          ],
+          "sources": [
+            "Aislinge Óenguso (The Dream of Óengus)"
+          ]
+        },
+        {
+          "culture": "norse",
+          "title": "Völund and the Swan-Brides",
+          "teaser": "Three swan-maidens spin linen by a lake, then stay seven winters.",
+          "text": "Three brothers, Slagfiðr, Egill and Völund, come upon three women on the shore of a lake, spinning linen, with their swan-shapes laid beside them. They are Hlaðguðr svanhvít, Hervör alvitr and Ölrún, and the prose prologue calls them valkyries. The brothers take them home as wives.\n\nThey stay seven winters. In the eighth they grow restless, and in the ninth they are gone, flown off to fight in dark forests. Egill and Slagfiðr go looking for their wives. Völund stays in Wolfdales, hammering red gold into rings and waiting for his bright bride to come back.\n\nShe never does. Instead King Níðuðr's men come for him in his sleep, and the lonely smith's story turns to captivity and revenge.",
+          "names": [
+            "Völund",
+            "Hervör alvitr",
+            "Hlaðguðr svanhvít",
+            "Ölrún",
+            "Níðuðr"
+          ],
+          "sources": [
+            "Völundarkviða (Poetic Edda)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quest-for-immortality",
+      "summary": "A hero, often a king, refuses death and travels to the rim of the world, across a sea, through darkness or into the body of Night, to fetch a plant, fruit, water or elixir that will let him live forever. The quest nearly always fails, sometimes by a hair, and the lesson is that mortality is the human lot. The Gilgamesh epic is the oldest version, and its episodes may lie distantly behind the Alexander legends; the Chinese, Japanese and Polynesian stories are best read as independent answers to the same fear. (The snake that eats Gilgamesh's plant has its own page.)",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "Gilgamesh at the End of the World",
+          "teaser": "A grieving king crosses the Waters of Death to ask the flood survivor's secret.",
+          "text": "After Enkidu dies, Gilgamesh cannot bear the thought of becoming like him, and sets out to find Utnapishtim, the one man granted eternal life. He passes the scorpion-people at the mountains of Mashu and runs through the sun's road in total darkness, emerging in a garden whose trees bear jewels.\n\nThe alewife Siduri tells him to go home, wash, feast and hold a child's hand. He will not. The boatman Urshanabi takes him across the Waters of Death, Gilgamesh pushing with pole after pole so that the deadly water never touches his hand.\n\nUtnapishtim tells him of the flood, and then sets a test: stay awake for six days and seven nights. Gilgamesh falls asleep at once, and a loaf baked each day proves it. As a parting gift he learns of a plant under the Apsu called Old Man Grows Young, and dives for it, only to lose it to a snake on the road home.",
+          "names": [
+            "Gilgamesh",
+            "Utnapishtim",
+            "Siduri",
+            "Urshanabi"
+          ],
+          "sources": [
+            "Epic of Gilgamesh, Tablets IX–XI",
+            "Old Babylonian Gilgamesh (Sippar tablet)"
+          ]
+        },
+        {
+          "culture": "chinese",
+          "title": "Xu Fu Sails for Penglai",
+          "teaser": "The First Emperor sends thousands of children to sea for the herb of immortality.",
+          "text": "In 219 BCE the magician Xu Fu of Qi tells the First Emperor that three sacred mountains stand in the eastern sea, Penglai, Fangzhang and Yingzhou, where immortals live. The emperor sends him with several thousand boys and girls to find them.\n\nYears pass. When the emperor returns to the coast, Xu Fu explains that great sea creatures have blocked the way and asks for crossbowmen. The emperor dreams of fighting a sea god, and on the shore at Zhifu he shoots a huge fish himself. Within months he is dead on the road, his body hidden in a carriage among salted fish to mask the smell.\n\nXu Fu never came back. A later chapter of the Shiji says he found a land of wide plains and marshes, made himself king there, and stayed. Later tradition decided that land was Japan.",
+          "names": [
+            "Xu Fu",
+            "Qin Shi Huang",
+            "Penglai"
+          ],
+          "sources": [
+            "Sima Qian, Shiji 6 (Basic Annals of Qin Shi Huang)",
+            "Shiji 118"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Epic and Purāṇic",
+          "title": "The Churning of the Ocean",
+          "teaser": "Gods and demons churn the sea with a mountain for deathless nectar.",
+          "text": "The gods want amṛta, the nectar of immortality, and it lies dissolved in the ocean. Needing strength, they make a truce with their rivals the asuras. Mount Mandara becomes the churning stick, the serpent Vāsuki the rope, and a great tortoise holds up the mountain from below.\n\nAs they churn, wonders rise: the moon, the goddess Śrī, the white horse Uccaiḥśravas, the jewel Kaustubha, and at last the physician Dhanvantari holding a white pot of amṛta. A deadly poison rises too, and Śiva swallows it and holds it in his throat, which turns blue.\n\nThe asuras seize the pot, but Viṣṇu takes the form of an enchanting woman, Mohinī, and pours for the gods alone. The asura Rāhu slips in and tastes a drop; Viṣṇu's discus cuts off his head, which, having drunk, cannot die, and still chases the sun and moon to swallow them at eclipses.",
+          "names": [
+            "Viṣṇu",
+            "Vāsuki",
+            "Dhanvantari",
+            "Mohinī",
+            "Rāhu"
+          ],
+          "sources": [
+            "Mahābhārata, Book 1 (Āstīka Parvan)",
+            "Bhāgavata Purāṇa, Book 8"
+          ],
+          "caveat": "This is a collective labour of the gods rather than a lone hero's journey, so it is a looser parallel.",
+          "image": {
+            "file": "File:Samudramanthana - the Churning of the Ocean of Milk.jpg",
+            "caption": "The churning of the ocean, Indian manuscript folio, c. 1800"
+          }
+        },
+        {
+          "culture": "japanese",
+          "title": "Tajimamori and the Fruit of Tokoyo",
+          "teaser": "A loyal servant brings back the undying fruit after ten years, too late.",
+          "text": "Emperor Suinin sends Tajimamori across the sea to Tokoyo no kuni, the Everlasting Land, to fetch the tokijiku no kaku no konomi, the fragrant fruit that is always in season. The journey takes him years. He comes back at last with the fruit, bound on leafy branches and on bare staves, only to find that the emperor has died.\n\nHe gives half to the empress and lays the rest at the emperor's tomb. There he cries out that he has brought the fruit from the Everlasting Land, weeps without stopping, and dies of grief.\n\nThe Kojiki adds a quiet note: the fruit is what people today call the tachibana, the small wild citrus. Tajimamori is still honoured as a patron of sweets and confectioners.",
+          "names": [
+            "Tajimamori",
+            "Suinin",
+            "Tokoyo no kuni"
+          ],
+          "sources": [
+            "Kojiki (reign of Suinin)",
+            "Nihon Shoki (reign of Suinin)"
+          ],
+          "image": {
+            "file": "File:Tajimamori.jpg",
+            "caption": "Tajimamori, by Kikuchi Yōsai, published 1903"
+          }
+        },
+        {
+          "culture": "persian",
+          "title": "Iskandar in the Land of Darkness",
+          "teaser": "The world-conqueror's guide drinks from the Water of Life; the conqueror does not.",
+          "text": "Iskandar hears of a spring in the Land of Darkness whose water gives life without end. He chooses Khizr as his guide and gives him a shining jewel to light the way. They ride into the dark, and there the road divides.\n\nKhizr's path leads him to the spring. He drinks, bathes, and gives thanks, and so becomes one of the undying. Iskandar, on the other road, never finds it.\n\nEmerging from the dark, he climbs a height and meets the angel Isrāfīl, trumpet raised, waiting to sound the end of the world. The angel tells him to stop his striving, for his own summons will soon come. Iskandar, the man who conquered everything, turns back to die like everyone else.\n\nFerdowsi's version stands in a long chain of Alexander legends running from Greek romance through Syriac and Arabic, and on into Nizami's Iskandarnāmeh.",
+          "names": [
+            "Iskandar",
+            "Khizr",
+            "Isrāfīl"
+          ],
+          "sources": [
+            "Ferdowsi, Shāhnāmeh (reign of Iskandar)"
+          ],
+          "caveat": "The episode descends from the late-antique Alexander Romance and Islamic Khiḍr traditions, so it is a migrating literary legend rather than an old Iranian myth.",
+          "image": {
+            "file": "File:Alexander the Great and Khidr in the Land of Darkness in search of the Water of Life.jpg",
+            "caption": "Iskandar and Khizr enter the Land of Darkness in search of the Water of Life, Shāhnāmeh of Ibrahim Sultan, c. 1430–1435"
+          }
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "Māui Sets Out to Kill Death",
+          "teaser": "Told he must die, Māui plans to crawl through Death herself.",
+          "text": "Māui has already snared the sun and fished up land when his father, Makea-tutara, tells him that a line of the rite said over him as a baby was left out, and so he must die. Māui refuses the verdict. He asks what his ancestress Hine-nui-te-pō, the Great Lady of the Night, is like, and his father tells him: her eyes flash red on the horizon, her teeth are sharp as volcanic glass, her mouth is like a barracouta's.\n\nMāui is not deterred. His quest is not for a plant or a spring but for a deed: to pass through her body, in by the way people are born and out through her mouth, so that she, not humankind, will die. He takes the small forest birds as companions, finds her asleep, and gives them one instruction: do not laugh. He strips and begins.\n\nThe plan fails at the first step; the page on lost immortality tells how the fantail laughed. Unlike the kings on this page, Māui sought undying life not for himself but for everyone.",
+          "names": [
+            "Māui",
+            "Hine-nui-te-pō",
+            "Makea-tutara"
+          ],
+          "sources": [
+            "George Grey, Polynesian Mythology (1855), from Wiremu Maihi Te Rangikāheke's texts"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "swallowed-by-monster",
+      "summary": "A god or hero is gulped down whole, lives for a time in the dark belly, and comes out again, freed by force, trickery or divine command, and often changed. Sometimes the swallowed are rescued by a hero who cuts his way in or out. Leo Frobenius read the pattern as a myth of the sun swallowed each night by the sea; Mircea Eliade read it as initiation, a symbolic death and rebirth. Both theories are now held loosely. The image of being eaten alive is so basic that independent invention explains most of these stories better than any single origin.",
+      "versions": [
+        {
+          "culture": "greek",
+          "title": "Kronos Swallows His Children",
+          "teaser": "A father eats his children, and swallows a stone in swaddling bands.",
+          "text": "Kronos has been warned that one of his children will overthrow him, so as each is born he swallows it: Hestia, Demeter, Hera, Hades and Poseidon all go down his throat. Their mother Rhea, grieving, hides her last son, Zeus, in a cave on Crete, and hands Kronos a stone wrapped in swaddling clothes. He gulps it down without a second look.\n\nWhen Zeus is grown, Kronos is tricked into vomiting up his brood, and the stone, swallowed last, comes out first. Zeus sets it up at Pytho, below Parnassus, as a sign and a wonder for mortals. The swallowed gods emerge full-grown and join their brother in the war against the Titans.\n\nGreek myth has a hero's version too: Heracles, saving Hesione at Troy, is said to have leapt into the sea monster's jaws and hacked his way out of its belly after three days.",
+          "names": [
+            "Kronos",
+            "Rhea",
+            "Zeus",
+            "Heracles"
+          ],
+          "sources": [
+            "Hesiod, Theogony 453–500",
+            "Lycophron, Alexandra (Heracles and the ketos)"
+          ],
+          "image": {
+            "file": "File:Rhea handing a swaddled stone to Cronus, Attic terracotta pelike, c. 460–450 BC, Met 06.1021.144.jpg",
+            "caption": "Rhea hands Kronos the swaddled stone, Attic red-figure pelike attributed to the Nausicaä Painter, c. 460–450 BCE (Metropolitan Museum of Art)"
+          }
+        },
+        {
+          "culture": "levantine",
+          "people": "Hebrew Bible",
+          "title": "Jonah in the Great Fish",
+          "teaser": "A runaway prophet prays from the belly of a fish for three days.",
+          "text": "Commanded to preach against Nineveh, Jonah runs the other way and takes ship from Joppa for Tarshish. A storm threatens to break the ship; the sailors cast lots, the lot falls on Jonah, and at his own urging they throw him overboard. The sea grows calm.\n\nThe Lord appoints a great fish to swallow him, and Jonah is in its belly three days and three nights. From there he prays a psalm, crying out from the belly of Sheol, with weeds wrapped about his head and the bars of the earth closing over him. The Lord speaks to the fish, and it vomits Jonah onto dry land.\n\nThis time he goes to Nineveh. The Hebrew text says only a great fish; the whale came later, through Greek translation and Christian art.",
+          "names": [
+            "Jonah",
+            "Nineveh"
+          ],
+          "sources": [
+            "Book of Jonah 1–2"
+          ],
+          "image": {
+            "file": "File:Pieter Lastman - Jonah and the Whale - Google Art Project.jpg",
+            "caption": "Jonah and the Whale, Pieter Lastman, 1621"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Epic",
+          "title": "Hanumān and the Mouths of the Sea",
+          "teaser": "Leaping to Laṅkā, Hanumān darts through a demoness's mouth and out again.",
+          "text": "Hanumān leaps across the ocean towards Laṅkā to find Sītā. The gods, wanting to test him, send Surasā, mother of serpents, to rise from the waves and block his path: no one, she says, may pass without entering her mouth. Hanumān swells to a vast size, and she opens her jaws wider still. Then he suddenly shrinks to the size of a thumb, darts into her mouth and out again, and bows. Pleased, she blesses his mission.\n\nFurther on, a second monster, Siṃhikā, seizes him by his shadow and drags him down. This time he does not play. He lets himself be swallowed, tears her apart from within, and flies on.\n\nThe pair of episodes give the two faces of the motif: being swallowed as a clever test, and as a battle won from the inside.",
+          "names": [
+            "Hanumān",
+            "Surasā",
+            "Siṃhikā"
+          ],
+          "sources": [
+            "Vālmīki, Rāmāyaṇa, Sundara Kāṇḍa 1"
+          ],
+          "image": {
+            "file": "File:Hanuman and Surasa.jpg",
+            "caption": "Hanumān and Surasā, Indian painting, 17th century"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "The Wolf Swallows Odin",
+          "teaser": "At Ragnarök the wolf's jaws reach sky and earth; Odin disappears inside.",
+          "text": "At Ragnarök the wolf Fenrir breaks loose. His lower jaw scrapes the earth and his upper jaw touches the sky, and he would open them wider if there were room. Odin rides against him and is swallowed.\n\nOdin's son Víðarr avenges him at once. In the Völuspá he drives a sword into the wolf's heart. Snorri gives a stranger version: Víðarr sets one foot in the wolf's lower jaw, wearing a shoe made of all the scraps that people have cut from the toes and heels of their shoes since time began, grips the upper jaw, and tears the wolf apart. Snorri adds that anyone who wants to help the gods should throw those scraps away.\n\nThe same end threatens the sky: wolves chase the sun and moon, and at the last they catch and swallow them.",
+          "names": [
+            "Odin",
+            "Fenrir",
+            "Víðarr"
+          ],
+          "sources": [
+            "Völuspá 53–56",
+            "Vafþrúðnismál 53",
+            "Gylfaginning 51"
+          ],
+          "caveat": "Odin is not brought out alive; the parallel is the swallowing and the avenger who breaks the jaws, not a return.",
+          "image": {
+            "file": "File:Fenrir and Odin by Frølich.jpg",
+            "caption": "Odin rides against Fenrir at Ragnarök, Lorenz Frølich, published 1895"
+          }
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "Väinämöinen in Vipunen's Belly",
+          "teaser": "To learn three missing words, a sage turns a giant's belly into a forge.",
+          "text": "Väinämöinen is building a boat by singing it into being, but he lacks three words to finish it. He goes looking for them in the mouth of Antero Vipunen, a giant sage long dead, with trees growing from his shoulders and his beard. Väinämöinen drives an iron staff into his jaws, and Vipunen wakes and swallows him.\n\nInside, Väinämöinen sets up a smithy. His shirt becomes the forge, its sleeves the bellows, his knee the anvil, his elbow the hammer, and he pounds away at the giant's guts. Vipunen, in agony, tries every curse and banishing spell he knows to be rid of his guest, and in doing so sings out all his store of lore.\n\nVäinämöinen hears the three words, climbs out, and goes home to finish his boat.",
+          "names": [
+            "Väinämöinen",
+            "Antero Vipunen"
+          ],
+          "sources": [
+            "Kalevala, runos 16–17"
+          ],
+          "caveat": "Lönnrot arranged the Kalevala (1835, 1849) from genuine Karelian and Finnish songs, so the episode's details are traditional but its framing is his."
+        },
+        {
+          "culture": "north-american",
+          "people": "Nez Perce (Nimiipuu)",
+          "title": "Coyote and the Monster of Kamiah",
+          "teaser": "Coyote lets himself be swallowed, carrying knives, fire and a plan.",
+          "text": "A monster in the Clearwater country has inhaled every creature for miles. Coyote bathes, ties himself to a mountain with rope, and taunts it until it breathes him in too, carrying five flint knives and a fire-making kit.\n\nInside he finds the animals, many dying. Rattlesnake strikes at him, and Coyote stamps on his head, which is why it is flat; Grizzly growls, and Coyote kicks his nose short. Then he builds a fire and cuts at the monster's heart, breaking knife after knife, until it tears free. The monster dies, and the animals escape through its openings; Muskrat, last out, has his tail caught, and so it is bare.\n\nCoyote carves up the carcass and flings the pieces over the land, each becoming a people. Fox reminds him none is left for this valley, so Coyote washes the blood from his hands, and from those drops come the Nimiipuu. The heart still stands at Kamiah, Idaho.",
+          "names": [
+            "Coyote",
+            "Fox",
+            "Muskrat"
+          ],
+          "sources": [
+            "Archie Phinney, Nez Percé Texts (1934)"
+          ],
+          "image": {
+            "file": "File:Nepe heart of the monster 20060801192639.JPG",
+            "caption": "The Heart of the Monster near Kamiah, Idaho (National Park Service photo, 2006)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wild-man",
+      "summary": "A hairy creature of the steppe, forest or mountain lives among beasts until he is drawn into human society, most often by a woman, sometimes by wine, bread, music or fine clothes. The taming civilises him but may also cost him his old strength or innocence; in some stories a king is made wild and restored. The resemblance between Enkidu and India's horned sage Ṛṣyaśṛṅga is often noted, and medieval Europe's wodewose continues the type. Direct borrowing is hard to show; the stories share an old anxiety about where the line between human and animal lies.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "Enkidu and Shamhat",
+          "teaser": "Seven nights with Shamhat, and the gazelles run from Enkidu.",
+          "text": "To match the overbearing Gilgamesh, the goddess Aruru pinches off clay and makes Enkidu. He is covered in hair, his locks thick as barley, and he eats grass with the gazelles and drinks with the herds at the waterhole. He rips up a trapper's pits and frees the animals from his snares.\n\nThe trapper, on Gilgamesh's advice, brings the harlot Shamhat to the waterhole. She bares herself, and for six days and seven nights Enkidu lies with her. When he returns to his herd, the gazelles bolt. His legs no longer keep pace, but he has gained understanding.\n\nShamhat clothes him with half her own garment and leads him to a shepherds' camp. He has never seen bread or beer; he eats his fill, drinks seven jugs, and sings. He washes, anoints himself, and becomes a man, and then he goes to Uruk to meet his match.",
+          "names": [
+            "Enkidu",
+            "Shamhat",
+            "Aruru",
+            "Gilgamesh"
+          ],
+          "sources": [
+            "Epic of Gilgamesh, Tablets I–II",
+            "Old Babylonian Gilgamesh (Pennsylvania tablet)"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Midas Catches Silenus",
+          "teaser": "A king spikes a spring with wine to capture a wild sage.",
+          "text": "Silenus, the shaggy, horse-eared companion of Dionysus, lives wild in the countryside and knows things no mortal knows. King Midas wants that knowledge. He pours wine into the spring where Silenus drinks, and when the creature is drunk his servants take him.\n\nHerodotus places the capture in the so-called Gardens of Midas in Macedonia, where roses grow wild with sixty petals; Xenophon was shown a spring in Phrygia said to be the very one. What the captive said is preserved from a lost dialogue of Aristotle: pressed by the king, Silenus at last answers, with a bitter laugh, that the best thing for mortals is never to be born, and the next best is to die as soon as possible.\n\nThe wild man is caught, but he is not civilised; it is the king who is taught.",
+          "names": [
+            "Silenus",
+            "Midas"
+          ],
+          "sources": [
+            "Herodotus 8.138",
+            "Xenophon, Anabasis 1.2.13",
+            "Plutarch, Consolation to Apollonius 27 (quoting Aristotle's Eudemus)"
+          ],
+          "caveat": "Silenus is captured for his wisdom rather than tamed into society, so the parallel is partial.",
+          "image": {
+            "file": "File:Silenus and king Midas by Giulio Bonasone.jpg",
+            "caption": "Silenus brought before King Midas, engraving by Giulio Bonasone, 16th century"
+          }
+        },
+        {
+          "culture": "levantine",
+          "people": "Hebrew Bible",
+          "title": "Nebuchadnezzar Among the Beasts",
+          "teaser": "A proud king eats grass like an ox until his reason returns.",
+          "text": "Nebuchadnezzar dreams of a great tree reaching to heaven, then hears a watcher order it hewn down, leaving only the stump bound with iron and bronze. Daniel reads the dream: the tree is the king.\n\nA year later, walking on his palace roof and boasting of the great Babylon he has built, the king hears a voice from heaven. He is driven from human company and eats grass like an ox. His body is wet with the dew of heaven, his hair grows like eagles' feathers, and his nails like birds' claws, until seven times pass over him.\n\nAt the end he lifts his eyes to heaven, his reason returns, and his kingdom with it. The wild man here is made, not born, and his taming is repentance.",
+          "names": [
+            "Nebuchadnezzar",
+            "Daniel"
+          ],
+          "sources": [
+            "Daniel 4"
+          ],
+          "caveat": "This inverts the pattern, a king made wild and restored; a Qumran fragment, the Prayer of Nabonidus, suggests the story once belonged to Babylon's last king, Nabonidus.",
+          "image": {
+            "file": "File:William Blake - Nebuchadnezzar (Tate Britain).jpg",
+            "caption": "Nebuchadnezzar, William Blake, 1795/c.1805 (Tate Britain)"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Epic",
+          "title": "Ṛṣyaśṛṅga Lured from the Forest",
+          "teaser": "A horned sage who has never seen a woman meets a courtesan.",
+          "text": "Ṛṣyaśṛṅga, the deer-horned son of the sage Vibhāṇḍaka and a doe, has grown up alone in the forest with his father and has never seen a woman. Meanwhile the kingdom of Aṅga suffers drought, and King Lomapāda learns that rain will come only if this innocent ascetic enters his land.\n\nA courtesan is sent in a floating hermitage built on a boat. The boy takes her for a young ascetic of a strange new order: her sweets he takes for fruit, her garlands and jewels for sacred ornaments, her embraces for a novel form of devotion. When she leaves, he pines, and when she returns he follows her aboard.\n\nThe boat carries him to Aṅga, and as he arrives the rain begins to fall. The king gives him his daughter Śāntā in marriage, and the forest sage becomes a man of the world.",
+          "names": [
+            "Ṛṣyaśṛṅga",
+            "Vibhāṇḍaka",
+            "Lomapāda",
+            "Śāntā"
+          ],
+          "sources": [
+            "Mahābhārata, Book 3 (Āraṇyaka Parvan)",
+            "Vālmīki, Rāmāyaṇa, Bāla Kāṇḍa"
+          ],
+          "image": {
+            "file": "File:The courtesans tempt Rishyasringa - Ramayana, Bala Kanda (1712), f.19 - BL Add MS 15295.jpg",
+            "caption": "The courtesans tempt Ṛṣyaśṛṅga, Mewar Rāmāyaṇa, Bāla Kāṇḍa, 1712 (British Library)"
+          }
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "Mis and Dubh Rois",
+          "teaser": "A harper, a cloak and a handful of gold bring back a wild woman.",
+          "text": "After the battle of Ventry, Mis finds her father Dáire Donn among the slain, and in her grief she drinks his blood and runs mad into the mountain that now bears her name, Sliabh Mis. Feathers or long hair cover her, her nails become claws, she outruns the deer, and she kills whatever comes near.\n\nThe king offers a reward to anyone who can take her alive. The harper Dubh Rois goes alone to the mountain, spreads his cloak, scatters gold coins on it and begins to play. Mis comes, drawn by the music she remembers from her father's hall. She asks about the harp, then the gold, then the man himself, and lies with him.\n\nHe bathes her, feeds her venison, and over many days combs and cleanses her, until she is a woman again and his wife.",
+          "names": [
+            "Mis",
+            "Dubh Rois",
+            "Dáire Donn"
+          ],
+          "sources": [
+            "Mis agus Dubh Rois (ed. Brian Ó Cuív, 1954)"
+          ],
+          "caveat": "The tale survives only in early-modern manuscripts, so its close likeness to Enkidu's taming is striking but its antiquity is uncertain."
+        }
+      ]
+    },
+    {
+      "id": "sleeping-king",
+      "summary": "A great ruler or hero has not died but sleeps, in a cave, under a hill or on a far island, with his warriors or guardians around him, to wake when his people need him most. Folklorists call it the Kyffhäuser motif (Thompson D1960.2), after the mountain where Frederick Barbarossa is said to sleep. The belief often hardens after defeat or conquest, when a lost king becomes a promise. The Greek and Iranian versions show that the idea of a divine or heroic sleeper is old; the national-messianic form flourished in medieval and early modern Europe.",
+      "versions": [
+        {
+          "culture": "greek",
+          "title": "Kronos Asleep in the West",
+          "teaser": "Beyond Britain, the old god sleeps in a cave and dreams Zeus's plans.",
+          "text": "In one of Plutarch's dialogues a traveller describes islands far out in the ocean west of Britain. On one of them, Kronos lies imprisoned in a deep cave of golden rock, and his chain is sleep itself, the bond Zeus devised for him. Birds fly over the rocks and bring him ambrosia, and the whole island is filled with its fragrance.\n\nAround him attend spirits who once served him when he was king. Whatever Zeus is planning, Kronos dreams it, and his attendants come forward to announce his dreams as prophecies.\n\nIn another dialogue Plutarch repeats the tale of an island near Britain where Kronos lies confined in sleep, with Briareus guarding him. The dethroned king of the golden age has not died; he only waits.",
+          "names": [
+            "Kronos",
+            "Zeus",
+            "Briareus"
+          ],
+          "sources": [
+            "Plutarch, On the Face in the Moon 26",
+            "Plutarch, On the Obsolescence of Oracles 18"
+          ],
+          "caveat": "Plutarch never says Kronos will return, so the resemblance lies in the sleeping deposed king rather than in any prophecy."
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic",
+          "title": "Muchukunda in the Cave",
+          "teaser": "Whoever wakes the sleeping king is burned to ash by his gaze.",
+          "text": "King Muchukunda fights for the gods for ages against the demons, and when at last they offer him a reward, he asks only to sleep. They grant it, with a blessing: whoever disturbs him will be burned to ashes by his first glance. He lies down in a mountain cave and sleeps through the ages.\n\nLong afterwards, Kṛṣṇa is pursued by the invader Kālayavana, whom no weapon can kill. Kṛṣṇa leads him into the cave. Seeing a figure asleep, Kālayavana takes it for Kṛṣṇa hiding and kicks it. Muchukunda wakes, opens his eyes, and the invader bursts into flame.\n\nKṛṣṇa then shows himself to the old king, who learns how long he has slept, finds the world shrunken and the people small, and goes off to the Himalayas to practise austerities.",
+          "names": [
+            "Muchukunda",
+            "Kṛṣṇa",
+            "Kālayavana"
+          ],
+          "sources": [
+            "Bhāgavata Purāṇa 10.51",
+            "Harivaṃśa"
+          ],
+          "caveat": "Muchukunda is a sleeping king awakened at need, but he is not a national saviour whose return is expected.",
+          "image": {
+            "file": "File:Vishnu Appears to King Muchukunda in a Cave in the Himalayas.jpg",
+            "caption": "Vishnu appears to King Muchukunda in a cave in the Himalayas, Indian painting dated 1769"
+          }
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian (Pahlavi)",
+          "title": "Kərəsāspa on the Plain",
+          "teaser": "Guarded by countless spirits, a hero sleeps until the dragon breaks free.",
+          "text": "Sāma Kərəsāspa, slayer of monsters in the Avesta, is struck down in his sleep by a Turanian's arrow, and falls into a stupor on the plain of Pēšānsē. He is not dead. The fravashis, the guardian spirits of the righteous, watch over his body, ninety-nine thousand nine hundred and ninety-nine of them.\n\nThe demon-king Aži Dahāka lies chained inside Mount Damāvand. At the end of time he will break loose and devour a third of all people and cattle. Then Kərəsāspa will be woken. He will rise and strike the dragon down with his club, clearing the way for the final renovation of the world.\n\nThe Pahlavi books add other sleepers held in reserve, among them Kay Khosrow, the king who vanished into the snow and will return to aid the saviour.",
+          "names": [
+            "Kərəsāspa",
+            "Aži Dahāka",
+            "Kay Khosrow"
+          ],
+          "sources": [
+            "Bundahišn",
+            "Dēnkard, Book 9",
+            "Zand ī Wahman Yasn"
+          ]
+        },
+        {
+          "culture": "celtic",
+          "people": "Welsh and Cornish (Brittonic)",
+          "title": "Arthur Who Is Not Dead",
+          "teaser": "No one knows Arthur's grave, and Britons will fight to say he lives.",
+          "text": "An early Welsh verse on the graves of heroes lists them one by one and then says that Arthur's grave is a mystery of the world. The Britons held that it could not be found because he had not died.\n\nIn 1113 French canons touring Cornwall got into a brawl at Bodmin when they laughed at a local man's claim that Arthur still lived. A few years later William of Malmesbury noted that Arthur's grave was nowhere to be seen, which is why ancient songs foretold his return. Geoffrey of Monmouth has the wounded king carried to the island of Avalon to be healed.\n\nIn Welsh folklore recorded much later, Arthur and his warriors sleep in a cave, at Craig-y-Dinas and elsewhere, beside a bell that must not be rung, waiting for the day Britain needs them.",
+          "names": [
+            "Arthur",
+            "Avalon"
+          ],
+          "sources": [
+            "Englynion y Beddau (Stanzas of the Graves)",
+            "Herman of Tournai, De miraculis S. Mariae Laudunensis",
+            "William of Malmesbury, Gesta Regum Anglorum 3.287",
+            "Geoffrey of Monmouth, Historia Regum Britanniae 11.2"
+          ],
+          "caveat": "The cave-sleeping Arthur is attested only in folklore recorded from the early modern period onward; the medieval sources speak of his survival and return, not of a cave.",
+          "image": {
+            "file": "File:Burne-Jones Last Sleep of Arthur in Avalon.jpg",
+            "caption": "The Last Sleep of Arthur in Avalon, Edward Burne-Jones, 1881–1898"
+          }
+        },
+        {
+          "culture": "slavic",
+          "people": "Czech",
+          "title": "The Knights of Blaník",
+          "teaser": "Inside a Bohemian hill, an army sleeps until the country's darkest hour.",
+          "text": "Inside Blaník hill in central Bohemia sleeps an army of knights, led, in the best-known telling, by Saint Wenceslas, the country's patron. They will ride out when the Czech lands face their gravest danger, and together with Wenceslas, rising on a white horse, they will drive the enemies out.\n\nThe folk tales are full of the time-slip that haunts such hills. A blacksmith summoned at night to shoe the knights' horses, or a girl who wanders into the open mountain, spends what feels like an hour inside and comes out to find a year has passed.\n\nThe legend grew in the late Middle Ages and gained new force under Habsburg rule and in the national revival; Alois Jirásek's Old Czech Legends (1894) fixed it for generations of schoolchildren.",
+          "names": [
+            "Saint Wenceslas",
+            "Blaník"
+          ],
+          "sources": [
+            "Alois Jirásek, Staré pověsti české (1894)"
+          ],
+          "caveat": "This is a Christian and national legend of the late medieval and modern periods, not pre-Christian Slavic myth.",
+          "image": {
+            "file": "File:Blanik Knights in Czecho-Slovak Student Life.jpg",
+            "caption": "Illustration of the Blaník knights, Czecho-Slovak Student Life, 1927"
+          }
+        }
+      ]
+    },
+    {
+      "id": "culture-hero",
+      "summary": "Before the culture hero, people live like animals: no fields, no writing, no law. Then a god, sage or ancestral king arrives, often from the sea or the sky, teaches the arts of civilisation, and departs, sometimes promising to return. Farming, writing, metalwork, medicine and the ordering of society are the usual gifts. Some parallels are close because of contact (Greek writers recast Egyptian and Babylonian figures in their own terms), and colonial chroniclers shaped the American ones; most reflect an independent human urge to give the ordinary tools of life a sacred beginning. (The theft of fire has its own page.)",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "Oannes from the Sea",
+          "teaser": "A fish-man rises from the Gulf each morning to teach writing and law.",
+          "text": "In the earliest days, the Babylonian priest Berossus writes, people lived without order, like wild beasts. Then from the Erythraean Sea, where it borders Babylonia, came a creature called Oannes. His body was a fish's, but under the fish's head was a man's head, and human feet grew beside its tail, and he spoke with a human voice.\n\nOannes spent his days among people without eating, and taught them letters, sciences and every kind of craft: how to found cities and build temples, make laws, survey land, and sow seed and gather fruit. At sunset he returned to the sea and spent the night in the deep. Since his time, Berossus adds, nothing further has been discovered.\n\nCuneiform texts know him as the first of the seven apkallu sages, and Assyrian palace reliefs show such sages cloaked in fish skins.",
+          "names": [
+            "Oannes",
+            "Berossus",
+            "apkallu"
+          ],
+          "sources": [
+            "Berossus, Babyloniaca (fragments via Eusebius and Syncellus)",
+            "Uruk List of Kings and Sages"
+          ],
+          "image": {
+            "file": "File:Oannes auf einem Basrelief aus Khorsabad.jpg",
+            "caption": "A fish-cloaked sage, identified as Oannes, on an Assyrian relief from Khorsabad"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Prometheus the Teacher",
+          "teaser": "Chained to a rock, the Titan lists the arts he gave mortals.",
+          "text": "Nailed to a crag in Scythia, Prometheus tells the chorus what he did for humankind. At first, he says, people had eyes but saw to no purpose and ears but did not hear. Like shapes in dreams they muddled through their lives, living in sunless caves like swarming ants, with no sign to tell winter from spring.\n\nHe taught them the risings and settings of the stars, and number, the chief of all devices, and the combining of letters, memory of all things, mother of the Muses. He yoked beasts to bear their loads, put horses to the chariot and sails on ships. He showed them how to mix healing remedies, how to read dreams, birds and sacrifices, and where to dig for bronze, iron, silver and gold.\n\nIn one short sentence, he says, all human arts come from Prometheus.",
+          "names": [
+            "Prometheus"
+          ],
+          "sources": [
+            "Aeschylus (attr.), Prometheus Bound 436–506"
+          ],
+          "caveat": "The play's authorship by Aeschylus is disputed by some scholars.",
+          "image": {
+            "file": "File:Prometheus Bound, Vienna, Cod. phil. gr. 197.jpg",
+            "caption": "Opening of Prometheus Bound in a 15th-century Greek manuscript (Vienna, Cod. phil. gr. 197)"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "Fuxi Reads the World",
+          "teaser": "Watching sky, earth and the markings of birds, a sage invents the trigrams.",
+          "text": "In ancient times, when Bao Xi, that is Fuxi, ruled the world, he looked up and contemplated the images in the heavens, and looked down and contemplated the patterns on the earth. He observed the markings of birds and beasts and what suited each place. From near at hand, his own body, and from far away, all things, he drew the eight trigrams, to comprehend the power of the spirits and classify the nature of all beings.\n\nThen he knotted cords to make nets for hunting and fishing. After him Shennong shaped wood into a plough and taught farming, and later sages replaced knotted cords with written signs.\n\nOn Han tomb reliefs and silk paintings from Turfan, Fuxi appears with a serpent's tail entwined with Nüwa's, holding a carpenter's square as she holds a compass.",
+          "names": [
+            "Fuxi",
+            "Shennong",
+            "Nüwa"
+          ],
+          "sources": [
+            "Yijing, Xici zhuan (Great Commentary) II.2"
+          ],
+          "image": {
+            "file": "File:Fuxi and Nüwa. 1967 Astana Cemetery.png",
+            "caption": "Fuxi and Nüwa with square and compass, Tang-dynasty silk painting from the Astana Cemetery, Turfan"
+          }
+        },
+        {
+          "culture": "egyptian",
+          "title": "Osiris Teaches the Nile Valley",
+          "teaser": "The good king gives Egypt grain, law and worship, then goes abroad.",
+          "text": "When Osiris becomes king, Plutarch writes, he at once frees the Egyptians from a destitute and brutish way of life. He shows them the fruits of cultivation, gives them laws, and teaches them to honour the gods. Then he travels the whole world, taming it not by arms but by persuasion, song and every kind of music.\n\nDiodorus of Sicily adds that Isis discovered wheat and barley growing wild, and that Osiris taught people to cultivate them, so that they gave up eating one another.\n\nEgyptian sources themselves stress Osiris as the murdered king and the god of the grain that dies and returns; the beds of earth shaped like Osiris and sown with barley, placed in tombs, show that tie clearly.",
+          "names": [
+            "Osiris",
+            "Isis"
+          ],
+          "sources": [
+            "Plutarch, On Isis and Osiris 13",
+            "Diodorus Siculus 1.14–20"
+          ],
+          "caveat": "The explicit civilising-king story comes from Greek writers of the Hellenistic and Roman periods, filtered through their own ideas of a benefactor king."
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic",
+          "title": "Pṛthu Milks the Earth",
+          "teaser": "The first true king chases the Earth as a cow and levels the land.",
+          "text": "The wicked king Vena forbids sacrifice, and the sages kill him. From his body they churn a son, Pṛthu, born with the marks of a universal ruler. But the land is in famine: the Earth has hidden all plants within herself.\n\nPṛthu takes up his bow to kill her. The Earth, in the form of a cow, flees through all the worlds, and finding no refuge, submits. She offers her milk if he will give her a calf. With Svāyambhuva Manu as the calf, Pṛthu milks her into his own hand, and all grains and plants flow out.\n\nThen, with the tip of his bow, he levels the rocky ground. Before him, the Purāṇa says, there was no cultivation, no pasture, no trade, no towns or villages. After him there were all of these, and the Earth took his name, Pṛthivī.",
+          "names": [
+            "Pṛthu",
+            "Vena",
+            "Pṛthivī",
+            "Svāyambhuva Manu"
+          ],
+          "sources": [
+            "Viṣṇu Purāṇa 1.13",
+            "Bhāgavata Purāṇa, Book 4"
+          ],
+          "image": {
+            "file": "File:Prithu.jpg",
+            "caption": "Pṛthu chases the Earth, Bhāgavata Purāṇa painting attributed to Manaku, Guler, c. 1700–1760"
+          }
+        },
+        {
+          "culture": "japanese",
+          "title": "Ōkuninushi and Sukunabikona",
+          "teaser": "A great god and a tiny one build the land and invent medicine.",
+          "text": "While Ōkuninushi, lord of Izumo, stands on the cape of Miho, a tiny god comes riding over the waves in a boat made from a seed pod, dressed in the skin of a bird. No one knows his name until the scarecrow god Kuebiko, who can see all things though he cannot walk, names him: Sukunabikona.\n\nThe two gods work together to make and settle the land. The Nihon Shoki says that for the sake of people and beasts they fixed the methods of healing diseases, and to ward off the harm done by birds, beasts and creeping things they established charms and spells, and the people have enjoyed their blessings ever since.\n\nThen the tiny god leaves for Tokoyo, the land beyond the sea. One version says he climbed a stalk of millet, which sprang back and flung him there.",
+          "names": [
+            "Ōkuninushi",
+            "Sukunabikona",
+            "Kuebiko"
+          ],
+          "sources": [
+            "Kojiki, Book 1",
+            "Nihon Shoki, Book 1"
+          ],
+          "image": {
+            "file": "File:Oonamuchi shinbutsu-zue.jpg",
+            "caption": "Ōnamuchi (Ōkuninushi), from the Shinbutsu zue, Edo period"
+          }
+        },
+        {
+          "culture": "persian",
+          "title": "Jamshid's Golden Age",
+          "teaser": "In fifty-year stages, a king teaches iron, weaving, building and medicine.",
+          "text": "Jamshid, radiant with divine glory, reigns seven hundred years, and he sets about ordering the world in stages. For fifty years he softens iron into helmets, mail and swords. For the next fifty he teaches people to spin and weave linen, silk and wool, and to sew and wear clothes.\n\nHe divides people into four classes: priests, warriors, farmers and craftsmen, each to know its place and work. He sets the demons to mix clay and mould bricks, and raises baths and lofty palaces. He brings jewels out of rock, discovers perfumes, musk, camphor, ambergris and rosewater, and finds cures for sickness. He launches ships over the sea.\n\nAt last he has the demons lift his jewelled throne into the sky, and people celebrate the day as Nowruz. Then pride takes him, the divine glory departs, and his world falls to Zahhāk.",
+          "names": [
+            "Jamshid",
+            "Zahhāk"
+          ],
+          "sources": [
+            "Ferdowsi, Shāhnāmeh (reign of Jamshid)"
+          ],
+          "image": {
+            "file": "File:\"The Court of Jamshid\", Folio 24v from the Shahnama (Book of Kings) of Shah Tahmasp.jpg",
+            "caption": "The Court of Jamshid, folio from the Shāhnāmeh of Shah Tahmasp, c. 1525"
+          }
+        },
+        {
+          "culture": "andean",
+          "people": "Inca",
+          "title": "Viracocha Walks North",
+          "teaser": "The creator walks the Andes, teaching, then strides away over the sea.",
+          "text": "Con Tici Viracocha rises from Lake Titicaca and, at Tiwanaku, makes the sun, moon and stars, then shapes people and paints on them the clothes each nation will wear. He sends them underground, to come up from springs, caves and hills in their own lands.\n\nThen he sets out northwest along the Andes with two helpers, calling the peoples out and telling them how to live. The chronicler Cieza de León records that he was remembered as a tall man who healed the sick and gave good counsel. At Cacha the people attack him, and he calls down fire that scorches the hills, until they kneel, and he quenches it with his staff.\n\nAt last he reaches the coast at Puerto Viejo, near Manta, and walks away across the sea, never to be seen again.",
+          "names": [
+            "Con Tici Viracocha",
+            "Tiwanaku"
+          ],
+          "sources": [
+            "Juan de Betanzos, Suma y narración de los Incas (1551)",
+            "Pedro Cieza de León, Crónica del Perú, Part II (1553)"
+          ],
+          "caveat": "These accounts were written by Spaniards after the conquest, and some features, such as the preaching wanderer, may have been shaped by Christian ideas of an apostle to the Americas.",
+          "image": {
+            "file": "File:Viracocha (porta do sol - detalhe).jpg",
+            "caption": "Central figure of the Gateway of the Sun at Tiwanaku, often identified with Viracocha"
+          }
+        },
+        {
+          "culture": "aztec",
+          "people": "Nahua (Mexica)",
+          "title": "Quetzalcoatl Fetches Maize",
+          "teaser": "Turning into a black ant, the Feathered Serpent steals maize for people.",
+          "text": "The new humans have been made, but what will they eat? Quetzalcoatl sees a red ant carrying a kernel of maize and asks where it came from. The ant refuses to tell, then at last leads him to Tonacatepetl, the Mountain of Sustenance. Quetzalcoatl turns himself into a black ant, goes in, and carries the maize back to Tamoanchan. The gods chew it and put it on the lips of the people, and they grow strong.\n\nIn the Nahua histories of Tollan, Quetzalcoatl is also the priest-king under whom the Toltecs became masters of every craft, working jade, gold and feathers, reckoning time, and practising penance. Tricked by Tezcatlipoca, he leaves Tollan and goes east.",
+          "names": [
+            "Quetzalcoatl",
+            "Tonacatepetl",
+            "Tezcatlipoca"
+          ],
+          "sources": [
+            "Leyenda de los Soles (1558)",
+            "Bernardino de Sahagún, Florentine Codex, Book 3"
+          ],
+          "caveat": "The famous story that the Mexica took Cortés for the returning Quetzalcoatl appears only in post-conquest sources and is widely doubted by historians.",
+          "image": {
+            "file": "File:Quetzalcoatl magliabechiano.jpg",
+            "caption": "Quetzalcoatl in the Codex Magliabechiano, 16th century"
+          }
+        },
+        {
+          "culture": "west-african",
+          "people": "Bamana (Bambara)",
+          "title": "Chi Wara the Farming Beast",
+          "teaser": "A being half antelope, half human taught the Bamana to farm.",
+          "text": "Long ago, Bamana tradition says, a being called Chi Wara, part antelope and part human, taught people how to cultivate the land, breaking the ground with his horns and claws. Through him the Bamana learned to farm the dry savanna, and became farmers who prize strength and diligence in the fields above all.\n\nWhen people grew careless and wasteful, Chi Wara buried himself in the earth. In his memory the Bamana carved the famous antelope headdresses, a male with tall horns and a mane of openwork zigzags, a female carrying a fawn on her back. Young men wear them in pairs, dancing in the fields during farming contests, to honour the one who first taught them to hoe.\n\nThe name itself is usually translated as farming animal or champion farmer.",
+          "names": [
+            "Chi Wara"
+          ],
+          "sources": [
+            "Dominique Zahan, Antilopes du soleil (1980)",
+            "Pascal James Imperato, 'The Dance of the Tyi Wara', African Arts (1970)"
+          ],
+          "caveat": "The legend is known from twentieth-century ethnography, and Bamana communities tell it in several differing versions.",
+          "image": {
+            "file": "File:Chiwara Mask in the National Ethnographic Museum, Warsaw.jpg",
+            "caption": "Bamana chi wara headdress, National Ethnographic Museum, Warsaw"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vessel-of-plenty",
+      "summary": "A cauldron that never empties, a horn that pours fruit, a jar of meal that never runs out, a mill that grinds wealth: the dream of endless food belongs to every people who knew hunger. The vessel is usually a gift of the gods, or a treasure fetched from the Otherworld, and often it tests its users, feeding the brave and the generous but not the coward. Scholars such as R. S. Loomis argued that Celtic cauldrons of plenty lie behind the Holy Grail; the idea is attractive but contested. Across cultures, independent invention is the simplest explanation.",
+      "versions": [
+        {
+          "culture": "levantine",
+          "people": "Hebrew Bible",
+          "title": "The Widow's Jar",
+          "teaser": "In a famine, a handful of meal and a little oil never run out.",
+          "text": "Drought grips the land, and Elijah is sent to Zarephath in Phoenicia. At the town gate he meets a widow gathering sticks and asks for water and a morsel of bread. She tells him she has only a handful of meal in a jar and a little oil in a jug; she is gathering sticks to bake a last cake for herself and her son, and then they will die.\n\nElijah tells her to bake for him first. The jar of meal, he says, will not be spent, and the jug of oil will not fail, until the day the Lord sends rain upon the earth. She does as he says, and she and her household eat for many days, and the jar and the jug never empty.\n\nHis successor Elisha works the same wonder for another widow, whose single jar of oil fills every vessel she can borrow.",
+          "names": [
+            "Elijah",
+            "Elisha",
+            "Zarephath"
+          ],
+          "sources": [
+            "1 Kings 17:8–16",
+            "2 Kings 4:1–7"
+          ],
+          "image": {
+            "file": "File:Bernardo Strozzi - Prophet Elijah and the Widow of Sarepta - WGA21919.jpg",
+            "caption": "Elijah and the Widow of Zarephath, Bernardo Strozzi, 1630s"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "The Horn of Amaltheia",
+          "teaser": "The horn of the goat that nursed Zeus, overflowing with fruit.",
+          "text": "Hidden from his father on Crete, the infant Zeus is nursed on the milk of a goat, Amaltheia, tended by the nymphs. Ovid tells how the goat breaks off one of her horns against a tree; the nymph who cares for her wraps it in fresh herbs, fills it with fruit, and brings it to the baby god. When Zeus rules heaven, he sets his nurse among the stars, and the horn becomes the horn of plenty.\n\nAnother tradition gives the horn a wrestling match. Heracles, fighting the river god Achelous for Deianeira, breaks off one of his horns, and Achelous buys it back by giving him the horn of Amaltheia, which, according to Pherecydes, supplied its owner with meat and drink in whatever abundance he wished.\n\nThe Romans called it cornu copiae, and it has spilled fruit across European art ever since.",
+          "names": [
+            "Amaltheia",
+            "Zeus",
+            "Heracles",
+            "Achelous"
+          ],
+          "sources": [
+            "Ovid, Fasti 5",
+            "Apollodorus, Library 2.7.5"
+          ],
+          "image": {
+            "file": "File:Amalthea - Admiranda Romanarum Antiquitatum - Pietro Santi Bartoli (British Museum).jpg",
+            "caption": "Amaltheia feeding the infant Zeus from a cornucopia, engraving by Pietro Santi Bartoli after a Roman relief, 1693"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Epic",
+          "title": "Draupadī's Pot of the Sun",
+          "teaser": "A copper pot from the Sun feeds the exiles until Draupadī has eaten.",
+          "text": "When the Pāṇḍavas go into exile in the forest, crowds of brahmins follow them, and Yudhiṣṭhira despairs of feeding them. On his priest's advice he praises the Sun with a hymn of his hundred and eight names. Sūrya appears and gives him a copper pot: whatever food is cooked in it will be inexhaustible, every day, for twelve years, until Draupadī herself has eaten.\n\nA later-famous episode tests the gift. Duryodhana sends the irascible sage Durvāsas, with thousands of disciples, to demand a meal just after Draupadī has eaten and the pot is empty. She calls on Kṛṣṇa, who asks for food, and finds one grain of rice and a shred of vegetable clinging to the rim. He eats it, saying, may the Lord of the universe be satisfied, and the sages, bathing in the river, suddenly feel so full that they slip away in embarrassment.",
+          "names": [
+            "Yudhiṣṭhira",
+            "Draupadī",
+            "Sūrya",
+            "Kṛṣṇa",
+            "Durvāsas"
+          ],
+          "sources": [
+            "Mahābhārata, Book 3 (Āraṇyaka Parvan)"
+          ],
+          "caveat": "The Durvāsas episode belongs to the vulgate text and is not included in the main text of the Pune critical edition.",
+          "image": {
+            "file": "File:The Akshaya Patra (inexhaustible vessel).jpg",
+            "caption": "The Akṣaya Pātra, the inexhaustible vessel, early 20th-century Indian illustration"
+          }
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "The Dagda's Cauldron",
+          "teaser": "From the Otherworld city of Murias: a cauldron no company leaves unsatisfied.",
+          "text": "The Túatha Dé Danann bring four treasures to Ireland from the four cities of the northern islands where they learned their wisdom. From Falias comes the Stone of Fál, which cries out under a true king; from Gorias the spear of Lug; from Findias the sword of Nuadu. From Murias comes the cauldron of the Dagda, and no company ever goes away from it unsatisfied.\n\nThe Dagda's appetite matches his pot. Before the second battle of Mag Tuired, the Fomorians, mocking him, fill a great pit with porridge, milk, meal, fat, goats, sheep and pigs, and tell him he will die if he leaves any. He eats it all with a ladle big enough for a man and a woman to lie in, and scrapes the gravel at the bottom with his finger, then falls asleep.",
+          "names": [
+            "Dagda",
+            "Túatha Dé Danann",
+            "Murias"
+          ],
+          "sources": [
+            "Cath Maige Tuired (The Second Battle of Mag Tuired)",
+            "Lebor Gabála Érenn"
+          ]
+        },
+        {
+          "culture": "celtic",
+          "people": "Welsh",
+          "title": "The Cauldron of Annwn",
+          "teaser": "A pearl-rimmed cauldron that will not boil a coward's food.",
+          "text": "In a dark poem in the Book of Taliesin, Arthur sails in his ship Prydwen to raid Annwn, the Otherworld, for the cauldron of its chief. Its rim is dark and ringed with pearls, it is kindled by the breath of nine maidens, and it will not boil the food of a coward. Three shiploads set out; only seven men come back.\n\nThe list of the Thirteen Treasures of the Island of Britain keeps the same test in a plainer form: the cauldron of Dyrnwch the Giant, which will not boil meat for a coward however long it cooks, but boils quickly for a brave man. In Culhwch and Olwen, Arthur carries off the cauldron of Diwrnach the Irishman, full of Irish treasure.\n\nThe Welsh vessel of plenty is choosy: it gives abundance only to those who deserve it.",
+          "names": [
+            "Arthur",
+            "Prydwen",
+            "Annwn",
+            "Dyrnwch"
+          ],
+          "sources": [
+            "Preiddeu Annwfn (Book of Taliesin)",
+            "Tri Thlws ar Ddeg Ynys Prydain (Thirteen Treasures)",
+            "Culhwch and Olwen"
+          ]
+        },
+        {
+          "culture": "norse",
+          "title": "The Boar in the Cauldron",
+          "teaser": "Valhalla's boar is eaten every night and whole again by morning.",
+          "text": "The dead warriors in Valhalla, the einherjar, are countless, and all must be fed. Every day the cook Andhrímnir boils the boar Sæhrímnir in the cauldron Eldhrímnir, and every evening the boar is whole again, ready to be cooked the next day. Snorri remarks that there has never been a crowd so large that the boar's meat was not enough.\n\nFor drink, the goat Heiðrún stands on the roof of Valhalla, browsing on the leaves of the tree Læraðr, and from her udders flows mead enough to fill a vat each day, from which all the warriors drink their fill. Odin himself needs no food; he gives his meat to his two wolves and lives on wine alone.",
+          "names": [
+            "Sæhrímnir",
+            "Eldhrímnir",
+            "Andhrímnir",
+            "Heiðrún"
+          ],
+          "sources": [
+            "Grímnismál 18, 25",
+            "Gylfaginning 38–39"
+          ]
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "The Sampo",
+          "teaser": "A mill forged from a swan's feather grinds grain, salt and coin.",
+          "text": "Louhi, mistress of Pohjola, promises her daughter to whoever can forge the Sampo. The smith Ilmarinen takes the tip of a swan's feather, the milk of a barren cow, a grain of barley and the wool of a summer ewe, and works them in his forge. Out of the fire come a crossbow, a boat, a heifer and a plough, each beautiful and each wicked, and he breaks them all. At last the Sampo rises, with its lid of many colours.\n\nIt grinds a binful of meal for eating, a binful for selling and a binful for storing. Louhi locks it inside a copper mountain behind nine locks, where its roots go nine fathoms into the earth.\n\nIt will later be stolen, fought over at sea and smashed, and its fragments, washed ashore, bring the land its fertility.",
+          "names": [
+            "Ilmarinen",
+            "Louhi",
+            "Sampo"
+          ],
+          "sources": [
+            "Kalevala, runo 10",
+            "Kalevala, runos 39–43"
+          ],
+          "caveat": "What the Sampo originally was in the folk songs (mill, world pillar, or something else) is much debated, and the Kalevala's sequence is Lönnrot's compilation.",
+          "image": {
+            "file": "File:Gallen Kallela The Forging of the Sampo.jpg",
+            "caption": "The Forging of the Sampo, Akseli Gallen-Kallela, 1893"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sword-of-destiny",
+      "summary": "Some blades are more than weapons. Buried under a rock, thrust into a tree, found inside a monster or forged in the Otherworld, the sword waits for the one person able to take it, and in taking it he proves his birth, his right to rule, or his fate. Others are ancient tools of the gods or royal regalia whose loss would unmake a dynasty. The motif clusters where kingship is sanctioned by heaven. The Greek, Norse and Arthurian tests are close enough to invite comparison, though the sword in the stone itself is a relatively late invention.",
+      "versions": [
+        {
+          "culture": "anatolian",
+          "people": "Hurrian (Hittite version)",
+          "title": "The Ancient Copper Cutter",
+          "teaser": "The blade that once split heaven from earth is brought out again.",
+          "text": "The stone giant Ullikummi grows from the shoulder of Upelluri, the giant who carries heaven and earth, until he towers into the sky and presses on the gods' own city. Teshub, the storm god, cannot defeat him, and the gods despair.\n\nWise Ea goes to Upelluri, who has not even noticed the monster on his shoulder. Then Ea turns to the elder gods and asks them to open the ancient storehouses and bring out the old copper cutting tool, the one with which heaven and earth were once cut apart. With it, Ullikummi is severed from Upelluri's shoulder at his feet, cut off from the source of his strength.\n\nEa then taunts the diminished giant, and Teshub goes out to fight again.",
+          "names": [
+            "Ullikummi",
+            "Upelluri",
+            "Ea",
+            "Teshub"
+          ],
+          "sources": [
+            "Song of Ullikummi (CTH 345)"
+          ],
+          "caveat": "The text calls it a copper cutting tool rather than a sword, and the final battle is lost in a gap in the tablets."
+        },
+        {
+          "culture": "chinese",
+          "title": "Liu Bang and the White Serpent",
+          "teaser": "A drunken official cuts a snake in two, and a dynasty is foretold.",
+          "text": "Liu Bang, a minor village official escorting convicts, has let most of them go and is walking drunk at night through a marsh. A great serpent lies across the path. Liu Bang says a brave man fears nothing, draws his sword, and cuts it in two.\n\nThose who come after find an old woman weeping in the dark. Her son, she says, was the son of the White Emperor, who had turned into a snake to lie across the road, and now he has been killed by the son of the Red Emperor. Then she vanishes. When Liu Bang's followers hear the story, they begin to look on him with awe.\n\nLiu Bang went on to found the Han dynasty. The sword that slew the white serpent was kept as a treasure of the dynasty and its successors, until, the Jin history records, it was lost in the arsenal fire of 295.",
+          "names": [
+            "Liu Bang (Han Gaozu)",
+            "the White Emperor",
+            "the Red Emperor"
+          ],
+          "sources": [
+            "Sima Qian, Shiji 8 (Basic Annals of Gaozu)",
+            "Jin shu"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Theseus Lifts the Stone",
+          "teaser": "Under a great rock lie a sword and sandals, waiting for a son.",
+          "text": "King Aegeus of Athens, leaving Troezen, suspects that Aithra is pregnant by him. He hides his sword and sandals under a great rock and tells her that if she bears a son who can lift the stone, she should send him to Athens with the tokens, in secret.\n\nWhen Theseus is grown, Aithra leads him to the rock. He rolls it aside easily and takes up his father's things. Refusing the safe sea route, he walks to Athens along the coast road, killing the bandits who haunt it. At Athens the sorceress Medea, now Aegeus' wife, persuades the king to poison the stranger at a banquet. But when Theseus draws the sword to carve his meat, Aegeus knows it, dashes the cup away, and embraces his son.\n\nTravellers in Pausanias' day were still shown, at Troezen, a rock called the Rock of Theseus.",
+          "names": [
+            "Theseus",
+            "Aegeus",
+            "Aithra",
+            "Medea"
+          ],
+          "sources": [
+            "Plutarch, Life of Theseus 3–12",
+            "Pausanias 1.27.8, 2.32.7"
+          ],
+          "image": {
+            "file": "File:Theseus heft de steen op waaronder de degen ligt, RP-P-1904-2891.jpg",
+            "caption": "Theseus lifts the stone hiding his father's sword, print, 1711 (Rijksmuseum)"
+          }
+        },
+        {
+          "culture": "japanese",
+          "title": "Kusanagi from the Serpent's Tail",
+          "teaser": "Found in a dragon's tail, the sword becomes one of the imperial regalia.",
+          "text": "Susanoo gets the eight-headed, eight-tailed serpent Yamata no Orochi drunk on eight vats of strong sake and hacks it to pieces. When he cuts into the middle tail, the edge of his own sword chips. Splitting the tail open, he finds a great sword inside, and, thinking it a wonder, he presents it to his sister, the sun goddess Amaterasu.\n\nGenerations later, the hero Yamato Takeru receives it from his aunt, the priestess of Ise. Lured into a grass field, he is trapped when his enemies set it on fire; he cuts the grass around him and lights a counter-fire, and the sword takes the name Kusanagi, Grass-Cutter.\n\nIt is one of the three imperial regalia, said to be kept at Atsuta Shrine in Nagoya, and never shown to anyone.",
+          "names": [
+            "Susanoo",
+            "Yamata no Orochi",
+            "Amaterasu",
+            "Yamato Takeru",
+            "Kusanagi"
+          ],
+          "sources": [
+            "Kojiki, Books 1–2",
+            "Nihon Shoki, Books 1 and 7"
+          ],
+          "image": {
+            "file": "File:Susanoo-no-Mikoto-slays-Yamata-no-Orochi-in-Izumo-By-Tsukioka-Yoshitoshi.png",
+            "caption": "Susanoo slays Yamata no Orochi in Izumo, Tsukioka Yoshitoshi, 1887"
+          }
+        },
+        {
+          "culture": "celtic",
+          "people": "Welsh and Arthurian",
+          "title": "Arthur's Sword",
+          "teaser": "Caledfwlch in Welsh tales; later, a sword that only the true king can draw.",
+          "text": "In the Welsh tale Culhwch and Olwen, Arthur names the few things he will not give away: his ship, his mantle, his spear, his shield, his dagger, his wife Gwenhwyfar, and Caledfwlch, his sword. Geoffrey of Monmouth calls it Caliburnus, forged in the island of Avalon.\n\nThe famous test came later, in French romance. In Robert de Boron's Merlin, after the king's death the barons gather at Christmas, and a stone appears before the church with an anvil and a sword fixed in it, inscribed that whoever draws it will be king by God's choice. The great lords all fail. Young Arthur, sent back to fetch a sword for his foster-brother Kay, pulls it out without effort, and must do it again before the doubting barons at every feast until Pentecost.\n\nLater romances add a second sword, given by the Lady of the Lake.",
+          "names": [
+            "Arthur",
+            "Caledfwlch",
+            "Merlin",
+            "Kay"
+          ],
+          "sources": [
+            "Culhwch and Olwen",
+            "Geoffrey of Monmouth, Historia Regum Britanniae",
+            "Robert de Boron, Merlin"
+          ],
+          "caveat": "The sword in the stone is a French romance invention of about 1200, not a Welsh tradition; the name Caledfwlch is likely related to the Irish Caladbolg."
+        },
+        {
+          "culture": "norse",
+          "title": "The Sword in the Branstock",
+          "teaser": "A one-eyed stranger drives a sword into a tree; only Sigmund draws it.",
+          "text": "In King Völsung's hall grows a great tree, the Barnstokkr, its trunk rising through the middle of the hall and its branches spreading over the roof. At the wedding feast of his daughter Signý, a stranger walks in: tall, old, one-eyed, barefoot, in a hooded cloak. He drives a sword into the trunk up to the hilt, says that whoever draws it shall have it as a gift, and that he will never hold a better sword, and leaves.\n\nEvery man tries and fails, until Sigmund, the king's son, draws it as if it had been lying loose. Signý's new husband, King Siggeir, offers three times its weight in gold for it. Sigmund refuses, and from that insult a feud begins that destroys the Völsungs.\n\nThe stranger is Odin, who will one day shatter the sword himself. Its pieces are reforged as Gram for Sigurd, the dragon-slayer.",
+          "names": [
+            "Sigmund",
+            "Odin",
+            "Signý",
+            "Siggeir",
+            "Gram"
+          ],
+          "sources": [
+            "Völsunga saga 3, 11, 15"
+          ],
+          "image": {
+            "file": "File:Odin in der Halle Wolsungs by Emil Doepler.jpg",
+            "caption": "Odin thrusts the sword into the Barnstokkr in Völsung's hall, Emil Doepler, c. 1905"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cattle-raid",
+      "summary": "Where wealth walks on four legs, the hero is a raider. Gods and warriors steal, win back or drive off herds, facing monsters, rivals or whole armies. Bruce Lincoln reconstructed an Indo-European myth in which a hero called 'the third' recovers stolen cattle from a three-headed monster, and the Indian, Greek and Irish versions here have long been compared on that basis; shared descent is plausible within that family. Real cattle raiding, glorified in heroic poetry from India to Ireland, kept the stories alive.",
+      "versions": [
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Saramā and the Paṇis",
+          "teaser": "Indra's hound tracks the stolen cows to a cave beyond the river.",
+          "text": "The Paṇis, a stingy people, have stolen cows and hidden them inside a mountain cave, the Vala. Indra sends his hound Saramā to find them. She crosses the waters of the Rasā and reaches the Paṇis, and the Rigveda gives their exchange as a dialogue.\n\nThe Paṇis ask who sent her and what she wants, and they try to win her over: stay with us, they say, and be our sister, and we will share the cows with you. Saramā refuses. She warns them that Indra and the Aṅgirases are coming and that they had better run.\n\nOther hymns tell how Bṛhaspati and the Aṅgiras singers break open the Vala with their chant and release the cows, and the dawn with them. Elsewhere, Trita Āptya kills the three-headed Viśvarūpa and drives off his cows, the figure at the heart of Lincoln's comparison.",
+          "names": [
+            "Saramā",
+            "Indra",
+            "Paṇis",
+            "Bṛhaspati",
+            "Trita Āptya"
+          ],
+          "sources": [
+            "Rigveda 10.108",
+            "Rigveda 1.62",
+            "Rigveda 10.8"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "The Cattle of Geryon",
+          "teaser": "Beyond the edge of the world, Heracles kills a three-bodied herdsman.",
+          "text": "On Erytheia, an island beyond the stream of Ocean at the edge of the world where the sun sets, lives Geryon, son of Chrysaor, a giant with three heads or, in some tellings, three whole bodies joined at the waist. He keeps a herd of red cattle, watched by the herdsman Eurytion and the two-headed dog Orthus.\n\nFor his tenth labour Heracles must bring them back. He crosses the ocean in the golden cup in which the Sun sails each night from west to east. He clubs the dog and the herdsman, shoots Geryon, and drives the broad-browed cattle across Europe to Tiryns.\n\nThe drive home is long and eventful. The Romans told how the monster Cacus stole some of the herd on the site of Rome and dragged them backwards into his cave, until their lowing gave him away.",
+          "names": [
+            "Heracles",
+            "Geryon",
+            "Orthus",
+            "Eurytion"
+          ],
+          "sources": [
+            "Hesiod, Theogony 287–294",
+            "Apollodorus, Library 2.5.10",
+            "Livy 1.7"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Hermes Steals Apollo's Cattle",
+          "teaser": "Born at dawn, a baby god steals fifty cows by nightfall.",
+          "text": "Hermes is born at dawn. By midday he has made the first lyre from a tortoise shell, and by evening he is in Pieria, cutting fifty cows out of the immortal herd of his brother Apollo. He drives them backwards so their tracks point the wrong way, and ties brushwood to his own feet to confuse his trail.\n\nBy the river Alpheus he invents the fire-drill, slaughters two of the cows, and divides the meat into twelve portions for the gods. Then he slips back into his cave through the keyhole, like mist, and lies in his cradle.\n\nApollo tracks him down. Hauled before Zeus, the baby swears he does not even know what a cow is, and Zeus laughs out loud. The brothers settle: Hermes gives Apollo the lyre, and Apollo gives him the herds.",
+          "names": [
+            "Hermes",
+            "Apollo",
+            "Zeus"
+          ],
+          "sources": [
+            "Homeric Hymn to Hermes"
+          ],
+          "image": {
+            "file": "File:De jonge Mercurius steelt runderen van Apollo's kudde, SK-A-3966.jpg",
+            "caption": "The young Mercury steals cattle from Apollo's herd, Girolamo da Santacroce, 1530–1550 (Rijksmuseum)"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Epic",
+          "title": "The Raid on Virāṭa's Herds",
+          "teaser": "A dance-teacher in disguise drives off the whole Kaurava army.",
+          "text": "In the last year of their exile the Pāṇḍavas live disguised at King Virāṭa's court, Arjuna among them as Bṛhannaḍā, a eunuch who teaches dance to the princess. Their enemies attack from two sides: the Trigartas raid Virāṭa's southern herds, and while the king rides out to recover them, the Kauravas seize the cattle in the north.\n\nOnly young Prince Uttara is left, full of boasts, with Bṛhannaḍā as his charioteer. At the sight of Bhīṣma, Droṇa and Karṇa he leaps down and runs. Bṛhannaḍā drags him back, drives to a śamī tree where the Pāṇḍavas' weapons have been hidden wrapped like a corpse, takes down the great bow Gāṇḍīva, and reveals himself as Arjuna.\n\nAlone, he routs the army, stuns the warriors with a weapon of bewilderment, and strips them of their fine cloths for the princess's dolls. The herds come home.",
+          "names": [
+            "Arjuna",
+            "Bṛhannaḍā",
+            "Uttara",
+            "Virāṭa"
+          ],
+          "sources": [
+            "Mahābhārata, Book 4 (Virāṭa Parvan)"
+          ]
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "The Cattle Raid of Cooley",
+          "teaser": "For one bull, Queen Medb sends all Ireland against Ulster.",
+          "text": "In bed at Crúachan, Queen Medb and King Ailill compare their wealth and find they are equal in every respect but one. Ailill owns the great bull Finnbennach, the White-Horned, who was born in Medb's herds but would not stay under a woman's rule. Medb resolves to have the only equal bull in Ireland, the Donn Cúailnge, the Brown Bull of Cooley in Ulster.\n\nShe gathers the armies of Ireland and marches north. The men of Ulster lie helpless under an old curse, and only the seventeen-year-old Cú Chulainn stands against the host, fighting at the fords one champion at a time. His most terrible fight is with his foster-brother Fer Diad, whom he kills on the fourth day of their combat at the ford.\n\nIn the end the two bulls meet. The Donn kills Finnbennach, carries pieces of him across Ireland, and dies of a burst heart.",
+          "names": [
+            "Medb",
+            "Ailill",
+            "Cú Chulainn",
+            "Fer Diad",
+            "Donn Cúailnge"
+          ],
+          "sources": [
+            "Táin Bó Cúailnge (Lebor na hUidre; Book of Leinster)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wondrous-horse",
+      "summary": "The horse carries gods through the sky, heroes to the Otherworld, and kings to power. Mythic horses fly, have eight legs or seven heads, rise from lakes and oceans, fight beside their riders, sweat blood or weep it, and foretell the fates of battles. Among Indo-European peoples, who spread with the domesticated horse, the parallels probably reflect shared inheritance, including horse sacrifice and sun-horses; in China, the heavenly horse grew out of the empire's hunger for steppe breeds. The horse is the animal that made distance small, and myth gave it the rest of the cosmos.",
+      "versions": [
+        {
+          "culture": "greek",
+          "title": "Pegasus",
+          "teaser": "Born from Medusa's neck, the winged horse carries Zeus's thunder.",
+          "text": "When Perseus cuts off the Gorgon Medusa's head, two beings spring from her neck: Chrysaor and the winged horse Pegasus, named, Hesiod says, from the springs of Ocean where he was born. Pegasus flies up to live among the immortals and carries Zeus's thunder and lightning.\n\nPindar tells how the hero Bellerophon struggles to catch him at the spring of Peirene in Corinth, until Athena appears in a dream and gives him a golden bridle. With it he tames the horse, and on Pegasus he kills the fire-breathing Chimaera and defeats the Amazons.\n\nBut when Bellerophon tries to ride up to Olympus itself, Pegasus throws him, and the horse alone reaches the stables of Zeus. Where his hoof struck Mount Helicon, the spring Hippocrene flowed, and the Muses drank from it.",
+          "names": [
+            "Pegasus",
+            "Bellerophon",
+            "Medusa",
+            "Athena"
+          ],
+          "sources": [
+            "Hesiod, Theogony 280–286",
+            "Pindar, Olympian 13",
+            "Pindar, Isthmian 7"
+          ],
+          "image": {
+            "file": "File:Pelike Bellerophon Louvre G535.jpg",
+            "caption": "Bellerophon on Pegasus fighting the Chimaera, Attic red-figure pelike by the Barclay Painter (Louvre G535)"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Epic",
+          "title": "Uccaiḥśravas",
+          "teaser": "A white horse born of the ocean, and a wager on its tail.",
+          "text": "Among the wonders that rise from the churning of the ocean is Uccaiḥśravas, the Long-Eared or Loud-Neighing, a radiant white horse, which becomes the steed of Indra. In the Bhagavad Gītā, Kṛṣṇa says that among horses he is Uccaiḥśravas, born of the nectar.\n\nThe Mahābhārata tells how the two co-wives of the sage Kaśyapa, Kadrū, mother of snakes, and Vinatā, mother of birds, see the horse and bet on the colour of its tail; the loser will become the winner's slave. Vinatā says it is white. Kadrū says black, and then orders her serpent sons to hang from the tail as black hairs. Those who refuse, she curses to burn in a king's snake sacrifice.\n\nVinatā loses and becomes a slave, and to free her, her son Garuḍa must steal the nectar of immortality from the gods.",
+          "names": [
+            "Uccaiḥśravas",
+            "Indra",
+            "Kadrū",
+            "Vinatā",
+            "Garuḍa"
+          ],
+          "sources": [
+            "Mahābhārata, Book 1 (Āstīka Parvan)",
+            "Bhagavad Gītā 10.27"
+          ]
+        },
+        {
+          "culture": "chinese",
+          "title": "The Heavenly Horses",
+          "teaser": "An emperor wages war for horses said to sweat blood.",
+          "text": "The envoy Zhang Qian comes back from Central Asia with reports of Dayuan, in the Ferghana valley, whose horses sweat blood and are descended from heavenly horses. Emperor Wu of Han has been told by divination that divine horses will come from the northwest. He first gives the name heavenly horses to the fine steeds of the Wusun; when he learns of the Ferghana horses, he renames them and wants them above all.\n\nWhen Dayuan refuses to trade, Wu sends the general Li Guangli on a long and costly war across the deserts. After years of fighting, the Chinese bring home a few dozen of the finest horses and thousands of lesser ones.\n\nThe court composes a hymn to the heavenly horse, which comes from the far west, crossing the flowing sands, dragon-like, able to carry the emperor to the gate of heaven.",
+          "names": [
+            "Emperor Wu of Han",
+            "Zhang Qian",
+            "Li Guangli",
+            "Dayuan"
+          ],
+          "sources": [
+            "Sima Qian, Shiji 123 (Account of Dayuan)",
+            "Han shu 22 (Treatise on Ritual and Music)"
+          ],
+          "caveat": "This is a historical episode wrapped in cosmology rather than a myth in the narrow sense; the bloody sweat may have been caused by a skin parasite.",
+          "image": {
+            "file": "File:Rubbing from Han Dynasty Tomb Brick Showing Sweating Blood Horses.jpg",
+            "caption": "Rubbing of heavenly horses from a Han-dynasty tomb brick"
+          }
+        },
+        {
+          "culture": "celtic",
+          "people": "Irish",
+          "title": "The Grey of Macha",
+          "teaser": "Cú Chulainn's horse, born from a lake, weeps tears of blood.",
+          "text": "Cú Chulainn's two chariot horses are the Liath Macha, the Grey of Macha, and the Dub Sainglend. The Grey rises out of a grey lake near Slieve Fuait, and Cú Chulainn seizes it by the neck and wrestles it all round Ireland in a single day before it submits.\n\nOn the morning of his last battle, the Grey refuses to be yoked. When Cú Chulainn insists, the horse turns its left side to him three times and then weeps great tears of blood at his feet.\n\nIn the fight, the Grey is badly wounded by one of Lugaid's spears. Even so, when Cú Chulainn ties himself to a standing stone to die on his feet, the Grey comes back to defend him, killing fifty men with its teeth and thirty with each of its hooves. Only when a raven settles on the hero's shoulder do his enemies dare approach.",
+          "names": [
+            "Cú Chulainn",
+            "Liath Macha",
+            "Dub Sainglend"
+          ],
+          "sources": [
+            "Brislech Mór Maige Muirthemne (The Death of Cú Chulainn)",
+            "Táin Bó Cúailnge"
+          ],
+          "image": {
+            "file": "File:Cuchulain in Battle.jpg",
+            "caption": "Cú Chulainn in battle, J. C. Leyendecker, 1911"
+          }
+        },
+        {
+          "culture": "persian",
+          "title": "Rakhsh",
+          "teaser": "Only one horse can bear Rostam's weight, and it fights like a lion.",
+          "text": "When young Rostam goes to choose a horse, he presses his hand on the back of each one in Zal's herds, and every horse sinks under his weight. Then he sees a mare followed by a colt, its coat dappled like rose petals scattered on saffron, broad-chested and fierce. The herdsman says no one has dared to ride it. When Rostam asks its price, the answer is: the land of Iran; on it, you will defend the country. Rostam names it Rakhsh.\n\nOn the first of Rostam's Seven Labours, he falls asleep in a reed bed. A lion attacks, and Rakhsh, alone, tramples it and tears it with his teeth. At the third, a dragon comes in the night; Rakhsh wakes Rostam again and again until he sees it, and together they kill it.\n\nThey die together too, falling into a pit lined with spears dug by Rostam's treacherous half-brother.",
+          "names": [
+            "Rakhsh",
+            "Rostam",
+            "Zal"
+          ],
+          "sources": [
+            "Ferdowsi, Shāhnāmeh (Rostam and Rakhsh; the Seven Labours)"
+          ],
+          "image": {
+            "file": "File:\"Rakhsh Kills a Lion while Rustam is Asleep\", Folio from a Shahnama (Book of Kings) of Firdausi MET DP164673.jpg",
+            "caption": "Rakhsh kills a lion while Rostam sleeps, Shāhnāmeh folio, c. 1300–1330 (Metropolitan Museum of Art)"
+          }
+        },
+        {
+          "culture": "slavic",
+          "people": "West Slavic (Rani of Rügen)",
+          "title": "Svantevit's White Horse",
+          "teaser": "The god rides his horse to war at night; by morning it is sweating.",
+          "text": "At Arkona on the island of Rügen stands the great temple of Svantevit, whose four-headed statue holds a horn of wine. The god owns a white horse, which only the priest may feed or ride, and from whose mane and tail not a hair may be plucked.\n\nThe Rani believe that Svantevit rides this horse at night against the enemies of his people, and as proof they point out that it is often found in the morning sweating and spattered with mud, as if it had galloped far.\n\nBefore a war, the priests lay out three rows of spears, each made of two spears crossed, and lead the horse over them. If it steps across with its right foot first, the omen is good and the expedition sets out; if the left foot leads, the plan is dropped. The Danes destroyed the temple in 1168.",
+          "names": [
+            "Svantevit",
+            "Arkona"
+          ],
+          "sources": [
+            "Saxo Grammaticus, Gesta Danorum 14"
+          ],
+          "caveat": "The account comes from a hostile Christian Danish chronicler describing the temple his own side destroyed.",
+          "image": {
+            "file": "File:Bishop Absalon topples the god Svantevit at Arkona.PNG",
+            "caption": "Bishop Absalon topples Svantevit at Arkona, Laurits Tuxen, late 19th century"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Sleipnir",
+          "teaser": "Loki's eight-legged foal becomes the best of all horses.",
+          "text": "A builder offers to wall Asgard in three half-years, asking in payment Freyja, the sun and the moon. The gods agree, sure he will fail, and let him use his stallion Svaðilfari. But the horse hauls stone faster than anyone thought possible, and just before the deadline the wall is nearly done.\n\nThe gods threaten Loki, who got them into this. He turns into a mare and trots out of the woods, whinnying, and Svaðilfari breaks loose and chases her all night. The work stops, the deadline passes, and some time later Loki gives birth to a grey foal with eight legs.\n\nThis is Sleipnir, Odin's horse, the best among gods and men. When Balder dies, Hermóðr rides Sleipnir nine nights down to Hel, and the horse leaps the gate of the dead without touching it.",
+          "names": [
+            "Sleipnir",
+            "Loki",
+            "Svaðilfari",
+            "Odin",
+            "Hermóðr"
+          ],
+          "sources": [
+            "Gylfaginning 42, 49",
+            "Grímnismál 44"
+          ],
+          "image": {
+            "file": "File:Ardre Odin Sleipnir.jpg",
+            "caption": "A rider on an eight-legged horse, usually read as Odin on Sleipnir, Tjängvide image stone, Gotland, 8th–9th century"
+          }
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "The Fire-Maned Gelding of Hiisi",
+          "teaser": "Lemminkäinen must bridle a horse whose mane is flame.",
+          "text": "To win the Maiden of Pohjola, Lemminkäinen is set three tasks by her mother Louhi: ski down the elk of Hiisi, bridle Hiisi's fire-breathing gelding, and shoot the swan on the river of Tuonela, the land of the dead.\n\nThe gelding lives on the fields of Hiisi, its mane of flame, smoke pouring from its nostrils and fire from its mouth. Lemminkäinen prays to Ukko, the sky god, to send down iron hail and ice to fall on the horse's back and cool it. Then he speaks to it gently, calling it by fond names and promising it oats and a golden bridle, and slips the bit over its head.\n\nHe rides it back to Pohjola, but the third task ends his life: a herdsman he once insulted waits by the river of Tuonela.",
+          "names": [
+            "Lemminkäinen",
+            "Louhi",
+            "Hiisi",
+            "Ukko"
+          ],
+          "sources": [
+            "Kalevala, runo 14"
+          ],
+          "caveat": "As with the rest of the Kalevala, the episode is traditional material arranged by Elias Lönnrot."
+        }
+      ]
+    }
+  ]
+}

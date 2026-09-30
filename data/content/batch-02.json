@@ -1,0 +1,1181 @@
+{
+  "concepts": [
+    {
+      "id": "emergence",
+      "summary": "In many origin stories people neither fall from heaven nor wash up from the sea: they climb out of the earth, through a hole, a cave, a reed or a vine, leaving a dim world below for this one. The motif is densest in the Americas, from the Pueblo and Diné Southwest and the Missouri River villages to the Andes, where every lineage could name the cave or spring of its dawning. Old World parallels are thinner and usually take the form of autochthony, people born straight from the soil. Scholars treat the American cluster as a regional tradition of great depth, not evidence of contact across oceans.",
+      "versions": [
+        {
+          "culture": "greek",
+          "title": "The Sown Men of Thebes",
+          "teaser": "Dragon's teeth go into the furrow; armed men come up.",
+          "text": "Cadmus, searching for his lost sister Europa, follows a cow to the site of Thebes and sends his men to a spring for water. A serpent sacred to Ares kills them, and Cadmus kills the serpent. On Athena's advice he ploughs the ground and sows its teeth.\n\nArmed men rise from the furrows, fully grown. Cadmus throws a stone among them; each suspects his neighbour, and they cut one another down until only five remain: Echion, Udaeus, Chthonius, Hyperenor and Pelorus. These Spartoi, the \"Sown Men\", become the ancestors of the Theban nobility, and Echion marries Cadmus's daughter Agave.\n\nAthens made a similar boast in a gentler key: its people were autochthonous, sprung from Attic soil itself, and its early king Erichthonius was born of the Earth. In Greece the ground is less a doorway than a mother, and noble families liked to say so.",
+          "names": [
+            "Cadmus",
+            "Athena",
+            "Ares",
+            "Echion",
+            "Spartoi",
+            "Erichthonius"
+          ],
+          "sources": [
+            "Apollodorus, Library 3.4.1",
+            "Ovid, Metamorphoses 3"
+          ],
+          "caveat": "This is autochthony, birth from the soil, rather than a people's journey up from a world below; the parallel is loose.",
+          "image": {
+            "file": "File:Cadmus Sows the Dragon's Teeth Which Turn into Armed Men LACMA M.83.119.7.jpg",
+            "caption": "Cadmus sows the dragon's teeth, which turn into armed men; engraving by Hendrik Goltzius for Ovid's Metamorphoses, 1615"
+          }
+        },
+        {
+          "culture": "aztec",
+          "title": "Chicomoztoc, Place of Seven Caves",
+          "teaser": "The Nahua peoples come out of a mountain with seven wombs.",
+          "text": "Before their long migration, the Nahua-speaking peoples of central Mexico lived in, or came out of, Chicomoztoc, \"Place of Seven Caves\". Colonial histories name the groups that emerged from its chambers, among them the Xochimilca, Chalca, Tepaneca, Acolhua, Tlahuica, Tlaxcalteca and, last of all, the Mexica.\n\nThe Mexica link Chicomoztoc with Aztlan, their island homeland, and set out from there under the guidance of their god Huitzilopochtli, whose image was carried by priests on the long road that ended at Tenochtitlan.\n\nPainted histories show Chicomoztoc as a hill whose interior swells into seven rounded lobes, each holding a people, like a womb with seven rooms. Whether it was a remembered place in the north or a sacred image of the earth's belly, it gave every city a shared birthplace and a separate door out of it.",
+          "names": [
+            "Chicomoztoc",
+            "Aztlan",
+            "Huitzilopochtli",
+            "Mexica"
+          ],
+          "sources": [
+            "Historia Tolteca-Chichimeca",
+            "Diego Durán, History of the Indies of New Spain"
+          ],
+          "caveat": "Lists of the seven peoples differ from source to source, and whether Chicomoztoc was ever a real place is debated.",
+          "image": {
+            "file": "File:ToltecaChichimeca Chicomostoc.jpg",
+            "caption": "Chicomoztoc as a seven-chambered cave, Historia Tolteca-Chichimeca, 16th century"
+          }
+        },
+        {
+          "culture": "andean",
+          "title": "The Ayar Siblings of Pacaritambo",
+          "teaser": "Four brothers and four sisters walk out of a window in the hill.",
+          "text": "At Pacaritambo, the \"Inn of Dawning\" south of Cusco, stands a hill called Tambo Toco with three windows. From the central window, Capac Toco, come four brothers and four sisters: Ayar Manco, Ayar Auca, Ayar Cachi and Ayar Uchu, with Mama Ocllo, Mama Huaco and their sisters. From the side windows come the ancestors of allied lineages.\n\nAyar Cachi is so strong that his sling-stones split hills, and his siblings, alarmed, send him back into the cave to fetch treasures and wall him in. Others of the brothers turn to stone and become shrines. Manco reaches the valley of Cusco, where a golden staff sinks into the soil, and founds the city.\n\nThe Incas were not alone in this. Every Andean ayllu had its pacarina, its place of emergence, a lake, spring, cave or rock, and honoured it as the source of its people.",
+          "names": [
+            "Ayar Manco",
+            "Ayar Cachi",
+            "Mama Ocllo",
+            "Mama Huaco",
+            "Tambo Toco",
+            "pacarina"
+          ],
+          "sources": [
+            "Juan de Betanzos, Suma y narración de los Incas (1551)",
+            "Pedro Sarmiento de Gamboa, History of the Incas (1572)"
+          ]
+        },
+        {
+          "culture": "north-american",
+          "people": "Mandan",
+          "title": "The Broken Grapevine",
+          "teaser": "Half the people climb up; a heavy woman snaps the vine.",
+          "text": "The Mandan told Lewis and Clark, who wintered at their villages on the Missouri in 1804 and 1805, that their nation once lived in a single great village underground, beside a lake beneath the earth.\n\nA grapevine sent its roots down to them from above. Some of the people climbed it and found a bright country of buffalo and fruit. They brought back grapes, the rest set out to follow, and many reached the surface, until a very heavy woman began to climb and the vine broke under her weight. The earth closed, and those who had not yet climbed remained below.\n\nIn the account the explorers recorded, the good go back after death to the old village by the underground lake, crossing the water safely, while the wicked are too heavy and sink. The broken vine thus explains both a divided people and the road home.",
+          "names": [
+            "Mandan",
+            "grapevine"
+          ],
+          "sources": [
+            "Nicholas Biddle, History of the Expedition under the Command of Captains Lewis and Clark (1814)"
+          ],
+          "caveat": "Recorded second-hand by outsiders and published in Biddle's narrative of the expedition; the Mandan also have other origin traditions, notably those of Lone Man and First Creator.",
+          "image": {
+            "file": "File:George Catlin - Bird's-eye View of the Mandan Village, 1800 Miles above St. Louis - 1985.66.502 - Smithsonian American Art Museum.jpg",
+            "caption": "Bird's-eye View of the Mandan Village, George Catlin, 1837–39, Smithsonian American Art Museum"
+          }
+        },
+        {
+          "culture": "north-american",
+          "people": "Diné (Navajo)",
+          "title": "Climbing the Reed",
+          "teaser": "Fleeing a flood, the people climb a giant reed into this world.",
+          "text": "In the Diné (Navajo) accounts recorded by Washington Matthews, the first beings live in a stack of lower worlds, each dim and cramped. In each they quarrel or commit adultery, the chiefs of that world drive them out, and they fly or climb up through an opening in the sky to the next.\n\nIn the last world below, Coyote steals the children of Tééhooltsódii, the Water Monster, and hides them under his robe. A flood rises from every side. The people plant a great reed, crowd inside it and climb up through its hollow stem, with Locust going ahead to bore through into this world and win the right to stay by passing a test set by the beings who already live there.\n\nOnly when the waters keep rising do they search the bundles, find the stolen children, and send them back down. The place where they came out is remembered as Hajíínáí, \"the Place of Emergence\".",
+          "names": [
+            "Diné",
+            "Coyote",
+            "Tééhooltsódii",
+            "Locust",
+            "Hajíínáí"
+          ],
+          "sources": [
+            "Washington Matthews, Navajo Legends (1897)",
+            "Aileen O'Bryan, The Diné: Origin Myths of the Navaho Indians (1956)"
+          ],
+          "caveat": "The number and colours of the lower worlds, and many episodes, vary between singers and published versions."
+        },
+        {
+          "culture": "north-american",
+          "people": "Hopi",
+          "title": "Through the Sipapu",
+          "teaser": "From a corrupted world below, the people climb toward a new sky.",
+          "text": "In the Hopi accounts published by H. R. Voth and others, the people first live in a world beneath this one. There, sorcery and quarrelling spread until the chiefs resolve to leave. They send birds up to look for a way through the sky.\n\nA way is found: plants are made to grow toward the opening in the sky, and the people climb up, emerging through the sipapu, the navel of the earth, traditionally placed in the canyon country west of the Hopi mesas. Mockingbird, sitting at the opening, sings out to each group the language and way of life that will be theirs, so that the peoples of the world begin divided.\n\nThe emergence is not only a memory. The small hole in a kiva floor, also called sipapu, recalls it, and the clans' later migrations to the mesas continue the story that began when they stepped out of the ground.",
+          "names": [
+            "Hopi",
+            "sipapu",
+            "Mockingbird"
+          ],
+          "sources": [
+            "H. R. Voth, The Traditions of the Hopi (1905)"
+          ],
+          "caveat": "Versions differ by village and clan, and some knowledge is held within the community; this follows only widely published accounts, not Frank Waters's contested Book of the Hopi."
+        }
+      ]
+    },
+    {
+      "id": "first-siblings",
+      "summary": "If humanity begins with a single pair, someone has to marry a sibling, and many traditions face the problem head on. Sometimes the first couple are twins born together; sometimes a brother and sister survive a disaster alone and must repopulate the earth; sometimes the proposal is refused, and the refusal is the point. The motif clusters in Egypt, Iran and India and across a broad belt from southern China to Southeast Asia. The stories often confront the incest taboo openly and surround the unavoidable union with omens, rites or divine consent.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "Shu and Tefnut, Geb and Nut",
+          "teaser": "Egypt's first divine generations marry within the family.",
+          "text": "At Heliopolis, Atum, alone in the beginning, produces the first pair out of himself: he sneezes out Shu, the air, and spits out Tefnut, moisture. Brother and sister, they become the parents of Geb, the earth, and Nut, the sky, who are brother and sister too, and husband and wife.\n\nGeb and Nut lie so closely embraced that nothing can live between them until Shu lifts the sky away. From their union come Osiris, Isis, Seth and Nephthys, and the pattern holds a third time: Osiris marries Isis, Seth marries Nephthys.\n\nPlutarch adds a detail in the Greek manner: the sun god forbids Nut to give birth on any day of the year, so Thoth wins five extra days from the Moon at draughts, and the children are born in them. For gods, the family was the only society there was.",
+          "names": [
+            "Atum",
+            "Shu",
+            "Tefnut",
+            "Geb",
+            "Nut",
+            "Osiris",
+            "Isis"
+          ],
+          "sources": [
+            "Pyramid Texts, Utterance 600",
+            "Plutarch, On Isis and Osiris 12"
+          ],
+          "caveat": "These are gods rather than the first humans; the Egyptian texts do not derive humanity from a sibling couple.",
+          "image": {
+            "file": "File:Egyptian god Geb and goddess Nut, from the Greenfield papyrus.jpg",
+            "caption": "Nut arched over the reclining Geb, from the Greenfield Papyrus, c. 950 BCE"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Yama and Yamī",
+          "teaser": "The first mortal's twin sister proposes; he says no.",
+          "text": "Yama and Yamī are twins, children of Vivasvat, and in a hymn of the Rigveda they are alone in the world. Yamī urges her brother to lie with her, so that their father may have descendants. The gods themselves, she says, wish it; Tvaṣṭṛ made them husband and wife in the womb.\n\nYama refuses. What she asks is forbidden, he answers; the watchers of the gods do not sleep, and those who are kin should not do this. Let her find another man and embrace him as a creeper embraces a tree. Yamī replies with frustration, even contempt, and the hymn ends without a union.\n\nYama becomes the first mortal to die, the one who found the path for the many, and king of the dead. The Rigveda thus imagines the sibling marriage that first-couple logic demands, and then has its hero turn it down.",
+          "names": [
+            "Yama",
+            "Yamī",
+            "Vivasvat",
+            "Tvaṣṭṛ"
+          ],
+          "sources": [
+            "Rigveda 10.10"
+          ]
+        },
+        {
+          "culture": "levantine",
+          "title": "Cain's Wife",
+          "teaser": "Genesis never says whom Cain married; Jubilees does.",
+          "text": "Genesis 4:17 says simply that \"Cain knew his wife\", leaving readers ever since to wonder where she came from, if Adam and Eve were the only parents in the world.\n\nThe Book of Jubilees, a retelling of Genesis from the second century BCE, fills the gap. Adam and Eve have daughters as well as sons. Cain takes his sister Awan as his wife, and she bears him Enoch; Seth marries another sister, Azura. The list is set out in the calm style of a genealogy, as though nothing needed explaining.\n\nLater Jewish and Christian writers developed the idea further, giving Cain and Abel twin sisters and even making a quarrel over them a motive for the first murder. The problem the Bible leaves unspoken became a small industry of answers.",
+          "names": [
+            "Cain",
+            "Awan",
+            "Seth",
+            "Azura",
+            "Adam",
+            "Eve"
+          ],
+          "sources": [
+            "Genesis 4:17",
+            "Book of Jubilees 4"
+          ],
+          "caveat": "Jubilees is a later interpretation filling a silence in Genesis, not part of the Hebrew Bible itself."
+        },
+        {
+          "culture": "japanese",
+          "title": "Izanagi and Izanami",
+          "teaser": "Two siblings circle a pillar, and the woman speaks first.",
+          "text": "Izanagi and Izanami are the last pair of the seven generations of gods that appear at the beginning. From the Floating Bridge of Heaven they stir the sea with a jewelled spear, and brine dripping from its tip forms the island of Onogoro.\n\nThere they raise a pillar and a hall, and agree to walk around the pillar in opposite directions. When they meet, Izanami speaks first: \"How lovely, a fine young man!\" Their first child is Hiruko, the leech child, whom they set adrift in a reed boat. The heavenly gods, consulted by divination, declare the fault: the woman spoke first. The pair walk around again, Izanagi speaks first, and now they give birth to the islands of Japan and many gods.\n\nThe rite, not the kinship, is what goes wrong. Order restored, the sibling couple become the parents of a country.",
+          "names": [
+            "Izanagi",
+            "Izanami",
+            "Onogoro",
+            "Hiruko"
+          ],
+          "sources": [
+            "Kojiki (712)",
+            "Nihon Shoki (720)"
+          ],
+          "caveat": "The texts pair them as the last-born couple of the divine generations and call Izanami imo, a word that can mean sister or wife; their sibling status is implied rather than stated.",
+          "image": {
+            "file": "File:Kobayashi Eitaku - Izanami and Izanagi Creating the Japanese Islands.jpg",
+            "caption": "Izanami and Izanagi creating the islands, Kobayashi Eitaku, 1880s, Museum of Fine Arts, Boston"
+          }
+        },
+        {
+          "culture": "persian",
+          "title": "Mashya and Mashyāne",
+          "teaser": "A rhubarb plant grows into a pair of twins.",
+          "text": "When Gayōmard, the first man, dies under Ahriman's assault, his seed falls to the ground, is purified by the sunlight, and lies in the earth for forty years. Then a rhubarb plant springs up, with a single stem, in which two figures are joined so closely that no one can tell which is male and which female.\n\nThey take human form as Mashya and Mashyāne. Ohrmazd tells them they are the ancestors of the world and must think, speak and act well. Almost at once they are deceived, declare that Ahriman made the world, and fall into sin; long years pass before they come together as husband and wife.\n\nWhen their first twins are born, the parents devour them, the Bundahishn says, out of sweetness, until Ohrmazd takes the sweetness away. Afterwards they have further pairs of twins, each pair a husband and wife, from whom the peoples of the earth descend.",
+          "names": [
+            "Gayōmard",
+            "Mashya",
+            "Mashyāne",
+            "Ohrmazd",
+            "Ahriman"
+          ],
+          "sources": [
+            "Bundahishn"
+          ],
+          "caveat": "The Pahlavi Bundahishn dates from the 9th century CE, though it draws on older Zoroastrian tradition."
+        },
+        {
+          "culture": "chinese",
+          "title": "Nüwa and Her Brother on Kunlun",
+          "teaser": "Two survivors ask heaven for a sign: will the smoke join?",
+          "text": "A Tang-dynasty collection of marvels, the Duyi zhi, tells that when the world first began there were no people, only Nüwa and her elder brother, living on Mount Kunlun. They wished to become husband and wife, but were ashamed.\n\nSo the brother led his sister up the mountain and prayed: \"If Heaven means us to be husband and wife, let the smoke of our fires join; if not, let it scatter.\" The smoke joined. When she came to him, Nüwa made a fan of grass to hide her face, and this, the text says, is why brides today hold a fan.\n\nMuch older Han tomb reliefs and later silk banners from Turfan show Nüwa with Fuxi, their serpent tails intertwined, holding compass and set-square. Among the Miao, Yao and other peoples of southern China, a brother and sister who survive a flood, often inside a gourd, are told to marry and repopulate the world.",
+          "names": [
+            "Nüwa",
+            "Fuxi",
+            "Kunlun"
+          ],
+          "sources": [
+            "Li Rong, Duyi zhi (9th century)"
+          ],
+          "caveat": "The Duyi zhi leaves the brother unnamed; calling him Fuxi rests on the Han pairing of the two, and the sibling-marriage story is attested late in the written record.",
+          "image": {
+            "file": "File:Fuxi and Nüwa. 1964 Astana Cemetery.png",
+            "caption": "Fuxi and Nüwa with entwined tails, painted silk from the Astana cemetery, Turfan, Tang dynasty"
+          }
+        }
+      ]
+    },
+    {
+      "id": "world-tree",
+      "summary": "A great tree at the centre of things, roots in the underworld, crown in the heavens, trunk steadying the middle world: the image is common across Eurasia and Mesoamerica. It can be a ladder for gods and shamans, a perch for suns, the source of every seed, or a menace that must be cut down. Mircea Eliade made it a universal axis mundi, a symbol of the sacred centre; more cautious comparatists stress that each tree has its own local botany and job, from the Norse ash to the Maya ceiba, and that similar shapes need not share a history.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "title": "Inanna's Huluppu Tree",
+          "teaser": "Snake in the roots, bird in the crown, phantom in the trunk.",
+          "text": "In the days after heaven and earth were parted, a single huluppu tree grows on the bank of the Euphrates until the south wind tears it up. Inanna rescues it and plants it in her garden at Uruk, hoping one day to make a throne and a bed from its wood.\n\nBut the tree fills with squatters. A snake that knows no charm nests in its roots, the Anzu bird raises its young in its crown, and a phantom maiden makes her home in its trunk. Inanna weeps. Gilgamesh comes in armour, kills the snake; the bird flies to the mountains, the phantom flees to the wilderness. He cuts down the tree and gives Inanna her wood.\n\nFrom the remainder he makes himself a ball and stick, which fall into the underworld, and Enkidu's journey to fetch them is where the rest of the poem goes.",
+          "names": [
+            "Inanna",
+            "Gilgamesh",
+            "Enkidu",
+            "Anzu"
+          ],
+          "sources": [
+            "Gilgamesh, Enkidu and the Netherworld (Sumerian)",
+            "Epic of Gilgamesh, Tablet XII"
+          ],
+          "caveat": "The tree's three tiers of inhabitants suggest a cosmic tree, but the poem never calls it one; the parallel is structural."
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic and Upaniṣadic",
+          "title": "The Upside-Down Tree",
+          "teaser": "Roots in heaven, branches hanging down toward us.",
+          "text": "A Rigveda hymn pictures King Varuṇa in the bottomless realm holding up the crown of a tree whose rays point downward, their base above. The Upaniṣads turn this into a teaching. The Kaṭha Upaniṣad describes an eternal aśvattha, the sacred fig, with its root above and branches below: that is the bright, that is brahman, on which all the worlds rest.\n\nThe Bhagavad Gītā takes up the same tree. Krishna tells Arjuna of the imperishable aśvattha with roots above and branches below, whose leaves are the Vedic hymns; whoever knows it knows the Veda. Its branches spread up and down, nourished by the qualities of nature, and its lower roots bind people to action in the world of men.\n\nThen comes the twist: this tree must be cut down with the strong axe of detachment, and the seeker must look for the place from which no one returns.",
+          "names": [
+            "Varuṇa",
+            "aśvattha",
+            "brahman",
+            "Krishna"
+          ],
+          "sources": [
+            "Rigveda 1.24.7",
+            "Kaṭha Upaniṣad 6.1",
+            "Bhagavad Gītā 15.1–3"
+          ]
+        },
+        {
+          "culture": "persian",
+          "title": "The Tree of All Seeds",
+          "teaser": "A great bird shakes the seeds of every plant into the rain.",
+          "text": "In the midst of the cosmic sea Vourukasha stands a tree that holds the seeds of all plants, called in Pahlavi the tree \"of all seeds\" and \"of all remedies\". The Avesta already knows it as the tree on which the Saēna bird rests.\n\nWhen the bird, the later Sēnmurw, settles on its branches, a thousand shoots break off and the seeds fall into the water; another bird gathers them, and they are carried with the rain by Tishtrya, the star of rain, across the world. So every plant on earth has come from this tree.\n\nNear it grows the white Hōm, or Gōkarn, the tree that will give immortality to the bodies of the resurrected at the world's renovation. Ahriman sends a lizard into the water to gnaw at it, and fish swim around it forever to keep the lizard away.",
+          "names": [
+            "Vourukasha",
+            "Saēna",
+            "Sēnmurw",
+            "Tishtrya",
+            "Gōkarn"
+          ],
+          "sources": [
+            "Rashn Yasht (Yasht 12)",
+            "Bundahishn",
+            "Mēnōg ī Xrad"
+          ]
+        },
+        {
+          "culture": "chinese",
+          "title": "Fusang and the Building Tree",
+          "teaser": "Ten suns roost in one tree; gods climb another.",
+          "text": "The Shanhaijing, the Classic of Mountains and Seas, places a mulberry called Fusang in the far east, above the Hot Water Valley where the ten suns bathe. Nine suns rest in its lower branches and one in its upper branch, waiting its turn to cross the sky.\n\nAt the centre of the world, the Huainanzi says, stands the Jianmu, the \"Building Tree\", on the plain of Duguang. Here the gods go up and come down. At noon it casts no shadow, and a shout made beside it gives no echo, as if it stood outside ordinary space.\n\nBronze trees from the Sanxingdui pits in Sichuan, cast more than three thousand years ago, rise in tiers of branches with birds perched on them. They are often read as a Fusang with its sun-birds, though no inscription says so.",
+          "names": [
+            "Fusang",
+            "Jianmu",
+            "Duguang"
+          ],
+          "sources": [
+            "Shanhaijing (Classic of Mountains and Seas)",
+            "Huainanzi 4"
+          ],
+          "caveat": "The Sanxingdui trees predate the texts by many centuries, and their link to Fusang is an inference.",
+          "image": {
+            "file": "File:Bronze Tree, Sanxingdui 1a.jpg",
+            "caption": "Bronze tree with perching birds from Sanxingdui, Sichuan, c. 12th century BCE"
+          }
+        },
+        {
+          "culture": "maya",
+          "title": "The Ceiba at the Centre",
+          "teaser": "Four coloured trees at the corners, a green ceiba in the middle.",
+          "text": "Classic Maya kings placed themselves at the foot of the world tree. On the sarcophagus lid of K'inich Janaab Pakal of Palenque, carved around 683 CE, the dead king lies at the mouth of the underworld while a cross-shaped tree rises above him, a celestial bird perched on top and a double-headed serpent in its branches. The tablet of Palenque's Temple of the Cross shows a similar tree.\n\nColonial Yucatec books keep the idea. The Book of Chilam Balam of Chumayel tells that after a destruction of the world, trees were set up at the four quarters: a red one in the east, a white in the north, a black in the west, a yellow in the south. In the centre stands the green ceiba, the first tree of the world.\n\nThe ceiba, yaxche, still shades many Maya village plazas, and cutting one down is not undertaken lightly.",
+          "names": [
+            "K'inich Janaab Pakal",
+            "ceiba",
+            "yaxche",
+            "Bacabs"
+          ],
+          "sources": [
+            "Sarcophagus lid of K'inich Janaab Pakal, Palenque",
+            "Tablet of the Temple of the Cross, Palenque",
+            "Book of Chilam Balam of Chumayel"
+          ],
+          "caveat": "Reading the Palenque imagery as a world tree is standard in modern scholarship but rests on interpretation of images.",
+          "image": {
+            "file": "File:TSOM D107 Tablet of cross at Palenque.png",
+            "caption": "The tablet of the Temple of the Cross at Palenque, drawing published in 1889"
+          }
+        },
+        {
+          "culture": "norse",
+          "title": "Yggdrasil",
+          "teaser": "An ash whose roots reach three worlds, gnawed from below.",
+          "text": "\"An ash I know, Yggdrasil its name,\" says the seeress of Völuspá, \"a tall tree, sprinkled with white clay.\" It is the greatest of trees, its branches spreading over all the world.\n\nIt has three roots. One runs to the gods, by the Well of Urðr, where they hold their court each day and the Norns draw water and clay to keep the tree alive. One runs to the frost giants, where Mímir's well of wisdom lies. The third reaches over Niflheim, where the dragon Níðhöggr gnaws at it from beneath.\n\nThe tree is never at ease. An eagle sits in its crown, and the squirrel Ratatoskr runs up and down carrying insults between eagle and dragon. Four stags crop its leaves, and the Grímnismál says it suffers more than anyone knows, rotting on one side. At Ragnarök it will shudder, groaning as it stands.",
+          "names": [
+            "Yggdrasil",
+            "Urðr",
+            "Mímir",
+            "Níðhöggr",
+            "Ratatoskr",
+            "Norns"
+          ],
+          "sources": [
+            "Völuspá 19",
+            "Grímnismál 31–35",
+            "Gylfaginning 15–16"
+          ],
+          "image": {
+            "file": "File:Yggdrasil AM 738 4to.jpg",
+            "caption": "Yggdrasil with the creatures that live in and around it, Icelandic manuscript AM 738 4to, 17th century"
+          }
+        },
+        {
+          "culture": "aztec",
+          "title": "Trees of the Four Directions",
+          "teaser": "Four trees, four birds, and the fire god at the centre.",
+          "text": "The opening page of the Codex Fejérváry-Mayer maps the world as a great cross. Each of the four quarters holds a tree with a bird perched on top, flanked by a pair of deities, and in the centre stands Xiuhtecuhtli, the old god of fire, the hearth of the world. Streams of blood flowing toward the centre are commonly read as coming from the dismembered body of Tezcatlipoca.\n\nA colonial account of Mexica creation, the Historia de los mexicanos por sus pinturas, gives trees a heavier job. After the sky had fallen onto the earth, Tezcatlipoca and Quetzalcoatl made four roads through the earth's middle and turned themselves into two great trees to raise the heavens again.\n\nHere the tree is less a ladder than a prop: a god who has turned into wood, holding up the sky.",
+          "names": [
+            "Xiuhtecuhtli",
+            "Tezcatlipoca",
+            "Quetzalcoatl"
+          ],
+          "sources": [
+            "Codex Fejérváry-Mayer, page 1",
+            "Historia de los mexicanos por sus pinturas"
+          ],
+          "caveat": "The Codex Fejérváry-Mayer belongs to the Borgia Group of central Mexican codices, and whether it was painted by Aztec or neighbouring artists is debated."
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "The Great Oak",
+          "teaser": "An oak grows until it blots out the sun and moon.",
+          "text": "After the world is made, Väinämöinen has the land sown with trees, but the oak will not sprout. At last an acorn is planted in the ashes of burned hay, and it grows and grows. Its crown spreads until it blocks the clouds, hides the sun and the moon, and leaves the world in shadow.\n\nNo one can cut it down. Väinämöinen asks for help, and out of the sea rises a little man no bigger than a thumb, dressed in copper. He mocks the task, then suddenly grows into a giant with his feet on the ground and his head in the clouds, whets his axe and fells the oak with three blows. It falls across the water, and whoever takes a twig or leaf of it gains lasting luck.\n\nHere the world tree is a problem, and the story is about getting rid of it.",
+          "names": [
+            "Väinämöinen",
+            "Sampsa Pellervoinen"
+          ],
+          "sources": [
+            "Kalevala, Rune 2"
+          ],
+          "caveat": "Lönnrot's Kalevala (1835/1849) is a compiled epic, though the song of the great oak is well attested in folk poetry from Karelia and Ingria.",
+          "image": {
+            "file": "File:Joseph Alanen - The Felling of the Great Oak.jpg",
+            "caption": "The Felling of the Great Oak, Joseph Alanen, 1919–20; the tiny Väinämöinen watches the giant at work"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cosmic-mountain",
+      "summary": "Put a mountain at the centre of the world and much else follows: the sun circles it, rivers pour from it, gods keep house on its summit, and the dead or the righteous may climb it. Cosmic mountains appear across Asia and the Near East, from Meru and Kunlun to the Iranian Harā. Real peaks often stand behind them, as Jebel Aqra stands behind Zaphon, and temples such as the ziggurat and the Buddhist stupa rebuilt the mountain in brick and stone. The Indo-Iranian pair Meru and Harā may share an ancestor; most of the others are probably independent.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "title": "The Twin Peaks of Mashu",
+          "teaser": "Scorpion people guard the tunnel where the sun goes at night.",
+          "text": "Grieving for Enkidu and afraid of death, Gilgamesh sets out to find Utnapishtim, the one man granted eternal life. He comes to the mountains of Mashu, which every day guard the rising and the setting of the sun. Their peaks reach up to the rim of heaven, and below, their breasts reach down to the underworld.\n\nScorpion people guard the gate, a scorpion-man and his wife, whose glance is death. They warn him that no mortal has ever passed that way, then open it. Gilgamesh runs for twelve double-hours along the road of the sun in total darkness, the sun's path under the mountain, with no light before him and none behind.\n\nHe comes out in a garden where the trees bear jewels instead of fruit, carnelian and lapis lazuli, beside the sea at the end of the world.",
+          "names": [
+            "Gilgamesh",
+            "Mashu",
+            "Shamash",
+            "Utnapishtim"
+          ],
+          "sources": [
+            "Epic of Gilgamesh, Tablet IX"
+          ],
+          "image": {
+            "file": "File:Adda Seal Akkadian Empire 2300 BC.jpg",
+            "caption": "The sun god Shamash rising between two mountains, Akkadian cylinder seal of the scribe Adda, c. 2300 BCE, British Museum"
+          }
+        },
+        {
+          "culture": "levantine",
+          "title": "Zaphon, the Mountain of Assembly",
+          "teaser": "Baal's palace on the peak; Zion claims the title.",
+          "text": "In the Ugaritic Baal Cycle, the storm god Baal, having defeated Yam, the Sea, has a palace built of silver and gold on Mount Ṣapānu, Zaphon, the peak now called Jebel al-Aqra on the Syrian coast. When Baal later dies, the god Athtar is set on his throne on the heights of Zaphon, but his feet do not reach the footstool and his head does not reach the top, and he steps down.\n\nThe Hebrew Bible borrows the name. Psalm 48 calls Mount Zion in Jerusalem \"the heights of Zaphon\", the joy of the whole earth. Isaiah mocks the king of Babylon who boasted, \"I will sit on the mount of assembly, in the far reaches of Zaphon.\" Ezekiel's lament for the king of Tyre places him in Eden, on the holy mountain of God.\n\nThe divine mountain moves inland, and a modest hill in Judah takes over its titles.",
+          "names": [
+            "Baal",
+            "Yam",
+            "Athtar",
+            "Zaphon",
+            "Zion"
+          ],
+          "sources": [
+            "Baal Cycle (KTU 1.1–1.6)",
+            "Psalm 48:2",
+            "Isaiah 14:13",
+            "Ezekiel 28:14"
+          ]
+        },
+        {
+          "culture": "persian",
+          "title": "High Harā",
+          "teaser": "The sun, moon and stars turn around it; souls are judged on its peak.",
+          "text": "The Avesta speaks of Harā Berezaitī, \"High Harā\", a mountain range that surrounds the earth and from whose heights the waters of Arədvī Sūrā Anāhitā pour down. Mithra, the Mihr Yasht says, is the first of the gods to come over Harā before the immortal sun, looking down over all the lands of the Aryans.\n\nThe Pahlavi Bundahishn tells that Harā grew for eight hundred years until it reached the heavens, and that the sun, moon and stars wheel about it. On one of its summits, the peak of Dāitī, stands the Chinvat Bridge, over which every soul must cross after death: broad for the righteous, narrowing like a blade for the wicked.\n\nThe name survives, softened, in Alborz, the range that walls northern Iran.",
+          "names": [
+            "Harā Berezaitī",
+            "Mithra",
+            "Anāhitā",
+            "Chinvat Bridge"
+          ],
+          "sources": [
+            "Mihr Yasht (Yasht 10)",
+            "Bundahishn"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic and Buddhist",
+          "title": "Meru, the Golden Mountain",
+          "teaser": "Brahmā's city on the summit, the sun circling the slopes.",
+          "text": "At the centre of Jambudvīpa, the innermost of the ring-shaped continents, rises Meru, golden and immeasurably high: the Viṣṇu Purāṇa gives it eighty-four thousand yojanas above ground and sixteen thousand below, broader at the top than at its base, like the seed-cup of a lotus.\n\nOn its summit is the city of Brahmā, with the cities of the guardians of the directions around it. The Ganges falls from heaven onto the mountain and divides into four rivers flowing to the four quarters. The sun, moon and stars circle Meru, and day and night are simply the sun passing behind it.\n\nBuddhist cosmology keeps the mountain as Sumeru, ringed by seas and golden ranges, with the heaven of the Thirty-Three on its top. Temples from Angkor to Bali build their towers as images of it.",
+          "names": [
+            "Meru",
+            "Sumeru",
+            "Jambudvīpa",
+            "Brahmā"
+          ],
+          "sources": [
+            "Viṣṇu Purāṇa 2.2",
+            "Mahābhārata, Bhīṣma Parvan",
+            "Vasubandhu, Abhidharmakośa 3"
+          ],
+          "image": {
+            "file": "File:Bhutanese thanka of Mt. Meru and the Buddhist Universe.jpg",
+            "caption": "Mount Meru and the Buddhist universe, Bhutanese thangka, 19th century"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "Kunlun",
+          "teaser": "Climb it and become immortal; climb higher and become a god.",
+          "text": "The Shanhaijing calls the Kunlun Mound \"the lower capital of the Thearch\", eight hundred li around, guarded by a nine-headed beast, with great rivers flowing from its slopes. The Queen Mother of the West, keeper of immortality, lives in its region.\n\nThe Huainanzi describes the mountain as a stair. Climb to the Cool Wind Mountain above Kunlun and you will not die. Climb twice as high, to the Hanging Garden, and you gain spirit powers and can command wind and rain. Climb twice as high again and you reach heaven itself, the home of the Great Thearch, and become a god.\n\nKunlun became the Daoist paradise of the west and the model of the immortal's journey, and in later Chinese and Tibetan imagination it drifted onto real ranges on the maps, without ever quite coming to rest.",
+          "names": [
+            "Kunlun",
+            "Queen Mother of the West",
+            "Cool Wind Mountain",
+            "Hanging Garden"
+          ],
+          "sources": [
+            "Shanhaijing (Classic of Mountains and Seas)",
+            "Huainanzi 4"
+          ],
+          "image": {
+            "file": "File:Queen Mother of the West - Rubbing (山東嘉祥宋山).jpg",
+            "caption": "The Queen Mother of the West, rubbing of a Han-dynasty stone relief from Songshan, Jiaxiang, Shandong"
+          }
+        },
+        {
+          "culture": "north-american",
+          "people": "Diné (Navajo)",
+          "title": "The Four Sacred Mountains",
+          "teaser": "Soil brought up from below becomes the corners of the homeland.",
+          "text": "When the Diné emerged into this world, according to the accounts recorded by Washington Matthews and others, First Man had brought up soil from the mountains of the world below. From it the Holy People built the sacred mountains anew and set them in their places.\n\nSisnaajiní, Blanca Peak, stands in the east and is dressed in white shell; Tsoodził, Mount Taylor, in the south, in turquoise; Dookʼoʼoosłííd, the San Francisco Peaks, in the west, in abalone; Dibé Nitsaa, Hesperus Mountain, in the north, in jet. Between them lie central mountains, among them Chʼóolʼį́ʼí, Gobernador Knob, where Changing Woman was found.\n\nTogether they are not a single world-pillar but the bounds of a home: the Diné say they were placed to live within these four, and the mountains are still addressed in prayer as living beings.",
+          "names": [
+            "Diné",
+            "First Man",
+            "Sisnaajiní",
+            "Tsoodził",
+            "Dookʼoʼoosłííd",
+            "Dibé Nitsaa",
+            "Changing Woman"
+          ],
+          "sources": [
+            "Washington Matthews, Navajo Legends (1897)"
+          ],
+          "caveat": "These mountains mark a sacred centre and boundary rather than a single axis of the world, so the parallel is partial."
+        }
+      ]
+    },
+    {
+      "id": "heaven-once-near",
+      "summary": "Many peoples remember a time when the sky lay close enough to touch: people could talk with the gods, climb up to them, or bump their heads on the clouds. Then something happened, usually a human offence or a lapse, and the sky withdrew. The motif is especially widespread in Africa, where the retreating creator, the deus otiosus of the ethnographers, is a staple, but it appears also in Egypt, China, Japan and Polynesia. It explains why the gods now feel distant, and it often puts the blame squarely on ordinary domestic life.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "Ra Withdraws on the Cow",
+          "teaser": "The tired sun king rides up to the sky on Nut's back.",
+          "text": "In the Book of the Heavenly Cow, painted in royal tombs of the New Kingdom, Ra rules gods and people together on earth. He has grown old: his bones are silver, his flesh gold, his hair true lapis lazuli. Humans notice, and plot against him.\n\nRa sends out his Eye as the goddess Hathor to slaughter them, then relents and saves the rest by flooding the fields with beer dyed red, which she drinks until she is too drunk to go on. But he is weary of living among them. Nut takes the form of a cow and Ra mounts her back, and she rises high above the earth, becoming the sky.\n\nThe height makes her tremble, so Shu, the air, is set beneath her belly, with eight gods to hold up her legs. Ra, now far overhead, organises the heavens, and the old closeness is gone.",
+          "names": [
+            "Ra",
+            "Hathor",
+            "Nut",
+            "Shu"
+          ],
+          "sources": [
+            "Book of the Heavenly Cow"
+          ],
+          "image": {
+            "file": "File:Book of the Heavenly Cow KV17.jpg",
+            "caption": "Nut as the heavenly cow supported by Shu, from the tomb of Seti I (KV17), 13th century BCE; copy by Edward Piercy"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "Cutting the Road to Heaven",
+          "teaser": "An emperor orders heaven and earth to stop mixing.",
+          "text": "The Book of Documents records that when the Miao people fell into disorder and cruelty, the sovereign commanded Chong and Li to cut off the communication between earth and heaven, so that there was no more descending and ascending.\n\nCenturies later, King Zhao of Chu asked his minister Guan Yifu what this meant: if it had not been done, could people really have climbed up to heaven? The Guoyu gives the answer. In antiquity, the minister says, people and spirits did not mix; gifted shamans alone served the spirits. Then, in the decline under Shaohao, the Jiu Li threw everything into confusion, every family performing its own rites and everyone a shaman. So Zhuanxu appointed Chong to take charge of heaven and Li of earth, and order was restored.\n\nThe old tale of a severed ladder survives inside a lesson about who has the right to talk to the gods.",
+          "names": [
+            "Chong",
+            "Li",
+            "Zhuanxu",
+            "Shaohao",
+            "Guan Yifu"
+          ],
+          "sources": [
+            "Book of Documents (Shangshu), 'Lü xing'",
+            "Guoyu, 'Chu yu'"
+          ],
+          "caveat": "The Guoyu explicitly rationalises the story, so the older, more literal myth has to be read between its lines."
+        },
+        {
+          "culture": "japanese",
+          "title": "The Ladder that Fell",
+          "teaser": "Izanagi's ladder to heaven topples and becomes a sandbar.",
+          "text": "A fragment of the fudoki, the eighth-century provincial gazetteer, of Tango province tells how Izanagi, the father of the gods, used to go up and down between heaven and earth by a ladder standing at this place on the coast.\n\nOne day, while he lay sleeping, the ladder fell over. It became a long, narrow spit of land running out into the sea, called Ame-no-hashidate, the \"Ladder of Heaven\", and people came to call it Kushi-no-hashidate, the \"Wondrous Ladder\", and in time Amanohashidate.\n\nThe sandbar, with its line of pines stretching across Miyazu Bay, is still counted among the three famous views of Japan. It is a small, tender version of the motif: no sin, no quarrel, only a god who fell asleep, and a way to heaven that now lies flat on the water.",
+          "names": [
+            "Izanagi",
+            "Amanohashidate"
+          ],
+          "sources": [
+            "Tango no Kuni Fudoki (fragment)"
+          ],
+          "caveat": "The Tango Fudoki survives only in fragments quoted by later works.",
+          "image": {
+            "file": "File:Sesshu - View of Ama-no-Hashidate.jpg",
+            "caption": "View of Ama-no-Hashidate, ink painting by Sesshū Tōyō, c. 1501–1506"
+          }
+        },
+        {
+          "culture": "west-african",
+          "people": "Akan (Asante)",
+          "title": "The Old Woman's Pestle",
+          "teaser": "A woman pounding fufu keeps hitting God, so he moves away.",
+          "text": "In a story widely told among the Akan of Ghana, the supreme god Onyame once lived close above the people, so close that they could touch him. An old woman pounding fufu, the staple of yam or plantain, kept striking him with the end of her long pestle as she raised it.\n\nOnyame complained, and when she went on, he moved further up, out of reach. The old woman, the story goes on, told her children to gather all the mortars they could find and stack them one on top of another until they reached him. They were one mortar short, and she told them to take the one at the bottom and put it on the top. The tower collapsed, and many were killed.\n\nVersions with a pestle, a smoky cooking fire or a woman wiping her hands on the low sky are found across West and Central Africa.",
+          "names": [
+            "Onyame",
+            "Nyame",
+            "fufu"
+          ],
+          "sources": [
+            "Akan oral tradition, widely published in collections of Ghanaian folklore"
+          ],
+          "caveat": "Details vary among narrators, and the published versions come from 20th-century collections."
+        },
+        {
+          "culture": "polynesian",
+          "people": "Hawaiian",
+          "title": "Māui Pushes Up the Sky",
+          "teaser": "The sky pressed down so low that people had to crawl.",
+          "text": "In a Hawaiian tradition collected by W. D. Westervelt, the sky once lay so close to the earth that the clouds hung among the trees and people could not stand upright; they crept about, cramped and stooping.\n\nMāui, the restless trickster-hero who also snared the sun and fished up islands, set himself to the task. Bracing himself, he heaved the sky upward, and heaved again, until it rose to the height where it now stands, and people could walk upright beneath it.\n\nAcross Polynesia the sky is lifted in many ways and by many hands: in Aotearoa it is the god Tāne who pushes his father Rangi away from his mother Papa, in Samoa it is Tiʻitiʻi. The shared memory is that the world once had no headroom.",
+          "names": [
+            "Māui",
+            "Tāne",
+            "Rangi",
+            "Tiʻitiʻi"
+          ],
+          "sources": [
+            "W. D. Westervelt, Legends of Ma-ui (1910)"
+          ],
+          "caveat": "Island versions differ widely in who raises the sky and why; this overlaps with the separation of sky and earth."
+        }
+      ]
+    },
+    {
+      "id": "sun-and-moon-origin",
+      "summary": "Almost every mythology accounts for its two great lights, and the answers fall into a few families. They are born from a god's eyes or body; they are gods or people who leap into fire, climb into the sky, or are set there as drivers; or they are siblings, often an incestuous or quarrelling pair who must stay apart forever. The sibling-pursuit story runs from Greenland across the Americas; the transformed-body version links China with India's Rigveda 10.90. The recurrence probably reflects independent invention prompted by the same fact: two lights, one forever following the other.",
+      "versions": [
+        {
+          "culture": "chinese",
+          "title": "Pangu's Eyes",
+          "teaser": "A dying giant's left eye becomes the sun, the right the moon.",
+          "text": "The Classic of Mountains and Seas knows mothers of the lights: Xihe, wife of the god Di Jun, gives birth to ten suns and bathes them, and Changxi, another of his wives, bears twelve moons.\n\nA later and more famous account belongs to Pangu, the first being, who grew between heaven and earth as they separated. In a text attributed to Xu Zheng in the third century, preserved in later compilations, Pangu at his death gives his body to the world: his breath becomes the wind and clouds, his voice the thunder, his left eye the sun and his right eye the moon. His limbs become the four poles and the mountains, his blood the rivers, his flesh the soil, his hair the stars.\n\nThe sun and moon are thus the last looks of a giant, fixed forever on the world he made.",
+          "names": [
+            "Pangu",
+            "Xihe",
+            "Changxi",
+            "Di Jun"
+          ],
+          "sources": [
+            "Shanhaijing (Classic of Mountains and Seas)",
+            "Xu Zheng, Wuyun linian ji (3rd century), quoted in later compilations"
+          ],
+          "caveat": "The Pangu story is first attested in the 3rd century CE and may owe something to South or Central Asian models."
+        },
+        {
+          "culture": "japanese",
+          "title": "Born from Izanagi's Eyes",
+          "teaser": "Washing off death, a god rinses out the sun and moon.",
+          "text": "Returning from Yomi, the land of the dead, where he has seen the rotting body of his wife Izanami, Izanagi goes to a river mouth in Tsukushi to wash away the pollution. Gods are born from each thing he casts off and each part he rinses.\n\nLast of all he washes his face. From his left eye is born Amaterasu, the sun goddess; from his right eye, Tsukuyomi, the moon god; from his nose, the storm god Susanoo. Izanagi rejoices at these three noble children and gives Amaterasu the High Plain of Heaven, Tsukuyomi the realm of night, and Susanoo the sea.\n\nThe Nihon Shoki adds why sun and moon keep apart. Sent to visit the food goddess Ukemochi, Tsukuyomi kills her in disgust when she offers food from her mouth. Amaterasu declares she will never look on him again, and so they live separated by day and night.",
+          "names": [
+            "Izanagi",
+            "Amaterasu",
+            "Tsukuyomi",
+            "Susanoo",
+            "Ukemochi"
+          ],
+          "sources": [
+            "Kojiki (712)",
+            "Nihon Shoki (720)"
+          ]
+        },
+        {
+          "culture": "norse",
+          "title": "Sól and Máni",
+          "teaser": "A proud father names his children Sun and Moon; the gods agree.",
+          "text": "A man named Mundilfari has two children so beautiful that he names them Máni, Moon, and Sól, Sun, and marries his daughter to a man called Glenr. The gods, angered at his arrogance, take the children and set them in the sky.\n\nSól drives the horses Árvakr and Alsviðr, \"Early-Waker\" and \"All-Swift\", which draw the sun, a light made from sparks flying out of Muspelheim; beneath their shoulders the gods set bellows to cool them. Máni steers the moon and governs its waxing and waning. He also took two children, Bil and Hjúki, up from the earth as they were carrying water from a well, and they follow him still.\n\nThey hurry because they are hunted. Two wolves, Sköll and Hati, chase the sun and the moon across the sky, and at Ragnarök the wolves will catch them.",
+          "names": [
+            "Mundilfari",
+            "Sól",
+            "Máni",
+            "Bil",
+            "Hjúki",
+            "Sköll",
+            "Hati"
+          ],
+          "sources": [
+            "Gylfaginning 11–12",
+            "Vafþrúðnismál 23"
+          ],
+          "image": {
+            "file": "File:The Wolves Pursuing Sol and Mani.jpg",
+            "caption": "The Wolves Pursuing Sol and Mani, John Charles Dollman, published 1909"
+          }
+        },
+        {
+          "culture": "aztec",
+          "title": "The Fire at Teotihuacan",
+          "teaser": "A scabby god leaps into the fire; a proud one hesitates.",
+          "text": "When there was no daylight, the gods gathered at Teotihuacan and asked who would carry the burden of becoming the sun. The splendid Tecuciztecatl volunteered, offering quetzal plumes, gold and jewels; the gods chose the humble, pustule-covered Nanahuatzin as the second, and he offered bundles of reeds and his own scabs.\n\nFor four days they did penance while a great fire burned. At midnight Tecuciztecatl ran at the flames four times and four times drew back. Then Nanahuatzin shut his eyes and leapt in, crackling as he burned; Tecuciztecatl, shamed, followed.\n\nNanahuatzin rose in the east as the sun, and Tecuciztecatl after him, just as bright, until one of the gods threw a rabbit in his face, dimming him into the moon. Even then the sun would not move until the gods gave their own lives, and the wind god Ehecatl blew it on its way.",
+          "names": [
+            "Nanahuatzin",
+            "Tecuciztecatl",
+            "Ehecatl",
+            "Teotihuacan"
+          ],
+          "sources": [
+            "Florentine Codex, Book 7 (Sahagún)",
+            "Leyenda de los Soles (1558)"
+          ],
+          "image": {
+            "file": "File:General History of the Things of New Spain by Fray Bernardino de Sahagún- The Florentine Codex. Book VII- The Sun, Moon, and Stars, and the Binding of the Years WDL10618.jpg",
+            "caption": "A page of Book VII of the Florentine Codex, on the sun, moon and stars, Bernardino de Sahagún and Nahua artists, 1577"
+          }
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "The Twins Ascend",
+          "teaser": "Having beaten the lords of death, two brothers rise into the sky.",
+          "text": "The Popol Vuh of the K'iche' Maya follows the hero twins Hunahpu and Xbalanque through their long contest with the lords of Xibalba, the underworld. They survive the houses of Darkness, Cold, Jaguars, Fire and Bats, let themselves be burned, return as wandering performers, and trick the lords into asking to be sacrificed and brought back, which the twins decline to do.\n\nAfterwards they try to reassemble their murdered father at the ball court in Xibalba, and then they rise up into the middle of the light. One becomes the sun and the other the moon, and the sky and the earth are lit.\n\nWith them, the text adds, rise the four hundred boys whom the monster Zipacna had killed, who become the stars. Victory over death is the price, and the reward, of light.",
+          "names": [
+            "Hunahpu",
+            "Xbalanque",
+            "Xibalba",
+            "Zipacna"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ],
+          "caveat": "The text does not clearly say which twin became which light; many scholars take Xbalanque as the moon, others read the pair differently."
+        },
+        {
+          "culture": "andean",
+          "people": "Inca",
+          "title": "Viracocha at Lake Titicaca",
+          "teaser": "Out of the great lake, the creator calls up the sun.",
+          "text": "In the account the Spanish chronicler Juan de Betanzos took from Inca informants, the creator Con Tici Viracocha comes out of Lake Titicaca at a time when the world is dark. He makes a first people who live without light, and when they offend him he turns them to stone.\n\nThen he emerges again, and at Tiwanaku and on the lake he makes the sun, the moon and the stars, commanding the sun to move along the course it now follows. Afterwards he makes new peoples, painting their costumes on stones and sending them underground to emerge at their proper places.\n\nThe Incas honoured the Island of the Sun in Titicaca, where, according to Cristóbal de Molina and others, the sun first rose into the sky. The lake at the roof of the Andes becomes the place where light began.",
+          "names": [
+            "Con Tici Viracocha",
+            "Lake Titicaca",
+            "Tiwanaku",
+            "Island of the Sun"
+          ],
+          "sources": [
+            "Juan de Betanzos, Suma y narración de los Incas (1551)",
+            "Cristóbal de Molina, Account of the Fables and Rites of the Incas (c. 1575)"
+          ],
+          "caveat": "These accounts were recorded by Spaniards within a generation of the conquest, and the chroniclers disagree on details."
+        },
+        {
+          "culture": "north-american",
+          "people": "Inuit (Kalaallit of Greenland)",
+          "title": "Sister Sun, Brother Moon",
+          "teaser": "A secret lover is marked with soot, and the chase never ends.",
+          "text": "In a story told across the Arctic and recorded in Greenland by Hinrich Rink, people gather in a house to play in the dark, the lamps put out. A young woman finds that a man keeps coming to her in the darkness. To learn who he is, she blackens her hands with lamp soot and marks his back.\n\nWhen the lamps are lit she sees the marks on her own brother. In horror and anger she seizes a torch and runs out; he grabs another torch and chases her. She rises into the sky and becomes the sun. He follows, but his torch has gone out, leaving only glowing embers, and he becomes the moon.\n\nHe pursues her forever and never catches her. The dark marks on the moon's face are the soot from her hands.",
+          "names": [
+            "Malina",
+            "Aningaaq"
+          ],
+          "sources": [
+            "Hinrich Rink, Tales and Traditions of the Eskimo (1875)"
+          ],
+          "caveat": "Names and details differ across the Inuit world, from Greenland to Alaska."
+        }
+      ]
+    },
+    {
+      "id": "too-many-suns",
+      "summary": "One sun sustains life; several would burn the world. The story of a surplus of suns, usually culled by an archer, is concentrated in East and Northeast Asia, with versions among the Miao, Mongols, Tungusic peoples and Taiwan's Indigenous nations as well as in classical China. South Asia uses the image differently, as a picture of the world's end: at the close of an aeon, extra suns rise one after another and drink the oceans dry. Whether the archer's suns and the doomsday suns share any common origin is unknown, and most scholars treat them separately.",
+      "versions": [
+        {
+          "culture": "chinese",
+          "title": "Yi Shoots the Suns",
+          "teaser": "Ten suns rise at once, and the archer brings them down.",
+          "text": "There are ten suns, the sons of Xihe, and they live in the Fusang tree in the east. Each day one of them, carried by a crow, crosses the sky while the others wait. But in the time of the sage-emperor Yao, the Huainanzi says, all ten came out together. They scorched the crops and killed the plants, and the people had nothing to eat. Monsters roamed: Chiselteeth, the Nine Infants, the Great Wind, the giant boar and the long snake.\n\nYao sent the archer Yi, who shot the suns in the sky and killed the monsters on earth, and the people made Yao the Son of Heaven.\n\nThe commentator Wang Yi explains, on a question in the Chuci \"Heavenly Questions\", that Yi shot down nine suns, and the crows inside them died and their feathers fell. One sun remained, and it is enough.",
+          "names": [
+            "Yi",
+            "Hou Yi",
+            "Yao",
+            "Xihe",
+            "Fusang"
+          ],
+          "sources": [
+            "Huainanzi 8",
+            "Chuci, 'Tianwen' with Wang Yi's commentary",
+            "Shanhaijing (Classic of Mountains and Seas)"
+          ],
+          "image": {
+            "file": "File:Houyi Shooting an Arrow, Xiao Yuncong.gif",
+            "caption": "Yi shooting at the suns, illustration by Xiao Yuncong for the Chuci, 17th century"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Buddhist (Pāli Canon)",
+          "title": "The Discourse on the Seven Suns",
+          "teaser": "One sun after another rises, until even the ocean is gone.",
+          "text": "In the Aṅguttara Nikāya, the Buddha teaches the monks that all conditioned things are impermanent, and gives a picture to make it felt. There will come a time, he says, when no rain falls for many years, and the grasses and trees wither.\n\nThen a second sun appears, and small rivers and ponds dry up. With a third sun the great rivers, the Ganges and the Yamuna among them, run dry. A fourth dries the great lakes. With a fifth the ocean sinks, until its water would not fill the joint of a finger. With a sixth the earth and Mount Sineru smoke and fume. With a seventh they burst into flame, and the fire burns until not even ash is left.\n\nWho would have thought, the Buddha asks, that the earth and Sineru would burn? That is why one should be disenchanted with conditioned things.",
+          "names": [
+            "Buddha",
+            "Sineru"
+          ],
+          "sources": [
+            "Aṅguttara Nikāya, Book of the Sevens (Sattasuriya Sutta)"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic",
+          "title": "The Suns of Dissolution",
+          "teaser": "Vishnu becomes the sun's rays and burns the three worlds.",
+          "text": "In the Purāṇic account of pralaya, the dissolution at the end of a cosmic day, the world first suffers a drought lasting a hundred years, and living things perish. Then Vishnu enters the seven rays of the sun and drinks up all the waters of the earth, the oceans and the rivers.\n\nSo nourished, the seven rays become seven suns. They blaze above and below, and the three worlds, with their mountains, rivers and oceans, are scorched until the earth is bare as a tortoise shell. Fire from the underworld rises to join them.\n\nThen vast clouds gather and pour down rain for a hundred years, until all is one ocean, and Vishnu sleeps on the waters until the next creation. The Mahābhārata's account of the end of an age, given by the sage Mārkaṇḍeya, speaks likewise of seven blazing suns.",
+          "names": [
+            "Vishnu",
+            "Mārkaṇḍeya",
+            "pralaya"
+          ],
+          "sources": [
+            "Viṣṇu Purāṇa 6.3",
+            "Mahābhārata, Āraṇyaka Parvan (Mārkaṇḍeya's account)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hidden-sun",
+      "summary": "If light can be hidden it can be won back, and a whole family of myths turns on that recovery: the sun or dawn shut in a cave, a box or a mountain, and a god, trickster or smith who gets it out. Some stories tell of the first release of light into a dark world; others of a crisis in which the sun withdraws or is stolen, the world freezes or starves, and the gods must coax or force it back. Winter, eclipses and ritual renewal are often proposed as backgrounds, though the texts themselves rarely say so, and the versions are best treated as independent.",
+      "versions": [
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Breaking the Vala Cave",
+          "teaser": "A hound finds the hidden cows; Indra splits the rock; dawn pours out.",
+          "text": "The Paṇis, a stingy band, have stolen the cows and hidden them in Vala, a cave shut in rock. In one Rigveda hymn Indra sends his bitch Saramā across the waters of the Rasā to find them. The Paṇis try to bribe her, offering to make her their sister and share the cattle, but she refuses and warns them that the Aṅgirases are coming.\n\nOther hymns tell of the breakthrough. Indra, with the Aṅgiras seers singing their truthful hymns, splits the rock of Vala. The cows come streaming out, and with them the dawns, and Indra finds the sun, which had lain hidden in darkness.\n\nIn the Vedic imagination cows, dawn and light run together, so this is a cattle raid, a sunrise and a revelation all at once: the poets' song itself breaks the stone.",
+          "names": [
+            "Indra",
+            "Saramā",
+            "Paṇis",
+            "Vala",
+            "Aṅgirases",
+            "Uṣas"
+          ],
+          "sources": [
+            "Rigveda 10.108",
+            "Rigveda 3.31",
+            "Rigveda 1.62"
+          ],
+          "caveat": "The cows stand poetically for the light of dawn; how literally the hymns mean a hidden sun is a matter of interpretation."
+        },
+        {
+          "culture": "anatolian",
+          "people": "Hittite",
+          "title": "The Disappearance of the Sun God",
+          "teaser": "Frost grips the land, then every god sent to find the Sun.",
+          "text": "A Hittite myth of the \"vanishing god\" type, with Hurrian elements, tells how the Sun god is seized and hidden away. At once Hahhima, Frost or Torpor, paralyses the whole land. It dries up the waters and grips plants, cattle, sheep, dogs and pigs.\n\nThe Storm god sends messengers to bring the Sun, but they search and cannot find him. He sends the war god Zababa, and Frost seizes him. He sends for the Tutelary god, and then for his own mighty son Telipinu, who breaks up the soil, ploughs and channels the water; Frost holds them too. The goddess of fate and Hannahanna are summoned. At last Frost comes to the Storm god's own gate: his hand sticks fast to his cup, his feet stick fast, and he begs Frost to spare at least his eyes.\n\nThe damaged tablet does not preserve how the Sun is found. Like other myths of its kind, it framed a ritual meant to bring the absent god home.",
+          "names": [
+            "Sun god",
+            "Storm god",
+            "Hahhima",
+            "Zababa",
+            "Telipinu",
+            "Hannahanna"
+          ],
+          "sources": [
+            "The Disappearance of the Sun God (CTH 323), translated in Harry A. Hoffner Jr., Hittite Myths (1990)"
+          ],
+          "caveat": "The text is fragmentary: who hides the Sun, and how he returns, are lost or uncertain."
+        },
+        {
+          "culture": "japanese",
+          "title": "Amaterasu in the Rock Cave",
+          "teaser": "The gods lure the sun out of her cave with laughter and a mirror.",
+          "text": "When her brother Susanoo runs riot in heaven, flinging a flayed piebald colt through the roof of her weaving hall so that a weaving maiden dies, the sun goddess Amaterasu shuts herself in the Rock Cave of Heaven, Ame-no-Iwato. The High Plain of Heaven and the land below fall dark, and every calamity arises.\n\nThe myriad gods gather by the river of heaven. On the advice of Omoikane they set crowing birds to sing, hang a great mirror and strings of jewels on a sakaki tree, and Ame-no-Uzume dances on an upturned tub, baring her breasts and her skirt, until the gods roar with laughter.\n\nPuzzled, Amaterasu opens the door a crack and asks why they are merry in the dark. There is a nobler deity here, they say, and hold up the mirror. As she leans out to look, the strong god Ame-no-Tajikarao pulls her out, and a rope is stretched across the cave behind her.",
+          "names": [
+            "Amaterasu",
+            "Susanoo",
+            "Ame-no-Uzume",
+            "Omoikane",
+            "Ame-no-Tajikarao"
+          ],
+          "sources": [
+            "Kojiki (712)",
+            "Nihon Shoki (720)"
+          ],
+          "image": {
+            "file": "File:Amaterasu cave - large - 1856.jpeg",
+            "caption": "Amaterasu emerging from the rock cave, woodblock print by Utagawa Kunisada, 1856"
+          }
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "Louhi Locks Up the Sun",
+          "teaser": "The mistress of the North hides the sun and moon in a mountain.",
+          "text": "When Väinämöinen plays his kantele, the sun and the moon come down from the sky to listen, and Louhi, mistress of Pohjola, the dark North, catches them. She hides them inside a stone mountain behind locks of iron, and steals the fire from the homes of Kalevala as well. Darkness falls.\n\nThe sky god Ukko strikes a new fire, but the spark falls to earth and is swallowed by a fish, and must be won back. Ilmarinen the smith forges a new moon of gold and a sun of silver and hangs them in the trees, but they give no light.\n\nAt last Väinämöinen goes north and fights, and Ilmarinen hammers out shackles for Louhi. Flying to his smithy as a bird, she asks what he is forging, hears the answer, and in fear releases the sun and moon, which rise again to their places.",
+          "names": [
+            "Louhi",
+            "Väinämöinen",
+            "Ilmarinen",
+            "Ukko",
+            "Pohjola"
+          ],
+          "sources": [
+            "Kalevala, Runes 47–49"
+          ],
+          "caveat": "Lönnrot's Kalevala arranges and joins folk songs; the stealing of the sun and moon is attested in Karelian folk poetry, but the episode's sequence is partly his."
+        },
+        {
+          "culture": "north-american",
+          "people": "Tlingit",
+          "title": "Raven Steals the Light",
+          "teaser": "Reborn as a chief's grandson, Raven cries for the box of daylight.",
+          "text": "In the Tlingit stories recorded by John R. Swanton, the world is dark because a rich man at the head of the Nass River keeps the sun, the moon and the stars shut in boxes in his house.\n\nRaven wants the light. He turns himself into a hemlock needle and floats in the water that the chief's daughter drinks; she swallows it, becomes pregnant, and gives birth to Raven as a baby boy. The grandfather dotes on the child, and the boy cries and cries for the boxes until he is given them one by one. He lets the stars fly out through the smoke hole, then the moon.\n\nLast he is given the box with the daylight. He turns back into a bird and escapes through the smoke hole with it, blackened by soot as he goes, which is why ravens are black. Then he opens the box, and the sun lights the world.",
+          "names": [
+            "Raven",
+            "Nass River"
+          ],
+          "sources": [
+            "John R. Swanton, Tlingit Myths and Texts (1909)"
+          ],
+          "caveat": "Neighbouring Haida, Tsimshian and other Northwest Coast peoples tell their own versions with different details."
+        }
+      ]
+    },
+    {
+      "id": "world-ages",
+      "summary": "Many traditions see history not as progress but as a sequence of ages, often named by metals or colours and usually getting worse. Hesiod's races, India's four yugas, the Zoroastrian tree of gold, silver, steel and mixed iron, and the statue in the Book of Daniel share a declining series and metal imagery, and scholars have long debated a common Near Eastern or Iranian source. The Mesoamerican and Andean schemes are independent: series of worlds, each ended by catastrophe. What unites them is the unsettling claim that the present comes late in the story.",
+      "versions": [
+        {
+          "culture": "greek",
+          "title": "The Five Races",
+          "teaser": "Gold, silver, bronze, heroes, and then us, the race of iron.",
+          "text": "In Works and Days Hesiod tells how the gods made a golden race of men in the time of Kronos. They lived like gods, free from toil and grief, the earth giving them fruit unasked; they died as if overcome by sleep, and became kindly spirits over the earth.\n\nA silver race followed, far worse: children for a hundred years at their mothers' sides, then briefly grown, foolish and unwilling to honour the gods, so Zeus put them away. The bronze race was violent, with bronze armour and bronze houses, and destroyed itself. Then came the heroes, a better race of demigods, who fell at Thebes and Troy, some carried to the Isles of the Blessed.\n\nNow is the race of iron, of toil and sorrow by day and night. Hesiod wishes he had died before it or been born after, and says Zeus will destroy it too, when babies are born grey at the temples.",
+          "names": [
+            "Hesiod",
+            "Kronos",
+            "Zeus"
+          ],
+          "sources": [
+            "Hesiod, Works and Days 106–201",
+            "Ovid, Metamorphoses 1.89–150"
+          ],
+          "image": {
+            "file": "File:Lucas Cranach the Elder - The Golden Age - Google Art Project.jpg",
+            "caption": "The Golden Age, Lucas Cranach the Elder, c. 1530, Alte Pinakothek, Munich"
+          }
+        },
+        {
+          "culture": "levantine",
+          "title": "Nebuchadnezzar's Statue",
+          "teaser": "A head of gold on feet of clay, and a stone that smashes it.",
+          "text": "In the Book of Daniel, King Nebuchadnezzar of Babylon dreams a dream that troubles him, and demands that his wise men tell him both the dream and its meaning. Only Daniel, after prayer, can do it.\n\nThe king saw a great statue. Its head was of fine gold, its chest and arms of silver, its belly and thighs of bronze, its legs of iron, and its feet partly of iron and partly of clay. A stone cut out without hands struck the statue on its feet and shattered them, and the whole figure crumbled like chaff on a threshing floor and blew away, while the stone grew into a mountain that filled the earth.\n\nThe metals, Daniel explains, are four kingdoms, beginning with Nebuchadnezzar's own, each inferior to the last, and the stone is a kingdom God will set up that will never be destroyed.",
+          "names": [
+            "Nebuchadnezzar",
+            "Daniel"
+          ],
+          "sources": [
+            "Daniel 2"
+          ],
+          "caveat": "Here the ages are successive empires, and the book in its present form dates from the 2nd century BCE.",
+          "image": {
+            "file": "File:The Hague, KB, 131 A 3, Nebuchadnezzar's statue.jpeg",
+            "caption": "The statue with a golden head and feet of clay from Nebuchadnezzar's dream, medieval illumination, Koninklijke Bibliotheek, The Hague (KB 131 A 3)"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic and epic",
+          "title": "The Four Yugas",
+          "teaser": "The bull of dharma stands on four legs, then three, two and one.",
+          "text": "Indian tradition divides time into four ages named after throws of the dice: Kṛta (or Satya), Tretā, Dvāpara and Kali, worth four, three, two and one. In the Kṛta age, the Manusmṛti says, dharma stands whole on four feet like a bull, and truth prevails; people are free from disease and live four hundred years. In each later age dharma loses a foot, lifespans shorten, and virtue declines.\n\nThe lengths fall in the same ratio: four thousand divine years for the Kṛta, three thousand for the Tretā, two for the Dvāpara and one for the Kali, each with its dawn and twilight, twelve thousand together, and the cycle repeats.\n\nIn the Mahābhārata, the monkey Hanūmān describes the ages to his brother Bhīma, ending with the Kali, when dharma is nearly gone. We live, tradition says, in the Kali age, which began when Krishna left the earth.",
+          "names": [
+            "Kṛta",
+            "Tretā",
+            "Dvāpara",
+            "Kali",
+            "Hanūmān",
+            "Bhīma"
+          ],
+          "sources": [
+            "Manusmṛti 1",
+            "Mahābhārata, Āraṇyaka Parvan"
+          ]
+        },
+        {
+          "culture": "persian",
+          "title": "The Tree of Four Branches",
+          "teaser": "Zarathustra sees a tree of gold, silver, steel and mixed iron.",
+          "text": "In the Zand ī Wahman Yasn, Ohrmazd grants Zarathustra the wisdom of all-knowing, and in a vision he sees a tree with four branches: one of gold, one of silver, one of steel, and one of mixed iron.\n\nOhrmazd explains. The golden branch is the time when Zarathustra and Ohrmazd converse and King Vishtaspa accepts the religion. The silver and the steel are the reigns of later kings, the steel falling in Sasanian times. The branch of mixed iron is the evil sovereignty of the demons with dishevelled hair, when the world is ruined, the seasons fail and the good religion is oppressed, before the saviours come.\n\nA second vision in the same text gives seven branches, of gold, silver, copper, brass, lead, steel and mixed iron. Behind both stands the Zoroastrian frame of a twelve-thousand-year history heading toward its renovation.",
+          "names": [
+            "Zarathustra",
+            "Ohrmazd",
+            "Vishtaspa"
+          ],
+          "sources": [
+            "Zand ī Wahman Yasn",
+            "Bundahishn"
+          ],
+          "caveat": "The text was redacted after the Arab conquest, and whether its metal scheme is old enough to have influenced Hesiod or Daniel is much debated."
+        },
+        {
+          "culture": "aztec",
+          "title": "The Five Suns",
+          "teaser": "Jaguars, wind, fire and flood; ours will end in earthquake.",
+          "text": "According to the Leyenda de los Soles, a Nahuatl text of 1558, the world has already had four suns, each named for the day on which it ended. Under 4 Jaguar the people were devoured by jaguars. Under 4 Wind they were blown away and became monkeys. Under 4 Rain it rained fire, and they became turkeys. Under 4 Water the flood came, and they became fish.\n\nOur age is the fifth, 4 Movement, Nahui Ollin, born at Teotihuacan when the gods threw themselves into the fire. It too will end, in earthquakes and famine.\n\nThe great Sun Stone carved in Tenochtitlan sets the four earlier suns in panels around the sign of 4 Movement at its centre. The order of the suns differs in other sources, such as the Historia de los mexicanos por sus pinturas, but the lesson is the same: the present world is on loan.",
+          "names": [
+            "Nahui Ollin",
+            "Teotihuacan"
+          ],
+          "sources": [
+            "Leyenda de los Soles (1558)",
+            "Historia de los mexicanos por sus pinturas",
+            "The Sun Stone (Aztec Calendar Stone)"
+          ],
+          "image": {
+            "file": "File:Monolito de la Piedra del Sol.jpg",
+            "caption": "The Aztec Sun Stone, with the four previous suns around the central sign of 4 Movement, early 16th century, Museo Nacional de Antropología, Mexico City"
+          }
+        },
+        {
+          "culture": "andean",
+          "people": "Quechua (Andean)",
+          "title": "Guaman Poma's Five Ages",
+          "teaser": "From people who dressed in leaves to the age of the Incas.",
+          "text": "Felipe Guaman Poma de Ayala, an Andean nobleman writing to the King of Spain in 1615, divides the history of the Andes into ages of Indians. First come the Wari Wiracocha runa, simple people who dressed in leaves and worshipped the creator; then the Wari runa, who began to farm and build terraces; then the Purun runa, who lived in towns and wove fine cloth.\n\nThe fourth age is that of the Auca runa, warriors, when people fought constantly and built fortresses on the hilltops. The fifth is the age of the Incas. Guaman Poma illustrates each with a drawing of a couple at their work.\n\nAndean thought also knew pachakuti, the \"overturning of the world\" that could end one age and begin another; the Spanish conquest was, for many, exactly that.",
+          "names": [
+            "Guaman Poma de Ayala",
+            "Wari Wiracocha runa",
+            "Auca runa",
+            "pachakuti"
+          ],
+          "sources": [
+            "Felipe Guaman Poma de Ayala, El primer nueva corónica y buen gobierno (1615)"
+          ],
+          "caveat": "Guaman Poma frames the ages within Christian world history from Noah, so how much of the scheme is pre-Hispanic is debated."
+        }
+      ]
+    },
+    {
+      "id": "milky-way",
+      "summary": "The pale band across the night sky invited every culture to name it, and the names fall into a few families: a river, like China's Silver River, the Andean Mayu or the heavenly Ganges; a road, of souls, of birds or of a running dog; or spilled stuff, milk, meal or straw. Stories attach to it to explain a separation, a theft or the route of the dead. Because the object is universal and the metaphors limited, resemblances such as Greek milk and Cherokee cornmeal are best explained as independent invention.",
+      "versions": [
+        {
+          "culture": "chinese",
+          "title": "The River of Heaven",
+          "teaser": "A weaver and a cowherd, parted by a river of stars.",
+          "text": "The Chinese call the Milky Way the River of Heaven, Tianhe, or the Silver River. On either side of it stand two bright stars: the Weaver Girl, Vega, and the Cowherd, Altair.\n\nThe Book of Songs already names them, complaining that the Weaver never finishes a pattern and the Ox never pulls a cart. One of the Han-era Nineteen Old Poems turns them into lovers: the Weaver plies her shuttle all day and weaves nothing, her tears fall like rain; the River is clear and shallow, yet they gaze across it and cannot speak.\n\nLater tradition fills in the story. The Weaver, a heavenly princess who weaves the clouds, marries the Cowherd and neglects her loom, and a heavenly power, often the Queen Mother, parts them with the river. Once a year, on the seventh night of the seventh month, magpies make a bridge so they can meet. Japan keeps the festival as Tanabata.",
+          "names": [
+            "Weaver Girl",
+            "Zhinü",
+            "Cowherd",
+            "Niulang",
+            "Tianhe"
+          ],
+          "sources": [
+            "Book of Songs (Shijing), 'Da dong'",
+            "Nineteen Old Poems"
+          ],
+          "image": {
+            "file": "File:Niulang and Zhinv (Long Corridor).JPG",
+            "caption": "The Weaver Girl and the Cowherd meeting on the magpie bridge, late 19th-century painting in the Long Corridor of the Summer Palace, Beijing"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "Hera's Spilled Milk",
+          "teaser": "The infant Heracles sucks too hard, and milk sprays across the sky.",
+          "text": "The Greeks called it the galaxias kyklos, the milky circle. Eratosthenes explains why. The sons of Zeus by mortal women could not share the honours of heaven unless they had been nursed by Hera. So Hermes carried the infant Heracles to Hera while she slept and set him at her breast.\n\nWhen she woke and saw whose child it was, she pushed him away, and the milk spilled out across the sky. In a version reported by Diodorus, which does not mention the sky, Athena tricks Hera into nursing the baby, and he sucks so fiercely that she throws him off in pain.\n\nHyginus records a different donor: some say the milk was Rhea's, when she squeezed her breast to feed the stone she gave Kronos in place of the infant Zeus. Renaissance painters, above all Tintoretto, loved the scene and gave it gods, stars and flying putti.",
+          "names": [
+            "Hera",
+            "Heracles",
+            "Hermes",
+            "Athena",
+            "Rhea"
+          ],
+          "sources": [
+            "Eratosthenes, Catasterismi 44",
+            "Hyginus, De Astronomia 2.43",
+            "Diodorus Siculus 4.9"
+          ],
+          "image": {
+            "file": "File:Jacopo Tintoretto - The Origin of the Milky Way - Google Art Project.jpg",
+            "caption": "The Origin of the Milky Way, Jacopo Tintoretto, c. 1575, National Gallery, London"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic",
+          "title": "The Ganges of the Sky",
+          "teaser": "The holy river flows through heaven before it falls to earth.",
+          "text": "In Indian tradition the Ganges is first a heavenly river, and the Milky Way is called Ākāśagaṅgā, the \"Ganges of the sky\", or Mandākinī.\n\nThe Bhāgavata Purāṇa tells its source. When Vishnu as Trivikrama took his three strides, the nail of his left foot broke through the shell of the universe, and the waters outside poured in, washing his foot. That stream flows first to the realm of the pole star Dhruva, who bears it reverently on his head, then through the realm of the Seven Sages, and on through the heavens in countless celestial chariots, until it falls onto the summit of Mount Meru.\n\nThe Rāmāyaṇa tells how the king Bhagīratha, by long austerity, brought the river down to earth, and how Śiva caught it in his matted hair so that its fall would not shatter the world.",
+          "names": [
+            "Ganga",
+            "Vishnu",
+            "Trivikrama",
+            "Dhruva",
+            "Bhagīratha",
+            "Śiva"
+          ],
+          "sources": [
+            "Bhāgavata Purāṇa 5.17",
+            "Rāmāyaṇa, Bāla Kāṇḍa"
+          ],
+          "caveat": "The heavenly Ganges is identified with the Milky Way in names and tradition, but the texts rarely describe the band of stars directly.",
+          "image": {
+            "file": "File:Ravi Varma-Descent of Ganga.jpg",
+            "caption": "The Descent of Ganga, with Śiva catching the river in his hair as Bhagīratha watches; oleograph after Raja Ravi Varma, c. 1910"
+          }
+        },
+        {
+          "culture": "aztec",
+          "title": "Cloud Serpent and Star Skirt",
+          "teaser": "The hunter god and the star-skirted mother of the gods.",
+          "text": "The Nahua sky had its own figures for the pale band of stars. Mixcoatl, \"Cloud Serpent\", is a god of the hunt, patron of the Chichimec peoples and father, in some accounts, of Quetzalcoatl, and scholars have long identified him with the Milky Way.\n\nCitlalicue, \"Star Skirt\", and her partner Citlaltonac belong to the creator couples of the heavens. The Franciscan Gerónimo de Mendieta records that the sky goddess once gave birth to a flint knife, which her other children threw down from heaven. It fell at Chicomoztoc, and from it sprang sixteen hundred gods.\n\nA skirt of stars and a serpent of cloud: both names describe what the eye sees on a clear night over the highlands, a long, starry, cloudy shape winding across the sky.",
+          "names": [
+            "Mixcoatl",
+            "Citlalicue",
+            "Citlaltonac"
+          ],
+          "sources": [
+            "Historia de los mexicanos por sus pinturas",
+            "Gerónimo de Mendieta, Historia eclesiástica indiana"
+          ],
+          "caveat": "The identification of these gods with the Milky Way rests largely on their names and on modern scholarship; colonial sources seldom state it outright.",
+          "image": {
+            "file": "File:Mixcoatl telleriano-remensis.jpg",
+            "caption": "Mixcoatl, from the Codex Telleriano-Remensis, 16th century"
+          }
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche' and Classic Maya",
+          "title": "The Road to Xibalba",
+          "teaser": "Four roads at the crossroads, and the black one speaks.",
+          "text": "In the Popol Vuh, the brothers One Hunahpu and Seven Hunahpu are summoned to play ball in Xibalba, the underworld. On the way down they come to a crossroads of four roads, red, black, white and yellow. The black road speaks up and tells them it is the way to the lords' domain, and they take it to their deaths.\n\nModern K'iche' speakers, as Dennis Tedlock reported, call the dark rift that splits the Milky Way the \"road to Xibalba\". Linda Schele and her colleagues read Classic Maya imagery more broadly as a sky in which the Milky Way turns through the night, now a canoe carrying the maize god, now a crocodile, now the world tree.\n\nOn this reading, the path of the dead is visible every clear night.",
+          "names": [
+            "One Hunahpu",
+            "Seven Hunahpu",
+            "Xibalba"
+          ],
+          "sources": [
+            "Popol Vuh",
+            "Dennis Tedlock, Popol Vuh (translation, 1985)",
+            "David Freidel, Linda Schele and Joy Parker, Maya Cosmos (1993)"
+          ],
+          "caveat": "The link between the Popol Vuh's black road and the Milky Way comes from modern ethnography and interpretation, and some astronomical readings of Classic imagery are contested."
+        },
+        {
+          "culture": "andean",
+          "people": "Quechua",
+          "title": "Mayu, the Celestial River",
+          "teaser": "A river of stars with a dark llama drinking in it.",
+          "text": "In the Quechua-speaking Andes, the Milky Way is Mayu, \"the River\", flowing across the night sky as the Vilcanota flows through the valley of Cusco, the waters of earth and sky circulating into one another.\n\nWhat the Andean eye picks out in it is not only stars but the dark clouds between them. The largest is Yacana, a llama, whose eyes are the bright pair of stars now called Alpha and Beta Centauri. The Huarochirí Manuscript, recorded around 1608, says Yacana walks through the middle of the sky and comes down at night to drink water from the sea, so that it does not flood the world, and that a person on whom it falls is blessed with many llamas.\n\nGary Urton found the same river, llama, toad, serpent and partridge in the sky of the village of Misminay in the 1970s.",
+          "names": [
+            "Mayu",
+            "Yacana"
+          ],
+          "sources": [
+            "Huarochirí Manuscript (c. 1608)",
+            "Gary Urton, At the Crossroads of the Earth and the Sky (1981)"
+          ]
+        },
+        {
+          "culture": "north-american",
+          "people": "Cherokee",
+          "title": "Where the Dog Ran",
+          "teaser": "A dog steals cornmeal and runs across the sky, spilling it.",
+          "text": "The Cherokee story, recorded by James Mooney, tells that people in the south kept a store of cornmeal, and found in the mornings that someone had been at it. Around the meal were the tracks of a great dog.\n\nThey lay in wait, and at night the dog came and began to eat. The people sprang out, beating drums and rattles, and the dog ran howling to its home in the north, the meal spilling from its mouth as it went. It left a white trail across the sky, where the grains became stars.\n\nThe Cherokee call the Milky Way Gi'li'utsûñ'stănûñ'yĭ, \"Where the Dog Ran\". Spilled meal, like Greek milk, turns the band into the trace of a single careless night.",
+          "names": [
+            "Gi'li'utsûñ'stănûñ'yĭ"
+          ],
+          "sources": [
+            "James Mooney, Myths of the Cherokee (1900)"
+          ]
+        },
+        {
+          "culture": "north-american",
+          "people": "Lakota (Oglala)",
+          "title": "The Spirit Road",
+          "teaser": "The dead travel south along the band of stars.",
+          "text": "For the Lakota, as recorded by James R. Walker from Oglala holy men at Pine Ridge around 1900, the Milky Way is Wanáǧi Thacháŋku, the \"Spirit Road\" or \"Ghost Road\", along which the spirits of the dead travel.\n\nWhen a person dies, the spirit sets out along the road, which leads south to the spirit world. Along the way an old woman waits, who examines each spirit that comes; those who are worthy she sends on to the land of the spirits, and those who are not she turns aside, to wander.\n\nMany Plains peoples shared the image of the Milky Way as the path of souls, and it gives the night sky a moving procession: every clear night the dead are on the road.",
+          "names": [
+            "Wanáǧi Thacháŋku"
+          ],
+          "sources": [
+            "James R. Walker, Lakota Belief and Ritual (1980, from notes of 1896–1914)"
+          ],
+          "caveat": "Accounts differ among Lakota bands and recorders in the details of the old woman's test and the road's direction."
+        }
+      ]
+    }
+  ]
+}

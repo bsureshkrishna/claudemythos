@@ -1,0 +1,21 @@
+[
+  {"id":"norse","name":"Norse","region":"Scandinavia & Iceland"},
+  {"id":"greek","name":"Greek & Roman","region":"Mediterranean"},
+  {"id":"indian","name":"Indian","region":"South Asia (Vedic, epic, Purāṇic, Buddhist)"},
+  {"id":"mesopotamian","name":"Mesopotamian","region":"Sumer, Akkad, Babylon"},
+  {"id":"egyptian","name":"Egyptian","region":"Nile Valley"},
+  {"id":"levantine","name":"Hebrew & Canaanite","region":"Levant"},
+  {"id":"anatolian","name":"Hittite & Hurrian","region":"Anatolia"},
+  {"id":"persian","name":"Persian","region":"Iran (Zoroastrian & Shāhnāmeh)"},
+  {"id":"celtic","name":"Celtic","region":"Ireland & Wales"},
+  {"id":"slavic","name":"Slavic","region":"Eastern Europe"},
+  {"id":"finnic","name":"Finnish","region":"Finland & Karelia"},
+  {"id":"chinese","name":"Chinese","region":"China"},
+  {"id":"japanese","name":"Japanese","region":"Japan"},
+  {"id":"maya","name":"Maya","region":"Mesoamerica"},
+  {"id":"aztec","name":"Aztec","region":"Central Mexico (Mexica / Nahua)"},
+  {"id":"andean","name":"Andean","region":"Inca & Andes"},
+  {"id":"west-african","name":"West African","region":"Yoruba, Akan, Fon and neighbours"},
+  {"id":"polynesian","name":"Polynesian","region":"Pacific (Māori, Hawaiian, …)"},
+  {"id":"north-american","name":"Indigenous North American","region":"Many distinct nations"}
+]

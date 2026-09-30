@@ -1,0 +1,1478 @@
+{
+ "concepts": [
+  {
+   "id": "sun-chariot",
+   "summary": "Almost everywhere, the sun's crossing of the sky is imagined as a journey with a vehicle and a driver: a boat, a chariot, a golden cup, a team of horses, an escort of the dead. The harder question is the return trip, since the sun sets in the west and rises again in the east, and each tradition must decide how it gets back. Horse-drawn suns in Greek, Vedic and Norse sources are often traced to a shared Indo-European inheritance; Egypt's boat suits a river civilisation, and the Aztec and Polynesian versions are clearly independent. Similar skies prompt similar solutions.",
+   "versions": [
+    {
+     "culture": "egyptian",
+     "title": "The Two Boats of Ra",
+     "teaser": "Ra sails the sky by day and the underworld by night.",
+     "text": "Ra does not drive; he sails. By day he crosses the sky in the day-barque, the ‘boat of millions of years’, attended by a crew of gods. At sunset he changes vessels and boards the night-barque to travel through the Duat, the underworld, hour by hour.\n\nThe New Kingdom Book of the Hidden Chamber, the Amduat, painted on the walls of royal tombs, maps the twelve hours of that voyage. In the seventh hour the serpent Apep lies across the way, and the boat's defenders bind and cut him with knives while Isis speaks her spells. The sun god in his ram-headed night form calls to the dead along the banks, who wake briefly in his light and lament when he moves on. In the twelfth hour the boat is drawn through the body of a vast serpent, entering at the tail and leaving at the mouth, and the sun emerges as Khepri, the scarab, reborn on the eastern horizon.\n\nEvery dawn is a rescue.",
+     "names": [
+      "Ra",
+      "Apep",
+      "Isis",
+      "Khepri"
+     ],
+     "sources": [
+      "Amduat (Book of the Hidden Chamber)",
+      "Book of Gates"
+     ],
+     "image": {
+      "file": "File:Book of Gates Barque of Ra.jpg",
+      "caption": "Ra travels through the underworld in his barque, Book of Gates, tomb of Ramesses I (KV16), c. 1290 BCE"
+     }
+    },
+    {
+     "culture": "mesopotamian",
+     "title": "Shamash Through the Mountain",
+     "teaser": "The sun god steps out between the eastern mountains every dawn.",
+     "text": "Cylinder seals of the Akkadian period show a favourite scene: Shamash, rays rising from his shoulders, stepping up between two mountains while attendant gods swing open the doors of heaven. In his hand he holds a serrated blade, his emblem as judge. At dusk he enters the western mountain and passes through the interior of the earth, where he is judge of the dead as well, to reappear in the east.\n\nThe Epic of Gilgamesh lets a mortal walk that road. Seeking Utnapishtim, Gilgamesh reaches the twin peaks of Mashu, which guard the sun at its rising and setting and are watched by scorpion-people. They let him into the tunnel the sun travels by night. For twelve double-hours he runs in total darkness, unable to see ahead or behind, until the light breaks and he emerges into a garden where the trees bear carnelian and their leaves are lapis lazuli.\n\nIt is a road meant for the sun alone, and one desperate king.",
+     "names": [
+      "Shamash",
+      "Gilgamesh",
+      "Mashu"
+     ],
+     "sources": [
+      "Akkadian-period cylinder seals (c. 2300 BCE)",
+      "Epic of Gilgamesh, Tablet IX"
+     ],
+     "image": {
+      "file": "File:Adda Seal Akkadian Empire 2300 BC.jpg",
+      "caption": "The Adda Seal: Shamash rising between the mountains, Akkadian, c. 2300 BCE (British Museum)"
+     }
+    },
+    {
+     "culture": "indian",
+     "people": "Vedic",
+     "title": "Sūrya and the Seven Mares",
+     "teaser": "Seven bay mares draw the Vedic sun across the vault of heaven.",
+     "text": "In the Rigveda the sun is both a god and a visible thing: Sūrya, the eye of Mitra, Varuṇa and Agni, a jewel of the sky. He rides a chariot drawn by seven bay mares, and the hymn to him (Rigveda 1.50) pictures the stars slinking away with the night ‘like thieves’ as the all-seeing god approaches, while his rays run ahead of him over the peoples.\n\nAnother hymn (1.115) makes sunset an act of unharnessing: when Sūrya unyokes his mares, Night spreads her garment over everything. One of his forms is endless and bright, the other black. The Vedic poets cared less about the sun's night journey than about its return, and Uṣas, the Dawn, drives her own ruddy team ahead of him.\n\nThe image lasted two thousand years. At Konark in Odisha, the thirteenth-century Sun Temple was built as a colossal stone chariot, with twenty-four carved wheels and seven horses to pull it.",
+     "names": [
+      "Sūrya",
+      "Uṣas",
+      "Mitra",
+      "Varuṇa"
+     ],
+     "sources": [
+      "Rigveda 1.50",
+      "Rigveda 1.115"
+     ],
+     "image": {
+      "file": "File:Konark Sun Temple wheel.jpg",
+      "caption": "One of the carved chariot wheels of the Sun Temple at Konark, 13th century"
+     }
+    },
+    {
+     "culture": "greek",
+     "title": "Helios and the Golden Cup",
+     "teaser": "A chariot by day, and a golden vessel round the Ocean by night.",
+     "text": "Helios, son of the Titan Hyperion, drives his chariot up out of the eastern Ocean each morning. The Homeric Hymn to Helios describes the light flashing from his golden helmet, and his team resting at the height of heaven before he sends them down again to Ocean in the west. He sees everything, which is why Demeter goes to him to learn who took her daughter.\n\nThe return journey is solved by the lyric poets. In Mimnermus the tired sun lies down in a winged golden bed made by Hephaestus, which carries him over the waves while he sleeps, from the land of the Hesperides back to the Ethiopians in the east, where his chariot and horses wait. In Stesichorus it is a golden cup, and Heracles borrows it to sail to the island of Geryon.\n\nThe chariot has one famous failure. Ovid's Phaethon, son of the Sun, begs for a single day at the reins, loses control, scorches Libya into desert, and is struck down by Jupiter's thunderbolt.",
+     "names": [
+      "Helios",
+      "Hyperion",
+      "Phaethon",
+      "Heracles"
+     ],
+     "sources": [
+      "Homeric Hymn 31 (To Helios)",
+      "Mimnermus, fr. 12",
+      "Stesichorus, Geryoneis",
+      "Ovid, Metamorphoses 2"
+     ],
+     "image": {
+      "file": "File:Vase with Helios or Phaeton on the Chariot of the Sun MET DP837481.jpg",
+      "caption": "Helios or Phaethon driving the chariot of the Sun, ornamental print after Rosso Fiorentino, 16th century (Metropolitan Museum of Art)"
+     }
+    },
+    {
+     "culture": "persian",
+     "title": "Mithra Before the Sun",
+     "teaser": "The god of the contract climbs the mountain ahead of the swift-horsed sun.",
+     "text": "The Avestan hymns separate the sun from its escort. Hvarə Khšaēta, the ‘radiant sun’, has a short hymn of his own (Yasht 6), in which he is called swift-horsed. When he rises, the earth, the flowing waters and the plants are made clean; if he did not rise, the demons would destroy everything in the seven regions of the world.\n\nMithra, the god of the contract, is not the sun but its forerunner. His great hymn (Yasht 10.13) says he is the first of the spiritual gods to climb over Mount Harā ahead of the immortal, swift-horsed sun, taking hold of the gold-adorned peaks and surveying the lands of the Iranians. Elsewhere in the same hymn Mithra drives his own chariot behind four white horses, shod in front with gold and behind with silver. Guardian of every agreement, he has a thousand ears and ten thousand eyes.\n\nRoman dedications later call Mithras the Unconquered Sun, though how much Roman Mithraism owes to Iran is still debated.",
+     "names": [
+      "Mithra",
+      "Hvarə Khšaēta",
+      "Harā"
+     ],
+     "sources": [
+      "Yasht 6 (Khorshed Yasht)",
+      "Yasht 10 (Mihr Yasht)"
+     ]
+    },
+    {
+     "culture": "chinese",
+     "title": "The Ten Suns of Fusang",
+     "teaser": "Ten suns take turns crossing the sky, carried by crows, bathed by their mother.",
+     "text": "The Classic of Mountains and Seas describes a valley in the far east, Tanggu, the ‘Hot Water Valley’, where the suns bathe. Over it grows the giant Fusang tree. There are ten suns: nine rest on its lower branches while one sits at the top, and each day one sets out as another comes home, each carried, another passage says, on a crow. Their mother is Xihe, who bathes her children in the Gan Abyss beyond the south-eastern sea.\n\nIn the Chuci poems Xihe becomes the sun's charioteer, and the poet of the Lisao, anxious to hold back the evening, orders her to slow her pace. The Huainanzi traces the sun's daily route through named stations, from the valley of its rising to the abyss where it sets.\n\nThe system works as long as the suns take turns. When all ten rise together, the earth burns, and the archer Yi must shoot down nine of them.",
+     "names": [
+      "Xihe",
+      "Fusang",
+      "Yi"
+     ],
+     "sources": [
+      "Shanhaijing (Classic of Mountains and Seas)",
+      "Chuci, Lisao",
+      "Huainanzi 3 (Tianwen)"
+     ],
+     "image": {
+      "file": "File:Mawangdui silk banner from tomb no1 (cropped - Heaven part).jpg",
+      "caption": "Heaven on the Mawangdui silk banner, with the sun-crow, suns in the Fusang tree and the moon, Han dynasty, 2nd century BCE"
+     }
+    },
+    {
+     "culture": "norse",
+     "title": "Sól and the Wolf",
+     "teaser": "The sun's driver hurries because a wolf is always behind her.",
+     "text": "In Snorri's account, a man named Mundilfari had two children so beautiful that he named them Moon and Sun. The gods, angered by his presumption, took them and set them in the sky. Sól drives the horses Árvakr, ‘Early-waker’, and Alsviðr, ‘All-swift’, that pull the sun, and the gods set bellows under the horses' shoulders to cool them. The Eddic poem Grímnismál adds a shield, Svalinn, that stands before the sun; if it fell, mountains and sea would burn.\n\nSól drives fast because she is hunted. The wolf Sköll runs behind her, and another wolf, Hati, runs ahead after the moon. One day, Snorri says, they will catch them.\n\nA far older image comes from Danish soil: the Trundholm sun chariot, a bronze horse drawing a gilded disc on wheels, made around 1400 BCE. Whatever it meant to its makers, the idea of a horse pulling the sun ran deep in the north.",
+     "names": [
+      "Sól",
+      "Mundilfari",
+      "Árvakr",
+      "Alsviðr",
+      "Sköll"
+     ],
+     "sources": [
+      "Gylfaginning 11–12",
+      "Grímnismál 37–39"
+     ],
+     "caveat": "The Trundholm chariot is more than two thousand years older than the Norse texts, so any link to Sól is speculative.",
+     "image": {
+      "file": "File:Trundholm sun chariot Nationalmuseet.jpg",
+      "caption": "The Trundholm sun chariot, bronze and gold, Denmark, c. 1400 BCE (National Museum of Denmark)"
+     }
+    },
+    {
+     "culture": "aztec",
+     "title": "Tonatiuh's Escort",
+     "teaser": "Dead warriors carry the sun up; women who died in childbirth carry it down.",
+     "text": "The Aztec sun, Tonatiuh, does not travel alone. According to the accounts Bernardino de Sahagún collected from Nahua elders, warriors who died in battle or on the sacrificial stone went to the house of the sun in the east. Each morning they greeted him with shouts, clashing their shields, and escorted him to the zenith.\n\nAt noon they handed him over to the cihuateteo, the women who had died in childbirth, honoured as warriors who had fallen while taking a captive. They carried the sun down to the west in a litter of quetzal feathers, and there he entered the land of the dead. After four years the warrior souls became birds and butterflies, sipping at flowers.\n\nThe sun's motion was never guaranteed. In the story of the Fifth Sun, recorded in the same work, the newly created sun hangs motionless in the sky until the gods give their own lives to set it moving. Blood keeps it on its road.",
+     "names": [
+      "Tonatiuh",
+      "cihuateteo"
+     ],
+     "sources": [
+      "Florentine Codex, Book 3 (appendix)",
+      "Florentine Codex, Book 6",
+      "Florentine Codex, Book 7"
+     ]
+    },
+    {
+     "culture": "polynesian",
+     "people": "Hawaiian and Māori",
+     "title": "Māui Slows the Sun",
+     "teaser": "A trickster lassoes the sun and beats it into walking slowly.",
+     "text": "In Polynesia the sun's problem is not its route but its speed. In the Hawaiian telling, Māui's mother Hina cannot dry her bark cloth because the sun races across the sky too quickly. Māui climbs Haleakalā, the ‘House of the Sun’, braids strong cords, and snares the sun's rays one by one as they come over the crater rim. The sun pleads for its life and agrees to go slowly for half the year.\n\nThe Māori version, recorded by George Grey, has Māui and his brothers build walls of clay beside the pit where the sun rises, noose him as he comes up, and beat him with the enchanted jawbone of Māui's ancestress Muri-ranga-whenua. The wounded sun cries out, betraying his secret name, Tama-nui-te-rā, and ever since he has crept slowly along his path.\n\nThe long summer day, in other words, is a truce.",
+     "names": [
+      "Māui",
+      "Hina",
+      "Tama-nui-te-rā",
+      "Muri-ranga-whenua"
+     ],
+     "sources": [
+      "Martha Beckwith, Hawaiian Mythology (1940)",
+      "George Grey, Polynesian Mythology (1855)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eclipse",
+   "summary": "An eclipse is the sky's most frightening irregularity, and many peoples explained it as the sun or moon being eaten, attacked, sickened or stolen. The response was usually loud and practical: drums, shouting, beaten dogs, substitute kings. Babylon and China also recorded eclipses and learned to predict them, without giving up the rituals. The devouring monster turns up on every continent, and is best explained as independent invention prompted by what an eclipse looks like, a bite taken out of a bright disc, rather than by any shared origin.",
+   "versions": [
+    {
+     "culture": "mesopotamian",
+     "people": "Babylonian and Assyrian",
+     "title": "The Seven Against the Moon",
+     "teaser": "Seven demons besiege the moon god, and the king must hide.",
+     "text": "Babylonian scholars kept eclipse records for centuries and learned to forecast lunar eclipses with growing skill, but knowing when did not answer why. An incantation from the series Utukkū Lemnūtu, ‘Evil Spirits’, gives the mythic reason. Seven demons, born in the depths of heaven, rush upon the moon god Sîn and surround him, while the other great lights of the sky fail to stand by him, and Sîn is darkened. Enlil sees his son's distress and sends his vizier to Ea, who dispatches Marduk to drive the demons away.\n\nThe practical response was stranger. Because an eclipse could portend the king's death, Neo-Assyrian scholars enthroned a substitute king to take the omen on himself, while the real king kept out of sight and was addressed in letters only as ‘the farmer’. When the danger had passed, the substitute ‘went to his fate’, and the real king returned to his throne.",
+     "names": [
+      "Sîn",
+      "Enlil",
+      "Ea",
+      "Marduk"
+     ],
+     "sources": [
+      "Utukkū Lemnūtu (Evil Spirits) incantations",
+      "Neo-Assyrian letters to Esarhaddon"
+     ]
+    },
+    {
+     "culture": "indian",
+     "people": "Vedic and Epic",
+     "title": "Rāhu's Severed Head",
+     "teaser": "A demon's immortal head chases the sun and moon forever.",
+     "text": "The oldest Indian eclipse is in the Rigveda (5.40): the demon Svarbhānu pierces the sun with darkness, and all creatures stand bewildered until the seer Atri finds the hidden sun and sets it back in the sky.\n\nThe story that lasted comes from the Mahābhārata's account of the churning of the ocean. When gods and demons churn the Ocean of Milk for amṛta, the drink of immortality, Viṣṇu takes the form of a bewitching woman to serve it only to the gods. The demon Rāhu slips into their line in disguise and drinks. The Sun and Moon raise the alarm, and Viṣṇu's discus cuts off his head while the amṛta is still in his throat.\n\nThe head, now immortal, rises to the sky and keeps its grudge against the two informers. At intervals it swallows the Sun or the Moon. They always reappear, later tellings explain, because a head with no body cannot hold them.",
+     "names": [
+      "Rāhu",
+      "Svarbhānu",
+      "Atri",
+      "Viṣṇu"
+     ],
+     "sources": [
+      "Rigveda 5.40",
+      "Mahābhārata 1 (Ādiparvan), the churning of the ocean"
+     ],
+     "image": {
+      "file": "File:Rahu graha.JPG",
+      "caption": "Rahu, the severed demon head, 19th-century Indian illustration published by E. A. Rodrigues"
+     }
+    },
+    {
+     "culture": "chinese",
+     "title": "The Sun Is Eaten",
+     "teaser": "Chronicles record the sun ‘eaten’, and drums at the altar of the soil.",
+     "text": "Chinese has a blunt word for an eclipse: shi, ‘eating’. The Spring and Autumn Annals, the court chronicle of the state of Lu, record more than thirty solar eclipses with the formula ‘the sun was eaten’, and some entries add what was done about it: drums were beaten and victims offered at the altar of the soil. The Zuozhuan commentary argues over whether these were the correct rites for the occasion, which shows that the response was a matter of ritual propriety as much as panic.\n\nIn Han cosmology an eclipse was a portent aimed at the ruler, a sign that yin had overcome yang and that government had gone astray; emperors issued edicts of self-reproach in response. Court astronomers, meanwhile, tried to predict them.\n\nWho does the eating? In later popular belief it is Tiangou, the Heavenly Dog, and villagers would bang pots and gongs to make it spit the sun back out.",
+     "names": [
+      "Tiangou"
+     ],
+     "sources": [
+      "Chunqiu (Spring and Autumn Annals)",
+      "Zuozhuan"
+     ],
+     "caveat": "The Heavenly Dog as eclipse-eater is a later folk belief; the classical sources speak only of the sun being ‘eaten’."
+    },
+    {
+     "culture": "norse",
+     "title": "The Wolf That Catches the Sun",
+     "teaser": "At the end of the world the wolf finally closes its jaws.",
+     "text": "No Norse source explains ordinary eclipses, but several tell how the sun will finally be swallowed. The wolf Sköll has chased Sól across the sky since the beginning, and Hati runs after the moon. Snorri adds that in the Iron Wood east of Midgard an old giantess breeds wolves, and that the mightiest of her brood, Mánagarmr, ‘Moon-hound’, will gorge on the lifeblood of everyone who dies, swallow the moon, and spatter the heavens with blood, so that the sun loses its shine.\n\nAt Ragnarök the pursuit ends. Völuspá sees the sun turn black, the earth sink into the sea, and the bright stars fall from heaven.\n\nYet Vafþrúðnismál holds out a kind of remedy. Before the wolf Fenrir overtakes her, the sun will bear a daughter no less beautiful than herself, and when the gods are dead the girl will ride her mother's road.",
+     "names": [
+      "Sköll",
+      "Hati",
+      "Mánagarmr",
+      "Sól",
+      "Fenrir"
+     ],
+     "sources": [
+      "Gylfaginning 12",
+      "Völuspá",
+      "Vafþrúðnismál 46–47"
+     ],
+     "caveat": "These are end-of-the-world swallowings; no surviving Norse text uses the wolves to explain ordinary eclipses.",
+     "image": {
+      "file": "File:The Wolves Pursuing Sol and Mani.jpg",
+      "caption": "The Wolves Pursuing Sol and Mani, J. C. Dollman, 1909"
+     }
+    },
+    {
+     "culture": "aztec",
+     "title": "When the Tzitzimime Descend",
+     "teaser": "If the sun were wholly eaten, the star-demons would come down.",
+     "text": "Sahagún's Nahua informants described a solar eclipse as the sun being eaten. When it happened there was uproar. People cried out; men raised the warbling war-cry, striking their mouths with their hands. Captives were sacrificed, and men of fair complexion were sought out and slain, their blood offered to the darkened sun.\n\nThe fear was specific. If the eclipse were completed, it was said, darkness would last forever, and the tzitzimime, star-demons waiting in the sky, would come down to eat humankind. An eclipse of the moon carried its own danger: pregnant women feared that the child would be born with a split lip, or turned into a mouse, and they protected the unborn by placing a flake of obsidian in the mouth or at the belly.\n\nThe same dread hung over the New Fire ceremony every fifty-two years, when the whole world waited on a mountaintop to see whether the sun would rise again.",
+     "names": [
+      "tzitzimime",
+      "Tonatiuh"
+     ],
+     "sources": [
+      "Florentine Codex, Book 7"
+     ]
+    },
+    {
+     "culture": "andean",
+     "people": "Inca",
+     "title": "The Moon's Sickness",
+     "teaser": "The moon is fainting, and the dogs are beaten to wake her.",
+     "text": "The mestizo historian Garcilaso de la Vega, son of an Inca princess, recorded what his mother's people did when the moon was eclipsed. They said the moon was sick, and feared that if she died she would fall from the sky, crush them all, and the world would end. So as the darkness spread they blew trumpets and horns, beat drums and shouted. They tied up their dogs and beat them to make them howl, because the moon was fond of dogs and would take pity on their cries and wake from her fainting. Children were made to weep and call out to Mama Quilla, Mother Moon, begging her not to die.\n\nWhen the moon recovered, they rejoiced that she had been healed. A solar eclipse, by contrast, meant that the Sun was angry at some offence, his face darkened in wrath as a man's is.\n\nGarcilaso treats it all as pagan error, but a vivid one.",
+     "names": [
+      "Mama Quilla",
+      "Inti"
+     ],
+     "sources": [
+      "Garcilaso de la Vega, Comentarios Reales de los Incas (1609), Book 2"
+     ],
+     "caveat": "Garcilaso wrote in Spain decades after the conquest, from memory and for a Spanish readership."
+    },
+    {
+     "culture": "finnic",
+     "people": "Finnish and Karelian",
+     "title": "Louhi Steals the Sun",
+     "teaser": "The mistress of the north locks the sun and moon inside a mountain.",
+     "text": "In the Kalevala, darkness comes by theft. After the heroes carry off the Sampo, Louhi, mistress of the northern land of Pohjola, takes her revenge. The sun and moon have come down to sit in the treetops and listen to Väinämöinen playing his new kantele; Louhi seizes them and shuts them inside a rocky mountain, and steals the fire from the hearths of Kalevala as well. Darkness settles over the land, and even Ukko, the sky god, wanders the edges of the clouds wondering where the light has gone.\n\nThe smith Ilmarinen tries to forge a new moon of gold and a new sun of silver and hangs them high in the trees, but they will not shine. At last he sets about forging a collar and fetters for Louhi. Frightened, she lets the sun and moon go, and Väinämöinen greets them as they rise.",
+     "names": [
+      "Louhi",
+      "Väinämöinen",
+      "Ilmarinen",
+      "Ukko"
+     ],
+     "sources": [
+      "Kalevala, runes 47–49"
+     ],
+     "caveat": "The Kalevala is Elias Lönnrot's 1849 compilation from folk songs, and this is a theft of the sun rather than an explanation of eclipses."
+    },
+    {
+     "culture": "north-american",
+     "people": "Cherokee",
+     "title": "The Great Frog",
+     "teaser": "A great frog tries to swallow the sun; drums and gunfire drive it off.",
+     "text": "James Mooney, who worked among the Eastern Cherokee in the late 1880s, recorded a short, precise explanation. When the sun or moon is eclipsed, it is because a great frog in the sky is trying to swallow it. Everybody knew this, his informants said, the Creeks and other peoples too. In the old days, before the great medicine men had all died, the people would come together whenever they saw the sun grow dark, fire guns and beat the drum, and in a little while the frog would be frightened off and the sun would be well again.\n\nThe Cherokee sun is also a person. In another story Mooney collected, she is a woman whose daughter is killed by a snake sent against the Sun herself. Grieving, she shuts herself away and the world goes dark, until the people bring drummers and singers to play before her, and at last she lifts her face and smiles.",
+     "names": [
+      "Sun"
+     ],
+     "sources": [
+      "James Mooney, Myths of the Cherokee (1900)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moon-dweller",
+   "summary": "The moon has a face, or a figure, and people have always wanted to know whose. Traditions from India to Japan see a hare, an image spread partly by Buddhist storytelling; China adds an exiled woman, a toad and a woodcutter; Mesoamerica sees a rabbit too, independently. Elsewhere the dwellers are children snatched while fetching water, a woman carried off with her gourd, a brother marked with soot, or the souls of the dead. The markings are the same everywhere, but what they resemble depends on what a culture already expected to see.",
+   "versions": [
+    {
+     "culture": "indian",
+     "people": "Buddhist Jātaka",
+     "title": "The Hare's Sacrifice",
+     "teaser": "A hare leaps into the fire and is drawn on the moon forever.",
+     "text": "In the Sasa Jātaka, one of the stories of the Buddha's former lives, the Bodhisatta is born as a hare who lives with three friends, a monkey, a jackal and an otter. The others each find some food to offer; the hare, who eats only grass, has nothing a human could eat, and resolves to give his own body.\n\nSakka, king of the gods, comes disguised as a hungry brahmin to test him. The hare tells him to light a fire, shakes himself three times so that no creature living in his fur will be burned, and leaps into the flames. The fire feels as cool as frost. Sakka reveals himself and, so that the hare's virtue will be known for an entire aeon, squeezes a mountain and with its essence draws the hare's outline on the face of the moon.\n\nIn Sanskrit the moon is śaśin, ‘the one with the hare’.",
+     "names": [
+      "Bodhisatta",
+      "Sakka"
+     ],
+     "sources": [
+      "Jātaka 316 (Sasa Jātaka)"
+     ]
+    },
+    {
+     "culture": "chinese",
+     "title": "Chang'e, the Toad and the Hare",
+     "teaser": "A woman who stole immortality lives on in a crowded moon.",
+     "text": "The Huainanzi, compiled in the second century BCE, gives the terse original: the archer Yi obtained the elixir of immortality from the Queen Mother of the West, and his wife Heng'e stole it and fled to the moon. Her name was later changed to Chang'e to avoid the personal name of a Han emperor. Other early writers say she became a toad there, and Han tomb art puts a toad and a hare side by side in the lunar disc, the hare often pounding the elixir with mortar and pestle.\n\nThe Tang writer Duan Chengshi adds a fourth resident. A man named Wu Gang, who committed a fault while studying immortality, is condemned to chop down the cassia tree on the moon, but every cut closes up as soon as the axe comes out. He is still at it.\n\nAt the Mid-Autumn Festival, families look up at a crowded moon: a lonely woman, her hare, a toad and a woodcutter.",
+     "names": [
+      "Chang'e",
+      "Yi",
+      "Xiwangmu",
+      "Wu Gang"
+     ],
+     "sources": [
+      "Huainanzi 6 (Lanming)",
+      "Duan Chengshi, Youyang zazu (9th c.)"
+     ],
+     "image": {
+      "file": "File:Mawangdui silk banner from tomb no1 (Moon toad).jpg",
+      "caption": "The crescent moon with its toad, detail of the Mawangdui silk banner, Han dynasty, 2nd century BCE"
+     }
+    },
+    {
+     "culture": "greek",
+     "title": "The Souls on the Moon",
+     "teaser": "Plutarch fills the moon's hollows with the souls of the dead.",
+     "text": "Greek poetry has a moon goddess, Selene, who drives her team across the night and falls in love with the sleeping Endymion. But the most searching Greek account of who lives in the moon is a philosophical dialogue. In Plutarch's On the Face Which Appears in the Orb of the Moon, the speakers argue about the markings: are they a reflection of the ocean, an optical effect, or real shadows on an earthy body with mountains and ravines?\n\nThe dialogue ends with a myth. After death, souls rise into the region between earth and moon, where the unjust are punished and the good are purified. The worthy then come to dwell on the moon itself as daimones, who descend to earth at times to watch over oracles and mysteries. The moon's great hollows are named places; the largest is the Recess of Hecate, where souls suffer and pay penalties.\n\nIn a second death, the mind parts from the soul on the moon and goes on to the sun.",
+     "names": [
+      "Selene",
+      "Endymion",
+      "Hecate"
+     ],
+     "sources": [
+      "Plutarch, De facie in orbe lunae (On the Face in the Moon)"
+     ]
+    },
+    {
+     "culture": "norse",
+     "title": "Bil and Hjúki",
+     "teaser": "Two children with a bucket, snatched up by the Moon.",
+     "text": "Snorri's Gylfaginning says that Máni, the Moon, steers the moon's course and governs its waxing and waning, and that he once took two children up from the earth. They were Bil and Hjúki, children of a man named Viðfinnr, and at the moment of capture they were walking from the well called Byrgir, carrying between them on their shoulders the pail Sægr on the pole Simul. They follow Máni still, Snorri says, as can be seen from the earth.\n\nThat is all the source gives, but it is enough for a picture: two small figures with a bucket on a yoke, visible in the moon's spots. Nineteenth-century writers eagerly connected them with the English nursery rhyme of Jack and Jill, who went up the hill to fetch a pail of water.",
+     "names": [
+      "Máni",
+      "Bil",
+      "Hjúki",
+      "Viðfinnr"
+     ],
+     "sources": [
+      "Gylfaginning 11"
+     ],
+     "caveat": "The Jack and Jill connection is nineteenth-century speculation with no evidence behind it.",
+     "image": {
+      "file": "File:Máni and Sól by Lorenz Frølich.jpg",
+      "caption": "Máni and Sól, Lorenz Frølich, 1895"
+     }
+    },
+    {
+     "culture": "japanese",
+     "title": "The Princess from the Moon",
+     "teaser": "A girl found in a bamboo stalk turns out to be a moon exile.",
+     "text": "The Tale of the Bamboo Cutter, the oldest surviving Japanese prose tale, opens with an old man who finds a tiny girl, three inches tall, glowing inside a stalk of bamboo. In three months she grows into a woman of unearthly beauty, Kaguya-hime. Five noble suitors are set impossible tasks, such as fetching the Buddha's stone begging bowl or the jewel from a dragon's neck, and each fails or cheats. Even the emperor cannot win her.\n\nAt last she confesses that she is one of the people of the moon, sent down to earth for a fault. On the night of the full moon a host descends on a cloud, and the emperor's soldiers find their arms go limp. A robe of feathers is put on her, and with it she forgets all earthly sorrow. She leaves the emperor an elixir of immortality, which he orders burned on the mountain nearest heaven.\n\nIts smoke, they say, still rises from Fuji.",
+     "names": [
+      "Kaguya-hime"
+     ],
+     "sources": [
+      "Taketori monogatari (The Tale of the Bamboo Cutter), 9th–10th c."
+     ],
+     "image": {
+      "file": "File:Taketori Monogatari 2.jpg",
+      "caption": "Princess Kaguya returns to the moon, painting by Tosa Hiromichi and Tosa Hirosumi, 17th century"
+     }
+    },
+    {
+     "culture": "aztec",
+     "title": "The Rabbit in the Moon's Face",
+     "teaser": "The gods dim the second sun by throwing a rabbit at it.",
+     "text": "The Nahua account of how the present sun and moon were made, recorded by Sahagún, explains the moon's markings with a blow. In the darkness at Teotihuacan the gods ask who will light the world. The proud, rich Tecuciztecatl volunteers; the poor, pock-marked Nanahuatzin is chosen as well. Before the divine hearth Tecuciztecatl flinches from the flames four times. Nanahuatzin leaps at once and burns, and only then does Tecuciztecatl follow.\n\nNanahuatzin rises as the sun. Tecuciztecatl rises after him, shining just as brightly, and the gods, unwilling to have two equal lights, send one of their number running to strike him in the face with a rabbit. That dimmed his face, and the rabbit's shape is still there.\n\nClassic Maya art shows the moon goddess cradling a rabbit, so the image was at home in Mesoamerica long before Sahagún wrote it down.",
+     "names": [
+      "Tecuciztecatl",
+      "Nanahuatzin"
+     ],
+     "sources": [
+      "Florentine Codex, Book 7"
+     ]
+    },
+    {
+     "culture": "north-american",
+     "people": "Inuit",
+     "title": "The Moon Brother",
+     "teaser": "A brother and sister run into the sky, one as sun, one as moon.",
+     "text": "Across the Arctic, Inuit tell of a brother and sister who became the moon and the sun. In versions recorded by Hinrich Rink in Greenland and Franz Boas on Baffin Island, a girl is visited in the dark, night after night, by a lover whose face she cannot see. To find him out she blackens her hands with soot from the lamp and marks him, and in the light she sees the smudges on her own brother. Horrified, she seizes a burning torch and runs; he snatches up another and chases her. As they run they rise into the sky. She becomes the sun, carrying the bright flame. His torch dwindles to embers, and he becomes the moon.\n\nThe dark patches on the moon are the soot on his face. He still pursues her, and in many regions the moon man has a house in the sky and a dog team, and comes down to hunt or to see that taboos are kept.",
+     "names": [
+      "Moon Man",
+      "Sun Sister"
+     ],
+     "sources": [
+      "Hinrich Rink, Tales and Traditions of the Eskimo (1875)",
+      "Franz Boas, The Central Eskimo (1888)"
+     ]
+    },
+    {
+     "culture": "polynesian",
+     "people": "Māori",
+     "title": "Rona and the Moon",
+     "teaser": "A woman curses the moon and is carried off, tree and all.",
+     "text": "Rona goes out one night to fetch water from a stream, carrying a gourd. The path is moonlit, but then the moon slips behind a cloud and she stumbles over roots in the dark. In her anger she curses the moon, calling it a cooked head, the worst of insults. The moon hears, comes down and seizes her. Rona clutches at a ngaio tree, but the moon pulls it up by the roots and carries off woman, gourd and tree together.\n\nShe is there still: the dark patches on the moon are Rona with her calabash and her tree, a warning to anyone who curses what gives them light.\n\nHawaiians see a different woman in the moon: Hina, who climbed up there with her gourd to escape the endless labour of earth, and who still beats out her bark cloth among the clouds.",
+     "names": [
+      "Rona",
+      "Marama",
+      "Hina"
+     ],
+     "sources": [
+      "Edward Tregear, Maori-Polynesian Comparative Dictionary (1891)",
+      "Martha Beckwith, Hawaiian Mythology (1940)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wisdom-at-a-price",
+   "summary": "Knowledge in myth is rarely free. The wise pay with an eye, with innocence, with a head, with years of patience, with pursuit through many shapes, or with their place in paradise; sometimes someone else pays, tricked out of a secret he meant to keep. The pattern reflects a widespread intuition that knowledge is power taken from the gods or the world, and that power has costs. The burned-thumb stories of Ireland and Wales are clearly related to each other; most of the rest are independent reflections on the same bargain.",
+   "versions": [
+    {
+     "culture": "mesopotamian",
+     "title": "Enkidu Becomes Wise",
+     "teaser": "The wild man gains understanding and loses the gazelles.",
+     "text": "Enkidu is made from clay in the wilderness, a hairy man who grazes with gazelles and drinks at the waterholes with the beasts. To tame him, a trapper brings Shamhat, a woman of the temple, and for six days and seven nights Enkidu lies with her.\n\nWhen he rises and goes back to his herd, the gazelles see him and run. His body has been drained; his legs, which used to keep pace with the animals, stand still. But, the poem says, he now has reason and broad understanding. Shamhat tells him that he has become like a god, and leads him to bread, beer, clothes, and the city of Uruk.\n\nLater, dying, Enkidu curses Shamhat for taking him from the wild, and Shamash rebukes him: she fed you bread fit for a god and gave you Gilgamesh for a friend. Enkidu relents and blesses her. The price of being human has been paid, and on reflection he thinks it fair.",
+     "names": [
+      "Enkidu",
+      "Shamhat",
+      "Shamash",
+      "Gilgamesh"
+     ],
+     "sources": [
+      "Epic of Gilgamesh, Tablets I, II and VII"
+     ]
+    },
+    {
+     "culture": "indian",
+     "people": "Vedic",
+     "title": "Dadhyañc's Horse Head",
+     "teaser": "A sage keeps his promise to Indra by teaching through a horse's mouth.",
+     "text": "The sage Dadhyañc knows the madhu-vidyā, the secret doctrine of the ‘honey’, and Indra has taught it to him on one condition: if he ever passes it on, Indra will cut off his head. The twin gods of healing, the Aśvins, want the knowledge badly, and they have a plan. They cut off the sage's head themselves, set it aside, and fit him with the head of a horse. Through the horse's mouth he teaches them the honey-doctrine.\n\nIndra, true to his word, strikes off the horse's head. The Aśvins then put back the sage's own, and he is none the worse. The Rigveda alludes to the story twice as a famous exploit of the twins, and the Śatapatha Brāhmaṇa tells it in full.\n\nThe lesson is thoroughly Vedic: a secret can be kept to the letter and given away all the same.",
+     "names": [
+      "Dadhyañc",
+      "Indra",
+      "Aśvins"
+     ],
+     "sources": [
+      "Rigveda 1.116.12",
+      "Rigveda 1.117.22",
+      "Śatapatha Brāhmaṇa 14.1.1"
+     ]
+    },
+    {
+     "culture": "egyptian",
+     "title": "Isis and the Secret Name",
+     "teaser": "Isis poisons the sun god to learn the one name she lacks.",
+     "text": "Ra has grown old; his mouth trembles and his spittle drips to the ground. Isis, who knows everything in heaven and earth except the sun god's secret name, gathers the spittle, kneads it with earth into a serpent, and leaves it on the path where Ra walks each day.\n\nThe snake bites him. The god who created all things is burned by a poison he did not make and does not know, and his limbs shake. The gods gather around him lamenting, and Isis comes too, offering to cure him if he will tell her his name. Ra recites his titles: I am Khepri in the morning, Ra at noon, Atum in the evening. The poison does not budge. At last, in agony, he lets his hidden name pass from his body into hers, and she speaks the spell that draws out the venom.\n\nThe tale is itself a charm: it was recited over people stung by scorpions or bitten by snakes.",
+     "names": [
+      "Isis",
+      "Ra",
+      "Khepri",
+      "Atum"
+     ],
+     "sources": [
+      "Papyrus Turin 1993 (‘Isis and Ra’)"
+     ]
+    },
+    {
+     "culture": "levantine",
+     "people": "Hebrew Bible",
+     "title": "The Tree of Knowledge",
+     "teaser": "Eyes opened, and the garden gate closed behind them.",
+     "text": "In the garden in Eden grow two special trees: the tree of life, and the tree of the knowledge of good and evil. The man may eat from any tree but the second, ‘for in the day that you eat of it you shall surely die’. The serpent, more cunning than any beast of the field, tells the woman otherwise: she will not die, but her eyes will be opened, and she will be like God, knowing good and evil.\n\nIn a sense both are right. The couple eat, their eyes are opened, and the first thing they know is that they are naked. They do not die that day. But God, observing that the man has become like one of us, knowing good and evil, sends them out of the garden before they can reach for the tree of life as well, and sets cherubim and a flaming, turning sword at its gate.\n\nKnowledge was theirs to keep. Immortality was the price.",
+     "names": [
+      "Adam",
+      "Eve",
+      "the serpent"
+     ],
+     "sources": [
+      "Genesis 2–3"
+     ],
+     "image": {
+      "file": "File:The Fall of Man by Lukas Cranach.jpg",
+      "caption": "The Fall of Man, Lucas Cranach the Elder, 16th century"
+     }
+    },
+    {
+     "culture": "greek",
+     "title": "The Blinding of Tiresias",
+     "teaser": "Two stories, one exchange: eyesight for foresight.",
+     "text": "Greek myth gives two stories of how the prophet Tiresias lost his sight, and in both prophecy is the compensation. In one, which Apollodorus attributes to Hesiod and Ovid also tells, Tiresias strikes two mating snakes and is turned into a woman; years later he does it again and becomes a man. Zeus and Hera, arguing whether men or women take more pleasure in love, ask the one person who knows. Tiresias says that of ten parts, the woman enjoys nine. Hera blinds him for it; Zeus, unable to undo another god's act, gives him prophecy and a life of seven generations.\n\nIn the other, told by Callimachus, the young Tiresias stumbles on Athena bathing. She cannot undo the law that such a sight costs the eyes, but in pity she grants him understanding of the birds and a long life.\n\nEither way, Greek prophecy begins where eyesight ends.",
+     "names": [
+      "Tiresias",
+      "Zeus",
+      "Hera",
+      "Athena"
+     ],
+     "sources": [
+      "Apollodorus, Library 3.6.7",
+      "Callimachus, Hymn 5 (The Bath of Pallas)",
+      "Ovid, Metamorphoses 3"
+     ],
+     "image": {
+      "file": "File:Pietro della Vecchia - Tiresias transformed into a woman.jpg",
+      "caption": "Tiresias transformed into a woman, Pietro della Vecchia, 17th century"
+     }
+    },
+    {
+     "culture": "chinese",
+     "title": "When Cangjie Made Writing",
+     "teaser": "Writing is invented; Heaven rains millet and ghosts weep.",
+     "text": "Cangjie, the legendary scribe of the Yellow Emperor, is said to have devised the first Chinese characters by studying the tracks of birds and beasts. The invention was not greeted calmly. The Huainanzi records what happened in a single line: in antiquity, when Cangjie created writing, Heaven rained millet and ghosts wailed in the night.\n\nThe Han commentator Gao You explained the omens. Once people could write, deceit would sprout; they would abandon farming for the profits of the clerk's knife and brush, and Heaven, foreseeing the famine, sent grain down in advance. The ghosts wailed because they feared being indicted by written documents.\n\nThe line sits in a chapter lamenting how each new human cleverness has carried people further from the original simplicity of the Way. Writing was a triumph, and Heaven wept grain over it.",
+     "names": [
+      "Cangjie",
+      "Yellow Emperor"
+     ],
+     "sources": [
+      "Huainanzi 8 (Benjing)",
+      "Gao You's commentary on the Huainanzi"
+     ]
+    },
+    {
+     "culture": "norse",
+     "title": "Odin's Eye and the Tree",
+     "teaser": "An eye in the well, nine nights on the tree, and then the runes.",
+     "text": "Odin, the wisest of the gods, bought his wisdom in instalments. The seeress of Völuspá knows where his eye is: pledged in Mímir's well beneath a root of Yggdrasil, where Mímir drinks mead every morning from the god's pledge. Snorri explains that Odin was refused a single drink from the well, whose water holds wisdom and understanding, until he gave up the eye.\n\nIn Hávamál, Odin himself describes a harder bargain. He hung on the windswept tree, whose roots no one knows, nine full nights, wounded with a spear, given to Odin, himself to himself. No one gave him bread or drink. He peered down, took up the runes screaming, and fell back. Then he began to grow, and to be wise.\n\nThe mead of poetry, which he won by seducing the giantess Gunnlöð and escaping in eagle form, cost him far less, but only because someone else paid.",
+     "names": [
+      "Odin",
+      "Mímir",
+      "Yggdrasil",
+      "Gunnlöð"
+     ],
+     "sources": [
+      "Völuspá 28",
+      "Gylfaginning 15",
+      "Hávamál 138–141",
+      "Skáldskaparmál"
+     ],
+     "image": {
+      "file": "File:Odin am Brunnen der Weisheit.jpg",
+      "caption": "Odin drinking at the well of wisdom, Robert Engels, early 20th century"
+     }
+    },
+    {
+     "culture": "celtic",
+     "people": "Irish",
+     "title": "Fionn and the Salmon",
+     "teaser": "Seven years of waiting, and a boy burns his thumb.",
+     "text": "The poet Finnéces has spent seven years beside a pool on the river Boyne, watching for the salmon of Féc's Pool, for it was prophesied that a man named Finn would eat it and nothing would be unknown to him. When at last he catches it, he gives it to his young pupil, Demne, to cook, with strict orders not to eat any.\n\nThe boy brings it cooked. Has he eaten any of it? No, says the boy, but I burned my thumb on it and put it in my mouth. Finnéces asks his name. Demne, he says. Your name is Finn, says the poet, and it was to you the salmon was given in prophecy: eat it. From then on, whenever Fionn puts his thumb in his mouth, what he did not know is revealed to him.\n\nThe cost falls on Finnéces, whose seven years of patience go to a boy with a sore thumb, and he gives them up with good grace.",
+     "names": [
+      "Fionn mac Cumhaill",
+      "Finnéces",
+      "Demne"
+     ],
+     "sources": [
+      "Macgnímartha Finn (The Boyhood Deeds of Fionn)"
+     ]
+    },
+    {
+     "culture": "celtic",
+     "people": "Welsh",
+     "title": "Gwion and the Cauldron",
+     "teaser": "Three drops of wisdom, and a chase through every shape.",
+     "text": "The enchantress Ceridwen, grieving that her son Morfran is the ugliest boy alive, resolves to make up for his looks with wisdom. She sets a cauldron boiling for a year and a day, adding herbs gathered at the proper hours, and puts a boy, Gwion Bach, to stir it. At the end of the year three drops of the brew leap out onto Gwion's thumb; he puts it in his mouth and at once knows everything, including that Ceridwen will kill him. The rest of the cauldron, now poison, cracks apart.\n\nGwion runs. He becomes a hare and she a greyhound; he a fish and she an otter; he a bird and she a hawk; at last he becomes a grain of wheat on a threshing floor, and she a black hen who swallows him. Nine months later she bears him, too beautiful to kill, and sets him adrift in a leather bag. He is found and named Taliesin, ‘radiant brow’, the greatest of poets.",
+     "names": [
+      "Ceridwen",
+      "Gwion Bach",
+      "Morfran",
+      "Taliesin"
+     ],
+     "sources": [
+      "Hanes Taliesin (in Elis Gruffydd's chronicle, 16th c.)"
+     ],
+     "caveat": "The full tale survives only in sixteenth-century versions, though the poet Taliesin and the poems attributed to him are much older."
+    },
+    {
+     "culture": "finnic",
+     "people": "Finnish and Karelian",
+     "title": "Into the Belly of Vipunen",
+     "teaser": "The old sage goes inside a dead giant to fetch three words.",
+     "text": "Väinämöinen is building a boat by singing, but he lacks three words to finish it. He looks for them in the heads of swallows and swans, and under the tongue of a reindeer, and finds nothing. A shepherd tells him where the old words are: in the mouth of Antero Vipunen, a long-dead giant sage who lies under the earth, with an aspen growing from his shoulders and a birch from his temples.\n\nThe smith Ilmarinen forges him iron shoes and gloves, and Väinämöinen goes, pries open the giant's jaw, and tumbles in. Vipunen swallows him. Inside, Väinämöinen sets up a forge, his shirt for bellows and his knee for an anvil, and hammers at the giant's innards until Vipunen, in torment, opens the chest of his songs. He sings for days, and Väinämöinen comes out with the words he needed, and many more.\n\nIn Finnic lore, knowledge must be fetched from the dead, at some cost to the fetcher.",
+     "names": [
+      "Väinämöinen",
+      "Antero Vipunen",
+      "Ilmarinen"
+     ],
+     "sources": [
+      "Kalevala, runes 16–17"
+     ],
+     "caveat": "The Kalevala is Elias Lönnrot's nineteenth-century compilation, though the Vipunen songs were widely collected in Karelia."
+    }
+   ]
+  },
+  {
+   "id": "fate-weavers",
+   "summary": "From Anatolia to Scandinavia, fate is something spun, measured or woven, usually by women and often at the moment of birth. The metaphor comes naturally to societies in which spinning and weaving were women's constant work, and it may also be an old inheritance among Indo-European speakers, from the Hittites to the Norse. Egypt has birth-fate goddesses who pronounce rather than spin, and Tang China binds future spouses with an invisible red cord. The idea is the same everywhere: a life has a length and a pattern, fixed before its owner has any say.",
+   "versions": [
+    {
+     "culture": "anatolian",
+     "people": "Hittite",
+     "title": "The Spinners of the King's Years",
+     "teaser": "Two underworld goddesses kneel with a spindle and spin the king's years.",
+     "text": "In a Hittite ritual for the founding of a new palace, the king is shown two old goddesses of the underworld, Išduštaya and Papaya, kneeling at their work. One holds a spindle, the other what seems to be a mirror, and they are spinning the king's years. The text promises that those years will have no end and no number, and the ritual asks the goddesses to keep the thread running.\n\nBeside them the Hittites honoured the Gulšeš, whose name probably comes from a verb meaning ‘to engrave’ or ‘to write’: goddesses of destiny who allotted each person's life and received offerings at festivals. The metaphor shifts from thread to inscription, but the idea is the same.\n\nThese texts, from the royal archives of Hattusa in the second millennium BCE, are among the oldest anywhere to picture fate as spinning, centuries before Homer.",
+     "names": [
+      "Išduštaya",
+      "Papaya",
+      "Gulšeš"
+     ],
+     "sources": [
+      "Hittite ritual for the foundation of a palace (CTH 414)"
+     ]
+    },
+    {
+     "culture": "egyptian",
+     "title": "The Seven Hathors",
+     "teaser": "At each birth, seven goddesses announce how the child will die.",
+     "text": "Egyptian fate is spoken, not spun. When a child is born, the Seven Hathors come to decree its destiny. In the New Kingdom Tale of the Doomed Prince, a long-awaited son is born to a king, and the Hathors pronounce: he will die by the crocodile, the snake or the dog. The king builds him a stone house in the desert, but the boy sees a dog from the roof and insists on having one, and the story becomes a tale of fates dodged one by one. The papyrus breaks off before the end.\n\nThe Tale of Two Brothers uses the same device. When the gods fashion a wife for Bata, the Seven Hathors come to see her and say with one voice that she will die by the knife.\n\nBehind them stand Shai, whose name means ‘what is ordained’, and Renenutet, who grants each person an allotted portion.",
+     "names": [
+      "Seven Hathors",
+      "Shai",
+      "Renenutet",
+      "Bata"
+     ],
+     "sources": [
+      "Tale of the Doomed Prince (Papyrus Harris 500)",
+      "Tale of Two Brothers (Papyrus d'Orbiney)"
+     ]
+    },
+    {
+     "culture": "greek",
+     "title": "Clotho, Lachesis, Atropos",
+     "teaser": "The Spinner, the Allotter and the Unturnable sit at Necessity's spindle.",
+     "text": "Homer speaks of fate as thread already spun. Hecuba, mourning Hector, says it was his lot from the day he was born, what mighty Fate spun for him with her thread, to glut the dogs far from his parents. In the Odyssey, King Alcinous speaks of the ‘heavy Spinners’ who spin a man's portion at his birth.\n\nHesiod names three Moirai: Clotho, the Spinner; Lachesis, the Allotter; and Atropos, the Unturnable. The Theogony, rather awkwardly, makes them daughters of Night in one passage and of Zeus and Themis in another.\n\nPlato gives them their grandest setting. In the Myth of Er, at the end of the Republic, they sit around the spindle of Necessity, whose whorls carry the circles of the planets. Lachesis sings of what has been, Clotho of what is, Atropos of what will be. Each soul choosing its next life receives a guardian spirit from Lachesis, and passes under Clotho's hand and Atropos's spinning, so that its choice can never be undone.",
+     "names": [
+      "Clotho",
+      "Lachesis",
+      "Atropos",
+      "Ananke"
+     ],
+     "sources": [
+      "Iliad 24.209–210",
+      "Odyssey 7.196–198",
+      "Hesiod, Theogony 217–219, 904–906",
+      "Plato, Republic 10 (Myth of Er)"
+     ]
+    },
+    {
+     "culture": "chinese",
+     "title": "The Old Man Under the Moon",
+     "teaser": "A red cord, tied at birth, binds husband and wife.",
+     "text": "A Tang tale in Li Fuyan's collection Xu Xuanguai lu tells of Wei Gu, a young man anxious to marry, who comes upon an old man at dawn, reading a book by moonlight on the steps of a temple. The book, the old man explains, is the register of marriages kept in the other world, and in his bag he carries red cords with which he secretly ties together the feet of those destined to wed. Once tied, nothing parts them, not feud, not distance.\n\nWei Gu's destined wife, he learns, is a three-year-old girl, daughter of a poor woman who sells vegetables in the market. Appalled, he sends a servant to kill the child; the man only wounds her between the eyebrows. Fourteen years later Wei Gu marries a beautiful girl who always wears an ornament on her brow. She is, of course, the same child.\n\nThe old man, Yue Lao, became the god of marriage, and the red thread of destiny a byword across East Asia.",
+     "names": [
+      "Yue Lao",
+      "Wei Gu"
+     ],
+     "sources": [
+      "Li Fuyan, Xu Xuanguai lu, ‘The Inn of Betrothal’ (9th c.)"
+     ]
+    },
+    {
+     "culture": "norse",
+     "title": "The Norns at the Well",
+     "teaser": "Three women at the world-tree's root cut staves and choose lives.",
+     "text": "At the foot of Yggdrasil, by the well of Urðr, live three maidens, Völuspá says: Urðr, Verðandi and Skuld. They cut staves, lay down laws and choose lives for the children of men. Their names are usually glossed ‘what came to be’, ‘what is coming to be’ and ‘what shall be’, though Skuld may rather mean ‘debt’. Snorri adds that they water the tree each day from the well to keep it from rotting.\n\nThe first poem of Helgi shows norns at work. On the night of the hero's birth they come to his father's hall, twist the strands of his fate, and stretch out the golden cord, fastening it beneath the moon's hall and hiding its ends in the east and west.\n\nIn Njáls saga, a man in Caithness looks through a window and sees women weaving on a loom whose weights are human heads and whose threads are entrails, chanting the Darraðarljóð. They are weaving the battle of Clontarf.",
+     "names": [
+      "Urðr",
+      "Verðandi",
+      "Skuld",
+      "Helgi"
+     ],
+     "sources": [
+      "Völuspá 20",
+      "Gylfaginning 15–16",
+      "Helgakviða Hundingsbana I 2–4",
+      "Njáls saga 157"
+     ],
+     "image": {
+      "file": "File:Die Nornen Urd, Werdanda, Skuld, unter der Welteiche Yggdrasil by Ludwig Burger.jpg",
+      "caption": "The Norns Urðr, Verðandi and Skuld beneath Yggdrasil, Ludwig Burger, 1882"
+     }
+    },
+    {
+     "culture": "slavic",
+     "people": "Czech",
+     "title": "The Sudičky at the Cradle",
+     "teaser": "Three white women come by night to decide a newborn's fate.",
+     "text": "In Czech folk belief, three women, the sudičky, visit a house on one of the first nights after a child's birth to settle its fate. They are usually white-robed and seen, if at all, only by the mother, and each speaks in turn at the cradle: one may grant the child's fortune, another fix the length of its life, the third the manner of its death. South Slavs told of the same visitors as suđaje or rođenice, and Slovenes as rojenice.\n\nTheir word cannot be escaped, and folk tales are built on the attempt. In Karel Jaromír Erben's tale of the Three Golden Hairs of Grandfather All-Knowing, a king sheltering in a charcoal-burner's hut overhears the sudičky promise the newborn boy that he will marry the king's own daughter. The king does everything in his power to prevent it, and in doing so brings it about.",
+     "names": [
+      "sudičky",
+      "suđaje",
+      "rojenice"
+     ],
+     "sources": [
+      "Karel Jaromír Erben, ‘Tři zlaté vlasy děda Vševěda’ (1865)",
+      "Czech and South Slavic folk belief, recorded in the 19th century"
+     ],
+     "caveat": "These are nineteenth-century folk records; their link to the rozhanitsy named in medieval East Slavic sermons, and to any pre-Christian cult, is uncertain."
+    }
+   ]
+  },
+  {
+   "id": "dying-returning-god",
+   "summary": "The ‘dying and rising god’ is a category built by James Frazer in The Golden Bough, which grouped Tammuz, Adonis, Attis, Osiris and others as vegetation spirits who die and revive with the crops. Jonathan Z. Smith argued that the category collapses under scrutiny: most of these gods die and stay dead, or rule the underworld, and the ‘rising’ is often late or Christian-influenced. Tryggve Mettinger's partial defence held that a few Near Eastern cases, notably Dumuzi and Baal, do involve a real return. The pages below keep each story together with its caveat.",
+   "versions": [
+    {
+     "culture": "mesopotamian",
+     "people": "Sumerian",
+     "title": "Dumuzi Hunted",
+     "teaser": "The shepherd god dreams his death, runs, and is caught.",
+     "text": "In the Sumerian poem Dumuzi's Dream, the shepherd god wakes in terror from a nightmare: rushes rising against him, his churn lying on its side, his drinking cup torn from its peg. His sister Geshtinanna, skilled in dreams, tells him what it means. He is going to die.\n\nThe galla, demons of the underworld who take no gifts and know neither wife nor child, come for him. Dumuzi flees and prays to the sun god Utu, his brother-in-law, who turns his hands and feet into a gazelle's so he can escape. Three times he is changed and runs; three times he is caught. Geshtinanna will not betray him, even when the demons torment her, but a friend does. At last the demons find him in his sister's sheepfold. The churn lies silent, the cup is broken, the fold is given to the wind.\n\nHis mourning outlived Sumer. Centuries later the prophet Ezekiel saw women at the gate of the Jerusalem temple weeping for Tammuz.",
+     "names": [
+      "Dumuzi",
+      "Geshtinanna",
+      "Utu",
+      "galla"
+     ],
+     "sources": [
+      "Dumuzi's Dream (Sumerian)",
+      "Ezekiel 8:14"
+     ],
+     "caveat": "This poem ends in death; Dumuzi's partial return appears only in the ending of Inanna's Descent, the case Mettinger defends."
+    },
+    {
+     "culture": "egyptian",
+     "title": "Osiris Reassembled",
+     "teaser": "The murdered king is made whole again, but only to rule the dead.",
+     "text": "Osiris is murdered by his brother Seth. The Pyramid Texts already know the essentials: Seth struck him down on the riverbank at Nedyt, and Isis and Nephthys searched for him, wailing like kites. Plutarch, writing much later in Greek, gives the full story. Seth tricks Osiris into a chest made to his measure, seals it and throws it into the Nile; Isis finds it at Byblos; Seth finds it again and tears the body into fourteen pieces, which Isis gathers from across Egypt. Only the phallus is lost, eaten by fish.\n\nIsis restores the body, fans breath into it with her wings, and conceives Horus by the revived god. But Osiris does not come back to the world of the living. He becomes ruler of the Duat and judge of the dead, while Horus avenges him on earth.\n\nHis revival was real enough to Egyptians, who hoped to become an Osiris themselves at death. It simply led downward.",
+     "names": [
+      "Osiris",
+      "Seth",
+      "Isis",
+      "Nephthys",
+      "Horus"
+     ],
+     "sources": [
+      "Pyramid Texts",
+      "Great Hymn to Osiris (stela of Amenmose)",
+      "Plutarch, On Isis and Osiris 12–19"
+     ],
+     "caveat": "Smith's central example: Osiris revives only as king of the dead, not as a god who returns to life on earth.",
+     "image": {
+      "file": "File:Pendentif au nom du roi Osorkon II (Louvre, E 6204).jpg",
+      "caption": "Osiris between Horus and Isis, gold and lapis pendant of Osorkon II, c. 850 BCE (Louvre)"
+     }
+    },
+    {
+     "culture": "levantine",
+     "people": "Ugaritic",
+     "title": "Baal and Mot",
+     "teaser": "The storm god goes down Death's throat, and the rains come back.",
+     "text": "In the Baal Cycle from Ugarit, the storm god Baal, newly installed in his palace, defies Mot, whose name means ‘Death’. Mot's answer is his own mouth: one lip to the earth, one to the heavens, a tongue to the stars. Baal must go down into his gullet. He takes with him his clouds, his winds and his rains, and lies with a heifer before he goes. Messengers bring the news to El: mightiest Baal is dead, the Prince, Lord of the Earth, has perished.\n\nBaal's sister Anat searches the land for him and buries his body. Then she seizes Mot, splits him with a blade, winnows him, burns him, grinds him, and sows him in the field for the birds to eat.\n\nNow El dreams: the heavens rain oil, the wadis run with honey. He knows that Baal is alive. In the seventh year Baal and Mot fight again, until the sun goddess Shapash warns Mot, and Death gives way.",
+     "names": [
+      "Baal",
+      "Mot",
+      "Anat",
+      "El",
+      "Shapash"
+     ],
+     "sources": [
+      "Baal Cycle (KTU 1.5–1.6)"
+     ],
+     "caveat": "Mettinger's strongest case; even so the tablets are damaged at key points, and whether the story tracks the agricultural year is debated.",
+     "image": {
+      "file": "File:Baal thunderbolt Louvre AO15775.jpg",
+      "caption": "Baal with the thunderbolt, limestone stele from Ugarit, 15th–13th century BCE (Louvre)"
+     }
+    },
+    {
+     "culture": "greek",
+     "title": "Adonis Divided",
+     "teaser": "Two goddesses share a beautiful boy, and a boar ends the arrangement.",
+     "text": "Adonis is born from a myrrh tree, into which his mother Myrrha was turned. Aphrodite, dazzled by the baby, hides him in a chest and gives it to Persephone to keep; Persephone opens it and refuses to give him back. Zeus, as Apollodorus tells it, divides the year into three: a third Adonis spends with Persephone, a third with Aphrodite, and a third wherever he likes, which he gives to Aphrodite too. Out hunting, he is killed by a boar, and from his blood, in Ovid, springs the short-lived anemone.\n\nHis cult is far better attested than his return. At the Athenian Adonia, women planted quick-sprouting seeds in shallow pots on the rooftops, the ‘gardens of Adonis’, let them wither in the summer heat, and mourned. Only the second-century writer Lucian, describing the rites at Byblos, says that after the mourning the worshippers declared Adonis alive and sent him up into the sky.",
+     "names": [
+      "Adonis",
+      "Aphrodite",
+      "Persephone",
+      "Myrrha"
+     ],
+     "sources": [
+      "Apollodorus, Library 3.14.4",
+      "Ovid, Metamorphoses 10",
+      "Lucian, De Dea Syria 6"
+     ],
+     "caveat": "The ‘rising’ is attested only late (Lucian and Christian writers); the classical evidence is for mourning, which is why Smith doubted the whole category.",
+     "image": {
+      "file": "File:Sebastiano del Piombo - Death of Adonis - WGA21103.jpg",
+      "caption": "The Death of Adonis, Sebastiano del Piombo, c. 1512 (Uffizi)"
+     }
+    },
+    {
+     "culture": "norse",
+     "title": "The Death of Baldr",
+     "teaser": "The whole world weeps for Baldr, except one giantess.",
+     "text": "Baldr the Good dreams of his own death, and his mother Frigg takes an oath from fire and water, iron and stone, beasts, birds and poisons, not to harm him; only the mistletoe she thinks too young to ask. The gods make a game of throwing things at him. Loki, disguised, puts a sprig of mistletoe into the hand of Baldr's blind brother Höðr and guides his aim, and Baldr falls dead.\n\nHermóðr rides nine nights to Hel to ask for his return. Hel agrees on one condition: that everything in the world, living and dead, weep for him. Everything does, even stones and metals, as they do when they come out of frost into warmth, except one giantess in a cave, Þökk, who says she has no use for him. Baldr stays below.\n\nHe does come back, but only after the world ends. In Völuspá, when the earth rises green from the sea after Ragnarök, Baldr and Höðr return, reconciled, to live in Odin's hall.",
+     "names": [
+      "Baldr",
+      "Frigg",
+      "Loki",
+      "Höðr",
+      "Hermóðr",
+      "Hel",
+      "Þökk"
+     ],
+     "sources": [
+      "Gylfaginning 49",
+      "Baldrs draumar",
+      "Völuspá"
+     ],
+     "caveat": "Baldr's return is a single event after Ragnarök, not a seasonal one; Frazer's vegetation reading of him has little support in the sources.",
+     "image": {
+      "file": "File:Each arrow overshot his head by Elmer Boyd Smith.jpg",
+      "caption": "‘Each arrow overshot his head’: the gods test Baldr, Elmer Boyd Smith, 1902"
+     }
+    },
+    {
+     "culture": "maya",
+     "people": "K'iche' and Classic Maya",
+     "title": "The Maize God Reborn",
+     "teaser": "A skull in a tree, a miraculous birth, a god rising from a turtle.",
+     "text": "In the Popol Vuh, the K'iche' Maya book written down in the sixteenth century, the brothers One Hunahpu and Seven Hunahpu are summoned to Xibalba by the lords of death, fail their tests, and are sacrificed. One Hunahpu's head is hung in a calabash tree, which at once bursts into fruit. When Blood Moon, a daughter of the underworld, reaches toward it, the skull spits into her palm, and she conceives the Hero Twins, Hunahpu and Xbalanque.\n\nThe Twins later defeat the lords of Xibalba and try to restore Seven Hunahpu at the place of his sacrifice. But he can name only a few parts of his face, and he stays there, honoured and prayed to, but not alive.\n\nClassic Maya painted pottery, some eight centuries older, seems to tell a fuller story: a young maize god, attended by the Twins, rising out of a cracked turtle shell that stands for the earth, like a new ear of corn.",
+     "names": [
+      "One Hunahpu",
+      "Seven Hunahpu",
+      "Blood Moon (Xquic)",
+      "Hunahpu",
+      "Xbalanque"
+     ],
+     "sources": [
+      "Popol Vuh",
+      "Classic Maya painted ceramics (e.g. the ‘Resurrection Plate’, K1892)"
+     ],
+     "caveat": "The Classic resurrection is reconstructed from imagery; its link to the Popol Vuh story is widely accepted but interpretive, and the Popol Vuh fathers themselves are not restored to life."
+    }
+   ]
+  },
+  {
+   "id": "vanishing-god",
+   "summary": "In this pattern a god does not die but withdraws, in anger, grief or fear, and the world sickens in the god's absence: crops fail, animals stop breeding, the sky goes dark, the gods go hungry or grow old. The story then turns on finding the missing deity and coaxing or tricking them back. The Hittite Telipinu myth gives the pattern its classic form, and it was recited in rituals meant to set real troubles right. The Greek and Japanese versions are almost certainly independent: any farming people knows what the loss of an unseen provider would feel like.",
+   "versions": [
+    {
+     "culture": "mesopotamian",
+     "people": "Babylonian and Assyrian",
+     "title": "When Ishtar Is Gone",
+     "teaser": "The goddess of love goes below, and desire stops on earth.",
+     "text": "In the Akkadian poem of her descent, Ishtar resolves to visit the land of no return, ruled by her sister Ereshkigal. At each of seven gates the gatekeeper strips her of something, her crown, her earrings, her necklaces, the ornaments of her breast, her girdle, her bangles, and at last her garment, until she stands naked before the queen of the dead, who has sixty diseases loosed against her and holds her captive.\n\nAbove, the effect is immediate. The bull no longer mounts the cow, the donkey no longer covers the jenny, the young man no longer lies with the girl in the street; he sleeps in his own room, she sleeps on her side.\n\nEa's remedy is a trick. He creates a handsome courtier, Asushunamir, to charm Ereshkigal into swearing by the great gods, and then to ask for the waterskin. Ishtar is sprinkled with the water of life and led back up through the gates.",
+     "names": [
+      "Ishtar",
+      "Ereshkigal",
+      "Papsukkal",
+      "Ea",
+      "Asushunamir"
+     ],
+     "sources": [
+      "Descent of Ishtar to the Netherworld (Akkadian)"
+     ],
+     "image": {
+      "file": "File:Ishtar descent to the Underworld BM ME K.162.jpg",
+      "caption": "Tablet of the Descent of Ishtar from the library of Ashurbanipal, Nineveh, 7th century BCE (British Museum)"
+     }
+    },
+    {
+     "culture": "anatolian",
+     "people": "Hittite",
+     "title": "The Wrath of Telipinu",
+     "teaser": "A sulking god puts his shoes on the wrong feet, and the land starves.",
+     "text": "Telipinu, a god of farming and growth, flies into a rage. He puts his right shoe on his left foot and his left shoe on his right, and storms off. Mist seizes the windows, smoke fills the house; the sheep in the fold and the cows in the pen reject their young. Barley and wheat no longer ripen. Springs and meadows dry up, and gods and humans alike begin to starve.\n\nAn eagle searches the mountains and valleys, and the Storm god hammers at Telipinu's gate, but no one finds him. At last the mother goddess Hannahanna sends a little bee. It finds Telipinu asleep in a meadow near the town of Lihzina, stings his hands and feet, and wakes him, which makes him angrier than ever.\n\nThe goddess Kamrusepa soothes him with rites of fire, and his rage is sealed in bronze jars in the Dark Earth. Telipinu comes home, and the land thrives again.",
+     "names": [
+      "Telipinu",
+      "Hannahanna",
+      "Kamrusepa"
+     ],
+     "sources": [
+      "Telipinu Myth (CTH 324)"
+     ]
+    },
+    {
+     "culture": "indian",
+     "people": "Vedic",
+     "title": "Agni Hides in the Waters",
+     "teaser": "The fire god, afraid of his job, slips away into the water.",
+     "text": "Agni, the fire, is the gods' messenger and priest: every offering reaches heaven through his flames. In a dialogue hymn of the Rigveda (10.51), the gods find that he has vanished. He has slipped into the waters and the plants, wrapped in a thick membrane, afraid. His three elder brothers, he says, wore themselves out in the office of carrying the oblation, and he dreads the same fate.\n\nThe gods search and find him; Yama spots him, and the gods coax him. They offer terms: the first and last portions of the offering, the butter of the waters, the strength of the plants, and a long life. On those conditions Agni agrees to come back and carry the sacrifice again.\n\nThe later Taittirīya Saṃhitā adds an informer: a fish betrays Agni's hiding place, and Agni curses fish to be killed at will.",
+     "names": [
+      "Agni",
+      "Yama",
+      "Varuṇa"
+     ],
+     "sources": [
+      "Rigveda 10.51",
+      "Taittirīya Saṃhitā 2.6.6"
+     ],
+     "caveat": "Agni's absence starves the gods of sacrifice rather than blighting the land, so the fit with the pattern is only partial."
+    },
+    {
+     "culture": "greek",
+     "title": "Demeter on Strike",
+     "teaser": "The grain goddess sits alone in her temple, and nothing grows.",
+     "text": "The Homeric Hymn to Demeter tells how the goddess, searching for her stolen daughter, turns away from Olympus in anger and grief. Disguised as an old woman, she takes a post as nurse in the house of King Celeus at Eleusis, and begins to make his baby son immortal by laying him in the fire at night, until his mother catches her at it and screams. Demeter reveals herself, demands a temple, and sits in it alone, mourning.\n\nThen she stops the grain. For a whole year the earth sends up no seed, though oxen drag the curved ploughs across the fields and much white barley is sown in vain. The race of mortals would have perished, the hymn says, and the gods lost the honour of their offerings, had Zeus not taken notice. He sends the gods to her one after another with gifts; she refuses them all.\n\nOnly the return of Persephone ends the strike, and in thanks Demeter teaches the Eleusinians her mysteries.",
+     "names": [
+      "Demeter",
+      "Persephone",
+      "Celeus",
+      "Demophon",
+      "Zeus"
+     ],
+     "sources": [
+      "Homeric Hymn to Demeter (Hymn 2)"
+     ],
+     "image": {
+      "file": "File:Votive relief showing Demeter and Triptolemos2, Eleusis, 4th c BC.jpg",
+      "caption": "Votive relief of Demeter and Triptolemos from Eleusis, 4th century BCE"
+     }
+    },
+    {
+     "culture": "egyptian",
+     "title": "The Distant Goddess",
+     "teaser": "The sun's Eye storms off to Nubia, and must be charmed home.",
+     "text": "The Eye of Ra is a goddess, often Tefnut or Hathor, and in a cycle of stories she quarrels with her father and goes off south into the Nubian desert. There she roams as a savage lioness, and Egypt is left without her. In the fullest version, the Demotic Myth of the Eye of the Sun from the Roman period, Thoth goes after her in the form of a little baboon and, with a long run of fables, flattery and argument, persuades her to come home.\n\nHer journey north becomes a procession of joy. She is calmed with music and dancing, and the raging lioness turns into the gentle cat or the smiling Hathor. Temples along the Nile celebrated her homecoming, and Egyptologists have long linked it with the coming of the annual flood, which brought life back to the fields.",
+     "names": [
+      "Eye of Ra",
+      "Tefnut",
+      "Hathor",
+      "Thoth"
+     ],
+     "sources": [
+      "Myth of the Eye of the Sun (Demotic, Papyrus Leiden I 384)"
+     ],
+     "caveat": "The full narrative is late (Roman period), though the Distant Goddess theme is much older; the link to the Nile flood is scholarly inference."
+    },
+    {
+     "culture": "japanese",
+     "title": "Endless Night on the High Plain",
+     "teaser": "The sun goddess withdraws, and darkness lets every calamity loose.",
+     "text": "When Susanoo's outrages end in the death of one of her weaving maidens, Amaterasu withdraws into the Rock Cave of Heaven and shuts its door. The Kojiki dwells on what her absence does. The High Plain of Heaven goes dark, and so does the Central Land of Reed Plains below. Endless night reigns. The voices of the myriad spirits rise like swarming summer flies, and every kind of calamity breaks out at once.\n\nThe gods cannot simply wait her out. Eight hundred myriads of them gather in the bed of the Heavenly Tranquil River and set Omoikane, the god of thought, to devise a remedy; how the mirror, the dance and the laughter bring her out is told under 'The Sun Hidden Away'.\n\nWhen the light returns, the gods settle the account. They fine Susanoo a thousand tables of offerings, cut off his beard and the nails of his fingers and toes, and drive him out of heaven.",
+     "names": [
+      "Amaterasu",
+      "Susanoo",
+      "Omoikane"
+     ],
+     "sources": [
+      "Kojiki, Book 1",
+      "Nihon shoki, Book 1"
+     ],
+     "image": {
+      "file": "File:Amaterasu cave crop.jpg",
+      "caption": "Amaterasu emerging from the Rock Cave, woodblock print by Utagawa Kunisada, 1856 (detail)"
+     }
+    },
+    {
+     "culture": "norse",
+     "title": "The Apples of Iðunn",
+     "teaser": "The keeper of youth is stolen, and the gods turn grey.",
+     "text": "Iðunn keeps the apples that the gods eat to stay young. Loki, caught by the giant Þjazi in the shape of an eagle and dragged over stones and treetops, buys his freedom by promising to lure her out of Ásgarðr. He tells her he has found apples in a wood that she will think finer than her own, and she should bring hers to compare. Þjazi swoops down and carries her off to his home in Þrymheimr.\n\nWithout her, the gods quickly grow grey and old. They hold council, learn that Iðunn was last seen leaving with Loki, and threaten him with death or torture. Loki borrows Freyja's falcon shape, flies to Jötunheimr, turns Iðunn into a nut and carries her home in his claws. Þjazi pursues as an eagle, the gods light a fire of wood shavings at the wall, and the giant's feathers catch.\n\nThe world does not wither here; only the gods do. But it is the same shape of story, with the same cure.",
+     "names": [
+      "Iðunn",
+      "Loki",
+      "Þjazi",
+      "Freyja"
+     ],
+     "sources": [
+      "Skáldskaparmál (Bragaræður)",
+      "Þjóðólfr of Hvinir, Haustlǫng"
+     ],
+     "image": {
+      "file": "File:Idun and the Apples by James Doyle Penrose, 1890.jpg",
+      "caption": "Idun and the Apples, James Doyle Penrose, 1890"
+     }
+    }
+   ]
+  },
+  {
+   "id": "origin-of-seasons",
+   "summary": "Why does the world warm and cool in a cycle instead of staying as it is? Many traditions answer with an arrangement: a god who must divide the year between two places, a sun who divides it between two wives, a dragon whose breath is summer and winter, a sky hole torn open to let the warmth through, or two fathers of different temper. The best-known Near Eastern and Greek versions build the seasons out of a bargain with the dead. All such stories explain what everyone can see; they differ in whether the cycle is a punishment, a compromise or simply the world's breathing.",
+   "versions": [
+    {
+     "culture": "mesopotamian",
+     "people": "Sumerian",
+     "title": "Brother and Sister Share the Year",
+     "teaser": "Dumuzi goes down for half the year, and his sister for the other half.",
+     "text": "The Sumerian poem of Inanna's descent ends with a debt. Inanna, revived in the underworld, may leave only if she sends someone down in her place. Demons follow her up into the world, and in city after city her loyal servants and sons throw themselves at her feet in mourning, so she spares them. But in Kulaba she finds her husband Dumuzi seated on a high throne in splendid clothes, not grieving at all. She fixes on him the eye of death, and the demons seize him.\n\nThe damaged final lines, pieced together only in the 1960s, resolve the matter. Dumuzi's sister Geshtinanna, who loves him, offers to share his fate, and Inanna decrees: you for half the year, your sister for half the year. When he goes up, she goes down.\n\nThe shepherd and his sister, whose name contains the word for ‘vine’, divide the year between them, though which half belongs to whom the poem does not say.",
+     "names": [
+      "Inanna",
+      "Dumuzi",
+      "Geshtinanna"
+     ],
+     "sources": [
+      "Inanna's Descent to the Netherworld (Sumerian)"
+     ],
+     "caveat": "The half-year line is brief and was reconstructed from fragments; that it was meant to explain the seasons is a widely held inference, not a statement in the text."
+    },
+    {
+     "culture": "greek",
+     "title": "The Pomegranate Seed",
+     "teaser": "A seed eaten below means part of every year spent there.",
+     "text": "Hades, with Zeus's consent, carries off Persephone as she picks flowers in a meadow. Her mother Demeter searches the earth with torches and, when she learns the truth, withholds the harvest until Zeus gives way and sends Hermes down to fetch the girl.\n\nHades lets her go graciously, but before she leaves he gives her a pomegranate seed, sweet as honey, and she eats it. Food of the dead binds the eater to them, and a compromise follows. In the Homeric Hymn, Persephone must spend a third of each year below with her husband and two thirds above with her mother and the gods; when the earth blooms with spring flowers, she rises. Later writers, Ovid among them, make it half and half.\n\nThe arithmetic has puzzled readers. Some scholars have argued that the hymn's barren season is the parched Greek summer, when the seed corn lay stored in underground jars, rather than a northern winter.",
+     "names": [
+      "Persephone",
+      "Hades",
+      "Demeter",
+      "Hermes"
+     ],
+     "sources": [
+      "Homeric Hymn to Demeter (Hymn 2)",
+      "Ovid, Metamorphoses 5",
+      "Ovid, Fasti 4"
+     ],
+     "image": {
+      "file": "File:Dante Gabriel Rossetti - Proserpine - Google Art Project.jpg",
+      "caption": "Proserpine holding the pomegranate, Dante Gabriel Rossetti, 1874 (Tate)"
+     }
+    },
+    {
+     "culture": "chinese",
+     "title": "The Torch Dragon's Breath",
+     "teaser": "A dragon's eyes make day and night; his breath makes winter and summer.",
+     "text": "Beyond the northern seas, at the foot of Mount Zhong, lives the god Zhuyin, elsewhere called Zhulong, the Torch Dragon. The Classic of Mountains and Seas describes him in a handful of words: a human face, a serpent's body, red all over, a thousand li long. When he opens his eyes it is day; when he closes them it is night. When he blows out, it is winter; when he breathes out gently, it is summer. He neither drinks nor eats nor breathes, and when he does breathe, it is the wind.\n\nThe seasons here are not a story of loss and return but a physiology. The cycle of warmth and cold is one being's respiration, as regular as sleep and waking, and as far beyond human bargaining.\n\nThe Heavenly Questions of the Chuci ask where the sun does not reach, and how the Torch Dragon lights it. No answer is given.",
+     "names": [
+      "Zhuyin",
+      "Zhulong"
+     ],
+     "sources": [
+      "Shanhaijing (Classic of Mountains and Seas), Haiwai beijing and Dahuang beijing",
+      "Chuci, Tianwen"
+     ]
+    },
+    {
+     "culture": "persian",
+     "people": "Zoroastrian",
+     "title": "Rapithwin Goes Underground",
+     "teaser": "Winter is an attack, and the spirit of noon keeps the roots warm.",
+     "text": "In Zoroastrian teaching, winter is not a natural phase but an assault. The first chapter of the Vendidad tells how Ahura Mazda created Airyana Vaējah, the first and best of lands, and how Angra Mainyu, the Evil Spirit, answered by creating a serpent in its river and a winter made by the demons: ten months of winter there, and two of summer.\n\nZoroastrian practice gave the warm season a guardian. Rapithwin, the spirit of noon and of summer, is honoured through the warm months with prayers at midday. When winter comes, he withdraws beneath the earth, where he keeps the roots of plants and the springs of water warm, so that they do not die. His return is celebrated with the coming of spring, and the noon prayers to him begin again.\n\nThe tradition holds that in the renovated world at the end of time, it will always be noon.",
+     "names": [
+      "Rapithwin",
+      "Ahura Mazda",
+      "Angra Mainyu"
+     ],
+     "sources": [
+      "Vendidad 1",
+      "Mary Boyce, A History of Zoroastrianism, vol. 1 (1975)"
+     ],
+     "caveat": "The Rapithwin observance is described mainly from later Zoroastrian practice, as documented by Mary Boyce."
+    },
+    {
+     "culture": "norse",
+     "title": "Winter's Cold Father",
+     "teaser": "Summer and Winter are two persons of very different families.",
+     "text": "In Vafþrúðnismál, Odin tests a wise giant with questions, and one of them is where winter and summer come from. The answer: Vindsvalr, ‘Wind-cool’, is Winter's father, and Svásuðr, ‘the Pleasant’, is Summer's. Snorri fills in their characters in Gylfaginning. Svásuðr and his whole line are gentle and delightful to live with, so that anything agreeable is named after him. Winter's kin, down from his father Vindsvalr, are grim and cold-hearted.\n\nThe same poem explains the wind: a giant in eagle form, Hræsvelgr, ‘Corpse-swallower’, sits at the end of heaven, and the wind comes from the beating of his wings.\n\nThis is seasonal change as family history rather than drama. No one is abducted and no bargain is struck. Winter and Summer are two persons of different descent, each behaving true to his blood, in a land where the difference between them could hardly be missed.",
+     "names": [
+      "Vindsvalr",
+      "Svásuðr",
+      "Vetr",
+      "Sumarr",
+      "Hræsvelgr"
+     ],
+     "sources": [
+      "Vafþrúðnismál 26–27, 36–37",
+      "Gylfaginning 18–19"
+     ]
+    },
+    {
+     "culture": "north-american",
+     "people": "Ojibwe",
+     "title": "Ojiig Brings the Summer",
+     "teaser": "The Fisher breaks a hole in the sky and lets the warmth down.",
+     "text": "In a story Henry Rowe Schoolcraft printed in 1839 as ‘Ojeeg Annung, or the Summer-Maker’, the earth once knew only winter. A great hunter named Ojiig, the Fisher, lived with his wife and son. The boy wept because his fingers froze and he could catch nothing, and a squirrel told him that his father could bring the summer if he chose.\n\nOjiig agreed. With his animal friends, among them the otter, the beaver, the lynx and the wolverine, he climbed a high mountain until they could touch the sky. The wolverine leapt and broke through, and warm air and caged birds streamed down to earth. The sky people came running, and as Ojiig lingered to keep the opening wide, an arrow struck him in the tail, his one vulnerable spot. Dying, he was set among the stars.\n\nThe Fisher's stars, which others call the Big Dipper, wheel around the pole, and the warmth he stole is shared, part of the year, with the cold.",
+     "names": [
+      "Ojiig (Ojeeg)"
+     ],
+     "sources": [
+      "Henry Rowe Schoolcraft, Algic Researches (1839)"
+     ],
+     "caveat": "Schoolcraft edited and embellished the stories he printed, so details may not match Ojibwe tellings."
+    },
+    {
+     "culture": "polynesian",
+     "people": "Māori",
+     "title": "The Sun's Two Wives",
+     "teaser": "The sun divides his year between the Summer Maid and the Winter Maid.",
+     "text": "In Māori tradition the sun, Tama-nui-te-rā, has two wives, and he divides the year between them. Hine-raumati, the Summer Maid, dwells on the land; Hine-takurua, the Winter Maid, dwells out on the ocean. While the sun stays with Hine-takurua he travels a low path and the days are short and cold. When he returns to Hine-raumati he climbs high across the sky, the land warms, and food plants grow.\n\nThe summer marriage has a child: Tāne-rore, whose dancing is the shimmer of heat above the ground on a hot day, and whom the haka is said to honour.\n\nThe story is not a tragedy. It is domestic, a husband's divided loyalties charted by the solstices, as precise in its way as an astronomer's table.",
+     "names": [
+      "Tama-nui-te-rā",
+      "Hine-raumati",
+      "Hine-takurua",
+      "Tāne-rore"
+     ],
+     "sources": [
+      "Elsdon Best, The Maori Division of Time (1922)"
+     ],
+     "caveat": "Recorded mainly by Elsdon Best from particular tribal experts; details vary among iwi."
+    }
+   ]
+  },
+  {
+   "id": "lord-of-the-dead",
+   "summary": "Nearly every mythology gives the dead a ruler, and the ruler's character says much about how a culture imagined death. Some are kings by lot or by marriage; some were the first to die and so found the road; some are judges, some jailers, some grim hosts. Yama in India and Yima in Iran descend from a shared Indo-Iranian figure, and Buddhism later carried Yama to China and Japan; other resemblances, such as the paired lord and lady of death in Mesoamerica and Mesopotamia, arose independently. Everywhere, the underworld has a government.",
+   "versions": [
+    {
+     "culture": "mesopotamian",
+     "title": "Ereshkigal and Nergal",
+     "teaser": "The queen of the dead takes a husband by threatening to raise the dead.",
+     "text": "Ereshkigal, ‘Lady of the Great Earth’, is queen of the land of no return, where the dead eat dust and clay and are clothed in feathers like birds. She cannot leave it to attend the gods' banquets, so they invite her to send a messenger, and she sends her vizier Namtar. Nergal alone fails to rise for him.\n\nIn the Akkadian poem Nergal and Ereshkigal, he must go down to make amends. Ea warns him to accept nothing below: no chair, no bread, no meat, no beer, no water for his feet, and, when the queen goes to bathe, not to give way to desire. He refuses the chair and the food, but not the queen. They lie together six days, and on the seventh he slips away.\n\nEreshkigal's message to the gods is a threat: send him back to be my husband, or I will raise the dead to eat the living. Nergal returns, seizes her by the hair, and the two rule the dead together.",
+     "names": [
+      "Ereshkigal",
+      "Nergal",
+      "Namtar",
+      "Ea"
+     ],
+     "sources": [
+      "Nergal and Ereshkigal (Amarna and Sultantepe versions)",
+      "Descent of Ishtar to the Netherworld"
+     ]
+    },
+    {
+     "culture": "egyptian",
+     "title": "Osiris on the Throne",
+     "teaser": "The dead king judges every heart against a feather.",
+     "text": "Osiris, murdered and restored, rules the Duat, and every Egyptian hoped to join him. Spell 125 of the Book of the Dead describes the test. The dead person enters the Hall of the Two Truths, where Osiris sits enthroned, wrapped as a mummy, his skin green or black like the fertile earth, holding the crook and flail. Before forty-two assessor gods, the deceased declares innocence of a long list of wrongs: I have not stolen, I have not killed, I have not tampered with the grain measure, I have not made anyone weep.\n\nThen the heart is weighed on a balance against the feather of Maat, truth and right order. Anubis checks the scale and Thoth records the verdict. Beside it crouches Ammit, the Devourer, part crocodile, part lion, part hippopotamus, waiting for any heart that proves heavy.\n\nThe papyri were written in advance, and the vignettes show the verdict going the right way. Egypt's lord of the dead was a judge, but the dead brought their own acquittal.",
+     "names": [
+      "Osiris",
+      "Anubis",
+      "Thoth",
+      "Maat",
+      "Ammit"
+     ],
+     "sources": [
+      "Book of the Dead, Spell 125"
+     ],
+     "image": {
+      "file": "File:BD Hunefer.jpg",
+      "caption": "The weighing of the heart before Osiris, Papyrus of Hunefer, c. 1300 BCE (British Museum)"
+     }
+    },
+    {
+     "culture": "indian",
+     "people": "Vedic and Purāṇic",
+     "title": "Yama, King of the Fathers",
+     "teaser": "From feasting king of the fathers to buffalo-riding lord with a noose.",
+     "text": "In the Rigveda, Yama is a king, and his realm is the best place the dead can hope for. The funeral hymn 10.14 sends the departed by the ancient paths to the highest heaven, to see the two kings, Yama and Varuṇa, rejoicing in the offerings, and to join the fathers there, leaving all blemish behind. Soma is pressed and butter offered to Yama himself, and another hymn (10.135) pictures him drinking with the gods beneath a fair-leaved tree. How he came to rule there, as the first to die, is told under 'How Death Entered the World'.\n\nThe Yama of the epics and Purāṇas is sterner. He is Dharmarāja, king of justice, ruling from his city in the south. Dark and riding a buffalo, he carries the staff of punishment and the noose with which he draws the soul from the dying, and his messengers fetch those whose time has come. Beside him the scribe Citragupta keeps the record of every deed.\n\nThe host of the fathers has become a magistrate.",
+     "names": [
+      "Yama",
+      "Varuṇa",
+      "Dharmarāja",
+      "Citragupta"
+     ],
+     "sources": [
+      "Rigveda 10.14",
+      "Rigveda 10.135",
+      "Mahābhārata 3 (the Sāvitrī episode)",
+      "Garuḍa Purāṇa, Pretakhaṇḍa"
+     ],
+     "caveat": "The buffalo, the noose and the scribe Citragupta belong to post-Vedic sources; the Rigvedic Yama is a host rather than a judge.",
+     "image": {
+      "file": "File:Yama on buffalo.jpg",
+      "caption": "Yama, four-armed and blue-skinned, seated on his buffalo, Indian painting"
+     }
+    },
+    {
+     "culture": "greek",
+     "title": "Hades and the Lots",
+     "teaser": "Three brothers draw lots, and the underworld falls to Hades.",
+     "text": "In the Iliad, Poseidon recalls how the three sons of Cronus divided the world by lot. Zeus drew the broad sky, Poseidon the grey sea, and Hades the murky darkness below; the earth and high Olympus were left common to all. Hades, whose name the Greeks took to mean ‘the Unseen’, rules his share with his queen Persephone, seldom leaves it, and received very few temples.\n\nHis kingdom is grim more than cruel. When Odysseus summons the dead at the edge of the world, they crowd to drink the blood of his sacrifice, witless shades until they taste it. Achilles, greatest of the Greeks, tells him not to make light of death: he would rather be a hired labourer for a poor man on earth than king over all the perished dead.\n\nTo soften the name, the Greeks often called him Plouton, ‘the Rich’, lord of the wealth that comes up out of the ground.",
+     "names": [
+      "Hades",
+      "Persephone",
+      "Zeus",
+      "Poseidon",
+      "Achilles"
+     ],
+     "sources": [
+      "Iliad 15.187–193",
+      "Odyssey 11"
+     ]
+    },
+    {
+     "culture": "japanese",
+     "title": "Izanami, Great Deity of Yomi",
+     "teaser": "The mother of the islands stays below and rules the dead.",
+     "text": "When Izanami dies giving birth to fire, she goes down to Yomi, the land beneath, and there she stays. Her husband's failed attempt to bring her back is told under 'Bringing Back the Beloved Dead'; what matters here is what she becomes.\n\nShe has already eaten at the hearth of Yomi, and food of the dead binds the one who eats it. Her body is rotting, and eight thunder deities have been born from it. When Izanagi seals the slope between the worlds with a boulder, she makes the first great pronouncement of mortality: every day she will strangle a thousand people of his land. He answers that every day fifteen hundred will be born, and so the living stay ahead of the dead.\n\nFrom then on she is called Yomotsu-ōkami, Great Deity of Yomi, and also Chishiki-no-ōkami, the deity who caught up with him. The boundary slope, the Kojiki adds, is Ifuya slope in Izumo.",
+     "names": [
+      "Izanami",
+      "Izanagi",
+      "Yomotsu-ōkami",
+      "Yomi"
+     ],
+     "sources": [
+      "Kojiki, Book 1"
+     ]
+    },
+    {
+     "culture": "chinese",
+     "title": "King Yama and the Ten Courts",
+     "teaser": "The Chinese underworld is a bureaucracy, with ledgers and a mirror.",
+     "text": "Before Buddhism, the Chinese dead were imagined going to the Yellow Springs beneath the earth, or to Mount Tai in the east, whose god kept registers of the living and the dead. Buddhism brought a new ruler: Yama, the Indian lord of death, who became Yanluo Wang.\n\nBy the late Tang, the Scripture on the Ten Kings laid out an entire bureaucracy of judgement. The dead pass before ten kings in turn, at each of the first seven weeks after death, then at the hundredth day, the first year and the third year, each court staffed with clerks, ledgers and demon runners. Yama is the fifth king, and in his court the dead see their deeds reflected in a mirror and cannot lie. Families could lighten the sentence by sponsoring offerings and copying scripture at each stage.\n\nIn temple paintings the underworld kings sit in the robes of Chinese magistrates, behind desks. The Chinese afterlife, fittingly, has paperwork.",
+     "names": [
+      "Yanluo Wang",
+      "Ten Kings"
+     ],
+     "sources": [
+      "Scripture on the Ten Kings (Shiwang jing)"
+     ]
+    },
+    {
+     "culture": "norse",
+     "title": "Hel's Hall",
+     "teaser": "Her plate is Hunger, her knife Famine, her bed Sick-bed.",
+     "text": "When the gods learned what Loki's three children by the giantess Angrboða would become, Odin had them brought to him. The serpent he threw into the sea, the wolf the gods bound, and Hel he cast down into Niflheimr and gave her authority over nine worlds, to receive all who die of sickness or old age.\n\nSnorri describes her household with bleak wit. Her hall is Éljúðnir, ‘Sleet-damp’; her plate is Hunger, her knife Famine; her servants are Ganglati and Ganglöt, both meaning ‘slow walker’; her threshold is Falling to Peril; her bed is Sick-bed and its hangings Gleaming Disaster. She herself is half black-blue and half flesh-coloured, easily recognised, and rather grim and fierce in her looks.\n\nIn the poems hel is as much a place as a person, the common home of the dead, reached by a road that runs down and north, over the echoing bridge Gjallarbrú.",
+     "names": [
+      "Hel",
+      "Loki",
+      "Angrboða",
+      "Odin"
+     ],
+     "sources": [
+      "Gylfaginning 34, 49"
+     ],
+     "image": {
+      "file": "File:Hel (1889) by Johannes Gehrts.jpg",
+      "caption": "Hel on a cliff ledge with a hound, Johannes Gehrts, 1889"
+     }
+    },
+    {
+     "culture": "maya",
+     "people": "K'iche'",
+     "title": "The Lords of Xibalba",
+     "teaser": "A whole court of death gods, vain, cruel and easily fooled.",
+     "text": "Xibalba, the ‘Place of Fear’ in the Popol Vuh, has not one lord of death but a council. At its head sit One Death and Seven Death, and beneath them paired lords with telling names: Pus Demon and Jaundice Demon, Bone Scepter and Skull Scepter, Bloody Teeth and Bloody Claws, Wing and Packstrap, who make people swell, waste, bleed, or collapse on the road.\n\nThe lords are vain and easily offended, and the noise of ballplayers above their heads is reason enough to summon them below. They test their visitors with tricks: wooden manikins seated among them to be greeted by mistake, a bench that is really a burning stone, and houses of darkness, cold, jaguars, bats and blades.\n\nThey are also gullible. The Hero Twins, disguised as wandering performers, dazzle them by sacrificing and reviving each other. One Death and Seven Death beg to be sacrificed and revived in turn. The Twins oblige with the first half only, and Xibalba's power is broken.",
+     "names": [
+      "One Death (Hun Came)",
+      "Seven Death (Vucub Came)",
+      "Hunahpu",
+      "Xbalanque"
+     ],
+     "sources": [
+      "Popol Vuh"
+     ]
+    },
+    {
+     "culture": "aztec",
+     "title": "Mictlantecuhtli and the Bones",
+     "teaser": "The lord of the dead guards the bones from which humans are remade.",
+     "text": "Mictlantecuhtli, ‘Lord of Mictlan’, rules the deepest level of the underworld with his consort Mictecacihuatl. In the painted books he is a skeleton spattered with blood, sometimes with his liver hanging beneath his ribs.\n\nThe Legend of the Suns tells how he was outwitted. After the previous world is destroyed, Quetzalcoatl goes down to Mictlan to fetch the precious bones of the earlier people, so that the gods can make humans again. Mictlantecuhtli agrees on a condition: Quetzalcoatl must blow a conch trumpet and circle his realm four times. The conch has no holes, so Quetzalcoatl calls worms to bore them and bees to fly inside and make it sound. The lord then has a pit dug; startled by quail, Quetzalcoatl falls, and the bones scatter and break, and the quail peck at them. He gathers them anyway and escapes.\n\nThe goddess Quilaztli grinds the bones, the gods bleed on them, and humankind is made from broken bones and divine blood.",
+     "names": [
+      "Mictlantecuhtli",
+      "Mictecacihuatl",
+      "Quetzalcoatl",
+      "Quilaztli"
+     ],
+     "sources": [
+      "Legend of the Suns (Leyenda de los Soles, 1558)",
+      "Codex Borgia"
+     ],
+     "image": {
+      "file": "File:Codex Borgia page 56.jpg",
+      "caption": "Page 56 of the Codex Borgia, a pre-Columbian ritual book from central Mexico"
+     }
+    },
+    {
+     "culture": "finnic",
+     "people": "Finnish and Karelian",
+     "title": "Tuoni's River",
+     "teaser": "A guest in Tuonela is offered frog beer and an iron net.",
+     "text": "Tuonela, the Finnic land of the dead, lies across a black river, and its rulers are Tuoni and his wife Tuonetar. In the Kalevala, Väinämöinen goes there alive to look for the three words he lacks. Tuoni's daughter, a small, stunted girl washing clothes at the river, asks why he has come before his time. He lies about how he died, and she sees through each lie, until he tells the truth and she ferries him over.\n\nTuonetar greets him with a tankard of beer in which frogs and worms are writhing. He will not drink. He is lulled to sleep, and Tuoni's son, an old man with iron fingers, weaves a net of iron and copper across the river so that the guest can never leave.\n\nVäinämöinen escapes by turning himself into an iron serpent and slipping through the mesh. Back home, he warns his people never to go to Tuonela before their time: many have gone there, and few have come back.",
+     "names": [
+      "Tuoni",
+      "Tuonetar",
+      "Väinämöinen"
+     ],
+     "sources": [
+      "Kalevala, rune 16"
+     ],
+     "caveat": "The Kalevala is Elias Lönnrot's nineteenth-century compilation from folk songs.",
+     "image": {
+      "file": "File:Gallen-Kallela - Tuonelan joella.JPG",
+      "caption": "By the River of Tuonela, study for the Jusélius Mausoleum frescoes, Akseli Gallen-Kallela, c. 1903"
+     }
+    }
+   ]
+  },
+  {
+   "id": "guide-of-souls",
+   "summary": "The journey from death to the other world is usually too dangerous to make alone, so traditions provide a guide: a god who knows the roads, a ferryman at the river, a dog, a maiden, a band of warrior women, a gaunt driver with a cart. The Greek word psychopompos, ‘leader of souls’, names the role. Some guides may share an inheritance (Vedic Pūṣan has been compared with Greek Pan, though the link is uncertain), but most reflect an almost universal image of death as a journey that needs a pathfinder, a vehicle or a crossing.",
+   "versions": [
+    {
+     "culture": "mesopotamian",
+     "title": "Ferrymen of the Dead",
+     "teaser": "A boatman across the Waters of Death, and one named ‘Take away quickly’.",
+     "text": "Mesopotamian sources know two ferrymen. In the Epic of Gilgamesh, Urshanabi, boatman of Utnapishtim, carries Gilgamesh across the Waters of Death, where a single drop on the skin would kill. Gilgamesh has smashed the ‘Stone Ones’ who normally help Urshanabi cross, so he must cut hundreds of punting poles and throw each one away as soon as it is wet; when they run out, he strips off his garment and holds it up as a sail.\n\nFor the ordinary dead, the way lay across the underworld river Hubur. In a Neo-Assyrian text known as the Underworld Vision of an Assyrian Prince, a prince named Kummaya dreams of Ereshkigal's realm and sees its monstrous officials. Among them is Humut-tabal, ferryman of the netherworld, with the head of the Anzu bird and four hands and feet. His name is an order: ‘Take away quickly’.",
+     "names": [
+      "Urshanabi",
+      "Gilgamesh",
+      "Humut-tabal",
+      "Kummaya"
+     ],
+     "sources": [
+      "Epic of Gilgamesh, Tablet X",
+      "Underworld Vision of an Assyrian Prince"
+     ]
+    },
+    {
+     "culture": "egyptian",
+     "title": "Anubis Takes the Hand",
+     "teaser": "The jackal god embalms the dead, then leads them to judgement.",
+     "text": "Anubis, the jackal-headed god, embalmed Osiris, and so became the patron of every mummy. In tomb paintings and Book of the Dead papyri he appears at each stage of the passage. He leans over the bier to tend the body; he holds the mummy upright at the tomb door for the Opening of the Mouth; and, most memorably, he takes the dead person by the hand and leads him into the hall of judgement, then kneels at the great balance to see that the heart and the feather of Maat are weighed truly.\n\nOne of his titles, ‘He who is upon his mountain’, sets him on the cliffs above the desert cemeteries, where real jackals prowled; Egyptians seem to have made the scavenger of graves into their guardian. A second canine god, Wepwawet, ‘Opener of the Ways’, went ahead of the king in procession and of the dead on the roads of the west.",
+     "names": [
+      "Anubis",
+      "Wepwawet",
+      "Osiris",
+      "Maat"
+     ],
+     "sources": [
+      "Book of the Dead, Spell 125 (vignettes)",
+      "Papyrus of Hunefer"
+     ],
+     "image": {
+      "file": "File:Opening of the mouth ceremony (cropped).jpg",
+      "caption": "Anubis supports the mummy of Hunefer at the Opening of the Mouth, Papyrus of Hunefer, c. 1300 BCE (British Museum)"
+     }
+    },
+    {
+     "culture": "indian",
+     "people": "Vedic",
+     "title": "Pūṣan Knows the Roads",
+     "teaser": "The toothless herdsman god who never loses a cow leads the dead.",
+     "text": "Pūṣan is a modest Vedic god: a herdsman who eats gruel because he has no teeth, drives a car drawn by goats, and carries a goad. His particular gift is finding: lost cattle, lost ways, the right road for a traveller. He knows all the paths.\n\nThat makes him a guide for the dead. The funeral hymn Rigveda 10.17 asks him to lead the departed onward: may Pūṣan, the knowing herdsman of the world, whose cattle are never lost, conduct you from here and hand you over to the fathers. Pūṣan knows all these regions, the hymn continues, and will lead us by the least perilous way, going first, watchful and wise.\n\nIn the horse sacrifice (Rigveda 1.162) a goat, Pūṣan's share, is led before the horse to announce it to the gods. Some scholars have linked Pūṣan's name with that of Greek Pan, another goatish god of herds and paths, but the connection remains uncertain.",
+     "names": [
+      "Pūṣan"
+     ],
+     "sources": [
+      "Rigveda 10.17",
+      "Rigveda 1.162"
+     ]
+    },
+    {
+     "culture": "greek",
+     "title": "Hermes and Charon",
+     "teaser": "Hermes leads the gibbering dead; Charon poles them across.",
+     "text": "The last book of the Odyssey opens with a grim procession. Hermes of Cyllene, holding his golden wand, calls out the souls of Penelope's slaughtered suitors, and they follow him gibbering, like bats squeaking in the depths of a cave when one drops from the cluster. He leads them down the dank ways, past the streams of Ocean and the White Rock, past the gates of the Sun and the land of dreams, to the meadow of asphodel where the dead dwell. Hence his title psychopompos, ‘leader of souls’.\n\nAt the edge of the underworld waits Charon, a surly old boatman who is absent from Homer but familiar by the fifth century BCE, poling the dead across the marsh. On Athenian white-ground lekythoi, oil flasks placed with the dead, Hermes delivers a shade to Charon's boat. Some Greeks put a coin, an obol, in the corpse's mouth to pay the fare.",
+     "names": [
+      "Hermes",
+      "Charon"
+     ],
+     "sources": [
+      "Odyssey 24.1–14",
+      "Aristophanes, Frogs"
+     ],
+     "image": {
+      "file": "File:Sabouroff Painter - ARV 846 193 - Charon with Hermes and woman - Athens NAM 1926 - 01.jpg",
+      "caption": "Hermes leads a woman to Charon's boat, white-ground lekythos by the Sabouroff Painter, mid-5th century BCE (National Archaeological Museum, Athens)"
+     }
+    },
+    {
+     "culture": "persian",
+     "people": "Zoroastrian",
+     "title": "The Maiden at the Bridge",
+     "teaser": "At the Chinvat Bridge, each soul meets the self it has made.",
+     "text": "In Zoroastrian teaching the soul lingers by the body for three nights after death. At the dawn after the third night it comes to the Chinvat Bridge, the ‘Bridge of the Separator’, over which the way leads to paradise.\n\nThere it meets its own daēnā, its religious self, in bodily form. To a righteous soul, the Avestan Hadōxt Nask says, she comes on a fragrant wind from the south, a beautiful maiden of fifteen, radiant, white-armed and tall. Who are you? the soul asks. She answers that she is his own daēnā: she was lovely, and he made her lovelier by his good thoughts, good words and good deeds. She leads him across, and the bridge is broad beneath his feet.\n\nThe wicked soul meets a foul wind from the north and, in the Pahlavi texts, a hideous hag; for it the bridge narrows to a blade's edge, and it falls into the House of the Lie. The guide is the self one has made.",
+     "names": [
+      "daēnā",
+      "Chinvat Bridge"
+     ],
+     "sources": [
+      "Hadōxt Nask 2",
+      "Ardā Wirāz Nāmag"
+     ]
+    },
+    {
+     "culture": "maya",
+     "people": "Classic Maya",
+     "title": "The Paddler Gods' Canoe",
+     "teaser": "Two old gods paddle the maize god into the watery underworld.",
+     "text": "Among the offerings in Burial 116 at Tikal, the tomb of the eighth-century king Jasaw Chan K'awiil, were bones incised with fine drawings. One shows a canoe gliding on the water, steered by two old gods, the Paddlers, one at the prow and one at the stern. Between them sit the young maize god and a cargo of animals, an iguana, a monkey, a parrot, a dog, some raising a hand to the face in what looks like lament. On a companion bone the canoe is shown sinking, prow first, into the water.\n\nMayanists usually read the scene as the passage of the dead king, in the guise of the maize god, into the watery underworld, from which he would rise renewed. The Paddlers themselves, the Jaguar Paddler and the Stingray Paddler, appear in inscriptions as gods present at the creation of the present world.",
+     "names": [
+      "Paddler Gods",
+      "Maize God",
+      "Jasaw Chan K'awiil"
+     ],
+     "sources": [
+      "Incised bones from Tikal Burial 116 (8th c.)",
+      "Quiriguá Stela C"
+     ],
+     "caveat": "The reading of the canoe as a journey of the dead interprets imagery; no surviving Maya text narrates it."
+    },
+    {
+     "culture": "norse",
+     "title": "The Choosers of the Slain",
+     "teaser": "Valkyries ride out to choose the dead and bring them to Valhöll.",
+     "text": "Valkyries, the ‘choosers of the slain’, ride over battlefields to decide who will fall, and they bring the chosen dead to Odin's hall, Valhöll. In the tenth-century poem Eiríksmál, composed for the dead king Eiríkr Blood-axe, Odin wakes before dawn, orders the benches readied and the valkyries to bring wine, because a king is coming. In Hákonarmál, Odin sends two valkyries to choose King Hákon the Good; one of them speaks to him on the battlefield, and they ride ahead to announce him.\n\nSnorri adds that in Valhöll they serve drink to the einherjar, the warrior dead, and Grímnismál names several, among them Hildr, ‘Battle’, and Skögul.\n\nNot every guide rode a horse. At the funeral of a Rus chieftain on the Volga in 922, the Arab envoy Ibn Faḍlān saw an old woman called the ‘Angel of Death’ lead a slave girl to die beside her master.",
+     "names": [
+      "valkyries",
+      "Odin",
+      "Hildr",
+      "Skögul"
+     ],
+     "sources": [
+      "Eiríksmál",
+      "Hákonarmál",
+      "Grímnismál 36",
+      "Gylfaginning 36",
+      "Ibn Faḍlān, Risāla"
+     ],
+     "caveat": "Ibn Faḍlān's Rus were Scandinavians in the east, but how far their rites reflect belief elsewhere in the Norse world is debated.",
+     "image": {
+      "file": "File:Walkyrien by Emil Doepler.jpg",
+      "caption": "Valkyries riding through the clouds with a fallen warrior, Emil Doepler, c. 1905"
+     }
+    },
+    {
+     "culture": "aztec",
+     "people": "Mexica / Nahua",
+     "title": "The Road to Mictlan",
+     "teaser": "Papers for every peril, and a dog for the last river.",
+     "text": "The ordinary dead, those who had not died in battle, in childbirth or by water, set out on a four-year road to Mictlan, as Sahagún's Nahua informants described it. The mourners equipped them for it. Cut papers were laid with the body, each meant to carry the dead past one danger: the two mountains that clash together, the road guarded by a serpent, the green lizard, the eight deserts and eight hills, and the wind of obsidian blades. The dead person's clothes and goods were burned so the cold wind would not cut so deep.\n\nThe companion for the road was a dog, killed and cremated with its master. At the last river it swims across carrying him, as told under 'The Hound at Death's Gate'.\n\nAt the end, the dead come before Mictlantecuhtli and give him the papers, incense and cloth they carried. After four years they reach the ninth place of the dead, and there they end.",
+     "names": [
+      "Mictlan",
+      "Mictlantecuhtli"
+     ],
+     "sources": [
+      "Florentine Codex, Book 3 (appendix)"
+     ],
+     "caveat": "Recorded in the sixteenth century, after the Conquest, by Sahagún and his Nahua collaborators."
+    },
+    {
+     "culture": "celtic",
+     "people": "Breton",
+     "title": "The Ankou",
+     "teaser": "Death's cart creaks through Brittany at night, with a backward scythe.",
+     "text": "In Lower Brittany the Ankou is death's workman. In each parish, the last person to die in the year becomes its Ankou for the year that follows. People who heard the creak of his cart at night, the karrigell an Ankou, knew that a death was near.\n\nAnatole Le Braz, who collected Breton death legends in the 1890s, describes him as a tall, gaunt figure, sometimes a skeleton, in a long coat and a broad-brimmed hat, with long white hair, carrying a scythe whose blade is fixed facing outward, so that he swings it forward instead of drawing it toward him. Two companions walk with the cart, one leading the horse, one opening the gates of fields and houses. Where he stops, someone dies.\n\nThe Ankou belongs to Catholic Brittany, and churches carve him on ossuaries and fonts. Whether any pre-Christian figure lies behind him, no one can say.",
+     "names": [
+      "Ankou"
+     ],
+     "sources": [
+      "Anatole Le Braz, La Légende de la mort chez les Bretons armoricains (1893)"
+     ],
+     "caveat": "A folk figure of the Christian era; claims of a pre-Christian Celtic origin are speculative.",
+     "image": {
+      "file": "File:Ankou-BRASPARTS.jpg",
+      "caption": "The Ankou carved on the ossuary gable at Brasparts, Brittany"
+     }
+    }
+   ]
+  }
+ ]
+}

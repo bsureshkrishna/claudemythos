@@ -1,0 +1,1130 @@
+{
+  "concepts": [
+    {
+      "id": "primordial-void",
+      "summary": "Before anything is made, something is already there: dark water, a yawning gap, a silence, a formless lump. Very few ancient cosmogonies begin from absolute nothing; creation out of nothing is largely a later theological refinement. What recurs is the grammar of absence, a list of things that did not yet exist, which appears from Babylon to Iceland to the Guatemalan highlands. Some of these openings are related (the Old High German Wessobrunn Prayer and the Norse Völuspá share a formula), but negation is simply the natural way to describe a world not yet made, so independent invention explains most of the resemblance.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "The Waters of Nun",
+          "teaser": "A dark, inert ocean that never went away and still surrounds the world.",
+          "text": "Before there was sky, earth, or even death, there was Nun: a limitless, lightless, motionless water. Egyptian texts call it inert rather than evil. The creator Atum is imagined floating within it, alone and weary, until he rises onto the first mound of land and begins to make the world.\n\nAt Hermopolis, priests broke the primeval state into four pairs of male and female powers, the Ogdoad: Nun and Naunet (water), Heh and Hauhet (endlessness), Kek and Kauket (darkness), and Amun and Amaunet (hiddenness). The males were shown with frogs' heads, the females with snakes'.\n\nNun was never abolished. The Egyptians felt it in the groundwater and the Nile flood, and the sun sails out of it every dawn. In Book of the Dead 175, Atum warns that one day he will return everything to the waters, leaving only himself and Osiris. The void is not the past; it is the ocean the world floats in.",
+          "names": [
+            "Nun",
+            "Naunet",
+            "Atum",
+            "Ogdoad",
+            "Amun"
+          ],
+          "sources": [
+            "Pyramid Texts",
+            "Coffin Texts",
+            "Book of the Dead, ch. 175"
+          ],
+          "image": {
+            "file": "File:Nun Raises the Sun.jpg",
+            "caption": "Nun lifts the solar barque out of the primeval waters, Egyptian funerary papyrus vignette"
+          }
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "The Hymn of Not-Yet-Being",
+          "teaser": "Neither being nor non-being, and perhaps not even God knows how it began.",
+          "text": "The Nāsadīya hymn of the Rigveda begins by refusing both options: then there was neither non-existence nor existence, neither the realm of air nor the sky beyond. There was no death and no immortality, no sign dividing night from day. Darkness was hidden by darkness, and all this was an undistinguished water.\n\nIn that stillness, That One (tad ekam) breathed without wind, by its own impulse. Then desire arose in it, the first seed of mind, and the sages, searching their hearts, found the bond between being and non-being. A cord was stretched across, with powers above and impulses below.\n\nThen the poet turns on his own account. Who really knows? The gods came later than creation, so who can say where it came from? The hymn's final line has kept philosophers busy for three thousand years: the one who oversees it in highest heaven surely knows, or perhaps he does not know.",
+          "names": [
+            "Tad Ekam (That One)",
+            "Kāma"
+          ],
+          "sources": [
+            "Rigveda 10.129 (Nāsadīya Sūkta)"
+          ]
+        },
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "When on High",
+          "teaser": "Nothing had a name yet, and only two waters mingled in the dark.",
+          "text": "The Babylonian creation epic takes its title from its first words, Enūma eliš, 'when on high'. When the heavens above had not been named, and the firm ground below had not been called by name, there was only Apsu, the sweet water, the begetter, and Tiamat, the salt sea, who bore them all. Their waters mingled as a single body.\n\nNo reed hut had been matted, no marshland had appeared. No gods had been brought into being, none had been called by name, and no destinies had been decreed. Then, within the mingled waters, the first gods were formed: Lahmu and Lahamu, and after them Anshar and Kishar.\n\nThe telling detail is the stress on naming. In Mesopotamian thought a thing without a name had no place and no fate. The void, here, is less an emptiness than an unfinished list, waiting for someone to call the world into order.",
+          "names": [
+            "Apsu",
+            "Tiamat",
+            "Lahmu",
+            "Lahamu",
+            "Anshar",
+            "Kishar"
+          ],
+          "sources": [
+            "Enūma Eliš, Tablet I"
+          ],
+          "image": {
+            "file": "File:Enuma Elish K.3473.jpg",
+            "caption": "Fragment of an Enūma Eliš tablet from the library of Ashurbanipal at Nineveh, 7th century BCE, British Museum"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "First Came Chaos",
+          "teaser": "Hesiod's Chaos is not a mess but a gaping gap.",
+          "text": "Hesiod, after invoking the Muses, answers the question of what came first: 'First of all Chaos came into being.' Then came broad-breasted Gaia, the Earth, a seat for all things; misty Tartarus in the depths; and Eros, the loveliest of the gods, who loosens limbs. From Chaos came Erebus and black Night, and from Night, mating with Erebus, came Aether and Day.\n\nThe word matters. Greek chaos comes from a root meaning to gape or yawn: it is an opening, a gulf, a space between, not a jumble of matter. Hesiod says nothing about what Chaos was made of, only that it came to be. The idea of chaos as confused raw stuff belongs to later writers, above all Ovid, who opens the Metamorphoses with a 'rough and unordered mass'.\n\nSo the most famous word for disorder began as a description of an empty space, and the disorder crept in later.",
+          "names": [
+            "Chaos",
+            "Gaia",
+            "Tartarus",
+            "Eros",
+            "Erebus",
+            "Nyx"
+          ],
+          "sources": [
+            "Hesiod, Theogony 116–125",
+            "Ovid, Metamorphoses 1.5–20"
+          ],
+          "image": {
+            "file": "File:Hesiod, Theogony, Venice, Gr. 464.jpg",
+            "caption": "Page of Hesiod's Theogony (lines 566–586) in a medieval manuscript, Venice, Biblioteca Marciana, Gr. 464"
+          }
+        },
+        {
+          "culture": "levantine",
+          "people": "Hebrew Bible",
+          "title": "Formless and Void",
+          "teaser": "Darkness on the face of the deep, and a wind over the waters.",
+          "text": "The first creation account of Genesis does not start from nothing. When God began to create heaven and earth, the earth was tōhû wā-bōhû, 'formless and void', a rhyming pair that later translators have struggled to render. Darkness lay on the face of the deep, tehôm, and the rûaḥ of God, a wind or a spirit, swept over the waters.\n\nThe Hebrew word tehôm is linguistically related to the name of Babylonian Tiamat. Scholars no longer read this as simple borrowing, but it places the Bible's opening in the same world of thought, where the raw material of creation is dark water. Elsewhere, poems in Psalms and Job remember God's victory over sea monsters such as Leviathan and Rahab.\n\nThe explicit doctrine that God made the world out of nothing developed later, in Hellenistic Jewish and early Christian writing. Genesis itself begins in the dark, with wet feet.",
+          "names": [
+            "Elohim",
+            "Tehom",
+            "Ruach"
+          ],
+          "sources": [
+            "Genesis 1:1–2",
+            "Psalm 74:12–17",
+            "Job 26:12–13"
+          ],
+          "image": {
+            "file": "File:William de Brailes - First Two Days of Creation (Genesis 1 - 1-8) - Walters W1061R - Full Page.jpg",
+            "caption": "The first two days of creation, miniature by William de Brailes, c. 1250, Walters Art Museum"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "The Death of Hundun",
+          "teaser": "The faceless emperor of the center, killed by kindness in seven days.",
+          "text": "The Zhuangzi tells a parable about the primal, undivided state. The emperor of the South Sea was Shu, the emperor of the North Sea was Hu, and the emperor of the Center was Hundun, 'Chaos'. Shu and Hu often met in Hundun's territory, and he treated them very generously.\n\nThey wished to repay his kindness. 'All men have seven openings,' they said, 'for seeing, hearing, eating and breathing. Hundun alone has none. Let us try boring some for him.' Each day they bored one hole. On the seventh day, Hundun died.\n\nThe names are a pun: shu and hu both mean something like 'sudden' or 'quick', time rushing in on timeless wholeness. The Huainanzi describes the same state more soberly, as a formless, shapeless time before heaven and earth took shape. The Zhuangzi's point is sharper. Giving Chaos a face is the same as killing it.",
+          "names": [
+            "Hundun",
+            "Shu",
+            "Hu"
+          ],
+          "sources": [
+            "Zhuangzi, ch. 7",
+            "Huainanzi, ch. 3"
+          ],
+          "caveat": "The Zhuangzi story is a Daoist philosophical parable rather than a cosmogony told in cult, though Hundun became a standard name for the primordial state."
+        },
+        {
+          "culture": "norse",
+          "title": "The Yawning Gap",
+          "teaser": "No sand, no sea, no grass: only Ginnungagap between fire and ice.",
+          "text": "The seeress of Völuspá remembers the earliest age, when Ymir lived: there was no sand nor sea nor cool waves, no earth below nor heaven above. There was only Ginnungagap, the yawning gap, and grass nowhere.\n\nSnorri Sturluson, writing in Iceland around 1220, fills in the geography. To the north lay Niflheim, cold and misty, where the spring Hvergelmir fed the icy rivers called Élivágar. To the south lay Muspell, bright and burning. The rivers froze as they flowed into the gap, and layers of rime built up on its northern side, while sparks and warm winds blew from the south. Where frost met heat, the melting drops quickened into life, and took the form of the giant Ymir.\n\nThe Old High German Wessobrunn Prayer uses almost the same words: no earth nor heaven above, nor tree nor mountain. The formula for 'before' seems to be older than either poem.",
+          "names": [
+            "Ginnungagap",
+            "Niflheim",
+            "Muspell",
+            "Ymir"
+          ],
+          "sources": [
+            "Völuspá 3",
+            "Gylfaginning 4–5",
+            "Wessobrunn Prayer"
+          ],
+          "caveat": "Snorri's fire-and-ice scheme is a 13th-century Christian scholar's systematisation of older poems, and some of its detail may be his own."
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "All Is Still",
+          "teaser": "Only sky and a pooled sea, rippling and murmuring, before the first word.",
+          "text": "The Popol Vuh, the K'iche' Maya book written down in the Latin alphabet in the 1550s, opens with a picture of stillness. All is suspended, all calm, in silence; all motionless, hushed, and empty is the expanse of the sky.\n\nThere is not yet one person, one animal, bird, fish, crab, tree, stone, hollow, canyon, meadow, or forest. Only the sky exists; the face of the earth is not yet clear. Only the sea lies pooled beneath all the sky, and nothing is joined together, nothing makes a sound, nothing stirs.\n\nYet the void is not empty of gods. In the water, glittering, wrapped in quetzal feathers and blue-green, lie the Maker and Modeler, Tepew and Q'ukumatz, the Sovereign Plumed Serpent. In the sky is Heart of Sky, also called Huracan. The emptiness is simply the moment before they begin to talk.",
+          "names": [
+            "Tepew",
+            "Q'ukumatz",
+            "Heart of Sky",
+            "Huracan"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ],
+          "image": {
+            "file": "File:Empiezan las historias(crop).jpg",
+            "caption": "Title page of Francisco Ximénez's manuscript copy of the Popol Vuh, c. 1701, Newberry Library"
+          }
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "Te Kore and Te Pō",
+          "teaser": "From the Nothing, the Night; from the Night, at last, the world of light.",
+          "text": "Māori genealogical chants trace the world back through stages before any god appears. First comes Te Kore, the Nothing or the Void, often in several phases: the nothing unpossessed, the nothing without binding. Then comes Te Pō, the Night, again in many stages: the great night, the long night, the night of feeling, the night of seeking.\n\nOne chant recorded by the missionary Richard Taylor runs the other way, from inside a mind: from the conception came the increase, from the increase the thought, from the thought the remembrance, from the remembrance the consciousness, and from consciousness the desire. Only after this long unfolding comes Te Ao Mārama, the world of light, and the embrace of Rangi, the Sky, and Papa, the Earth.\n\nGenealogy is the form of the idea. Even the void has ancestors and descendants, and every Māori whakapapa, recited properly, begins in the dark.",
+          "names": [
+            "Te Kore",
+            "Te Pō",
+            "Te Ao Mārama",
+            "Rangi",
+            "Papa"
+          ],
+          "sources": [
+            "Māori whakapapa chants",
+            "Richard Taylor, Te Ika a Maui (1855)"
+          ],
+          "caveat": "These sequences were recorded from different tohunga in the 19th century and vary by iwi; the most abstract versions may reflect individual elaboration."
+        }
+      ]
+    },
+    {
+      "id": "cosmic-egg",
+      "summary": "The world begins as an egg: a closed shell holding everything in potential, which cracks to release the sun, a god, or the sky and earth themselves. The image appears in Egypt, Vedic India, Orphic Greece, China, Japan, Finland, and Tahiti. Some links are clear borrowings, as when Japan's Nihon Shoki adapts Chinese sources, and scholars have long compared the Finnish and Indian eggs. But an egg is the most obvious natural model of life hidden inside a sealed container, so most of these versions are probably independent inventions of the same good idea.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "The Egg of the Great Cackler",
+          "teaser": "A goose's cry broke the silence, and the sun hatched on the first mound.",
+          "text": "At Hermopolis, one account of the first moment centered on an egg. It lay on the primeval mound that rose out of the waters, the Island of Flame, and from it came the sun, the bird of light that would rule the world.\n\nWho laid it? One answer was the Great Cackler, Gengen-Wer, a celestial goose whose honk was the first sound ever heard in the silent dark. Some texts make Amun the goose; others say the egg was formed by the eight gods of the Ogdoad. The dead hoped to share its power, and a Book of the Dead spell has the speaker declare: 'I am that egg which is in the Great Cackler.'\n\nThe tradition had a physical souvenir. According to later sources, pieces of the shell were displayed in the temple of Hermopolis, the most precious relic a creation story could leave behind.",
+          "names": [
+            "Gengen-Wer (Great Cackler)",
+            "Ogdoad",
+            "Amun",
+            "Ra"
+          ],
+          "sources": [
+            "Coffin Texts",
+            "Book of the Dead, ch. 54"
+          ],
+          "caveat": "The egg is only one of several Hermopolitan images of the first sunrise (others are the lotus and the mound), and the texts do not form one fixed narrative."
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "The Silver and Golden Halves",
+          "teaser": "The egg lay for a year, then split into earth and sky.",
+          "text": "The Chāndogya Upaniṣad tells it plainly. In the beginning this world was non-existent. It became existent; it grew; it turned into an egg. The egg lay for a year, and then it split open. Of the two halves of the shell, one was silver and one was gold. The silver became this earth; the gold became the sky.\n\nEverything inside found a place. The thick membrane became the mountains, the thin membrane the mist and clouds, the veins the rivers, and the fluid the ocean. What was born from the egg was the sun, and as it was born, shouts of joy rose up, together with all beings and all desires.\n\nThe image runs deep in Indian thought. A Rigvedic hymn praises the Golden Embryo, Hiraṇyagarbha, and the Śatapatha Brāhmaṇa places Prajāpati inside a golden egg for a year. Later still, Brahmā is said to rest within the egg before creating.",
+          "names": [
+            "Hiraṇyagarbha",
+            "Prajāpati",
+            "Āditya",
+            "Brahmā"
+          ],
+          "sources": [
+            "Chāndogya Upaniṣad 3.19",
+            "Rigveda 10.121",
+            "Śatapatha Brāhmaṇa 11.1.6",
+            "Manusmṛti 1.8–13"
+          ],
+          "image": {
+            "file": "File:Golden cosmic egg Hiranyagarbha by Manaku.jpg",
+            "caption": "The golden cosmic egg, Hiraṇyagarbha, from a Bhāgavata Purāṇa series attributed to the Pahari painter Manaku, 18th century"
+          }
+        },
+        {
+          "culture": "greek",
+          "title": "The Wind-Egg of Night",
+          "teaser": "Black-winged Night lays an egg, and golden-winged Eros hatches.",
+          "text": "In Aristophanes' comedy The Birds, the chorus claims that birds are older than the gods, and offers a cosmogony to prove it. In the beginning there were Chaos and Night, black Erebus and wide Tartarus, but no earth, air, or heaven. In the boundless bosom of Erebus, black-winged Night laid a wind-egg, and from it, in the circling seasons, sprang Eros, longed-for, with golden wings flashing on his back like whirlwinds. Mating with Chaos in Tartarus, he hatched the race of birds.\n\nThe joke works because the audience recognized the pattern. The Orphic theogonies, known from later Neoplatonist summaries, tell how Time fashioned a shining egg in the Aether, and from it burst Phanes, 'the Revealer', also called Protogonos, the First-born: golden-winged, double-sexed, the first god to appear in light.\n\nA Roman relief at Modena shows him standing between the two halves of his shell.",
+          "names": [
+            "Nyx",
+            "Eros",
+            "Phanes",
+            "Protogonos",
+            "Chronos"
+          ],
+          "sources": [
+            "Aristophanes, Birds 693–702",
+            "Orphic Rhapsodies (via Damascius and Proclus)"
+          ],
+          "caveat": "Aristophanes is parodying, and the Orphic egg is reconstructed from late (mostly 2nd–6th century CE) Christian and philosophical reports, so its early form is uncertain.",
+          "image": {
+            "file": "File:Modena relief of the Orphic god Phanes, 2nd century AD (cropped).png",
+            "caption": "Phanes emerging from the cosmic egg, surrounded by the zodiac, Roman relief, 2nd century CE, Modena"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "Pangu in the Egg",
+          "teaser": "Heaven and earth were one mass, like a hen's egg, with Pangu inside.",
+          "text": "The earliest surviving account of Pangu comes from the Sanwu liji, a 3rd-century CE work by Xu Zheng that survives only in quotations. Heaven and earth, it says, were in chaos like a hen's egg, and Pangu was born within it.\n\nAfter eighteen thousand years the egg opened. The clear and light, the yang, rose and became heaven; the turbid and heavy, the yin, sank and became earth. Pangu stood between them and changed nine times a day, divine in heaven and sage on earth. Each day heaven rose higher by one zhang, earth grew thicker by one zhang, and Pangu grew taller by one zhang.\n\nThe egg is a Chinese favorite for describing the undivided state, and astronomers used it too: one early model of the cosmos compared heaven to an eggshell and the earth to the yolk inside it.",
+          "names": [
+            "Pangu",
+            "yin",
+            "yang"
+          ],
+          "sources": [
+            "Xu Zheng, Sanwu liji (quoted in Yiwen leiju)"
+          ],
+          "caveat": "Pangu first appears in the 3rd century CE, centuries after the classical texts, and his origins (possibly in southern Chinese traditions) are debated.",
+          "image": {
+            "file": "File:Pangu.jpg",
+            "caption": "Pangu, from the Ming-dynasty illustrated encyclopedia Sancai Tuhui (1609)"
+          }
+        },
+        {
+          "culture": "japanese",
+          "title": "A Chaotic Mass Like an Egg",
+          "teaser": "Japan's official history opens with a borrowed Chinese egg.",
+          "text": "The Nihon Shoki, the court history completed in 720, begins: 'Of old, Heaven and Earth were not yet separated, and the In and Yō not yet divided. They formed a chaotic mass like an egg, of obscurely defined limits, and containing germs.'\n\nThe purer and clearer part was thinly drawn out and became Heaven, while the heavier and grosser element settled and became Earth. Because the fine unites easily and the heavy hardens with difficulty, Heaven was formed first and Earth afterwards. Then, between them, something appeared like a reed-shoot, and it became a god, Kuni-no-Tokotachi, Eternal Land-Standing.\n\nThe opening is instructive precisely because it is composite. Its compilers stitched together phrases from Chinese books, including the Huainanzi, to give Japan's origins the learned dignity of continental cosmology. The native Japanese material, with its reed-shoot and floating land, follows directly after the imported egg.",
+          "names": [
+            "In and Yō",
+            "Kuni-no-Tokotachi"
+          ],
+          "sources": [
+            "Nihon Shoki, Book 1"
+          ],
+          "caveat": "This opening passage is adapted from Chinese sources and does not appear in the Kojiki, Japan's other early chronicle."
+        },
+        {
+          "culture": "polynesian",
+          "people": "Tahitian",
+          "title": "Ta'aroa in His Shell",
+          "teaser": "A god alone in a shell for ages, who finally breaks out.",
+          "text": "In the Tahitian tradition recorded in the 19th century, Ta'aroa existed before everything. He sat alone in his shell, Rumia, in endless darkness, and the shell was like an egg revolving in space. There was no sky, no land, no sea, no moon, no sun, no stars.\n\nAfter ages, Ta'aroa cracked the shell and stepped out. He called, and nothing answered; there was no one and nothing to reply. So he took his shell and raised it up as the dome of the sky, and used another shell as the foundation of the rock and earth. Then he made his own body into the world: his backbone became the mountain ridges, his flesh the fertile earth, and his feathers the trees and shrubs.\n\nThe recorded chant draws the lesson: everything has a shell. The sky is a shell for the earth, and woman is a shell for man, since it is through her that he enters the world.",
+          "names": [
+            "Ta'aroa",
+            "Rumia"
+          ],
+          "sources": [
+            "Teuira Henry, Ancient Tahiti (1928), from J. M. Orsmond's records"
+          ],
+          "caveat": "The account survives through a missionary's notes compiled and published by his granddaughter, so its wording reflects its recorders."
+        },
+        {
+          "culture": "finnic",
+          "people": "Finnish and Karelian",
+          "title": "Eggs on a Knee",
+          "teaser": "A duck's eggs roll into the sea and become sky, sun, and moon.",
+          "text": "The Kalevala opens with Ilmatar, daughter of the air, who descends to the open sea and floats there for centuries, pregnant but unable to give birth. A duck (in Finnish sotka, a scaup or teal) flies over the waters looking for a nesting place. Ilmatar raises her knee above the waves, and the bird builds a nest on it and lays six golden eggs and a seventh of iron.\n\nAs the bird broods, Ilmatar's knee grows burning hot. She jerks it, and the eggs roll into the sea and shatter. Nothing is lost. The lower half of the shell becomes the earth, the upper half the vault of heaven; the yolk becomes the sun, the white the moon, the speckled bits the stars, and the dark bits the clouds.\n\nOnly after this does the sage Väinämöinen, Ilmatar's son, finally emerge, already old, into a world made from breakfast.",
+          "names": [
+            "Ilmatar",
+            "Väinämöinen"
+          ],
+          "sources": [
+            "Kalevala, Runo 1",
+            "Finnish and Karelian folk poetry"
+          ],
+          "caveat": "Elias Lönnrot compiled the Kalevala (1835, 1849) from folk songs; in many sung versions the bird nests on Väinämöinen's knee, and Ilmatar's role is largely Lönnrot's arrangement.",
+          "image": {
+            "file": "File:Robert Wilhelm Ekman - Ilmatar - A II 1256 - Finnish National Gallery.jpg",
+            "caption": "Ilmatar, by Robert Wilhelm Ekman, 19th century, Finnish National Gallery"
+          }
+        }
+      ]
+    },
+    {
+      "id": "earth-diver",
+      "summary": "The world is all water. Some creature, often small and unpromising, dives to the bottom and brings up a scrap of mud, which grows into dry land. The earth-diver is one of the most widely distributed myths known, found across Siberia, Eastern Europe, and much of North America, often in its most elaborate forms among Indigenous peoples of the eastern woodlands and plains. Its distribution, mapped by folklorists from Earl Count to Yuri Berezkin, suggests ancient diffusion across northern Eurasia and into the Americas rather than repeated invention, though how old the story is remains debated.",
+      "versions": [
+        {
+          "culture": "indian",
+          "people": "Vedic and Purāṇic",
+          "title": "The Boar Who Raised the Earth",
+          "teaser": "A god becomes a boar and lifts the earth from the waters.",
+          "text": "The Taittirīya Saṃhitā says that in the beginning all this was water, the ocean. Prajāpati moved over it as the wind. He saw the earth, and becoming a boar, he seized her and brought her up. Then, as Viśvakarman, the All-Maker, he wiped her smooth, and she spread out: that is why she is called pṛthivī, 'the broad one'. The Śatapatha Brāhmaṇa adds that the earth was then only a span wide, until a boar named Emūṣa raised her up.\n\nIn the Purāṇas the boar becomes Varāha, an avatar of Viṣṇu. The demon Hiraṇyākṣa has dragged the earth down into the cosmic ocean, and Varāha dives in, kills him, and lifts the earth goddess on his tusks. The Bhāgavata Purāṇa says he first appeared from Brahmā's nostril, the size of a thumb, and then swelled to the size of a mountain.",
+          "names": [
+            "Prajāpati",
+            "Emūṣa",
+            "Varāha",
+            "Viṣṇu",
+            "Bhūdevī",
+            "Hiraṇyākṣa"
+          ],
+          "sources": [
+            "Taittirīya Saṃhitā 7.1.5",
+            "Śatapatha Brāhmaṇa 14.1.2",
+            "Viṣṇu Purāṇa 1.4",
+            "Bhāgavata Purāṇa 3.13"
+          ],
+          "caveat": "Here the diver lifts the whole earth rather than a pinch of mud; linking it to the Eurasian earth-diver family is plausible but debated.",
+          "image": {
+            "file": "File:Varaha at Udayagiri.jpg",
+            "caption": "Varāha lifting the earth goddess, rock-cut relief at Udayagiri, Madhya Pradesh, early 5th century CE"
+          }
+        },
+        {
+          "culture": "slavic",
+          "people": "East Slavic",
+          "title": "God, Satan, and the Sand",
+          "teaser": "The devil dives for earth and hides some in his mouth.",
+          "text": "Russian and Ukrainian folk legends tell of a time when there was only water. God floated over it, and so did Satan, sometimes in the form of a water bird. God sent Satan down to fetch earth from the bottom, to be taken in God's name.\n\nSatan dove, but took the earth in his own name, and it slipped through his fingers. The second time the same thing happened. The third time he obeyed, but secretly kept a little sand in his mouth. God scattered what was brought up, and it became smooth, flat earth. But the sand in Satan's mouth began to swell, and he had to spit it out, and it became the mountains, swamps, and rough places of the world.\n\nThe same plot appears in the medieval Russian apocryphon called the Tale of the Sea of Tiberias. It explains, neatly, why the world is not as tidy as its Creator.",
+          "names": [
+            "God",
+            "Satan (Satanael)"
+          ],
+          "sources": [
+            "East Slavic folk legends (19th-century collections)",
+            "Tale of the Sea of Tiberias (Russian apocryphon)"
+          ],
+          "caveat": "The surviving versions are Christian and dualist, possibly shaped by Bogomil teaching; the underlying diver plot is shared with Siberian and Finno-Ugric neighbors."
+        },
+        {
+          "culture": "north-american",
+          "people": "Haudenosaunee (Iroquois)",
+          "title": "Sky Woman and Turtle Island",
+          "teaser": "A woman falls from the sky, and a muskrat's mud becomes the land.",
+          "text": "Above the world, there was a Sky World with a great tree. A woman there, pregnant, fell through a hole where the tree had been uprooted, or was pushed. Below there was only water. Water birds saw her falling and caught her on their wings, and a great turtle offered his back as a resting place.\n\nThe animals knew she needed land. One after another they dove to the bottom: the otter, the beaver, the loon, each failing. At last the little muskrat went down and was gone a long time. He floated up dead or nearly so, but with a pawful of mud. Sky Woman spread it on the turtle's shell, and as she walked in circles it grew into the whole earth.\n\nHer daughter later bore twins, one good-minded and one troublesome, who shaped the world's plants, animals, and landscape. The name Turtle Island is still used for North America.",
+          "names": [
+            "Sky Woman (Atahensic)",
+            "Great Turtle",
+            "Muskrat"
+          ],
+          "sources": [
+            "Jesuit Relations (Wendat version, 1636)",
+            "David Cusick, Sketches of Ancient History of the Six Nations (1827)",
+            "J. N. B. Hewitt, Iroquoian Cosmology (1903, 1928)"
+          ],
+          "caveat": "Tellings differ between nations and narrators, including which animal succeeds; the earliest written version comes from the Wendat, an Iroquoian people distinct from the Haudenosaunee.",
+          "image": {
+            "file": "File:Ernest Smith Sky Woman 1936.jpg",
+            "caption": "Sky Woman, by the Seneca artist Ernest Smith, 1936, Rochester Museum and Science Center"
+          }
+        },
+        {
+          "culture": "north-american",
+          "people": "Cherokee",
+          "title": "The Water Beetle's Mud",
+          "teaser": "Beaver's Grandchild brings up the mud; a tired buzzard makes the mountains.",
+          "text": "In the account recorded by James Mooney, the earth is a great island floating in a sea of water, hanging from the sky vault by four cords. Once, there was only water, and all the animals lived above, in Gălûñ'lătĭ, beyond the stone arch of the sky. It was very crowded, and they wanted more room.\n\nThey wondered what lay beneath the water. At last Dâyuni'sï, 'Beaver's Grandchild', the little water beetle, offered to go and see. It darted over the surface but found no firm place, so it dove to the bottom and came up with some soft mud, which began to grow and spread until it became the island we call the earth.\n\nThe earth was still wet, so the animals sent the Great Buzzard to check it. He grew tired over Cherokee country, and wherever his wings struck the ground there was a valley, and where they rose, a mountain.",
+          "names": [
+            "Dâyuni'sï (Water Beetle)",
+            "Great Buzzard",
+            "Gălûñ'lătĭ"
+          ],
+          "sources": [
+            "James Mooney, Myths of the Cherokee (1900)"
+          ]
+        },
+        {
+          "culture": "north-american",
+          "people": "Arapaho",
+          "title": "The Flat Pipe on the Waters",
+          "teaser": "A man floats with a sacred pipe while the animals dive for earth.",
+          "text": "In Arapaho tradition, at the beginning a man floated on the endless water, carrying the sacred Flat Pipe, and he wanted somewhere to set it down. He called the water birds and animals and asked them to dive for earth.\n\nOne by one they tried and came up exhausted and empty. At last a small duck, and in some tellings the turtle, came back with a little mud. From that pawful of mud, worked by the man with the pipe, the land spread out across the water, and it became the earth on which the people now live.\n\nThe Flat Pipe is not only a character in the story: it is the tribe's most sacred bundle, still kept and cared for by its keeper. The earth-diver story is, in this sense, the pipe's own biography, and the land itself is the place it was set down.",
+          "names": [
+            "Flat Pipe",
+            "Duck",
+            "Turtle"
+          ],
+          "sources": [
+            "George A. Dorsey and Alfred L. Kroeber, Traditions of the Arapaho (1903)"
+          ],
+          "caveat": "Tellings recorded around 1900 differ in which animal succeeds and in the details of the pipe's role."
+        }
+      ]
+    },
+    {
+      "id": "sky-earth-separation",
+      "summary": "Sky and earth were once pressed together, often as lovers locked in embrace, and the world could only begin when something pushed them apart. The god who does the pushing may be air, a son with a sickle, or a tree-god with his feet. The idea runs from Egypt and Sumer to Anatolia, Greece, and New Zealand, with relatives in China and West Africa in which the sky withdraws rather than being pushed. One cluster is clearly connected: Hesiod's castration of Ouranos closely follows the Hurrian-Hittite Kumarbi cycle. Elsewhere the resemblance probably reflects a shared, obvious puzzle: why is the sky, which gives rain and light, so far away?",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "Shu Lifts Nut",
+          "teaser": "The god of air stands on the earth and holds the sky aloft.",
+          "text": "The sky goddess Nut and the earth god Geb were the children of Shu, the air, and Tefnut, moisture. They lay pressed together until Shu stepped between them, set his feet on Geb, and raised Nut high on his arms.\n\nEgyptian artists loved the scene. Nut arches over the world, her fingers touching one horizon and her toes the other, her body studded with stars. Beneath her, Geb reclines on his side, one knee raised like a hill, sometimes stretching up toward her. Shu stands between them, arms upraised.\n\nThe separation did not end their relationship. Every evening Nut swallows the sun, and every morning she gives birth to it again from between her thighs. In the Book of the Heavenly Cow, Nut takes the form of a cow to carry Ra, and grows dizzy with the height, so that Shu and eight supporting gods must hold her steady.",
+          "names": [
+            "Shu",
+            "Nut",
+            "Geb",
+            "Tefnut",
+            "Ra"
+          ],
+          "sources": [
+            "Pyramid Texts",
+            "Coffin Texts, spells 75–80",
+            "Book of the Heavenly Cow"
+          ],
+          "image": {
+            "file": "File:Geb, Nut, Shu.jpg",
+            "caption": "Shu separating Nut from Geb, vignette from the Greenfield Papyrus, c. 950 BCE, British Museum"
+          }
+        },
+        {
+          "culture": "mesopotamian",
+          "people": "Sumerian",
+          "title": "When Heaven Was Moved from Earth",
+          "teaser": "Enlil parts heaven and earth, then opens the ground so humans sprout.",
+          "text": "Several Sumerian poems begin with a stock formula looking back to the first days. The prologue of 'Gilgamesh, Enkidu and the Netherworld' runs: after heaven had been moved away from earth, after earth had been separated from heaven, after the name of humankind had been fixed; after An had taken heaven, after Enlil had taken earth, after the underworld had been given to Ereshkigal as a gift.\n\nThe 'Song of the Hoe' gives the deed to Enlil himself. He hurried to separate heaven from earth, so that the seed from which the Land grows could sprout from the ground. Then he took his hoe and struck the earth at Uzumua, 'where flesh grew'. There the first humans broke through the soil like plants.\n\nThe poem praises the hoe as the maker of civilization, and the story as a farmer would tell it.",
+          "names": [
+            "An",
+            "Enlil",
+            "Ki",
+            "Ereshkigal"
+          ],
+          "sources": [
+            "Gilgamesh, Enkidu and the Netherworld (prologue)",
+            "The Song of the Hoe"
+          ]
+        },
+        {
+          "culture": "anatolian",
+          "people": "Hurrian-Hittite",
+          "title": "The Copper Cutter",
+          "teaser": "The ancient blade that parted heaven and earth is brought out once more.",
+          "text": "In the Song of Ullikummi, part of the Hurrian Kumarbi cycle preserved in Hittite, the deposed god Kumarbi fathers a monster of diorite, Ullikummi, to overthrow the storm god Teshub. The stone child is set on the right shoulder of Upelluri, a giant who stands in the sea carrying heaven and earth, and it grows until it reaches the sky.\n\nThe wise god Ea goes to Upelluri and asks whether he has noticed. Upelluri answers with memorable indifference: when they built heaven and earth upon me, I knew nothing; when they came and cut heaven and earth apart with a cutting tool, I knew nothing. Now something hurts my right shoulder, but I do not know which god it is.\n\nEa then asks the ancient gods to open their storehouses and bring out the copper cutter with which heaven and earth were once separated. With it, he cuts Ullikummi from Upelluri's shoulder, and the monster loses its power.",
+          "names": [
+            "Ullikummi",
+            "Upelluri",
+            "Ea",
+            "Kumarbi",
+            "Teshub"
+          ],
+          "sources": [
+            "Song of Ullikummi (CTH 345)"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "The Sickle of Cronus",
+          "teaser": "A son ambushes the sky with a jagged sickle.",
+          "text": "In Hesiod's Theogony, Ouranos, the Sky, lies every night on Gaia, the Earth, and will not let their children out: he hides them away in her depths as they are born, and delights in it. Gaia groans under the strain. She forges a great sickle of grey adamant and asks her sons for help, and only the youngest, crafty Cronus, dares.\n\nWhen Ouranos comes at nightfall, longing for love, and spreads himself over the earth, Cronus reaches out from his hiding place, seizes his father's genitals with his left hand, and cuts them off with the jagged sickle. The blood falling on Gaia produces the Furies, the Giants, and the ash-tree nymphs; the severed flesh falls into the sea, and from the foam Aphrodite is born.\n\nHesiod's story closely matches the Hurrian Kumarbi, who bites off the genitals of the sky god Anu. Here, violence is what makes room for the world.",
+          "names": [
+            "Ouranos",
+            "Gaia",
+            "Cronus",
+            "Aphrodite"
+          ],
+          "sources": [
+            "Hesiod, Theogony 154–206"
+          ],
+          "caveat": "Hesiod never states that the sky rose because of the castration; reading it as a separation myth is a modern, if widespread, interpretation.",
+          "image": {
+            "file": "File:The Mutilation of Uranus by Saturn.jpg",
+            "caption": "The Mutilation of Uranus by Saturn, by Giorgio Vasari and Cristofano Gherardi, 16th century, Palazzo Vecchio, Florence"
+          }
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "Tāne Parts Rangi and Papa",
+          "teaser": "The forest god sets his feet against the sky and pushes.",
+          "text": "Rangi, the Sky, and Papa, the Earth, lay locked together in darkness, and their many children were crammed between them, unable to see the light. The children held a council. Tūmatauenga, the fierce one, proposed killing their parents. Tāne-mahuta, father of forests, said: rather, let us separate them, and let the sky stand far above us, and the earth lie below as our nurse.\n\nRongo tried to push them apart, and failed; so did Tangaroa and Haumia. Then Tāne planted his head against his mother Papa and his feet against his father Rangi, and pushed. Slowly, as they shrieked and groaned, they were forced apart, and light came into the world.\n\nOnly Tāwhirimātea, the god of winds, refused his consent, and he has made war on his brothers ever since. Rangi's tears still fall as dew and rain, and Papa's sighs rise to him as mist.",
+          "names": [
+            "Rangi (Ranginui)",
+            "Papa (Papatūānuku)",
+            "Tāne",
+            "Tūmatauenga",
+            "Tāwhirimātea"
+          ],
+          "sources": [
+            "George Grey, Polynesian Mythology (1855), from Wiremu Maihi Te Rangikaheke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "body-of-the-world",
+      "summary": "The world is a dismembered body: the sky a skull, the rivers blood, the mountains bones, the stars a scattering of hair. Sometimes the body is sacrificed by the gods; sometimes a primordial being simply dies and dissolves into the landscape. India's Puruṣa and Norse Ymir are close enough that many scholars reconstruct an Indo-European myth of a first sacrifice, most influentially Bruce Lincoln. But Babylon's Tiamat, China's Pangu, and the Aztec Tlaltecuhtli show that the idea of world as body arose independently elsewhere, perhaps because the correspondence between human body and cosmos is one of humanity's oldest and most natural analogies.",
+      "versions": [
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "The Sacrifice of Puruṣa",
+          "teaser": "The gods sacrifice the Cosmic Man, and the world is made from him.",
+          "text": "The Puruṣa Sūkta describes a Cosmic Man with a thousand heads, a thousand eyes, a thousand feet. He covers the earth on every side and extends ten fingers beyond it. The gods perform a sacrifice with Puruṣa as the victim: spring is the clarified butter, summer the fuel, autumn the offering.\n\nFrom the sacrifice come the Vedic verses and chants, and horses, cattle, goats and sheep. From his mind is born the moon, from his eye the sun, from his mouth Indra and Agni, from his breath the wind. From his navel comes the air, from his head the sky, from his feet the earth, from his ear the four directions.\n\nThe society is made from him too: his mouth becomes the Brahmin, his arms the warrior, his thighs the commoner, and from his feet the servant is born. The hymn ends in a loop: with the sacrifice the gods sacrificed to the sacrifice. These were the first ordinances.",
+          "names": [
+            "Puruṣa",
+            "Indra",
+            "Agni",
+            "Vāyu"
+          ],
+          "sources": [
+            "Rigveda 10.90 (Puruṣa Sūkta)"
+          ]
+        },
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "Marduk Splits Tiamat",
+          "teaser": "The sea-mother is cut in two like a fish, and her eyes become rivers.",
+          "text": "In the Babylonian epic, the young god Marduk goes to battle against Tiamat, the primordial sea, on behalf of the gods. When she opens her mouth to swallow him, he drives the Evil Wind into it so she cannot close her jaws, then shoots an arrow that tears through her belly and splits her heart.\n\nHe stands on her body, and then, the poem says, he splits her in two like a fish for drying. Half of her he sets up and stretches as the sky, fixing a bar and posting guards so that her waters cannot escape. From the rest, he makes the earth.\n\nHe heaps up a mountain over her head, opens springs, and lets the Tigris and the Euphrates flow from her eyes. Her udder becomes the mountains, and her tail is twisted up into the sky to hold heaven and earth together. Then, in a final flourish, he builds Babylon.",
+          "names": [
+            "Marduk",
+            "Tiamat",
+            "Kingu"
+          ],
+          "sources": [
+            "Enūma Eliš, Tablets IV–V"
+          ],
+          "image": {
+            "file": "File:Chaos Monster and Sun God.png",
+            "caption": "Engraving by L. Gruner for Layard of a relief from Nimrud (9th century BCE), often used to illustrate Marduk and Tiamat, though it probably shows Ninurta fighting a monster"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "The Dying Pangu",
+          "teaser": "Pangu's body becomes the landscape, and his lice become people.",
+          "text": "A text attributed to Xu Zheng in the 3rd century CE, the Wuyun linianji, describes the death of Pangu, the first-born being. As he was dying, his body was transformed.\n\nHis breath became the wind and the clouds, his voice the thunder. His left eye became the sun, his right eye the moon. His four limbs and five parts of his body became the four extremities of the world and the five sacred mountains. His blood became the rivers, his sinews and veins the paths of the earth, his flesh the fields. The hair on his head became the stars, the hair on his body the grass and trees, his teeth and bones the metals and stones, his marrow pearls and jade, and his sweat the rain.\n\nAnd the tiny creatures that lived on his body, stirred by the wind, became the black-haired people. Humanity, in this version, is the least dignified part of the giant.",
+          "names": [
+            "Pangu"
+          ],
+          "sources": [
+            "Xu Zheng, Wuyun linianji (quoted in Ma Su, Yishi)"
+          ],
+          "caveat": "The text is late and survives only in quotation; some scholars suspect Indian influence (via Buddhism) on the body-to-world list, but this is unproven."
+        },
+        {
+          "culture": "norse",
+          "title": "The World from Ymir",
+          "teaser": "Odin and his brothers kill a giant and build the world from his corpse.",
+          "text": "The sons of Borr, Odin, Vili and Vé, killed the frost giant Ymir. So much blood poured from his wounds that it drowned all the frost giants, except Bergelmir, who escaped with his wife on a lúðr, and from whom the later giants descend.\n\nThe gods carried Ymir into the middle of Ginnungagap and made the world from him. From his flesh they made the earth, from his blood the sea and the lakes, from his bones the mountains, from his teeth and bits of bone the rocks and scree. They raised his skull as the sky, and set a dwarf at each corner to hold it up: Norðri, Suðri, Austri and Vestri, North, South, East and West. His brains, thrown into the air, became the clouds.\n\nFrom his eyebrows they built a wall around Midgard, the home of humans, to keep the giants out. The earth is fenced in giant's hair.",
+          "names": [
+            "Ymir",
+            "Odin",
+            "Vili",
+            "Vé",
+            "Bergelmir"
+          ],
+          "sources": [
+            "Grímnismál 40–41",
+            "Vafþrúðnismál 21",
+            "Gylfaginning 7–8"
+          ],
+          "caveat": "The flood of blood and Bergelmir's escape appear only in Snorri, and his account may borrow from Noah's ark; the meaning of lúðr is uncertain.",
+          "image": {
+            "file": "File:Ymir gets killed by Froelich.jpg",
+            "caption": "Odin and his brothers kill Ymir, illustration by Lorenz Frølich, 19th century"
+          }
+        },
+        {
+          "culture": "aztec",
+          "people": "Mexica",
+          "title": "Tlaltecuhtli Torn in Two",
+          "teaser": "Two gods become serpents and rip the earth monster apart.",
+          "text": "A 16th-century source tells how Quetzalcoatl and Tezcatlipoca brought down from the heavens the goddess Tlaltecuhtli, the Earth Lord. She was a monstrous being, with eyes and mouths at every joint of her body, biting like a wild beast.\n\nThe two gods turned themselves into great serpents. One seized her by the right hand and left foot, the other by the left hand and right foot, and they pulled until she broke in two. From one half they made the earth, and the other half they lifted up to become the sky.\n\nThe other gods were troubled and came down to console her. They decreed that from her would come everything people need: from her hair, trees and flowers; from her skin, grass; from her eyes, wells and springs; from her mouth, rivers and caves; from her nose, valleys and mountains. But at night she weeps, craving human hearts, and she will not bear fruit unless she is watered with blood.",
+          "names": [
+            "Tlaltecuhtli",
+            "Quetzalcoatl",
+            "Tezcatlipoca"
+          ],
+          "sources": [
+            "Histoyre du Mechique (16th century)"
+          ],
+          "caveat": "The story survives in a French translation by André Thevet of a lost Spanish account, so its wording is at two removes from Nahuatl tradition.",
+          "image": {
+            "file": "File:Tlaltecuhtli monolith.jpg",
+            "caption": "The Tlaltecuhtli monolith, found at the Templo Mayor in Mexico City, c. 1500"
+          }
+        },
+        {
+          "culture": "slavic",
+          "people": "Russian",
+          "title": "The Dove Book",
+          "teaser": "A Russian folk hymn derives the world from God's face and body.",
+          "text": "The Golubinaya kniga, the 'Dove Book' or 'Book of Depths', is a Russian religious folk song in which a wise king answers riddles about the order of the world. Asked where the world came from, he answers with a chain of bodily origins.\n\nOur bright world comes from God's own face. The sun comes from God's face, the young moon from his breast, the dawns from his eyes, the stars from his robes, and the winds from the Holy Spirit. Then the same pattern is applied to humans: our bones come from stone, our body from damp earth, our blood from the sea, and our thoughts from the clouds of heaven.\n\nThe singers were Orthodox Christians and the answers are framed in Christian terms. But the structure, a list matching parts of a body to parts of the world, is the same one found in the Puruṣa hymn and the Ymir poems, and it survived in peasant singing into the 19th century.",
+          "names": [
+            "God",
+            "Tsar David"
+          ],
+          "sources": [
+            "Golubinaya kniga (Russian spiritual verse)"
+          ],
+          "caveat": "This is a Christian spiritual verse recorded from the 18th century onward; its links to medieval apocrypha on the creation of Adam are clearer than any link to pre-Christian Slavic belief."
+        }
+      ]
+    },
+    {
+      "id": "creative-word",
+      "summary": "Some gods make the world with their hands; others simply speak. In the creative-word pattern, the command, the name, or the thought is itself enough to bring things into being. Egypt's Ptah conceives in his heart and commands with his tongue; the God of Genesis says 'let there be light'; Vedic Prajāpati utters three syllables; the Maya gods say 'Earth!' and it rises. Such myths tend to arise among priestly and scribal cultures that value precise utterance, ritual formula, and writing, which may explain the parallels better than any borrowing, though Egyptian and Near Eastern ideas certainly circulated in the same world.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "Ptah's Heart and Tongue",
+          "teaser": "The god of Memphis thinks the world, then speaks it.",
+          "text": "The Memphite Theology, carved on a slab of dark stone for the pharaoh Shabaka around 710 BCE, argues that Ptah, god of Memphis and patron of craftsmen, stands before the creator Atum. The gods came into being through Ptah's heart, which conceived them, and his tongue, which commanded them.\n\nThe text answers the older story of Heliopolis, where Atum produced the first gods from his semen and his hand. Here, it says, the teeth and lips in Ptah's mouth play that role. Every divine word came about through what the heart devised and the tongue commanded. And so, the text says, every creature thinks with its heart and speaks with its tongue, as Ptah did.\n\nThe stone has its own story. Shabaka claims he copied it from a worm-eaten old papyrus. Later the slab was used as a millstone, and the center of the text is ground away.",
+          "names": [
+            "Ptah",
+            "Atum",
+            "Ennead"
+          ],
+          "sources": [
+            "Shabaka Stone (British Museum EA 498), 'Memphite Theology'"
+          ],
+          "caveat": "The text claims great antiquity, and was once dated to the Old Kingdom; many Egyptologists now date its composition to the 25th Dynasty or somewhat earlier.",
+          "image": {
+            "file": "File:Shabaka Stone at the British Museum.jpg",
+            "caption": "The Shabaka Stone, c. 710 BCE, British Museum, with its worn center from use as a millstone"
+          }
+        },
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "The Vanishing Garment",
+          "teaser": "Marduk proves his power by speaking a garment in and out of existence.",
+          "text": "Before Marduk fights Tiamat in the Babylonian creation epic, the assembled gods want proof that he has real authority. They place a garment, or a constellation, in their midst and tell him: speak, and let it be destroyed; speak again, and let it be whole.\n\nMarduk commands, and the garment vanishes. He commands again, and it reappears. The gods rejoice, bless him, and cry out, 'Marduk is king!' They give him the throne, the scepter, and a weapon beyond compare.\n\nThe world itself is not made by word in the epic: Marduk makes it with his hands, out of Tiamat's body. But the power to decree the destiny of things, their šīmtu, is shown to be his before the battle begins. The epic closes by listing his fifty names, each explained with a learned etymology. The universe in Babylon is built by force and held together by the right words.",
+          "names": [
+            "Marduk",
+            "Anshar",
+            "Tiamat"
+          ],
+          "sources": [
+            "Enūma Eliš, Tablet IV",
+            "Enūma Eliš, Tablets VI–VII (the fifty names)"
+          ]
+        },
+        {
+          "culture": "indian",
+          "people": "Vedic",
+          "title": "Three Syllables and a Goddess",
+          "teaser": "Prajāpati says 'bhūḥ' and there is earth.",
+          "text": "The Śatapatha Brāhmaṇa tells how Prajāpati lay within a golden egg for a year. At the end of the year he wished to speak. He said 'bhūḥ', and that became the earth; 'bhuvaḥ', and that became the air; 'svaḥ', and that became the sky. These three syllables, the vyāhṛtis, are still spoken before the Gāyatrī mantra. And because Prajāpati spoke after a year, the text adds, a child begins to speak after a year.\n\nSpeech is not merely a tool of creation in the Veda; it is a goddess. In Rigveda 10.125, Vāc, Speech, speaks in her own voice: I am the queen, the gatherer of treasures. I bend the bow for Rudra. I breathe out like the wind, taking hold of all the worlds. Beyond heaven, beyond this earth, so great have I become in my greatness.\n\nIn a religion built on exact recitation, the word does not describe the world: it holds it up.",
+          "names": [
+            "Prajāpati",
+            "Vāc"
+          ],
+          "sources": [
+            "Śatapatha Brāhmaṇa 11.1.6",
+            "Rigveda 10.125"
+          ]
+        },
+        {
+          "culture": "levantine",
+          "people": "Hebrew Bible",
+          "title": "Let There Be Light",
+          "teaser": "God speaks, and it is so; then he names what he has made.",
+          "text": "In the first chapter of Genesis, creation proceeds by speech. God said, 'Let there be light,' and there was light. God saw that the light was good, and separated it from the darkness, and called the light Day and the darkness Night.\n\nThe pattern repeats with calm regularity: God said, let there be; and it was so; and God saw that it was good. On successive days he speaks a firmament into being, gathers the waters, calls forth plants, lights, fish, birds, beasts, and finally humankind. Light, notably, is created three days before the sun. Naming, too, is part of mastery: God names day, night, heaven, earth and seas, and later hands the naming of animals to Adam.\n\nA psalm sums it up: by the word of the Lord were the heavens made. The Mishnah teaches that the world was created with ten utterances.",
+          "names": [
+            "Elohim",
+            "Adam"
+          ],
+          "sources": [
+            "Genesis 1",
+            "Psalm 33:6",
+            "Mishnah Avot 5:1"
+          ],
+          "image": {
+            "file": "File:William de Brailes - First Two Days of Creation (Genesis 1 - 1-8) - Walters W1061R - Full Page.jpg",
+            "caption": "The first two days of creation, miniature by William de Brailes, c. 1250, Walters Art Museum"
+          }
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "They Said 'Earth!'",
+          "teaser": "The gods talk things over, agree, and speak the land into being.",
+          "text": "In the Popol Vuh, the creators do not act alone. Heart of Sky, the storm god also called Huracan, comes to Tepew and Q'ukumatz, the Sovereign Plumed Serpent, in the dark primordial water. They talk, deliberate, and worry; they think and they ponder; and they agree, joining their words and their thoughts.\n\nThen the creation happens as speech. 'Let it be this way,' they say, 'let the emptiness be filled; let the water be taken away and the earth arise.' They say 'Earth!', and at once it rises, like a cloud or a mist unfolding. The mountains emerge from the water, and cypress and pine forests spread across them. Q'ukumatz is delighted, and thanks Heart of Sky.\n\nWhat the gods want next is revealing. They need beings who will speak too, and who will call their names and keep their days. The creative word wants an answer.",
+          "names": [
+            "Heart of Sky (Huracan)",
+            "Tepew",
+            "Q'ukumatz"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ],
+          "image": {
+            "file": "File:Popol vuh.jpg",
+            "caption": "Page of the Popol Vuh manuscript copied by Francisco Ximénez, c. 1701"
+          }
+        }
+      ]
+    },
+    {
+      "id": "primordial-cow",
+      "summary": "In several cosmologies a great cow stands at the beginning of things, feeding the first beings with her milk, giving birth to the sun, or dying so that animals and plants can spread across the earth. The motif belongs above all to cattle-keeping peoples, for whom the cow was wealth, food, and the obvious image of a nurturing mother. The Norse Auðumbla and the Iranian primordial bovine are sometimes treated together in reconstructions of an Indo-European creation myth, though the similarity is general. Egypt's cow is different again: she is the sky itself, or a mother who rises from the flood.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "The Great Flood Cow",
+          "teaser": "A cow swims out of the primeval waters with the sun between her horns.",
+          "text": "Mehet-Weret, 'the Great Flood', was a celestial cow imagined swimming in the primeval waters, often shown lying on a reed mat with the sun disk between her horns. She was the mother who raised the young sun up out of the waters and into the sky.\n\nIn the Book of the Dead, the speaker claims to have seen Ra born yesterday from the buttocks of Mehet-Weret. The cow of the flood is also the vault of heaven across which the sun travels each day, a sky-sea whose waters the Egyptians saw in the stars.\n\nAt the temple of Esna, in Roman times, the goddess Neith was said to have emerged from the primeval ocean, created the world, and then, taking the form of the great cow, given birth to Ra and swum with him between her horns to the city of Sais. The oldest nurse in Egypt was also the first to cross the waters.",
+          "names": [
+            "Mehet-Weret",
+            "Ra",
+            "Neith",
+            "Hathor"
+          ],
+          "sources": [
+            "Book of the Dead, ch. 17",
+            "Esna temple texts"
+          ],
+          "caveat": "Mehet-Weret merges with Hathor, Nut, and Neith in different periods; the Esna account is Roman-era and should not be projected back unaltered."
+        },
+        {
+          "culture": "egyptian",
+          "title": "The Heavenly Cow",
+          "teaser": "Weary of humanity, Ra rides into the sky on a cow's back.",
+          "text": "The Book of the Heavenly Cow, inscribed in the tombs of Seti I and other New Kingdom kings and on a shrine of Tutankhamun, begins when Ra is old and humans plot against him. He sends his Eye, the goddess Hathor, as a raging lioness to slaughter them. To save what is left, he orders red ochre mixed into seven thousand jars of beer and poured over the fields. She drinks the red beer, grows drunk, and forgets to kill.\n\nBut Ra is tired of ruling earth. The sky goddess Nut turns into a cow, and Ra climbs onto her back. She rises high, becoming the sky, and trembles with dizziness at the height. Ra orders Shu to hold up her belly and appoints eight gods to support her legs.\n\nA famous image shows the cow's belly painted with stars, the sun barque sailing along it, and Shu steadying her from below.",
+          "names": [
+            "Ra",
+            "Nut",
+            "Hathor",
+            "Shu"
+          ],
+          "sources": [
+            "Book of the Heavenly Cow"
+          ],
+          "caveat": "Here the cow becomes the sky after creation rather than standing at its beginning; the text is an origin story for the world's present arrangement.",
+          "image": {
+            "file": "File:Book of the Heavenly Cow KV17.jpg",
+            "caption": "The Heavenly Cow held up by Shu, copy by Edward Piercy of the scene in the tomb of Seti I (KV17)"
+          }
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian",
+          "title": "The Uniquely Created Cow",
+          "teaser": "The first cow dies, and from its body spring grain and animals.",
+          "text": "In the Zoroastrian cosmology of the Bundahišn, Ohrmazd made the world in stages: sky, water, earth, plants, the uniquely created cow (gāw ī ēwdād), and the first man Gayōmard. The cow was white and shining like the moon, and it stood on the bank of the river Weh Dāitī.\n\nWhen Ahriman, the destructive spirit, broke into the good creation, he brought disease and death upon the cow. To lessen its suffering, Ohrmazd gave it a healing narcotic, and it died. But death did not have the last word. From its limbs grew fifty-five kinds of grain and twelve kinds of medicinal plants. Its seed was carried up to the moon, purified there, and from it came a male and female of every beneficent animal species.\n\nThe Avesta preserves a more ancient echo: in the Gāthās, the Soul of the Cow cries out to the gods for a protector.",
+          "names": [
+            "Gāw ī ēwdād",
+            "Ohrmazd",
+            "Ahriman",
+            "Gayōmard",
+            "Gōšurun"
+          ],
+          "sources": [
+            "Bundahišn",
+            "Yasna 29"
+          ],
+          "caveat": "The Pahlavi term does not specify sex, and the creature is often called the 'primordial bull'; the Bundahišn is a 9th-century compilation of older material."
+        },
+        {
+          "culture": "norse",
+          "title": "Auðumbla",
+          "teaser": "A cow licks salty ice for three days and frees the first god.",
+          "text": "According to Snorri Sturluson, when the rime melted in Ginnungagap, it formed not only the giant Ymir but also a cow named Auðumbla. Four rivers of milk ran from her udders, and Ymir fed on them.\n\nThe cow herself fed by licking the blocks of ice, which were salty. On the first evening, as she licked, the hair of a man appeared out of the ice. On the second day came a man's head, and on the third day the whole man was there. His name was Búri. He was handsome, big and strong. He had a son, Borr, who married Bestla, a giant's daughter, and they had three sons: Odin, Vili and Vé.\n\nSo the gods owe their very existence to a thirsty cow looking for salt, and the enemies they will kill, the giants, to her milk.",
+          "names": [
+            "Auðumbla",
+            "Ymir",
+            "Búri",
+            "Borr",
+            "Bestla"
+          ],
+          "sources": [
+            "Gylfaginning 6"
+          ],
+          "caveat": "Auðumbla is known only from Snorri's 13th-century prose; none of the surviving Eddic poems mention her.",
+          "image": {
+            "file": "File:Nicolai Abildgaard, Ymer dier koen Ødhumbla, KMS3397, Statens Museum for Kunst.jpg",
+            "caption": "Ymir suckles at the cow Auðumbla, by Nicolai Abildgaard, c. 1777, Statens Museum for Kunst, Copenhagen"
+          }
+        }
+      ]
+    },
+    {
+      "id": "humans-from-clay",
+      "summary": "People are pottery: a god takes earth or clay, shapes a body, and then adds something from outside, breath, blood, or spirit, to make it live. The idea is found from Mesopotamia and Egypt to Israel, Greece, China, West Africa, and New Zealand. Within the ancient Near East the versions are clearly related, sharing both the potter's image and the idea of mixing earth with divine substance. Elsewhere independent invention is likely: anywhere people make pots and bury their dead, the thought that humans come from earth and return to it is close at hand.",
+      "versions": [
+        {
+          "culture": "egyptian",
+          "title": "Khnum's Potter's Wheel",
+          "teaser": "The ram-headed god throws each child on his wheel.",
+          "text": "Khnum, the ram-headed god of the First Cataract, was a potter. At his temple at Esna, hymns praise him for shaping gods, humans, animals, and plants on his potter's wheel, fitting together bones, skin, and sinews, and setting breath inside.\n\nHis work was continuous rather than a single act at the beginning of time. In the birth reliefs of Queen Hatshepsut at Deir el-Bahari, Khnum shapes the royal child and her ka, her vital double, as two small figures on his wheel, while the frog goddess Heqet holds out the sign of life.\n\nEgypt also had another answer. In a Coffin Text, the creator says that he made the gods from his sweat and humans from the tears of his eye, a pun between the Egyptian words for 'tears' (rmyt) and 'people' (rmṯ). And the Instruction of Amenemope reminds its readers that man is clay and straw, and the god is his builder.",
+          "names": [
+            "Khnum",
+            "Heqet",
+            "Hatshepsut"
+          ],
+          "sources": [
+            "Esna temple hymns",
+            "Deir el-Bahari birth reliefs",
+            "Coffin Texts, spell 1130",
+            "Instruction of Amenemope, ch. 25"
+          ],
+          "image": {
+            "file": "File:26949- Khnum makes man on the potters wheel.jpg",
+            "caption": "Khnum shaping a human figure on his potter's wheel, relief at the Dendera temple complex"
+          }
+        },
+        {
+          "culture": "mesopotamian",
+          "people": "Babylonian",
+          "title": "Clay and a Slain God",
+          "teaser": "The mother goddess mixes clay with a god's flesh and blood.",
+          "text": "The Atrahasis epic opens when the gods did the work. The junior gods dug the rivers and canals for thousands of years, until they burned their tools and surrounded Enlil's house in revolt. Enki proposed a solution: make humans to bear the gods' toil.\n\nA god named We-ila, who had intelligence, was slaughtered. The birth goddess Nintu, also called Mami, mixed clay with his flesh and blood, and the gods spat on the clay. From the god's flesh came a spirit, the eṭemmu, which the text links to the beating of the heart. Fourteen womb goddesses pinched off fourteen pieces of clay, seven for men and seven for women, and after ten months, people were born.\n\nThe poem is full of wordplay. The god's 'intelligence' (ṭēmu) becomes human 'spirit' (eṭemmu), and 'man' (awīlum) echoes 'god' (ilu). The Enūma Eliš repeats the idea, making humans from the blood of the rebel god Kingu.",
+          "names": [
+            "Nintu (Mami)",
+            "Enki",
+            "Enlil",
+            "We-ila"
+          ],
+          "sources": [
+            "Atrahasis, Tablet I",
+            "Enūma Eliš, Tablet VI"
+          ],
+          "image": {
+            "file": "File:Babylon Story of the Flood, Tablet containing the Epic of Atrahasis, 1635 BCE, probably from Sipar. Currently at the British Museum.jpg",
+            "caption": "Old Babylonian tablet of the Atrahasis epic, c. 17th century BCE, probably from Sippar, British Museum"
+          }
+        },
+        {
+          "culture": "levantine",
+          "people": "Hebrew Bible",
+          "title": "Dust and Breath",
+          "teaser": "God shapes the earthling from earth and breathes into his nostrils.",
+          "text": "The second creation account in Genesis is more hands-on than the first. The Lord God formed the man from the dust of the ground, and breathed into his nostrils the breath of life, and the man became a living being.\n\nThe Hebrew carries a pun that English loses: the man is ʾādām, and the ground is ʾădāmâ. He is, as some translators put it, an earthling made from earth. His life is not native to the clay; it comes as breath from outside. When the man disobeys, God pronounces the same connection as a sentence: you are dust, and to dust you shall return.\n\nThe potter's image recurs throughout the Hebrew Bible. Job says to God, remember that you made me like clay. And Isaiah and Jeremiah picture the people of Israel as clay in the hands of a potter who may reshape the pot that fails.",
+          "names": [
+            "Adam",
+            "YHWH Elohim"
+          ],
+          "sources": [
+            "Genesis 2:7",
+            "Genesis 3:19",
+            "Job 10:9",
+            "Isaiah 64:8",
+            "Jeremiah 18:1–6"
+          ]
+        },
+        {
+          "culture": "greek",
+          "title": "Prometheus the Potter",
+          "teaser": "A Titan molds humans from earth and water, and leaves traces.",
+          "text": "In later Greek and Roman tradition, the Titan Prometheus is not only humanity's champion but its maker. Apollodorus says that he molded humans from water and earth. Ovid imagines him mixing earth with rainwater and shaping it in the likeness of the gods, and giving humans alone an upright stance so they could look up at the stars.\n\nThe traveller Pausanias was shown the evidence. At Panopeus in Phocis, beside a ravine, lay two great stones the color of clay, which smelled very like human skin. The locals said they were the leftovers of the clay from which Prometheus had fashioned the human race.\n\nHesiod has a different potter. When Zeus wants to punish mankind, Hephaestus mixes earth and water to make the first woman, Pandora, who opens the jar of evils.",
+          "names": [
+            "Prometheus",
+            "Athena",
+            "Hephaestus",
+            "Pandora"
+          ],
+          "sources": [
+            "Apollodorus, Bibliotheca 1.7.1",
+            "Ovid, Metamorphoses 1.78–88",
+            "Pausanias 10.4.4",
+            "Hesiod, Works and Days 60–82"
+          ],
+          "caveat": "Prometheus as the creator of humans is absent from Hesiod and is attested mainly from the 4th century BCE onward.",
+          "image": {
+            "file": "File:Sarcophagus Prometheus Louvre Ma339.jpg",
+            "caption": "Prometheus fashioning a human while gods look on, Roman sarcophagus, Louvre (Ma 339)"
+          }
+        },
+        {
+          "culture": "chinese",
+          "title": "Nüwa's Yellow Earth",
+          "teaser": "The goddess shapes people by hand, then speeds up with a rope.",
+          "text": "The Fengsu tongyi, a work by Ying Shao from around 195 CE preserved in quotation, reports what people said: when heaven and earth had opened, there were not yet any humans. Nüwa kneaded yellow earth and made people.\n\nIt was demanding work, and she did not have enough strength to make them all by hand. So she dragged a cord through the mud and lifted it out, and the drops that fell became people too.\n\nThe story comes with a social moral. The rich and noble, it says, are the ones made from yellow earth by hand; the poor and humble are the ones made from the cord. Nüwa is best known for other deeds, such as repairing the broken sky with five-colored stones, and she is often shown in Han and Tang art with her consort Fuxi, the two of them human above and serpent below, their tails entwined.",
+          "names": [
+            "Nüwa",
+            "Fuxi"
+          ],
+          "sources": [
+            "Ying Shao, Fengsu tongyi (quoted in Taiping yulan)"
+          ],
+          "image": {
+            "file": "File:Fuxi and Nüwa. 1967 Astana Cemetery.png",
+            "caption": "Fuxi and Nüwa with entwined serpent tails, painting on silk from the Astana cemetery, Turfan, Tang dynasty"
+          }
+        },
+        {
+          "culture": "west-african",
+          "people": "Yoruba",
+          "title": "Obàtálá's Clay",
+          "teaser": "The sculptor god drinks palm wine, and his hand slips.",
+          "text": "In Yoruba tradition the supreme god Olódùmarè delegated the making of human bodies to Obàtálá, also called Òrìṣà-ńlá, the great òrìṣà. Obàtálá molded the bodies from clay, and Olódùmarè alone gave them the breath of life.\n\nOne day Obàtálá grew thirsty and drank palm wine, and he went on working while drunk. His hands became unsteady, and the figures he made came out misshapen: some bent, some blind, some with limbs that did not work. When he sobered and saw what he had done, he vowed never to drink palm wine again, and he became the special protector of those born with disabilities.\n\nTo this day his devotees are forbidden palm wine, and white, the color of purity and of Obàtálá himself, dominates his worship. A god who makes mistakes, in this telling, becomes the guardian of those whom the mistakes affect.",
+          "names": [
+            "Obàtálá (Òrìṣà-ńlá)",
+            "Olódùmarè"
+          ],
+          "sources": [
+            "Yoruba oral tradition",
+            "E. Bọlaji Idowu, Olódùmarè: God in Yoruba Belief (1962)"
+          ],
+          "caveat": "Yoruba traditions vary by town and lineage, and the story is told in several forms."
+        },
+        {
+          "culture": "polynesian",
+          "people": "Māori",
+          "title": "The Earth-Formed Maiden",
+          "teaser": "Tāne shapes a woman from red earth, and she sneezes into life.",
+          "text": "After separating his parents, Tāne sought a female partner, but all his searches produced only trees, birds, and other creatures. His mother Papa, the Earth, directed him to Kurawaka, a place of red earth on her own body.\n\nThere Tāne shaped a woman from the earth, forming her body with care. Then he breathed into her nostrils. She opened her eyes and sneezed, and became alive: Hineahuone, the Earth-Formed Maiden. Their daughter was Hinetītama, the Dawn Maiden, who later fled to the underworld and became Hine-nui-te-pō, the goddess of death.\n\nThe sneeze survives in speech. Māori orators still open a formal speech with the words 'Tihei mauri ora!', the sneeze of life, often explained as the first breath of the first human.",
+          "names": [
+            "Tāne",
+            "Hineahuone",
+            "Papatūānuku",
+            "Hinetītama"
+          ],
+          "sources": [
+            "John White, The Ancient History of the Maori (1887–1890)"
+          ],
+          "caveat": "Some scholars have asked whether 19th-century recorders shaped this story toward Genesis, though it is well established in Māori tradition."
+        }
+      ]
+    },
+    {
+      "id": "humans-from-trees",
+      "summary": "In some traditions, people are not molded but grown: they come from trees, plants, or maize. The idea fits agrarian and forest-dwelling peoples alike, and it expresses a sense of humans as part of the cycle of growth, death, and renewal, springing up like grass and cut down like it. The Norse Ask and Embla and the Persian Mashya and Mashyana, twin humans from plants, have prompted proposals of a shared Indo-European myth, but the parallels are loose. The Maya maize people show the same idea arising independently in a civilization for which maize was the very substance of life.",
+      "versions": [
+        {
+          "culture": "greek",
+          "title": "Born of Oak or Stone",
+          "teaser": "A proverb suggests that the Greeks once told of people from trees.",
+          "text": "The Greeks had a proverb that hints at a forgotten story. In the Odyssey, Penelope asks her disguised husband where he comes from: surely you are not sprung from the oak of old tales, or from a rock. In the Iliad, Hector uses the same phrase when he realizes that there is no time to chat with Achilles 'from oak or rock'.\n\nHesiod offers a fuller trace. In Works and Days, Zeus makes a third race of humans, the race of bronze, 'from ash trees' (ek meliān): terrible and strong, devoted to war, with hearts of adamant. In the Theogony, the blood of the castrated Ouranos gives birth to the Meliai, the nymphs of the ash trees, whose wood was used for spear shafts.\n\nThe Greek evidence is only a scattering of hints, but together they suggest that humans once were said to grow on trees, as well as come from stones.",
+          "names": [
+            "Meliai",
+            "Zeus",
+            "Penelope"
+          ],
+          "sources": [
+            "Homer, Odyssey 19.163",
+            "Homer, Iliad 22.126",
+            "Hesiod, Works and Days 143–146",
+            "Hesiod, Theogony 187"
+          ],
+          "caveat": "Hesiod's phrase may mean 'from the ash-tree nymphs' rather than from the trees themselves, and the proverb's origin is uncertain."
+        },
+        {
+          "culture": "japanese",
+          "title": "The Green Grass of Humankind",
+          "teaser": "The Kojiki calls people the 'green grass' that springs up and dies.",
+          "text": "The Kojiki, compiled in 712, never describes how humans were made. But it has a telling name for them: utsushiki aohitokusa, 'the living green grass of humankind'.\n\nThe phrase appears when Izanagi escapes from the underworld. He throws three peaches at his pursuers, and then thanks the peaches, asking them to help the green grass of humankind in the Central Land of the Reed Plains whenever they are in trouble. Soon after, at the pass between the worlds, his dead wife Izanami swears that she will strangle a thousand of his people each day. Izanagi answers that he will build fifteen hundred birthing huts each day.\n\nSo the balance of death and birth is set: humans die like grass and spring up again faster than they are cut. In a land called the Reed Plains, people are simply the most numerous of the plants.",
+          "names": [
+            "Izanagi",
+            "Izanami",
+            "Aohitokusa"
+          ],
+          "sources": [
+            "Kojiki, Book 1"
+          ],
+          "caveat": "This is a metaphor for humanity rather than an account of human origins, which the Kojiki does not give.",
+          "image": {
+            "file": "File:Kobayashi Eitaku - Izanami and Izanagi Creating the Japanese Islands.jpg",
+            "caption": "Izanami and Izanagi Creating the Japanese Islands, by Kobayashi Eitaku, 1880s, Museum of Fine Arts, Boston"
+          }
+        },
+        {
+          "culture": "persian",
+          "people": "Zoroastrian",
+          "title": "The Rhubarb Twins",
+          "teaser": "The first human couple grows out of the ground as a single plant.",
+          "text": "In the Bundahišn, the first man Gayōmard is killed by Ahriman's attack. As he dies, his seed falls on the earth. It is purified by the light of the sun, and part of it is guarded by Spandarmad, the spirit of the earth.\n\nForty years later, a rhubarb plant sprouts from the ground: a single stem with fifteen leaves, in which two figures are joined so closely that no one can tell which is male and which female. Slowly the plant turns into a pair of humans, Mashya and Mashyana, and Ohrmazd gives them souls, telling them to think good thoughts, speak good words, and do good deeds.\n\nThey begin well, praising Ohrmazd as the creator of all. Then they say that Ahriman made the world, the first lie, and fall under his power. Their troubles go on from there: for fifty years they have no desire for each other.",
+          "names": [
+            "Mashya",
+            "Mashyana",
+            "Gayōmard",
+            "Ohrmazd",
+            "Spandarmad"
+          ],
+          "sources": [
+            "Bundahišn"
+          ],
+          "caveat": "The Bundahišn is a 9th-century Pahlavi compilation; its material is older, but how much older is uncertain."
+        },
+        {
+          "culture": "norse",
+          "title": "Ask and Embla",
+          "teaser": "Three gods find two logs on the shore and give them life.",
+          "text": "Völuspá tells how three gods came walking to the shore, powerful and loving, and found there Ask and Embla, 'little able, without fate'. They had no breath, no spirit, no vital warmth, no good color. Odin gave them breath, Hœnir gave them spirit, and Lóðurr gave them vital warmth and good color.\n\nSnorri Sturluson makes the three gods the sons of Borr, and the two figures simply two trees, or two logs, lying on the beach. The first god gave them breath and life, the second understanding and movement, the third a face, speech, hearing, and sight. The gods gave them clothes and names, and from them came the human race, who were given Midgard to live in.\n\nAskr means 'ash tree'. Embla is harder: suggestions include 'elm' and 'vine'. Either way, humanity began as driftwood, found by gods on a walk.",
+          "names": [
+            "Ask",
+            "Embla",
+            "Odin",
+            "Hœnir",
+            "Lóðurr"
+          ],
+          "sources": [
+            "Völuspá 17–18",
+            "Gylfaginning 9"
+          ],
+          "caveat": "The meaning of Embla and the identity of Lóðurr are uncertain.",
+          "image": {
+            "file": "File:Odin, Lodur, Hoenir skabe Ask og Embla by Frølich.jpg",
+            "caption": "Odin, Lóðurr and Hœnir create Ask and Embla, by Lorenz Frølich, 19th century"
+          }
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "The Maize People",
+          "teaser": "The first true humans are ground from yellow and white maize.",
+          "text": "After their failures with mud and wood, the gods of the Popol Vuh finally find the right material. Four animals, Fox, Coyote, Parrot, and Crow, bring news of a place called Paxil and Cayala, Broken Place and Bitter Water, full of yellow and white maize.\n\nThe grandmother Xmucane grinds the maize nine times. The water she rinses her hands with becomes human fat. From the maize dough, the gods shape the flesh of four first fathers: Balam Quitze, Balam Acab, Mahucutah, and Iqui Balam.\n\nThe maize people are too perfect. They can see everything, far through the sky and into the earth, and they understand everything. The gods worry that their creatures will be their equals. So Heart of Sky blows mist into their eyes, clouding them like breath on the face of a mirror, so that they see only what is near. It is how humans came to be limited.",
+          "names": [
+            "Xmucane",
+            "Balam Quitze",
+            "Balam Acab",
+            "Mahucutah",
+            "Iqui Balam"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ],
+          "image": {
+            "file": "File:Maya maize god statue, British Museum.jpg",
+            "caption": "Statue of the Maya maize god from Copán, Honduras, British Museum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "failed-creations",
+      "summary": "Some creators get it wrong. Before the present humans, the gods try materials or methods that do not work: people of mud who dissolve, people of wood without hearts, a first child born deformed, creatures too flawed or too pure to be of use. These stories explain the imperfections of the present, or insist on what makes humans right: speech, memory, piety, the ability to multiply. The Popol Vuh gives the fullest version, but the idea appears independently in Sumer, India, and Japan. It is related to, but distinct from, the idea of successive cosmic ages, treated elsewhere.",
+      "versions": [
+        {
+          "culture": "mesopotamian",
+          "people": "Sumerian",
+          "title": "Enki and Ninmah's Contest",
+          "teaser": "Two drunk gods compete: she makes flawed humans, he finds them jobs.",
+          "text": "In the Sumerian poem 'Enki and Ninmah', humans have just been created to relieve the gods of their labor, and the gods celebrate with a feast. Enki and the mother goddess Ninmah drink too much beer, and Ninmah makes a boast: how good or bad a human's body is depends on my will. Enki replies that whatever she makes, he will find it a place.\n\nNinmah takes clay and makes a series of flawed people. For each one, Enki decrees a fate. A man whose eyes cannot see becomes a musician for the king. A woman who cannot give birth is given a place in the queen's household. A person with neither male nor female organs is appointed to serve before the king.\n\nThen Enki takes his turn and makes Umul, whose name may mean 'my day is far off': a frail being who cannot eat, speak, or stand. Ninmah can find nothing for it to do. Enki wins.",
+          "names": [
+            "Enki",
+            "Ninmah",
+            "Umul"
+          ],
+          "sources": [
+            "Enki and Ninmah"
+          ],
+          "caveat": "The text is damaged, and the list of flawed people and the meaning of Umul are partly uncertain; Umul has been interpreted as a newborn, an old man, or a miscarried child."
+        },
+        {
+          "culture": "indian",
+          "people": "Purāṇic",
+          "title": "Brahmā's Unsatisfying Creations",
+          "teaser": "Brahmā tries again and again, and his first sons refuse to have children.",
+          "text": "The Viṣṇu Purāṇa describes Brahmā's creation as a series of attempts. His first creation arises from darkness and ignorance. Then he makes the immobile world of plants and mountains, and seeing it is defective, he creates animals, whose course is sideways and who are full of darkness, and is still dissatisfied. Next he makes the gods, who are full of happiness; and last, human beings, a mixture of goodness and passion, suited to action and to suffering.\n\nEven then, the mind-born sons whom Brahmā made to populate the world refuse. Sanandana and his brothers are free from desire and turn to spiritual knowledge instead, and have no wish to beget children. Brahmā's anger at this is so great that from his brow springs Rudra, half male and half female.\n\nIn this telling, the problem is not bad clay. It is that pure beings are no good at making a world.",
+          "names": [
+            "Brahmā",
+            "Sanandana",
+            "Rudra"
+          ],
+          "sources": [
+            "Viṣṇu Purāṇa 1.5",
+            "Viṣṇu Purāṇa 1.7"
+          ],
+          "caveat": "Purāṇic accounts of Brahmā's successive creations vary considerably from text to text, and these are stages of cosmic creation rather than failed attempts at humans alone."
+        },
+        {
+          "culture": "japanese",
+          "title": "The Leech Child",
+          "teaser": "The first child of the creator couple is born boneless and set adrift.",
+          "text": "In the Kojiki, the divine couple Izanagi and Izanami descend to the island of Onogoro to make the world. They walk around a heavenly pillar in opposite directions, and when they meet, Izanami speaks first: 'How delightful! What a fine young man!' Izanagi answers, but complains that it was not proper for the woman to speak first.\n\nTheir first child is Hiruko, the leech child. They put him in a boat of reeds and let him float away. Their second child, the island Awashima, is also not counted among their offspring.\n\nPuzzled, they go up to heaven to consult the gods, who divine the cause: the woman spoke first. The couple returns, walks around the pillar again, and this time Izanagi speaks first. After that, their children are the islands of Japan. Later tradition says Hiruko drifted ashore and became Ebisu, the cheerful god of fishermen and luck.",
+          "names": [
+            "Izanagi",
+            "Izanami",
+            "Hiruko",
+            "Ebisu"
+          ],
+          "sources": [
+            "Kojiki, Book 1",
+            "Nihon Shoki, Book 1"
+          ],
+          "caveat": "This is a failed first birth of the divine couple rather than a failed humanity, and Hiruko's identification with Ebisu is medieval."
+        },
+        {
+          "culture": "maya",
+          "people": "K'iche'",
+          "title": "The Mud People and the Wooden People",
+          "teaser": "Mud dissolves, wood forgets, and the gods start over twice.",
+          "text": "The gods of the Popol Vuh want beings who will speak, and name, and worship them. First they make the animals, but the deer, birds, pumas, and serpents can only squawk and howl. So the animals are condemned to be eaten.\n\nNext the gods make a body of mud. It crumbles and sags, it talks without sense, and it dissolves in water. They let it fall apart. They consult the old diviners, Xpiyacoc and Xmucane, who count maize kernels and coral seeds, and advise wood. The wooden people look like humans, talk, and multiply, but they have no hearts, no blood, and no memory of their makers.\n\nHeart of Sky sends a flood and a black rain. Their dogs, their grinding stones, and their cooking pots rise up and attack them, repaying every beating and every burning. The survivors flee to the forests, and it is said that monkeys are their descendants.",
+          "names": [
+            "Heart of Sky",
+            "Xpiyacoc",
+            "Xmucane",
+            "Tepew",
+            "Q'ukumatz"
+          ],
+          "sources": [
+            "Popol Vuh"
+          ],
+          "image": {
+            "file": "File:Empiezan las historias(preamble).jpg",
+            "caption": "Opening of the Popol Vuh in Francisco Ximénez's parallel K'iche' and Spanish manuscript, c. 1701, Newberry Library"
+          }
+        }
+      ]
+    }
+  ]
+}

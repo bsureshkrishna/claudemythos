@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#1f2a33">
+<title>Mythos Notebook</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="./"><span class="brand-mark">M</span><span><strong>Mythos Notebook</strong><small id="brandCount">shared myths of the world</small></span></a>
+  <div class="search-tools">
+    <div class="search-wrap">
+      <input id="search" type="search" autocomplete="off" placeholder="Search flood, Loki, underworld, Popol Vuh…">
+      <span class="search-key">/</span>
+      <div id="searchResults" class="search-results" hidden></div>
+    </div>
+    <div id="thanksWrap" class="thanks-wrap">
+      <button id="thanksBtn" class="thanks-btn" type="button" aria-expanded="false" aria-controls="thanksPanel">Thanks to…</button>
+      <section id="thanksPanel" class="thanks-panel" aria-labelledby="thanksTitle" hidden>
+        <div class="thanks-content" tabindex="0" role="group" aria-labelledby="thanksTitle">
+          <div class="thanks-head"><span class="eyebrow">Acknowledgements</span><h2 id="thanksTitle">Thanks to…</h2></div>
+          <div class="thanks-body">
+            <p class="thanks-intro">This notebook stands on the work of storytellers, scribes, translators and scholars, and on these tools.</p>
+            <ul class="thanks-list">
+              <li><strong>The primary sources</strong><span>The Eddas, the Vedas and Purāṇas, Gilgamesh and Atrahasis, Hesiod and Ovid, the Popol Vuh, the Kojiki, the Mabinogion and many more, cited on every page.</span></li>
+              <li><strong>Stith Thompson and Yuri Berezkin</strong><span>Their motif indexes are the model for organising myths by shared motif.</span></li>
+              <li><strong>Wikimedia Commons</strong><span>Images, with each artist and licence credited under the picture.</span></li>
+              <li><strong>StPageFlip</strong><span>The page-turning animations.</span></li>
+              <li><strong>Fuse.js</strong><span>Search across concepts, names and stories.</span></li>
+              <li><strong>jsDelivr</strong><span>Delivering the JavaScript libraries.</span></li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+  <div class="view-toggle"><button id="bookMode" class="view-btn active">Book</button><button id="browseMode" class="view-btn">Browse</button></div>
+</header>
+
+<main>
+<section id="bookView" class="view view-book">
+  <div class="track-label" id="trackLabel" hidden></div>
+  <div class="book-stage"><div id="bookHost" class="book-host"></div></div>
+</section>
+<section id="browseView" class="view view-browse" hidden>
+  <div class="browse-intro"><div><span class="eyebrow">Browse all concepts</span><h1 id="browseTitle">Concepts</h1></div><p>Click a card to open its concept page, or a culture to read that culture's version.</p></div>
+  <div id="grid" class="concept-grid"></div>
+</section>
+</main>
+
+<nav class="navigator">
+<button id="prevBtn" aria-label="Previous">← <span>Previous</span></button>
+<button id="upBtn" class="up-btn" aria-label="Up to the concept page" hidden>↑ <span>Up</span></button>
+<button id="tocBtn" class="where"><span id="position">—</span><strong id="currentTitle">—</strong></button>
+<button id="nextBtn" aria-label="Next"><span>Next</span> →</button>
+</nav>
+
+<dialog id="tocDialog" class="toc-dialog">
+<form method="dialog" class="toc-head">
+  <div><span class="eyebrow">Go to</span><h2>Index</h2></div>
+  <div class="toc-tabs" role="tablist"><button type="button" class="toc-tab active" data-tab="concepts">Concepts</button><button type="button" class="toc-tab" data-tab="cultures">Cultures</button></div>
+  <button class="icon-btn" value="close" aria-label="Close">×</button>
+</form>
+<div id="tocList" class="toc-list"></div>
+</dialog>
+
+<script src="https://cdn.jsdelivr.net/npm/page-flip@2.0.7/dist/js/page-flip.browser.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0/dist/fuse.min.js"></script>
+<script src="./myths.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,502 @@
+[
+ {
+  "id": "primordial-void",
+  "title": "The Void Before Creation",
+  "section": "Beginnings"
+ },
+ {
+  "id": "cosmic-egg",
+  "title": "The Cosmic Egg",
+  "section": "Beginnings"
+ },
+ {
+  "id": "earth-diver",
+  "title": "The Earth Diver",
+  "section": "Beginnings"
+ },
+ {
+  "id": "sky-earth-separation",
+  "title": "Sky and Earth Pushed Apart",
+  "section": "Beginnings"
+ },
+ {
+  "id": "body-of-the-world",
+  "title": "A World Made from a Slain Giant",
+  "section": "Beginnings"
+ },
+ {
+  "id": "creative-word",
+  "title": "Creation by Word and Thought",
+  "section": "Beginnings"
+ },
+ {
+  "id": "primordial-cow",
+  "title": "The Primordial Cow",
+  "section": "Beginnings"
+ },
+ {
+  "id": "humans-from-clay",
+  "title": "Humans Shaped from Clay",
+  "section": "Beginnings"
+ },
+ {
+  "id": "humans-from-trees",
+  "title": "Humans from Trees and Plants",
+  "section": "Beginnings"
+ },
+ {
+  "id": "failed-creations",
+  "title": "Failed First Attempts at Humanity",
+  "section": "Beginnings"
+ },
+ {
+  "id": "emergence",
+  "title": "Emergence from Below",
+  "section": "Beginnings"
+ },
+ {
+  "id": "first-siblings",
+  "title": "The First Couple Were Siblings",
+  "section": "Beginnings"
+ },
+ {
+  "id": "world-tree",
+  "title": "The World Tree",
+  "section": "Beginnings"
+ },
+ {
+  "id": "cosmic-mountain",
+  "title": "The Mountain at the Centre of the World",
+  "section": "Beginnings"
+ },
+ {
+  "id": "heaven-once-near",
+  "title": "When the Sky Was Within Reach",
+  "section": "Beginnings"
+ },
+ {
+  "id": "sun-and-moon-origin",
+  "title": "How the Sun and Moon Began",
+  "section": "Beginnings"
+ },
+ {
+  "id": "too-many-suns",
+  "title": "Too Many Suns",
+  "section": "Beginnings"
+ },
+ {
+  "id": "hidden-sun",
+  "title": "The Sun Hidden Away",
+  "section": "Beginnings"
+ },
+ {
+  "id": "world-ages",
+  "title": "The Ages of the World",
+  "section": "Beginnings"
+ },
+ {
+  "id": "milky-way",
+  "title": "The Milky Way",
+  "section": "Beginnings"
+ },
+ {
+  "id": "pleiades",
+  "title": "The Seven Sisters",
+  "section": "Beginnings"
+ },
+ {
+  "id": "rainbow",
+  "title": "The Rainbow",
+  "section": "Beginnings"
+ },
+ {
+  "id": "origin-of-death",
+  "title": "How Death Entered the World",
+  "section": "Beginnings"
+ },
+ {
+  "id": "lost-immortality",
+  "title": "Immortality Lost",
+  "section": "Beginnings"
+ },
+ {
+  "id": "theft-of-fire",
+  "title": "The Theft of Fire",
+  "section": "Beginnings"
+ },
+ {
+  "id": "slain-food-deity",
+  "title": "Crops from a Slain Body",
+  "section": "Beginnings"
+ },
+ {
+  "id": "confusion-of-tongues",
+  "title": "Why Humans Speak Many Languages",
+  "section": "Beginnings"
+ },
+ {
+  "id": "evil-let-loose",
+  "title": "Evil Let Loose",
+  "section": "Beginnings"
+ },
+ {
+  "id": "great-flood",
+  "title": "The Great Flood",
+  "section": "Beginnings"
+ },
+ {
+  "id": "gods-destroy-humanity",
+  "title": "The Gods Decide to Destroy Us",
+  "section": "Beginnings"
+ },
+ {
+  "id": "sky-father",
+  "title": "The Sky Father",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "earth-mother",
+  "title": "The Earth Mother",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "storm-god-serpent",
+  "title": "Storm God versus Serpent",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "thunder-weapon",
+  "title": "The Thunder Weapon",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "divine-twins",
+  "title": "The Divine Twins",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "trickster",
+  "title": "The Trickster",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "war-in-heaven",
+  "title": "War Among the Gods",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "drink-of-immortality",
+  "title": "The Drink of Immortality",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "divine-smith",
+  "title": "The Divine Smith",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "love-and-war-goddess",
+  "title": "Goddess of Love and War",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "sun-chariot",
+  "title": "The Sun's Daily Journey",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "eclipse",
+  "title": "What Swallows the Sun",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "moon-dweller",
+  "title": "Who Lives in the Moon",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "wisdom-at-a-price",
+  "title": "Wisdom at a Price",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "fate-weavers",
+  "title": "The Weavers of Fate",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "dying-returning-god",
+  "title": "The Dying and Returning God",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "vanishing-god",
+  "title": "The God Who Vanishes",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "origin-of-seasons",
+  "title": "Why the Seasons Turn",
+  "section": "Gods and Powers"
+ },
+ {
+  "id": "lord-of-the-dead",
+  "title": "The Lord of the Dead",
+  "section": "Death and the Otherworld"
+ },
+ {
+  "id": "guide-of-souls",
+  "title": "The Guide of Souls",
+  "section": "Death and the Otherworld"
+ },
+ {
+  "id": "hound-of-the-underworld",
+  "title": "The Hound at Death's Gate",
+  "section": "Death and the Otherworld"
+ },
+ {
+  "id": "river-of-the-dead",
+  "title": "The River of the Dead",
+  "section": "Death and the Otherworld"
+ },
+ {
+  "id": "bridge-of-the-dead",
+  "title": "The Bridge of the Dead",
+  "section": "Death and the Otherworld"
+ },
+ {
+  "id": "judgement-of-the-dead",
+  "title": "The Judgement of the Dead",
+  "section": "Death and the Otherworld"
+ },
+ {
+  "id": "blessed-otherworld",
+  "title": "The Blessed Otherworld",
+  "section": "Death and the Otherworld"
+ },
+ {
+  "id": "realms-of-punishment",
+  "title": "Places of Punishment",
+  "section": "Death and the Otherworld"
+ },
+ {
+  "id": "descent-to-underworld",
+  "title": "Descent into the Underworld",
+  "section": "Death and the Otherworld"
+ },
+ {
+  "id": "rescue-from-death",
+  "title": "Bringing Back the Beloved Dead",
+  "section": "Death and the Otherworld"
+ },
+ {
+  "id": "dont-look-back",
+  "title": "The Forbidden Look",
+  "section": "Death and the Otherworld"
+ },
+ {
+  "id": "cheating-death",
+  "title": "Tricking Death",
+  "section": "Death and the Otherworld"
+ },
+ {
+  "id": "miraculous-birth",
+  "title": "Miraculous Conception",
+  "section": "Heroes"
+ },
+ {
+  "id": "child-set-adrift",
+  "title": "The Child Set Adrift",
+  "section": "Heroes"
+ },
+ {
+  "id": "raised-by-animals",
+  "title": "Raised by Animals",
+  "section": "Heroes"
+ },
+ {
+  "id": "dragon-slayer",
+  "title": "The Dragon Slayer",
+  "section": "Heroes"
+ },
+ {
+  "id": "single-weak-spot",
+  "title": "The Hero's One Weak Spot",
+  "section": "Heroes"
+ },
+ {
+  "id": "father-kills-son",
+  "title": "Father and Son Meet in Battle",
+  "section": "Heroes"
+ },
+ {
+  "id": "rival-brothers",
+  "title": "Brothers at War",
+  "section": "Heroes"
+ },
+ {
+  "id": "impossible-tasks",
+  "title": "The Impossible Tasks",
+  "section": "Heroes"
+ },
+ {
+  "id": "magic-flight",
+  "title": "The Magic Flight",
+  "section": "Heroes"
+ },
+ {
+  "id": "riddle-contest",
+  "title": "The Riddle Contest",
+  "section": "Heroes"
+ },
+ {
+  "id": "swan-maiden",
+  "title": "The Swan Maiden",
+  "section": "Heroes"
+ },
+ {
+  "id": "quest-for-immortality",
+  "title": "The Quest for Immortality",
+  "section": "Heroes"
+ },
+ {
+  "id": "swallowed-by-monster",
+  "title": "Swallowed by a Monster",
+  "section": "Heroes"
+ },
+ {
+  "id": "wild-man",
+  "title": "The Wild Man Tamed",
+  "section": "Heroes"
+ },
+ {
+  "id": "sleeping-king",
+  "title": "The Sleeping King Who Will Return",
+  "section": "Heroes"
+ },
+ {
+  "id": "culture-hero",
+  "title": "The Bringer of Civilisation",
+  "section": "Heroes"
+ },
+ {
+  "id": "vessel-of-plenty",
+  "title": "The Vessel of Endless Plenty",
+  "section": "Heroes"
+ },
+ {
+  "id": "sword-of-destiny",
+  "title": "The Sword of Destiny",
+  "section": "Heroes"
+ },
+ {
+  "id": "cattle-raid",
+  "title": "The Great Cattle Raid",
+  "section": "Heroes"
+ },
+ {
+  "id": "wondrous-horse",
+  "title": "The Wondrous Horse",
+  "section": "Heroes"
+ },
+ {
+  "id": "flying-too-high",
+  "title": "Flying Too High",
+  "section": "Heroes"
+ },
+ {
+  "id": "sacrifice-of-a-child",
+  "title": "The Sacrifice of a Child",
+  "section": "Heroes"
+ },
+ {
+  "id": "gods-in-disguise",
+  "title": "Gods in Disguise",
+  "section": "Heroes"
+ },
+ {
+  "id": "bound-one",
+  "title": "The Bound One",
+  "section": "Heroes"
+ },
+ {
+  "id": "world-serpent",
+  "title": "The World Serpent",
+  "section": "Creatures"
+ },
+ {
+  "id": "giants-before-us",
+  "title": "The Giants Before Us",
+  "section": "Creatures"
+ },
+ {
+  "id": "one-eyed-giant",
+  "title": "The One-Eyed Giant",
+  "section": "Creatures"
+ },
+ {
+  "id": "many-headed-serpent",
+  "title": "The Many-Headed Serpent",
+  "section": "Creatures"
+ },
+ {
+  "id": "great-bird",
+  "title": "The Great Bird",
+  "section": "Creatures"
+ },
+ {
+  "id": "shapeshifters",
+  "title": "Shapeshifters and Skin-Changers",
+  "section": "Creatures"
+ },
+ {
+  "id": "water-spirits",
+  "title": "Spirits of the Water",
+  "section": "Creatures"
+ },
+ {
+  "id": "drowned-city",
+  "title": "The Drowned City",
+  "section": "Creatures"
+ },
+ {
+  "id": "origin-of-poetry",
+  "title": "The Gift of Poetry",
+  "section": "Gifts and Order"
+ },
+ {
+  "id": "origin-of-writing",
+  "title": "The Gift of Writing",
+  "section": "Gifts and Order"
+ },
+ {
+  "id": "origin-of-music",
+  "title": "The Gift of Music",
+  "section": "Gifts and Order"
+ },
+ {
+  "id": "kingship-from-heaven",
+  "title": "Kingship Descends from Heaven",
+  "section": "Gifts and Order"
+ },
+ {
+  "id": "earthquakes",
+  "title": "Why the Earth Shakes",
+  "section": "Gifts and Order"
+ },
+ {
+  "id": "great-winter",
+  "title": "The Great Winter",
+  "section": "Endings"
+ },
+ {
+  "id": "end-of-the-world",
+  "title": "The End of the World",
+  "section": "Endings"
+ },
+ {
+  "id": "world-reborn",
+  "title": "The World Reborn",
+  "section": "Endings"
+ }
+]
