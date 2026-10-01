@@ -54,5 +54,6 @@ parallels carry a note. Similar myths are not assumed to share an origin.
 
     python -m http.server 8000
 
-then open http://localhost:8000. It can also be served from GitHub Pages as-is. The two JS libraries are
-pinned from jsDelivr; images are loaded from Wikimedia Commons.
+then open http://localhost:8000. It can also be served from GitHub Pages as-is. StPageFlip 2.0.7 (MIT) is bundled in
+`vendor/` with its licence and two small fixes, noted at the top of its file. Fuse.js is pinned from jsDelivr; images are
+loaded from Wikimedia Commons.
