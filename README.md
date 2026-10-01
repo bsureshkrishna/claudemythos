@@ -21,8 +21,9 @@ It has two levels:
 - **Culture spreads.** Click a culture to read its telling. ← / → then stay in that culture and move to
   its next or previous concept, skipping concepts it has no version of.
 - ↓ / ↑ step through the cultures that tell the current concept, in the order the concept lists them.
-  Stepping past the last (or first) culture returns to the concept spread. The **Up** button, or the link
-  at the top of the page, goes straight back to the concept.
+  Stepping past the last (or first) culture returns to the concept spread. The ↑ and ↓ buttons in the
+  navigator do the same. Shift+↑, the **Concept** button, or the link at the top of the page goes straight
+  back to the concept.
 - Each culture also has a contents page (`#culture/norse`), reachable from the intro page or the index.
 - **Browse** (`g`) shows every concept as a card; **Book** (`b`) returns. `/` focuses search.
 - On touch screens, swipe to turn pages; with a mouse, use the arrow keys, the buttons, or drag a corner.

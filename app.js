@@ -3,7 +3,7 @@ const D=window.MYTHOS, concepts=D.concepts, cultures=D.cultures;
 const cultureById=Object.fromEntries(cultures.map(c=>[c.id,c]));
 const bookHost=$("#bookHost"),gridEl=$("#grid"),bookView=$("#bookView"),browseView=$("#browseView"),
 bookMode=$("#bookMode"),browseMode=$("#browseMode"),search=$("#search"),searchResults=$("#searchResults"),
-prevBtn=$("#prevBtn"),nextBtn=$("#nextBtn"),upBtn=$("#upBtn"),tocBtn=$("#tocBtn"),tocDialog=$("#tocDialog"),
+prevBtn=$("#prevBtn"),nextBtn=$("#nextBtn"),upBtn=$("#upBtn"),cycleUpBtn=$("#cycleUpBtn"),cycleDownBtn=$("#cycleDownBtn"),tocBtn=$("#tocBtn"),tocDialog=$("#tocDialog"),
 tocList=$("#tocList"),position=$("#position"),currentTitle=$("#currentTitle"),trackLabel=$("#trackLabel"),
 thanksBtn=$("#thanksBtn"),thanksWrap=$("#thanksWrap"),thanksPanel=$("#thanksPanel");
 
@@ -42,7 +42,7 @@ const conceptPage=i=>i+1;
 
 function coverHTML(){return `<div class="sheet split"><div class="half cover-half"><div><div class="cover-kicker">A comparative notebook</div><h1>Mythos</h1><p>The same stories, told again and again across the world: floods and world trees, tricksters and stolen fire, the road to the dead and the end of days.</p></div><div class="cover-bottom"><span>${concepts.length} concepts · ${storyCount} stories · ${cultures.length} traditions</span><span>open →</span></div></div><div class="half intro-half"><span class="eyebrow">How to read it</span><h2>One idea per spread, many tellers.</h2>
   <p>Each concept names a motif and lists the cultures that tell it. Pick a culture to read its version.</p>
-  <div class="how"><div><kbd>←</kbd><kbd>→</kbd> On a concept, move between concepts. Inside a culture, keep reading that culture.</div><div><kbd>↓</kbd><kbd>↑</kbd> Step through the cultures that tell this concept. Past the last (or first) one, you are back at the concept.</div></div>
+  <div class="how"><div><kbd>←</kbd><kbd>→</kbd> On a concept, move between concepts. Inside a culture, keep reading that culture.</div><div><kbd>↓</kbd><kbd>↑</kbd> Step through the cultures that tell this concept. Past the last (or first) one, you are back at the concept.</div><div><kbd>Shift</kbd><kbd>↑</kbd> Go straight back to the concept.</div></div>
   <p class="intro-note">Similar stories don't have to share an origin. Some descend from a common ancestor (the Indo-European storm god), some travelled with trade and conquest, and some were invented independently. The notes on each page say which is likely.</p>
   <span class="eyebrow">Or start with one tradition</span>
   <div class="culture-chips">${cultures.filter(c=>cultureCount[c.id]).map(c=>`<button class="chip" data-culture="${c.id}" style="--c:${color(c.id)}">${esc(c.name)} <small>${cultureCount[c.id]}</small></button>`).join("")}</div></div></div>`}
@@ -184,11 +184,12 @@ function updateUI(){
     const c=cultureById[cu], k=pages.slice(0,page+1).filter(x=>x.kind==="version").length;
     position.textContent=p.kind==="version"?`${c.name} · ${k} / ${nVersions}`:c.name;
     currentTitle.textContent=p.kind==="version"?concepts[p.ci].versions[p.vi].title:p.kind==="culture-cover"?"Contents":"End";
-    trackLabel.innerHTML=`<strong>Reading: ${esc(c.name)}</strong><span>← → stays in ${esc(c.name)} · ↓ ↑ other cultures, then back to the concept</span>`;
+    trackLabel.innerHTML=`<strong>Reading: ${esc(c.name)}</strong><span>← → stays in ${esc(c.name)} · ↓ ↑ other cultures, then back to the concept · Shift+↑ straight back</span>`;
     trackLabel.style.setProperty("--c",color(cu));
   }
   trackLabel.hidden=false;
   upBtn.hidden=!cu;
+  cycleUpBtn.hidden=cycleDownBtn.hidden=!(p.kind==="version"||p.kind==="concept"&&concepts[p.ci].versions.length);
   // In portrait each spread is two screens, so the last screen is the right half of the last spread.
   const at=pageFlip?pageFlip.getCurrentPageIndex():2*page, last=pageFlip?.getOrientation()==="portrait"?2*pages.length-1:2*pages.length-2;
   prevBtn.disabled=at<=0; nextBtn.disabled=at>=last;
@@ -293,12 +294,13 @@ document.addEventListener("keydown",e=>{
   if(k==="/"){e.preventDefault();search.focus()}
   else if(k==="ArrowRight")navigate(1);
   else if(k==="ArrowLeft")navigate(-1);
-  else if(k==="ArrowUp"&&mode==="book"){e.preventDefault();cycle(-1)}
+  else if(k==="ArrowUp"&&mode==="book"){e.preventDefault();if(e.shiftKey)up();else cycle(-1)}
   else if(k==="ArrowDown"&&mode==="book"){e.preventDefault();cycle(1)}
   else if(k.toLowerCase()==="b")setMode("book");
   else if(k.toLowerCase()==="g")setMode("browse");
 });
 prevBtn.onclick=()=>navigate(-1);nextBtn.onclick=()=>navigate(1);upBtn.onclick=up;
+cycleUpBtn.onclick=()=>cycle(-1);cycleDownBtn.onclick=()=>cycle(1);
 bookMode.onclick=()=>setMode("book");browseMode.onclick=()=>setMode("browse");
 tocBtn.onclick=()=>{buildToc();tocDialog.showModal();$(".toc-item.current",tocList)?.scrollIntoView({block:"center"})};
 

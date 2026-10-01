@@ -133,6 +133,7 @@ kbd{display:inline-block;min-width:1.7em;padding:1px 5px;margin-right:3px;border
 .navigator>button[hidden]{display:none}
 .navigator>button:hover{background:#f2ebdf}.navigator>button:disabled{opacity:.35;cursor:default;background:none}
 .up-btn{border-left:1px solid var(--line)!important;font-weight:700;color:var(--night)}
+.navigator>.cycle-btn{border-left:1px solid var(--line);padding:0 14px;font-size:18px;font-weight:700;color:var(--night)}
 .where{border-left:1px solid var(--line)!important;border-right:1px solid var(--line)!important;padding:6px 18px!important;min-width:200px;max-width:300px}
 .where span,.where strong{display:block;overflow:hidden;text-overflow:ellipsis}
 .where span{font-size:10.5px;color:var(--muted)}.where strong{font:600 17px/1.15 var(--serif)}
