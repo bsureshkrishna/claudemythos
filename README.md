@@ -12,14 +12,17 @@ updates; `.nojekyll` keeps the site files served as-is.
 
 ## Reading it
 
-The book always shows **one page per screen**, and has two levels:
+The book shows a **two-page spread** per screen (one page at a time on narrow screens), so nothing
+scrolls: text runs from the left page onto the right, and a spread too long for the pages is set smaller.
+It has two levels:
 
-- **Concept pages.** A concept, a short note on the shared idea, and the cultures that tell it.
+- **Concept spreads.** A concept, a short note on the shared idea, and the cultures that tell it.
   ← / → move between concepts.
-- **Culture pages.** Click a culture to read its telling. ← / → then stay in that culture and move to
-  its next or previous concept, skipping concepts it has no version of. ↑ (or the **Up** button, or the
-  link at the top of the page) returns to the concept page, where you can pick another culture.
-- ↓ on a concept page opens it in the culture you read last.
+- **Culture spreads.** Click a culture to read its telling. ← / → then stay in that culture and move to
+  its next or previous concept, skipping concepts it has no version of.
+- ↓ / ↑ step through the cultures that tell the current concept, in the order the concept lists them.
+  Stepping past the last (or first) culture returns to the concept spread. The **Up** button, or the link
+  at the top of the page, goes straight back to the concept.
 - Each culture also has a contents page (`#culture/norse`), reachable from the intro page or the index.
 - **Browse** (`g`) shows every concept as a card; **Book** (`b`) returns. `/` focuses search.
 - On touch screens, swipe to turn pages; with a mouse, use the arrow keys, the buttons, or drag a corner.

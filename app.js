@@ -30,32 +30,31 @@ const storyCount=concepts.reduce((n,c)=>n+c.versions.length,0);
 
 // The book is a set of "tracks". The concept track (track=null) pages through concepts;
 // a culture track pages through that culture's versions only, skipping concepts it lacks.
+// Each entry in a track is one two-page spread; `page` indexes spreads, not StPageFlip pages.
 let track=null, pages=[], page=0, ci=0, pageFlip=null, needsMount=true;
-let mode=store.get("mythosView")||"book", lastCulture=store.get("mythosCulture");
+let mode=store.get("mythosView")||"book";
 
 function trackPages(cu){
-  if(!cu)return [{kind:"cover"},{kind:"intro"},...concepts.map((_,i)=>({kind:"concept",ci:i})),{kind:"end"}];
+  if(!cu)return [{kind:"cover"},...concepts.map((_,i)=>({kind:"concept",ci:i})),{kind:"end"}];
   return [{kind:"culture-cover",cu},...concepts.flatMap((c,i)=>c.versions.flatMap((v,vi)=>v.culture===cu?[{kind:"version",ci:i,vi,cu}]:[])),{kind:"culture-end",cu}];
 }
-const conceptPage=i=>i+2;
+const conceptPage=i=>i+1;
 
-function coverHTML(){return `<div class="page cover" data-density="hard"><div class="page-content"><div><div class="cover-kicker">A comparative notebook</div><h1>Mythos</h1><p>The same stories, told again and again across the world: floods and world trees, tricksters and stolen fire, the road to the dead and the end of days.</p></div><div class="cover-bottom"><span>${concepts.length} concepts · ${storyCount} stories · ${cultures.length} traditions</span><span>open →</span></div></div></div>`}
-function introHTML(){
-  return `<div class="page intro-page"><div class="page-content"><span class="eyebrow">How to read it</span><h2>One idea per page, many tellers.</h2>
-  <p>Each concept page names a motif and lists the cultures that tell it. Pick a culture to read its version.</p>
-  <div class="how"><div><kbd>←</kbd><kbd>→</kbd> On a concept page, move between concepts. Inside a culture, keep reading that culture.</div><div><kbd>↑</kbd> Return to the concept page and pick another culture.</div><div><kbd>↓</kbd> Open a concept in the culture you last read.</div></div>
+function coverHTML(){return `<div class="sheet split"><div class="half cover-half"><div><div class="cover-kicker">A comparative notebook</div><h1>Mythos</h1><p>The same stories, told again and again across the world: floods and world trees, tricksters and stolen fire, the road to the dead and the end of days.</p></div><div class="cover-bottom"><span>${concepts.length} concepts · ${storyCount} stories · ${cultures.length} traditions</span><span>open →</span></div></div><div class="half intro-half"><span class="eyebrow">How to read it</span><h2>One idea per spread, many tellers.</h2>
+  <p>Each concept names a motif and lists the cultures that tell it. Pick a culture to read its version.</p>
+  <div class="how"><div><kbd>←</kbd><kbd>→</kbd> On a concept, move between concepts. Inside a culture, keep reading that culture.</div><div><kbd>↓</kbd><kbd>↑</kbd> Step through the cultures that tell this concept. Past the last (or first) one, you are back at the concept.</div></div>
   <p class="intro-note">Similar stories don't have to share an origin. Some descend from a common ancestor (the Indo-European storm god), some travelled with trade and conquest, and some were invented independently. The notes on each page say which is likely.</p>
   <span class="eyebrow">Or start with one tradition</span>
   <div class="culture-chips">${cultures.filter(c=>cultureCount[c.id]).map(c=>`<button class="chip" data-culture="${c.id}" style="--c:${color(c.id)}">${esc(c.name)} <small>${cultureCount[c.id]}</small></button>`).join("")}</div></div></div>`}
 function conceptHTML(i){
   const c=concepts[i];
-  return `<div class="page concept-page"><div class="page-content">
+  return `<div class="sheet flow concept-sheet">
   <div class="page-head"><span class="eyebrow">${esc(c.section)}</span><span class="page-no">No. ${pad(c.n)}</span></div>
   <h2 class="concept-title">${esc(c.title)}</h2>
   <div class="summary">${paras(c.summary)}</div>
   <div class="versions-label">${c.versions.length} tellings · choose one</div>
-  <div class="version-list${c.versions.length>7?" compact":""}">${c.versions.map((v,vi)=>`<button class="version-row" data-go="${i}/${vi}" title="${esc(v.teaser)}" style="--c:${color(v.culture)}"><span class="vr-culture">${cultureLabel(v)}</span><span class="vr-title">${esc(v.title)}</span><span class="vr-teaser">${esc(v.teaser)}</span></button>`).join("")}</div>
-  </div></div>`}
+  <div class="version-list">${c.versions.map((v,vi)=>`<button class="version-row" data-go="${i}/${vi}" title="${esc(v.teaser)}" style="--c:${color(v.culture)}"><span class="vr-culture">${cultureLabel(v)}</span><span class="vr-title">${esc(v.title)}</span><span class="vr-teaser">${esc(v.teaser)}</span></button>`).join("")}</div>
+  </div>`}
 function imageHTML(img){
   if(!img)return "";
   const credit=[img.artist,img.license].filter(Boolean).map(esc).join(" · ")||"Wikimedia Commons";
@@ -63,7 +62,7 @@ function imageHTML(img){
 function versionHTML(p){
   const i=p.ci, cu=p.cu, c=concepts[i], v=c.versions[p.vi], list=pages.filter(q=>q.kind==="version"), k=list.indexOf(p)+1;
   const others=c.versions.map((x,vi)=>vi).filter(vi=>vi!==p.vi);
-  return `<div class="page version-page"><div class="page-content" style="--c:${color(cu)}">
+  return `<div class="sheet flow version-sheet" style="--c:${color(cu)}">
   <div class="page-head"><button class="up-link" data-up>↑ ${esc(c.title)}</button><span class="page-no">${k} / ${list.length}</span></div>
   <div class="culture-tag">${cultureLabel(v)}</div>
   <h2 class="version-title">${esc(v.title)}</h2>
@@ -72,41 +71,69 @@ function versionHTML(p){
   ${v.caveat?`<div class="caveat"><strong>Note.</strong> ${esc(v.caveat)}</div>`:""}
   <div class="sources"><strong>Sources</strong> ${v.sources.map(esc).join("; ")}</div>
   ${others.length?`<div class="also"><span>Also told by</span>${others.map(vi=>`<button class="chip small" data-go="${i}/${vi}" style="--c:${color(c.versions[vi].culture)}">${chipLabel(i,vi)}</button>`).join("")}</div>`:""}
-  </div></div>`}
+  </div>`}
 function cultureCoverHTML(cu){
   const c=cultureById[cu], list=pages.filter(p=>p.kind==="version"), nConcepts=new Set(list.map(p=>p.ci)).size;
-  return `<div class="page culture-cover" data-density="hard"><div class="page-content" style="--c:${color(cu)}"><div><div class="cover-kicker">Reading one tradition</div><h1>${esc(c.name)}</h1><p>${esc(c.region)}</p></div>
-  <ol class="culture-contents">${list.map(p=>`<li><button data-page="${pages.indexOf(p)}">${esc(concepts[p.ci].title)}${sameCulture(p.ci,p.vi).length>1?`: ${esc(concepts[p.ci].versions[p.vi].title)}`:""}</button></li>`).join("")}</ol>
-  <div class="cover-bottom"><span>${list.length} stories · ${nConcepts} of ${concepts.length} concepts</span><span>→ to read · ↑ to concepts</span></div></div></div>`}
+  return `<div class="sheet split" style="--c:${color(cu)}"><div class="half culture-half"><div><div class="cover-kicker">Reading one tradition</div><h1>${esc(c.name)}</h1><p>${esc(c.region)}</p></div>
+  <div class="cover-bottom"><span>${list.length} stories · ${nConcepts} of ${concepts.length} concepts</span><span>→ to read · ↑ to concepts</span></div></div>
+  <div class="half contents-half"><span class="eyebrow">Contents</span><ol class="culture-contents">${list.map(p=>`<li><button data-page="${pages.indexOf(p)}">${esc(concepts[p.ci].title)}${sameCulture(p.ci,p.vi).length>1?`: ${esc(concepts[p.ci].versions[p.vi].title)}`:""}</button></li>`).join("")}</ol></div></div>`}
 function endHTML(cu){
-  if(cu)return `<div class="page back-cover"><div class="page-content" style="--c:${color(cu)}"><span class="eyebrow">End of the ${esc(cultureById[cu].name)} tellings</span><h2>${cultureCount[cu]} stories</h2><p><button class="chip" data-up>↑ Back to the concepts</button></p></div></div>`;
-  return `<div class="page back-cover"><div class="page-content"><span class="eyebrow">End</span><h2>${concepts.length} concepts</h2><p>Every story here was told by someone first. The sources on each page are the way back to them.</p></div></div>`}
-function pageHTML(p){
+  if(cu)return `<div class="sheet split" style="--c:${color(cu)}"><div class="half back-half"><span class="eyebrow">End of the ${esc(cultureById[cu].name)} tellings</span><h2>${cultureCount[cu]} stories</h2><p><button class="chip" data-up>↑ Back to the concepts</button></p></div><div class="half blank-half"></div></div>`;
+  return `<div class="sheet split"><div class="half back-half"><span class="eyebrow">End</span><h2>${concepts.length} concepts</h2><p>Every story here was told by someone first. The sources on each page are the way back to them.</p></div><div class="half blank-half"></div></div>`}
+function sheetHTML(p){
   switch(p.kind){
-    case "cover":return coverHTML(); case "intro":return introHTML(); case "concept":return conceptHTML(p.ci);
+    case "cover":return coverHTML(); case "concept":return conceptHTML(p.ci);
     case "version":return versionHTML(p); case "culture-cover":return cultureCoverHTML(p.cu);
     default:return endHTML(p.cu);
   }
 }
 
-// StPageFlip derives the page height from its width, so fit the host to the stage's height first.
-const PAGE_W=560,PAGE_H=780;
-function sizeHost(){
-  const stage=bookHost.parentElement, w=Math.min(590,stage.clientWidth,stage.clientHeight*PAGE_W/PAGE_H);
-  bookHost.style.width=`${Math.floor(w)}px`;bookHost.style.height=`${Math.floor(w*PAGE_H/PAGE_W)}px`;
+// A spread is laid out once as a single "sheet" two pages wide, at a fixed size: flowing sheets run their
+// text in two columns, one per page. Both StPageFlip pages hold a copy of the sheet; the right page's copy
+// is shifted left by one page width. A sheet too long for its spread is laid out larger (--f < 1) and
+// scaled down to fit, so nothing scrolls.
+const PAGE_W=540,PAGE_H=760,MIN_PAGE_W=300;
+const fitCache=new Map(), measurer=document.createElement("div");
+measurer.className="measurer";measurer.setAttribute("aria-hidden","true");document.body.append(measurer);
+const sheetKey=p=>[p.kind,p.ci,p.vi,p.cu].join("/");
+const overflows=sh=>[sh,...$$(".half",sh)].some(e=>e.scrollWidth>e.clientWidth+1||e.scrollHeight>e.clientHeight+1);
+function fitFactor(p,html){
+  const key=sheetKey(p);
+  if(fitCache.has(key))return fitCache.get(key);
+  measurer.innerHTML=html;
+  const sh=measurer.firstElementChild, fits=f=>(sh.style.setProperty("--f",f),!overflows(sh));
+  let f=1;
+  if(!fits(1)){let lo=.5,hi=1;for(let n=0;n<7;n++){const m=(lo+hi)/2;if(fits(m))lo=m;else hi=m}f=lo}
+  measurer.innerHTML="";fitCache.set(key,f);return f;
 }
+function spreadHTML(p){
+  const html=sheetHTML(p), f=fitFactor(p,html).toFixed(4);
+  const sheet=html.replace(/^<div class="sheet([^"]*)"(?: style="([^"]*)")?/,(_,cls,st)=>`<div class="sheet${cls}" style="--f:${f};${st||""}"`);
+  const hard=p.kind==="cover"||p.kind==="culture-cover"?` data-density="hard"`:"";
+  return `<div class="page page-l"${hard}>${sheet}</div><div class="page page-r">${sheet}</div>`;
+}
+// StPageFlip derives the page height from its width, so fit the host to the stage first. Two pages
+// side by side when each can be at least MIN_PAGE_W wide; otherwise one at a time (StPageFlip's portrait).
+function sizeHost(){
+  const stage=bookHost.parentElement, r=PAGE_W/PAGE_H, sw=stage.clientWidth, sh=stage.clientHeight;
+  let w=Math.min(sw,2*sh*r), h=w/2/r;
+  if(w<2*MIN_PAGE_W){w=Math.min(sw,sh*r);h=w/r}
+  bookHost.style.width=`${Math.floor(w)}px`;bookHost.style.height=`${Math.floor(h)}px`;
+}
+function scalePages(){if(pageFlip)bookHost.style.setProperty("--s",pageFlip.getBoundsRect().pageWidth/PAGE_W)}
 function mount(nextTrack,startPage,enter){
   if(pageFlip){try{pageFlip.destroy()}catch{}pageFlip=null}
   track=nextTrack; pages=trackPages(track); page=Math.max(0,Math.min(pages.length-1,startPage));
   syncConcept(); needsMount=false;
   sizeHost();bookHost.innerHTML=`<div class="book"></div>`;
   const el=bookHost.firstElementChild;
-  el.innerHTML=pages.map(pageHTML).join("");
-  // A host narrower than 2 × minWidth keeps StPageFlip in portrait: always one page per screen.
-  pageFlip=new St.PageFlip(el,{startPage:page,width:PAGE_W,height:PAGE_H,size:"stretch",minWidth:300,maxWidth:600,minHeight:420,maxHeight:900,
+  el.innerHTML=pages.map(spreadHTML).join("");
+  pageFlip=new St.PageFlip(el,{startPage:2*page,width:PAGE_W,height:PAGE_H,size:"stretch",minWidth:MIN_PAGE_W,maxWidth:2000,minHeight:200,maxHeight:2000,
     usePortrait:true,showCover:false,autoSize:true,drawShadow:true,maxShadowOpacity:.28,mobileScrollSupport:true,disableFlipByClick:true,flippingTime:650});
   pageFlip.loadFromHTML($$(".page",el));
-  pageFlip.on("flip",e=>{page=e.data;syncConcept();updateUI()});
+  pageFlip.on("flip",e=>{page=e.data>>1;syncConcept();updateUI()});
+  pageFlip.on("changeOrientation",()=>{scalePages();updateUI()});
+  scalePages();
   if(enter){bookHost.classList.remove("enter-down","enter-up","enter-side");void bookHost.offsetWidth;bookHost.classList.add(enter)}
   updateUI();
 }
@@ -116,24 +143,25 @@ function goTo(nextTrack,target,enter){
   if(mode!=="book")setMode("book",{mount:false});
   if(nextTrack===track&&pageFlip&&!needsMount){
     if(target===page)return;
-    if(Math.abs(target-page)===1)pageFlip.flip(target);else{pageFlip.turnToPage(target);page=target;syncConcept();updateUI()}
+    if(Math.abs(target-page)===1)pageFlip.flip(2*target);else{pageFlip.turnToPage(2*target);page=target;syncConcept();updateUI()}
     return;
   }
   mount(nextTrack,target,enter);
 }
-function openVersion(i,vi){
+function openVersion(i,vi,enter){
   const cu=concepts[i].versions[vi].culture;
-  lastCulture=cu;store.set("mythosCulture",cu);
-  goTo(cu,trackPages(cu).findIndex(p=>p.ci===i&&p.vi===vi),track===null?"enter-down":"enter-side");
+  goTo(cu,trackPages(cu).findIndex(p=>p.ci===i&&p.vi===vi),enter||(track===null?"enter-down":"enter-side"));
 }
-function openCulture(cu){lastCulture=cu;store.set("mythosCulture",cu);goTo(cu,0,"enter-down")}
-function openConcept(i){goTo(null,conceptPage(i),track?"enter-up":null)}
+function openCulture(cu){goTo(cu,0,"enter-down")}
+function openConcept(i,enter){goTo(null,conceptPage(i),enter||(track?"enter-up":null))}
 function up(){if(track)openConcept(ci)}
-function down(){
-  const p=pages[page];
-  if(track||!p||p.kind!=="concept")return;
-  const vs=concepts[p.ci].versions, vi=Math.max(0,vs.findIndex(x=>x.culture===lastCulture));
-  if(vs.length)openVersion(p.ci,vi);
+// ↓ / ↑ step through a concept's tellings in list order; stepping past either end returns to the concept.
+function cycle(dir){
+  const p=pages[page];if(!p)return;
+  const enter=dir>0?"enter-down":"enter-up";
+  if(p.kind==="concept"){const n=concepts[p.ci].versions.length;if(n)openVersion(p.ci,dir>0?0:n-1,enter)}
+  else if(p.kind==="version"){const vi=p.vi+dir;if(vi<0||vi>=concepts[p.ci].versions.length)openConcept(p.ci,enter);else openVersion(p.ci,vi,enter)}
+  else if(dir<0)up();
 }
 function navigate(dir){
   if(mode!=="book"||!pageFlip||pageFlip.getState()==="flipping")return;
@@ -149,20 +177,22 @@ function updateUI(){
   const nVersions=pages.filter(x=>x.kind==="version").length;
   if(!cu){
     position.textContent=p.kind==="concept"?`${concepts[p.ci].n} / ${concepts.length} · ${concepts[p.ci].section}`:`${concepts.length} concepts`;
-    currentTitle.textContent=p.kind==="concept"?concepts[p.ci].title:p.kind==="intro"?"How to read it":p.kind==="end"?"Back cover":"Cover";
-    trackLabel.innerHTML=`<strong>All concepts</strong><span>← → between concepts · pick a culture to read its telling${p.kind==="concept"?" · ↓ opens one":""}</span>`;
+    currentTitle.textContent=p.kind==="concept"?concepts[p.ci].title:p.kind==="end"?"Back cover":"Cover";
+    trackLabel.innerHTML=`<strong>All concepts</strong><span>← → between concepts · pick a culture to read its telling${p.kind==="concept"?" · ↓ ↑ step through them":""}</span>`;
     trackLabel.style.removeProperty("--c");
   }else{
     const c=cultureById[cu], k=pages.slice(0,page+1).filter(x=>x.kind==="version").length;
     position.textContent=p.kind==="version"?`${c.name} · ${k} / ${nVersions}`:c.name;
     currentTitle.textContent=p.kind==="version"?concepts[p.ci].versions[p.vi].title:p.kind==="culture-cover"?"Contents":"End";
-    trackLabel.innerHTML=`<strong>Reading: ${esc(c.name)}</strong><span>← → stays in ${esc(c.name)} · ↑ back to the concept page</span>`;
+    trackLabel.innerHTML=`<strong>Reading: ${esc(c.name)}</strong><span>← → stays in ${esc(c.name)} · ↓ ↑ other cultures, then back to the concept</span>`;
     trackLabel.style.setProperty("--c",color(cu));
   }
   trackLabel.hidden=false;
   upBtn.hidden=!cu;
-  prevBtn.disabled=page<=0; nextBtn.disabled=page>=pages.length-1;
-  const frag=!cu?(p.kind==="concept"?`#${concepts[p.ci].id}`:p.kind==="intro"?"#intro":p.kind==="end"?"#end":"")
+  // In portrait each spread is two screens, so the last screen is the right half of the last spread.
+  const at=pageFlip?pageFlip.getCurrentPageIndex():2*page, last=pageFlip?.getOrientation()==="portrait"?2*pages.length-1:2*pages.length-2;
+  prevBtn.disabled=at<=0; nextBtn.disabled=at>=last;
+  const frag=!cu?(p.kind==="concept"?`#${concepts[p.ci].id}`:p.kind==="end"?"#end":"")
     :p.kind==="version"?versionHash(p):p.kind==="culture-cover"?`#culture/${cu}`:`#culture/${cu}/end`;
   history.replaceState(null,"",location.pathname+location.search+frag);
   $$(".concept-card",gridEl).forEach(x=>x.classList.toggle("selected",+x.dataset.index===ci));
@@ -174,8 +204,8 @@ function versionHash(p){
 function fromHash(){
   const h=decodeURIComponent(location.hash.slice(1));
   if(!h)return [null,0];
-  if(h==="intro")return [null,1];
-  if(h==="end")return [null,concepts.length+2];
+  if(h==="intro")return [null,0];
+  if(h==="end")return [null,concepts.length+1];
   const [a,b,c]=h.split("/");
   if(a==="culture"&&cultureById[b])return [b,c==="end"?trackPages(b).length-1:0];
   const i=concepts.findIndex(x=>x.id===a);
@@ -253,7 +283,7 @@ function setMode(next,{mount:doMount=true}={}){
   bookView.hidden=!b;browseView.hidden=b;bookMode.classList.toggle("active",b);browseMode.classList.toggle("active",!b);
   $(".navigator").hidden=!b;
   if(b&&doMount&&(needsMount||!pageFlip))mount(track,page);
-  else if(b&&pageFlip){sizeHost();pageFlip.update()}
+  else if(b&&pageFlip){sizeHost();pageFlip.update();scalePages()}
   if(!b)setTimeout(()=>$(`.concept-card[data-index="${ci}"]`,gridEl)?.scrollIntoView({block:"center"}),30);
 }
 document.addEventListener("keydown",e=>{
@@ -263,8 +293,8 @@ document.addEventListener("keydown",e=>{
   if(k==="/"){e.preventDefault();search.focus()}
   else if(k==="ArrowRight")navigate(1);
   else if(k==="ArrowLeft")navigate(-1);
-  else if(k==="ArrowUp"&&mode==="book"){e.preventDefault();up()}
-  else if(k==="ArrowDown"&&mode==="book"){e.preventDefault();down()}
+  else if(k==="ArrowUp"&&mode==="book"){e.preventDefault();cycle(-1)}
+  else if(k==="ArrowDown"&&mode==="book"){e.preventDefault();cycle(1)}
   else if(k.toLowerCase()==="b")setMode("book");
   else if(k.toLowerCase()==="g")setMode("browse");
 });
@@ -285,7 +315,7 @@ thanksWrap.addEventListener("focusin",()=>setThanksOpen(true));
 thanksWrap.addEventListener("focusout",e=>{if(!thanksWrap.contains(e.relatedTarget)&&!thanksWrap.matches(":hover"))setThanksOpen(false)});
 thanksBtn.onclick=()=>setThanksOpen(true);
 document.addEventListener("pointerdown",e=>{if(!thanksWrap.contains(e.target))setThanksOpen(false)});
-window.addEventListener("resize",()=>{if(!thanksPanel.hidden)sizeThanksPanel();if(mode==="book"&&pageFlip){sizeHost();pageFlip.update()}});
+window.addEventListener("resize",()=>{if(!thanksPanel.hidden)sizeThanksPanel();if(mode==="book"&&pageFlip){sizeHost();pageFlip.update();scalePages()}});
 
 window.addEventListener("hashchange",()=>{const [t,pg]=fromHash();if(t!==track||pg!==page)goTo(t,pg,t!==track?(t?"enter-down":"enter-up"):null)});
 
@@ -293,5 +323,5 @@ $("#brandCount").textContent=`${concepts.length} concepts · ${cultures.length} 
 [track,page]=fromHash(); pages=trackPages(track); syncConcept();
 if(!location.hash)mode="book";
 buildBrowse();
-setMode(mode);
-if(mode!=="book")updateUI();
+// Spreads are fitted against the page fonts, so wait for them (but not forever).
+Promise.race([document.fonts.ready,new Promise(r=>setTimeout(r,2500))]).then(()=>{setMode(mode);if(mode!=="book")updateUI()});
